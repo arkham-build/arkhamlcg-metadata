@@ -878,7 +878,7 @@
         "name": "Return to Turn Back Time",
         "code": "return_to_turn_back_time",
         "campaign_code": "rttfa",
-        "encounter_codes": ["turn_back_time", "return_to_turn_back_time", "eztli", "return_to_the_doom_of_eztli" "agents_of_yig", "venomous_hate", "temporal_hunters", "traps", "ruins", "poison", "chilling_cold"],
+        "encounter_codes": ["turn_back_time", "return_to_turn_back_time", "eztli", "return_to_the_doom_of_eztli", "agents_of_yig", "venomous_hate", "temporal_hunters", "traps", "ruins", "poison", "chilling_cold"],
         "extra_cards": ["04078"]
     },
     {

@@ -613,7 +613,7 @@
     },
     {
         "type": "card_errata",
-        "card_codes": ["11691b"],
+        "card_codes": ["11691a"],
         "ruling": "The first sentence on the back of this agenda should read: \"If this agenda advanced by reaching its doom threshold, each investigator is defeated. Otherwise...\"",
         "citation": "faq-2.4"
     },

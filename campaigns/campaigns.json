@@ -130,16 +130,16 @@
         "name": "The Feast of Hemlock Vale",
         "scenarios": [
             "prelude_1", 
-            "prelude_2", 
-            "prelude_3", 
-            "prelude_4", 
             "written_in_rock", 
             "hemlock_house", 
             "the_silent_heath", 
             "the_lost_sister", 
             "the_thing_in_the_depths", 
             "the_twisted_hollow", 
+            "prelude_2", 
             "the_longest_night", 
+            "prelude_3", 
+            "prelude_4", 
             "fate_of_the_vale"
         ]
     },

@@ -945,6 +945,97 @@
         "extra_cards": null
     },
     {
+        "name": "Curse of the Rougarou",
+        "scenario_code": "curse_of_the_rougarou",
+        "campaign_code": null,
+        "encounter_codes": ["bayou", "rougarou"],
+        "extra_cards": null
+    },
+    {
+        "name": "Carnevale of Horrors",
+        "scenario_code": "carnevale_of_horrors",
+        "campaign_code": null,
+        "encounter_codes": ["venice"],
+        "extra_cards": null
+    },
+    {
+        "name": "The Labyrinths of Lunacy",
+        "scenario_code": "the_labyrinths_of_lunacy",
+        "campaign_code": null,
+        "encounter_codes": ["in_the_labyrinths_of_lunacy", "epic_multiplayer", "single_group"],
+        "extra_cards": null
+    },
+    {
+        "name": "The Eternal Slumber",
+        "scenario_code": "the_eternal_slumber",
+        "campaign_code": null,
+        "encounter_codes": ["the_eternal_slumber", "abyssal_tribute", "brotherhood_of_the_beast", "sands_of_egypt"],
+        "extra_cards": null
+    },
+    {
+        "name": "The Night's Usurper",
+        "scenario_code": "the_eternal_slumber",
+        "campaign_code": null,
+        "encounter_codes": ["the_nights_usurper", "abyssal_gifts", "brotherhood_of_the_beast", "sands_of_egypt"],
+        "extra_cards": null
+    },
+    {
+        "name": "Murder at the Excelsior Hotel",
+        "scenario_code": "murder_at_the_excelsior_hotel",
+        "campaign_code": null,
+        "encounter_codes": ["murder_at_the_excelsior_hotel", "alien_interference", "dark_rituals", "excelsior_management", "sins_of_the_past", "vile_experiments"],
+        "extra_cards": null
+    },
+    {
+        "name": "The Blob That Ate Everything",
+        "scenario_code": "the_blob_that_ate_everything",
+        "campaign_code": null,
+        "encounter_codes": ["blob", "blob_epic_multiplayer", "blob_single_group", "migo_incursion"],
+        "extra_cards": null
+    },
+    {
+        "name": "War of the Outer Gods",
+        "scenario_code": "war_of_the_outer_gods",
+        "campaign_code": null,
+        "encounter_codes": ["war_of_the_outer_gods", "children_of_paradise", "death_of_stars", "swarm_of_assimilation"],
+        "extra_cards": null
+    },
+    {
+        "name": "Machinations Through Time",
+        "scenario_code": "machinations_through_time",
+        "campaign_code": null,
+        "encounter_codes": ["machinations_through_time", "machinations_through_time_epic_multiplayer", "machinations_through_time_single_group"],
+        "extra_cards": null
+    },
+    {
+        "name": "Fortune and Folly",
+        "scenario_code": "fortune_and_folly",
+        "campaign_code": null,
+        "encounter_codes": ["fortune_and_folly", "fortunes_chosen", "plan_in_shambles"],
+        "extra_cards": null
+    },
+    {
+        "name": "The Midwinter Gala",
+        "scenario_code": "the_midwinter_gala",
+        "campaign_code": null,
+        "encounter_codes": ["the_midwinter_gala"],
+        "extra_cards": null
+    },
+    {
+        "name": "The Blob That Ate Everything ELSE",
+        "scenario_code": "the_blob_that_ate_everything_else",
+        "campaign_code": null,
+        "encounter_codes": ["blob", "blob_that_ate_everything_else", "blob_epic_multiplayer", "blob_single_group", "migo_incursion", "migo_incursion_2"],
+        "extra_cards": null
+    },
+    {
+        "name": "Film Fatale",
+        "scenario_code": "film_fatale",
+        "campaign_code": null,
+        "encounter_codes": ["film_fatale", "abominable_contessa", "cosmic_journey", "forgotten_island"],
+        "extra_cards": null
+    },
+    {
         "name": "Read or Die",
         "scenario_code": "read_or_die",
         "campaign_code": null,
@@ -999,5 +1090,5 @@
         "campaign_code": null,
         "encounter_codes": ["enthralling_encore", "curtain_call", "decay", "delusions", "hauntings", "ghouls", "striking_fear", "rats"],
         "extra_cards": null
-    },
+    }
 ]

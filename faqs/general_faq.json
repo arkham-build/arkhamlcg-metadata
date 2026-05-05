@@ -478,14 +478,14 @@
     },
     {
         "type": "faq",
-        "card_codes": ["06015", "06004"],
+        "card_codes": ["06015a", "06004"],
         "question": "Can an enemy spawn or move into Dream Gate while Luke Robinson is at Dream-Gate?",
         "ruling": "Enemies cannot spawn at Dream-Gate. If an enemy would spawn at Luke Robinson's location while he is at Dream-Gate, it is discarded instead. If Luke Robinson moves into Dream-Gate while engaged with an enemy, that enemy disengages (but does not exhaust) and does not move with him. While at Dream-Gate, Luke Robinson cannot be chosen as an investigator for the purposes of enemy movement.",
         "citation": "faq-2.1"
     },
     {
         "type": "faq",
-        "card_codes": ["06015", "06004", "04089"],
+        "card_codes": ["06015a", "06004", "04089"],
         "question": "If Luke Robinson has Entombed in his threat area when the <b>Forced</b> effect on Dream-Gate triggers, what happens?",
         "ruling": "While Entombed would prevent Luke Robinson from moving, an investigator cannot be at \"no location\" unless explicitly stated. When Dream-Gate's forced effect would move Luke Robinson at the investigation phase, you may ignore the effect on Entombed long enough to place Luke in a revealed location.",
         "citation": "faq-2.1"

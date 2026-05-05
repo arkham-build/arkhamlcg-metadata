@@ -255,7 +255,7 @@
         "name": "In the Clutches of Chaos",
         "scenario_code": "in_the_clutches_of_chaos",
         "campaign_code": "tcu",
-        "encounter_codes": ["in_the_clutches_of_chaos", "agents_of_azathoth", "nightgaunts", "music_of_the_damned", "anettes_coven", "city_of_sins", "withcraft", "secrets_of_the_universe", "silver_twilight_lodge", "striking_fear"],
+        "encounter_codes": ["in_the_clutches_of_chaos", "agents_of_azathoth", "nightgaunts", "music_of_the_damned", "anettes_coven", "city_of_sins", "witchcraft", "secrets_of_the_universe", "silver_twilight_lodge", "striking_fear"],
         "extra_cards": ["01135", "01136"]
     },
     {

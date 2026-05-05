@@ -943,5 +943,61 @@
         "campaign_code": "rttcu",
         "encounter_codes": ["before_the_black_throne", "return_to_before_the_black_throne", "agents_of_azathoth", "unspeakable_fate", "impending_evils", "pentagram"],
         "extra_cards": null
-    }
+    },
+    {
+        "name": "Read or Die",
+        "scenario_code": "read_or_die",
+        "campaign_code": null,
+        "encounter_codes": ["read_or_die", "extracurricular_activity", "sorcery", "the_beyond", "bishops_thralls", "whippoorwills", "ancient_evils", "locked_doors", "agents_of_yog", "armitages_fate"],
+        "extra_cards": null
+    },
+    {
+        "name": "All or Nothing",
+        "scenario_code": "all_or_nothing",
+        "campaign_code": null,
+        "encounter_codes": ["all_or_nothing", "the_house_always_wins", "bad_luck", "return_to_the_house_always_wins", "naomis_crew", "rats"],
+        "extra_cards": ["01135", "01136"]
+    },
+    {
+        "name": "Bad Blood",
+        "scenario_code": "bad_blood",
+        "campaign_code": null,
+        "encounter_codes": ["bad_blood", "threads_of_fate", "pnakotic_brotherhood", "locked_doors", "nightgaunts", "pentagram"],
+        "extra_cards": ["01125", "01129", "01130", "01132", "01134", "01135", "01136"]
+    },
+    {
+        "name": "By the Book",
+        "scenario_code": "by_the_book",
+        "campaign_code": null,
+        "encounter_codes": ["by_the_book", "arkham", "agents_of_shub", "chilling_cold", "nightgaunts", "pentagram", "cultists", "striking_fear"],
+        "extra_cards": null
+    },
+    {
+        "name": "Red Tide Rising",
+        "scenario_code": "red_tide_rising",
+        "campaign_code": null,
+        "encounter_codes": ["red_tide_rising", "the_vanishing_of_elina_harper", "agents_of_dagon", "fog_over_innsmouth", "the_locals", "chilling_cold", "locked_doors", "nightgaunts"],
+        "extra_cards": ["01135", "01136"]
+    },
+    {
+        "name": "Laid to Rest",
+        "scenario_code": "laid_to_rest",
+        "campaign_code": null,
+        "encounter_codes": ["laid_to_rest", "the_wages_of_sin", "anettes_coven", "city_of_sins", "inexorable_fate", "realm_of_death", "trapped_spirits", "witchcraft"],
+        "extra_cards": null
+    },
+    {
+        "name": "Relics of the Past",
+        "scenario_code": "relics_of_the_past",
+        "campaign_code": null,
+        "encounter_codes": ["relics_of_the_past", "eztli", "agents_of_yig", "venom", "traps", "ruins", "poison", "chilling_cold", "serpents", "locked_doors"],
+        "extra_cards": ["01135", "01136"]
+    },
+    {
+        "name": "Enthralling Encore",
+        "scenario_code": "enthralling_encore",
+        "campaign_code": null,
+        "encounter_codes": ["enthralling_encore", "curtain_call", "decay", "delusions", "hauntings", "ghouls", "striking_fear", "rats"],
+        "extra_cards": null
+    },
 ]

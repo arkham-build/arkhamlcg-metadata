@@ -11,14 +11,14 @@
         "scenario_code": "the_midnight_masks",
         "campaign_code": "core",
         "encounter_codes": ["arkham", "chilling_cold", "nightgaunts", "pentagram", "locked_doors", "cultists"],
-        "extra_cards": null
+        "extra_cards": ["01116"]
     },
     {
         "name": "The Devourer Below",
         "scenario_code": "the_devourer_below",
         "campaign_code": "core",
-        "encounter_codes": ["tentacles", "ancient_evils", "striking_fear", "ghouls", "pentagram", "agents_of_yog", "agents_of_shub", "agents_of_cthulhu", "agents_of_hastur"],
-        "extra_cards": null
+        "encounter_codes": ["tentacles", "ancient_evils", "striking_fear", "ghouls", "pentagram", "agents_of_yog", "cultists", "agents_of_shub", "agents_of_cthulhu", "agents_of_hastur"],
+        "extra_cards": ["01116"]
     },
     {
         "name": "Extracurricular Activity",
@@ -676,6 +676,272 @@
         "scenario_code": "queen_of_ash",
         "campaign_code": "core_ch2",
         "encounter_codes": ["queen_of_ash", "ashen_pilgrims", "cosmic_evils", "cultists_ch2", "fire_ch2", "hallucinations", "reeking_decay", "arkham_sewers", "torment"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Gathering",
+        "scenario_code": "return_to_the_gathering",
+        "campaign_code": "rtnotz",
+        "encounter_codes": ["return_to_the_gathering", "torch", "rats", "ghouls_of_umôrdhoth", "striking_fear", "ancient_evils", "chilling_cold"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Midnight Masks",
+        "scenario_code": "return_to_the_midnight_masks",
+        "campaign_code": "rtnotz",
+        "encounter_codes": ["arkham", "return_to_the_midnight_masks", "chilling_cold", "nightgaunts", "return_cult", "the_devourers_cult", "locked_doors", "cultists"],
+        "extra_cards": ["01116"]
+    },
+    {
+        "name": "Return to The Devourer Below",
+        "scenario_code": "return_to_the_devourer_below",
+        "campaign_code": "rtnotz",
+        "encounter_codes": ["tentacles", "return_to_the_devourer_below", "ancient_evils", "striking_fear", "ghouls_of_umôrdhoth", "pentagram", "return_cult", "the_devourers_cult", "agents_of_yog", "cultists", "agents_of_shub", "agents_of_cthulhu", "agents_of_hastur"],
+        "extra_cards": ["01116"]
+    },
+    {
+        "name": "Return to Extracurricular Activity",
+        "scenario_code": "return_to_extracurricular_activity",
+        "campaign_code": "rtdwl",
+        "encounter_codes": ["extracurricular_activity", "return_to_extracurricular_activities", "sorcery", "beyond_the_threshold", "bishops_thralls", "whippoorwills", "resurgent_evils", "secret_doors", "yog_sothoths_emissaries"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The House Always Wins",
+        "scenario_code": "return_to_the_house_always_wins",
+        "campaign_code": "rtdwl",
+        "encounter_codes": ["the_house_always_wins", "return_to_the_house_always_wins", "bad_luck", "naomis_crew", "rats", "hideous_abominations", "erratic_fear"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Miskatonic Museum",
+        "scenario_code": "return_to_the_miskatonic_museum",
+        "campaign_code": "rtdwl",
+        "encounter_codes": ["the_miskatonic_museum", "return_to_the_miskatonic_museum", "bad_luck", "sorcery", "beyond_the_threshold", "creeping_cold", "secret_doors"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Essex County Express",
+        "scenario_code": "return_to_the_essex_county_express",
+        "campaign_code": "rtdwl",
+        "encounter_codes": ["essex_county_express", "return_to_the_essex_county_express", "beyond_the_threshold", "erratic_fear", "resurgent_evils", "pentagram"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Blood on the Altar",
+        "scenario_code": "return_to_blood_on_the_altar",
+        "campaign_code": "rtdwl",
+        "encounter_codes": ["blood_on_the_altar", "return_to_blood_on_the_altar", "dunwich", "whippoorwills", "nightgaunts", "resurgent_evils", "naomis_crew"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Undimensioned and Unseen",
+        "scenario_code": "return_to_undimensioned_and_unseen",
+        "campaign_code": "rtdwl",
+        "encounter_codes": ["undimensioned_and_unseen", "return_to_undimensioned_and_unseen", "whippoorwills", "beast_thralls", "dunwich", "erratic_fear"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Where Doom Awaits",
+        "scenario_code": "return_to_where_doom_awaits",
+        "campaign_code": "rtdwl",
+        "encounter_codes": ["where_doom_awaits", "return_to_where_doom_awaits", "beast_thralls", "sorcery", "bishops_thralls", "erratic_fear", "resurgent_evils", "creeping_cold", "hideous_abominations"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Lost in Time and Space",
+        "scenario_code": "return_to_lost_in_time_and_space",
+        "campaign_code": "rtdwl",
+        "encounter_codes": ["lost_in_time_and_space", "return_to_lost_in_time_and_space", "sorcery", "beyond_the_threshold", "hideous_abominations", "yog_sothoths_emissaries"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Curtain Call",
+        "scenario_code": "return_to_curtain_call",
+        "campaign_code": "rtptc",
+        "encounter_codes": ["curtain_call", "return_to_curtain_call", "evil_portents", "maddening_delusions", "hauntings", "cult_of_the_yellow_sign", "neurotic_fear", "rats"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Last King",
+        "scenario_code": "return_to_the_last_king",
+        "campaign_code": "rtptc",
+        "encounter_codes": ["the_last_king", "return_to_the_last_king", "hasturs_gift", "decaying_reality", "stranger", "delusory_evils"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Echoes of the Past",
+        "scenario_code": "return_to_echoes_of_the_past",
+        "campaign_code": "rtptc",
+        "encounter_codes": ["echoes_of_the_past", "return_to_echoes_of_the_past", "cult_of_the_yellow_sign", "maddening_delusions", "locked_doors", "pentagram"],
+        "extra_cards": ["01135", "01136", "03068b"]
+    },
+    {
+        "name": "Return to The Unspeakable Oath",
+        "scenario_code": "return_to_the_unspeakable_oath",
+        "campaign_code": "rtptc",
+        "encounter_codes": ["the_unspeakable_oath", "return_to_the_unspeakable_oath", "hasturs_gift", "inhabitants_of_carcosa", "maddening_delusions", "decaying_reality", "hasturs_envoys"],
+        "extra_cards": ["03065b"]
+    },
+    {
+        "name": "Return to A Phantom of Truth",
+        "scenario_code": "return_to_a_phantom_of_truth",
+        "campaign_code": "rtptc",
+        "encounter_codes": ["a_phantom_of_truth", "return_to_a_phantom_of_truth", "evil_portents", "byakhee", "stranger", "hasturs_envoys"],
+        "extra_cards": ["01135", "01136", "03066b"]
+    },
+    {
+        "name": "Return to The Pallid Mask",
+        "scenario_code": "return_to_the_pallid_mask",
+        "campaign_code": "rtptc",
+        "encounter_codes": ["the_pallid_mask", "return_to_the_pallid_mask", "ghouls", "hauntings", "chilling_cold"],
+        "extra_cards": ["03067b"]
+    },
+    {
+        "name": "Return to Black Stars Rise",
+        "scenario_code": "return_to_black_stars_rise",
+        "campaign_code": "rtptc",
+        "encounter_codes": ["black_stars_rise", "return_to_black_stars_rise", "evil_portents", "byakhee", "inhabitants_of_carcosa", "stranger", "pentagram", "delusory_evils", "flood", "vortex"],
+        "extra_cards": ["03069b"]
+    },
+    {
+        "name": "Return to Dim Carcosa",
+        "scenario_code": "return_to_dim_carcosa",
+        "campaign_code": "rtptc",
+        "encounter_codes": ["dim_carcosa", "return_to_dim_carcosa", "maddening_delusions", "cult_of_the_yellow_sign", "inhabitants_of_carcosa", "hasturs_envoys", "neurotic_fear"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Untamed Wilds",
+        "scenario_code": "return_to_the_untamed_wilds",
+        "campaign_code": "rttfa",
+        "encounter_codes": ["wilds", "return_to_the_untamed_wilds", "rainforest", "return_to_the_rainforest", "serpents", "doomed_expedition", "guardians_of_time", "agents_of_yig", "poison", "ancient_evils"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Doom of Eztli",
+        "scenario_code": "return_to_the_doom_of_eztli",
+        "campaign_code": "rttfa",
+        "encounter_codes": ["eztli", "return_to_the_doom_of_eztli", "agents_of_yig", "venomous_hate", "temporal_hunters", "traps", "ruins", "poison", "chilling_cold"],
+        "extra_cards": ["04078"]
+    },
+    {
+        "name": "Return to Threads of Fate",
+        "scenario_code": "return_to_threads_of_fate",
+        "campaign_code": "rttfa",
+        "encounter_codes": ["threads_of_fate", "return_to_threads_of_fate", "pnakotic_brotherhood", "cult_of_pnakotus", "locked_doors", "nightgaunts"],
+        "extra_cards": ["01125", "01129", "01130", "01132", "01134", "01135", "01136"]
+    },
+    {
+        "name": "Return to The Boundary Beyond",
+        "scenario_code": "return_to_the_boundary_beyond",
+        "campaign_code": "rttfa",
+        "encounter_codes": ["the_boundary_beyond", "return_to_the_boundary_beyond", "temporal_hunters", "poison", "pnakotic_brotherhood", "cult_of_pnakotus", "venomous_hate", "guardians_of_time"],
+        "extra_cards": ["53018"]
+    },
+    {
+        "name": "Return to Heart of the Elders, Part I",
+        "scenario_code": "return_to_pillars_of_judgment",
+        "campaign_code": "rttfa",
+        "encounter_codes": ["pillars_of_judgment", "return_to_pillars_of_judgment", "heart_of_the_elders", "rainforest", "return_to_the_rainforest", "serpents", "doomed_expedition", "poison"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Heart of the Elders, Part II",
+        "scenario_code": "return_to_knyan",
+        "campaign_code": "rttfa",
+        "encounter_codes": ["knyan", "return_to_knyan", "heart_of_the_elders", "agents_of_yig", "venomous_hate", "ruins", "traps", "poison"],
+        "extra_cards": ["53018"]
+    },
+    {
+        "name": "Return to The City of Archives",
+        "scenario_code": "return_to_the_city_of_archives",
+        "campaign_code": "rttfa",
+        "encounter_codes": ["the_city_of_archives", "return_to_the_city_of_archives", "agents_of_yog", "locked_doors", "chilling_cold", "striking_fear"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Depths of Yoth",
+        "scenario_code": "return_to_the_depths_of_yoth",
+        "campaign_code": "rttfa",
+        "encounter_codes": ["the_depths_of_yoth", "return_to_the_depths_of_yoth", "agents_of_yig", "venomous_hate", "doomed_expedition", "ruins", "poison"],
+        "extra_cards": ["53018"]
+    },
+    {
+        "name": "Return to Shattered Aeons",
+        "scenario_code": "return_to_shattered_aeons",
+        "campaign_code": "rttfa",
+        "encounter_codes": ["shattered_aeons", "return_to_shattered_aeons", "pnakotic_brotherhood", "temporal_hunters", "ancient_evils", "cult_of_pnakotus", "agents_of_yig"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Turn Back Time",
+        "scenario_code": "return_to_turn_back_time",
+        "campaign_code": "rttfa",
+        "encounter_codes": ["turn_back_time", "return_to_turn_back_time", "eztli", "return_to_the_doom_of_eztli" "agents_of_yig", "venomous_hate", "temporal_hunters", "traps", "ruins", "poison", "chilling_cold"],
+        "extra_cards": ["04078"]
+    },
+    {
+        "name": "Return to Disappearance at the Twilight Estate",
+        "scenario_code": "return_to_disappearance_at_the_twilight_estate",
+        "campaign_code": "rttcu",
+        "encounter_codes": ["disappearance_at_the_twilight_estate", "return_to_disappearance_at_the_twilight_estate", "at_deaths_doorstep", "unspeakable_fate", "unstable_realm", "spectral_predators", "bloodthirsty_spirits","the_watcher", "chilling_mists"],
+        "extra_cards": ["54028"]
+    },
+    {
+        "name": "Return to The Witching Hour",
+        "scenario_code": "return_to_the_witching_hour",
+        "campaign_code": "rttcu",
+        "encounter_codes": ["the_witching_hour", "return_to_the_witching_hour", "anettes_coven", "city_of_the_damned", "hexcraft", "impending_evils", "striking_fear", "agents_of_azathoth", "agents_of_shub"],
+        "extra_cards": ["01150", "01151", "01152", "01153", "01154", "01155", "50033", "50034", "50035", "50036"]
+    },
+    {
+        "name": "Return to At Death's Doorstep",
+        "scenario_code": "return_to_at_deaths_doorstep",
+        "campaign_code": "rttcu",
+        "encounter_codes": ["at_deaths_doorstep", "return_to_at_deaths_doorstep", "silver_twilight_lodge", "spectral_predators","bloodthirsty_spirits", "unspeakable_fate", "chilling_mists", "unstable_realm", "the_watcher"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Secret Name",
+        "scenario_code": "return_to_the_secret_name",
+        "campaign_code": "rttcu",
+        "encounter_codes": ["the_secret_name", "return_to_the_secret_name", "city_of_the_damned", "unspeakable_fate", "unstable_realm", "hexcraft", "rats"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Wages of Sin",
+        "scenario_code": "return_to_the_wages_of_sin",
+        "campaign_code": "rttcu",
+        "encounter_codes": ["the_wages_of_sin", "return_to_the_wages_of_sin", "anettes_coven", "city_of_the_damned", "unspeakable_fate", "unstable_realm", "bloodthirsty_spirits", "hexcraft", "the_watcher"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to For the Greater Good",
+        "scenario_code": "return_to_for_the_greater_good",
+        "campaign_code": "rttcu",
+        "encounter_codes": ["for_the_greater_good", "return_to_for_the_greater_good", "city_of_the_damned", "silver_twilight_lodge", "impending_evils", "pentagram", "locked_doors"],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Union and Disillusion",
+        "scenario_code": "return_to_union_and_disillusion",
+        "campaign_code": "rttcu",
+        "encounter_codes": ["union_and_disillusion", "return_to_union_and_disillusion", "unspeakable_fate", "unstable_realm", "spectral_predators", "impending_evils", "chilling_mists", "anettes_coven", "silver_twilight_lodge", "the_watcher"],
+        "extra_cards": ["05057", "05085"]
+    },
+    {
+        "name": "Return to In the Clutches of Chaos",
+        "scenario_code": "return_to_in_the_clutches_of_chaos",
+        "campaign_code": "rttcu",
+        "encounter_codes": ["in_the_clutches_of_chaos", "in_the_clutches_of_chaos", "agents_of_azathoth", "nightgaunts", "music_of_the_damned", "anettes_coven", "city_of_the_damned", "hexcraft", "secrets_of_the_universe", "silver_twilight_lodge", "striking_fear"],
+        "extra_cards": ["01135", "01136"]
+    },
+    {
+        "name": "Return to Before the Black Throne",
+        "scenario_code": "return_to_before_the_black_throne",
+        "campaign_code": "rttcu",
+        "encounter_codes": ["before_the_black_throne", "return_to_before_the_black_throne", "agents_of_azathoth", "unspeakable_fate", "impending_evils", "pentagram"],
         "extra_cards": null
     }
 ]

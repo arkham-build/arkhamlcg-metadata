@@ -1,21 +1,21 @@
 [
     {
         "name": "The Gathering",
-        "scenario_code": "torch",
+        "scenario_code": "the_gathering",
         "campaign_code": "core",
         "encounter_codes": ["torch", "rats", "ghouls", "striking_fear", "ancient_evils", "chilling_cold"],
         "extra_cards": null
     },
     {
         "name": "The Midnight Masks",
-        "scenario_code": "arkham",
+        "scenario_code": "the_midnight_masks",
         "campaign_code": "core",
         "encounter_codes": ["arkham", "chilling_cold", "nightgaunts", "pentagram", "locked_doors", "cultists"],
         "extra_cards": null
     },
     {
         "name": "The Devourer Below",
-        "scenario_code": "tentacles",
+        "scenario_code": "the_devourer_below",
         "campaign_code": "core",
         "encounter_codes": ["tentacles", "ancient_evils", "striking_fear", "ghouls", "pentagram", "agents_of_yog", "agents_of_shub", "agents_of_cthulhu", "agents_of_hastur"],
         "extra_cards": null
@@ -43,7 +43,7 @@
     },
     {
         "name": "The Essex County Express",
-        "scenario_code": "essex_county_express",
+        "scenario_code": "the_essex_county_express",
         "campaign_code": "dwl",
         "encounter_codes": ["essex_county_express", "the_beyond", "striking_fear", "ancient_evils", "pentagram"],
         "extra_cards": null
@@ -133,14 +133,14 @@
     },
     {
         "name": "The Untamed Wilds",
-        "scenario_code": "wilds",
+        "scenario_code": "the_untamed_wilds",
         "campaign_code": "tfa",
         "encounter_codes": ["wilds", "rainforest", "serpents", "expedition", "guardians_of_time", "agents_of_yig", "poison", "ancient_evils"],
         "extra_cards": null
     },
     {
         "name": "The Doom of Eztli",
-        "scenario_code": "eztli",
+        "scenario_code": "the_doom_of_eztli",
         "campaign_code": "tfa",
         "encounter_codes": ["eztli", "agents_of_yig", "venom", "flux", "traps", "ruins", "poison", "chilling_cold"],
         "extra_cards": null

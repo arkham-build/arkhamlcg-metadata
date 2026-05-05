@@ -2,12 +2,12 @@
     {
         "code": "core",
         "name": "Night of the Zealot",
-        "scenarios": ["torch", "arkham", "tentacles"]
+        "scenarios": ["the_gathering", "the_midnight_masks", "the_devourer_below"]
     },
     {
         "code": "dwl",
         "name": "The Dunwich Legacy",
-        "scenarios": ["extracurricular_activity", "the_house_always_wins", "the_miskatonic_museum", "essex_county_express", "blood_on_the_altar", "undimensioned_and_unseen", "where_doom_awaits", "lost_in_time_and_space"]
+        "scenarios": ["extracurricular_activity", "the_house_always_wins", "the_miskatonic_museum", "the_essex_county_express", "blood_on_the_altar", "undimensioned_and_unseen", "where_doom_awaits", "lost_in_time_and_space"]
     },
     {
         "code": "ptc",
@@ -17,7 +17,7 @@
     {
         "code": "tfa",
         "name": "The Forgotten Age",
-        "scenarios": ["wilds", "eztli", "threads_of_fate", "the_boundary_beyond", "pillars_of_judgment", "knyan", "the_city_of_archives", "the_depths_of_yoth", "shattered_aeons", "turn_back_time"]
+        "scenarios": ["the_untamed_wilds", "the_doom_of_eztli", "threads_of_fate", "the_boundary_beyond", "pillars_of_judgment", "knyan", "the_city_of_archives", "the_depths_of_yoth", "shattered_aeons", "turn_back_time"]
     },
     {
         "code": "tcu",

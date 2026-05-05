@@ -74,7 +74,7 @@
     {
         "type": "faq",
         "cycles": ["tfa"],
-        "scenario_codes": ["heart_of_the_elders", "return_to_pillars_of_judgment", "return_to_knyan"],
+        "scenario_codes": ["pillars_of_judgment", "knyan", "return_to_pillars_of_judgment", "return_to_knyan"],
         "card_codes": ["03308"],   
         "question": "Does Charon's Obol trigger its effects if a resolution instructs me to replay a scenario? What about in between Scenarios V-A and V-B?",
         "ruling": "Charon's Obol's effects occur \"When earning experience during the resolution of a scenario...\" Therefore, Charon's Obol will not trigger when you are instructed to replay a scenario, because such resolutions state that \"No experience points are earned from your previous game.\"\nHowever, in between Scenarios V-A and V-B, experience is earned, so Charon's Obol will indeed trigger, even though players are not allowed to spend those experience points until after they have played Scenario V-B.",

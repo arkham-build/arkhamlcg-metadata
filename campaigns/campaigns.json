@@ -2,86 +2,238 @@
     {
         "code": "core",
         "name": "Night of the Zealot",
-        "scenarios": ["the_gathering", "the_midnight_masks", "the_devourer_below"]
+        "scenarios": [
+            "the_gathering", 
+            "the_midnight_masks", 
+            "the_devourer_below"
+        ]
     },
     {
         "code": "dwl",
         "name": "The Dunwich Legacy",
-        "scenarios": ["extracurricular_activity", "the_house_always_wins", "the_miskatonic_museum", "the_essex_county_express", "blood_on_the_altar", "undimensioned_and_unseen", "where_doom_awaits", "lost_in_time_and_space"]
+        "scenarios": [
+            "extracurricular_activity", 
+            "the_house_always_wins", 
+            "the_miskatonic_museum", 
+            "the_essex_county_express", 
+            "blood_on_the_altar", 
+            "undimensioned_and_unseen", 
+            "where_doom_awaits", 
+            "lost_in_time_and_space"
+        ]
     },
     {
         "code": "ptc",
         "name": "The Path to Carcosa",
-        "scenarios": ["curtain_call", "the_last_king", "echoes_of_the_past", "the_unspeakable_oath", "a_phantom_of_truth", "the_pallid_mask", "black_stars_rise", "dim_carcosa"]
+        "scenarios": [
+            "curtain_call", 
+            "the_last_king", 
+            "echoes_of_the_past", 
+            "the_unspeakable_oath", 
+            "a_phantom_of_truth", 
+            "the_pallid_mask", 
+            "black_stars_rise", 
+            "dim_carcosa"
+        ]
     },
     {
         "code": "tfa",
         "name": "The Forgotten Age",
-        "scenarios": ["the_untamed_wilds", "the_doom_of_eztli", "threads_of_fate", "the_boundary_beyond", "pillars_of_judgment", "knyan", "the_city_of_archives", "the_depths_of_yoth", "shattered_aeons", "turn_back_time"]
+        "scenarios": [
+            "the_untamed_wilds", 
+            "the_doom_of_eztli", 
+            "threads_of_fate", 
+            "the_boundary_beyond", 
+            "pillars_of_judgment", 
+            "knyan", 
+            "the_city_of_archives", 
+            "the_depths_of_yoth", 
+            "shattered_aeons", 
+            "turn_back_time"
+        ]
     },
     {
         "code": "tcu",
         "name": "The Circle Undone",
-        "scenarios": ["disappearance_at_the_twilight_estate", "the_witching_hour", "at_deaths_doorstep", "the_secret_name", "the_wages_of_sin", "for_the_greater_good", "union_and_disillusion", "in_the_clutches_of_chaos", "before_the_black_throne"]
+        "scenarios": [
+            "disappearance_at_the_twilight_estate", 
+            "the_witching_hour", 
+            "at_deaths_doorstep", 
+            "the_secret_name", 
+            "the_wages_of_sin", 
+            "for_the_greater_good", 
+            "union_and_disillusion", 
+            "in_the_clutches_of_chaos", 
+            "before_the_black_throne"
+        ]
     },
     {
         "code": "tde",
         "name": "The Dream-Eaters",
-        "scenarios": ["beyond_the_gates_of_sleep", "waking_nightmare", "the_search_for_kadath", "a_thousand_shapes_of_horror", "dark_side_of_the_moon", "point_of_no_return", "where_the_gods_dwell", "weaver_of_the_cosmos"]
+        "scenarios": [
+            "beyond_the_gates_of_sleep", 
+            "waking_nightmare", 
+            "the_search_for_kadath", 
+            "a_thousand_shapes_of_horror", 
+            "dark_side_of_the_moon", 
+            "point_of_no_return", 
+            "where_the_gods_dwell", 
+            "weaver_of_the_cosmos"
+        ]
     },
     {
         "code": "tic",
         "name": "The Innsmouth Conspiracy",
-        "scenarios": ["the_pit_of_despair", "the_vanishing_of_elina_harper", "in_too_deep", "devil_reef", "horror_in_high_gear", "a_light_in_the_fog", "the_lair_of_dagon", "into_the_maelstrom"]
+        "scenarios": [
+            "the_pit_of_despair", 
+            "the_vanishing_of_elina_harper", 
+            "in_too_deep", 
+            "devil_reef", 
+            "horror_in_high_gear", 
+            "a_light_in_the_fog", 
+            "the_lair_of_dagon", 
+            "into_the_maelstrom"
+        ]
     },
     {
         "code": "eoe",
         "name": "Edge of the Earth",
-        "scenarios": ["the_crash", "lost_in_the_night", "seeping_nightmares", "fatal_mirage", "to_the_forbidden_peaks", "city_of_the_elder_things", "the_great_seal", "stirring_in_the_deep"]
+        "scenarios": [
+            "the_crash", 
+            "lost_in_the_night", 
+            "seeping_nightmares", 
+            "fatal_mirage", 
+            "to_the_forbidden_peaks", 
+            "city_of_the_elder_things", 
+            "the_great_seal", 
+            "stirring_in_the_deep"
+        ]
     },
     {
         "code": "tsk",
         "name": "The Scarlet Keys",
-        "scenarios": ["riddles_and_rain", "dead_heat", "sanguine_shadows", "dealings_in_the_dark", "dancing_mad", "on_thin_ice", "dogs_of_war", "shades_of_suffering", "without_a_trace", "congress_of_the_keys"]
+        "scenarios": [
+            "riddles_and_rain", 
+            "dead_heat", 
+            "sanguine_shadows", 
+            "dealings_in_the_dark", 
+            "dancing_mad", 
+            "on_thin_ice", 
+            "dogs_of_war", 
+            "shades_of_suffering", 
+            "without_a_trace", 
+            "congress_of_the_keys"
+        ]
     },
     {
         "code": "fhv",
         "name": "The Feast of Hemlock Vale",
-        "scenarios": ["prelude_1", "prelude_2", "prelude_3", "prelude_4", "written_in_rock", "hemlock_house", "the_silent_heath", "the_lost_sister", "the_thing_in_the_depths", "the_twisted_hollow", "the_longest_night", "fate_of_the_vale"]
+        "scenarios": [
+            "prelude_1", 
+            "prelude_2", 
+            "prelude_3", 
+            "prelude_4", 
+            "written_in_rock", 
+            "hemlock_house", 
+            "the_silent_heath", 
+            "the_lost_sister", 
+            "the_thing_in_the_depths", 
+            "the_twisted_hollow", 
+            "the_longest_night", 
+            "fate_of_the_vale"
+        ]
     },
     {
         "code": "tdc",
         "name": "The Drowned City",
-        "scenarios": ["one_last_job", "the_western_wall", "the_drowned_quarter", "the_apiary", "the_grand_vault", "court_of_the_ancients", "obsidian_canyons", "sepulchre_of_the_sleeper", "the_doom_of_arkham_part_1", "the_doom_of_arkham_part_2"]
+        "scenarios": [
+            "one_last_job", 
+            "the_western_wall", 
+            "the_drowned_quarter", 
+            "the_apiary", 
+            "the_grand_vault", 
+            "court_of_the_ancients", 
+            "obsidian_canyons", 
+            "sepulchre_of_the_sleeper", 
+            "the_doom_of_arkham_part_1", 
+            "the_doom_of_arkham_part_2"
+        ]
     },
     {
         "code": "core_ch2",
         "name": "Brethren of Ash",
-        "scenarios": ["spreading_flames", "smoke_and_mirrors", "queen_of_ash"]
+        "scenarios": [
+            "spreading_flames", 
+            "smoke_and_mirrors", 
+            "queen_of_ash"
+        ]
     },
     {
         "code": "rtnotz",
         "name": "Return to The Night of the Zealot",
-        "scenarios": ["return_to_the_gathering", "return_to_the_midnight_masks", "return_to_the_devourer_below"]
+        "scenarios": [
+            "return_to_the_gathering", 
+            "return_to_the_midnight_masks", 
+            "return_to_the_devourer_below"
+        ]
     },
     {
         "code": "rtdwl",
         "name": "Return to The Dunwich Legacy",
-        "scenarios": ["return_to_extracurricular_activity", "return_to_the_house_always_wins", "return_to_the_miskatonic_museum", "return_to_the_essex_county_express", "return_to_blood_on_the_altar", "return_to_undimensioned_and_unseen", "return_to_where_doom_awaits", "return_to_lost_in_time_and_space"]
+        "scenarios": [
+            "return_to_extracurricular_activity", 
+            "return_to_the_house_always_wins", 
+            "return_to_the_miskatonic_museum", 
+            "return_to_the_essex_county_express", 
+            "return_to_blood_on_the_altar", 
+            "return_to_undimensioned_and_unseen", 
+            "return_to_where_doom_awaits", 
+            "return_to_lost_in_time_and_space"
+        ]
     },
     {
         "code": "rtptc",
         "name": "Return to The Path to Carcosa",
-        "scenarios": ["return_to_curtain_call", "return_to_the_last_king", "return_to_echoes_of_the_past", "return_to_the_unspeakable_oath", "return_to_a_phantom_of_truth", "return_to_the_pallid_mask", "return_to_black_stars_rise", "return_to_dim_carcosa"]
+        "scenarios": [
+            "return_to_curtain_call", 
+            "return_to_the_last_king", 
+            "return_to_echoes_of_the_past", 
+            "return_to_the_unspeakable_oath", 
+            "return_to_a_phantom_of_truth", 
+            "return_to_the_pallid_mask", 
+            "return_to_black_stars_rise", 
+            "return_to_dim_carcosa"
+        ]
     },
     {
         "code": "rttfa",
         "name": "Return to The Forgotten Age",
-        "scenarios": ["return_to_the_untamed_wilds", "return_to_the_doom_of_eztli", "return_to_threads_of_fate", "return_to_the_boundary_beyond", "return_to_pillars_of_judgment", "return_to_knyan", "return_to_the_city_of_archives", "return_to_the_depths_of_yoth", "return_to_shattered_aeons", "return_to_turn_back_time"]
+        "scenarios": [
+            "return_to_the_untamed_wilds", 
+            "return_to_the_doom_of_eztli", 
+            "return_to_threads_of_fate", 
+            "return_to_the_boundary_beyond", 
+            "return_to_pillars_of_judgment", 
+            "return_to_knyan", 
+            "return_to_the_city_of_archives", 
+            "return_to_the_depths_of_yoth", 
+            "return_to_shattered_aeons", 
+            "return_to_turn_back_time"
+        ]
     },
     {
         "code": "rttcu",
         "name": "Return to The Circle Undone",
-        "scenarios": ["return_to_disappearance_at_the_twilight_estate", "return_to_the_witching_hour", "return_to_at_deaths_doorstep", "return_to_the_secret_name", "return_to_the_wages_of_sin", "return_to_for_the_greater_good", "return_to_union_and_disillusion", "return_to_in_the_clutches_of_chaos", "return_to_before_the_black_throne"]
+        "scenarios": [
+            "return_to_disappearance_at_the_twilight_estate", 
+            "return_to_the_witching_hour", 
+            "return_to_at_deaths_doorstep", 
+            "return_to_the_secret_name", 
+            "return_to_the_wages_of_sin", 
+            "return_to_for_the_greater_good", 
+            "return_to_union_and_disillusion", 
+            "return_to_in_the_clutches_of_chaos", 
+            "return_to_before_the_black_throne"
+        ]
     }
 ]

@@ -647,6 +647,10 @@
             },
             {
                 "code": "guardians_of_time"
+            },
+            {
+                "code": "eztli",
+                "cards": ["04062"]
             }
         ]
     },
@@ -700,6 +704,10 @@
             },
             {
                 "code": "poison"
+            },
+            {
+                "code": "eztli",
+                "cards": ["04062"]
             }
         ]
     },
@@ -747,6 +755,10 @@
             },
             {
                 "code": "poison"
+            },
+            {
+                "code": "eztli",
+                "cards": ["04062"]
             }
         ]
     },

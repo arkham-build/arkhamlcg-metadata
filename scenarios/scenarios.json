@@ -47,9 +47,12 @@
 			},
 			{
 				"code": "cultists"
+			},
+			{
+				"code": "torch",
+				"cards": ["01116"]
 			}
-		],
-		"extra_cards": ["01116"]
+		]
 	},
 	{
 		"name": "The Devourer Below",
@@ -85,9 +88,12 @@
 			},
 			{
 				"code": "agents_of_hastur"
+			},
+			{
+				"code": "torch",
+				"cards": ["01116"]
 			}
-		],
-		"extra_cards": ["01116"]
+		]
 	},
 	{
 		"name": "Extracurricular Activity",
@@ -371,9 +377,16 @@
 			},
 			{
 				"code": "pentagram"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
+			},
+			{
+				"code": "the_last_king",
+				"cards": ["03068b"]
 			}
-		],
-		"extra_cards": ["01135", "01136", "03068b"]
+		]
 	},
 	{
 		"name": "The Unspeakable Oath",
@@ -397,9 +410,12 @@
 			},
 			{
 				"code": "agents_of_hastur"
+			},
+			{
+				"code": "the_last_king",
+				"cards": ["03065b"]
 			}
-		],
-		"extra_cards": ["03065b"]
+		]
 	},
 	{
 		"name": "A Phantom of Truth",
@@ -420,9 +436,16 @@
 			},
 			{
 				"code": "agents_of_hastur"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
+			},
+			{
+				"code": "the_last_king",
+				"cards": ["03066b"]
 			}
-		],
-		"extra_cards": ["01135", "01136", "03066b"]
+		]
 	},
 	{
 		"name": "The Pallid Mask",
@@ -440,9 +463,16 @@
 			},
 			{
 				"code": "chilling_cold"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
+			},
+			{
+				"code": "the_last_king",
+				"cards": ["03067b"]
 			}
-		],
-		"extra_cards": ["03067b"]
+		]
 	},
 	{
 		"name": "Black Stars Rise",
@@ -475,9 +505,12 @@
 			},
 			{
 				"code": "vortex"
+			},
+			{
+				"code": "the_last_king",
+				"cards": ["03069b"]
 			}
-		],
-		"extra_cards": ["03069b"]
+		]
 	},
 	{
 		"name": "Dim Carcosa",
@@ -588,16 +621,11 @@
 			},
 			{
 				"code": "pentagram"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01125", "01129", "01130", "01132", "01134", "01135", "01136"]
 			}
-		],
-		"extra_cards": [
-			"01125",
-			"01129",
-			"01130",
-			"01132",
-			"01134",
-			"01135",
-			"01136"
 		]
 	},
 	{
@@ -854,9 +882,12 @@
 			},
 			{
 				"code": "agents_of_shub"
+			},
+			{
+				"code": "tentacles",
+				"cards": ["01150", "01151", "01152", "01153", "01154", "01155"]
 			}
-		],
-		"extra_cards": ["01150", "01151", "01152", "01153", "01154", "01155"]
+		]
 	},
 	{
 		"name": "At Death's Doorstep",
@@ -1005,9 +1036,16 @@
 			},
 			{
 				"code": "the_watcher"
+			},
+			{
+				"code": "the_witching_hour",
+				"cards": ["05057"]
+			},
+			{
+				"code": "at_deaths_doorstep",
+				"cards": ["05085"]
 			}
-		],
-		"extra_cards": ["05057", "05085"]
+		]
 	},
 	{
 		"name": "In the Clutches of Chaos",
@@ -1043,9 +1081,12 @@
 			},
 			{
 				"code": "striking_fear"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
 			}
-		],
-		"extra_cards": ["01135", "01136"]
+		]
 	},
 	{
 		"name": "Before the Black Throne",
@@ -1234,9 +1275,12 @@
 			},
 			{
 				"code": "nightgaunts"
+			},
+			{
+				"code": "beyond_the_gates_of_sleep",
+				"cards": ["06053"]
 			}
-		],
-		"extra_cards": ["06053"]
+		]
 	},
 	{
 		"name": "Where the Gods Dwell",
@@ -1338,9 +1382,12 @@
 			},
 			{
 				"code": "nightgaunts"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
 			}
-		],
-		"extra_cards": ["01135", "01136"]
+		]
 	},
 	{
 		"name": "In Too Deep",
@@ -1364,16 +1411,19 @@
 			},
 			{
 				"code": "agents_of_cthulhu"
+			},
+			{
+				"code": "the_vanishing_of_elina_harper",
+				"cards": [
+					"07062b",
+					"07076",
+					"07077",
+					"07078",
+					"07079",
+					"07080",
+					"07081"
+				]
 			}
-		],
-		"extra_cards": [
-			"07062b",
-			"07076",
-			"07077",
-			"07078",
-			"07079",
-			"07080",
-			"07081"
 		]
 	},
 	{
@@ -1473,9 +1523,12 @@
 			},
 			{
 				"code": "locked_doors"
+			},
+			{
+				"code": "the_vanishing_of_elina_harper",
+				"cards": ["07076", "07077", "07078", "07079", "07080", "07081"]
 			}
-		],
-		"extra_cards": ["07076", "07077", "07078", "07079", "07080", "07081"]
+		]
 	},
 	{
 		"name": "Into the Maelstrom",
@@ -1767,9 +1820,12 @@
 			},
 			{
 				"code": "chilling_cold"
+			},
+			{
+				"code": "striking_fear",
+				"cards": ["01164", "01165"]
 			}
-		],
-		"extra_cards": ["01164", "01165"]
+		]
 	},
 	{
 		"name": "Riddles and Rain",
@@ -1799,9 +1855,12 @@
 			},
 			{
 				"code": "locked_doors"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
 			}
-		],
-		"extra_cards": ["01135", "01136"]
+		]
 	},
 	{
 		"name": "Dead Heat",
@@ -1877,9 +1936,12 @@
 			},
 			{
 				"code": "locked_doors"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
 			}
-		],
-		"extra_cards": ["01135", "01136"]
+		]
 	},
 	{
 		"name": "Dancing Mad",
@@ -2054,9 +2116,12 @@
 			},
 			{
 				"code": "ancient_evils"
+			},
+			{
+				"code": "striking_fear",
+				"cards": ["01164", "01165"]
 			}
-		],
-		"extra_cards": ["01164", "01165"]
+		]
 	},
 	{
 		"name": "Prelude: Welcome to Hemlock Vale!",
@@ -2333,9 +2398,12 @@
 			},
 			{
 				"code": "residents"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
 			}
-		],
-		"extra_cards": ["01135", "01136"]
+		]
 	},
 	{
 		"name": "Prelude: Dawn of the Final Day",
@@ -2440,9 +2508,12 @@
 			},
 			{
 				"code": "striking_fear"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01125", "01129", "01130", "01131", "01132", "01134"]
 			}
-		],
-		"extra_cards": ["01125", "01129", "01130", "01131", "01132", "01134"]
+		]
 	},
 	{
 		"name": "The Western Wall",
@@ -2475,9 +2546,12 @@
 			},
 			{
 				"code": "tdc_expedition"
+			},
+			{
+				"code": "star_spawn",
+				"cards": ["11727"]
 			}
-		],
-		"extra_cards": ["11727"]
+		]
 	},
 	{
 		"name": "The Drowned Quarter",
@@ -2545,9 +2619,12 @@
 			},
 			{
 				"code": "tdc_expedition"
+			},
+			{
+				"code": "star_spawn",
+				"cards": ["11726"]
 			}
-		],
-		"extra_cards": ["11726"]
+		]
 	},
 	{
 		"name": "The Grand Vault",
@@ -2711,20 +2788,23 @@
 			},
 			{
 				"code": "agents_of_cthulhu"
+			},
+			{
+				"code": "arkham",
+				"cards": [
+					"01125",
+					"01126",
+					"01127",
+					"01128",
+					"01129",
+					"01130",
+					"01131",
+					"01132",
+					"01134",
+					"01135",
+					"01136"
+				]
 			}
-		],
-		"extra_cards": [
-			"01125",
-			"01126",
-			"01127",
-			"01128",
-			"01129",
-			"01130",
-			"01131",
-			"01132",
-			"01134",
-			"01135",
-			"01136"
 		]
 	},
 	{
@@ -2749,17 +2829,20 @@
 			},
 			{
 				"code": "agents_of_cthulhu"
+			},
+			{
+				"code": "arkham",
+				"cards": [
+					"01126",
+					"01127",
+					"01128",
+					"01129",
+					"01130",
+					"01131",
+					"01132",
+					"01134"
+				]
 			}
-		],
-		"extra_cards": [
-			"01126",
-			"01127",
-			"01128",
-			"01129",
-			"01130",
-			"01131",
-			"01132",
-			"01134"
 		]
 	},
 	{
@@ -2924,9 +3007,12 @@
 			},
 			{
 				"code": "cultists"
+			},
+			{
+				"code": "torch",
+				"cards": ["01116"]
 			}
-		],
-		"extra_cards": ["01116"]
+		]
 	},
 	{
 		"name": "Return to The Devourer Below",
@@ -2971,9 +3057,12 @@
 			},
 			{
 				"code": "agents_of_hastur"
+			},
+			{
+				"code": "torch",
+				"cards": ["01116"]
 			}
-		],
-		"extra_cards": ["01116"]
+		]
 	},
 	{
 		"name": "Return to Extracurricular Activity",
@@ -3290,9 +3379,16 @@
 			},
 			{
 				"code": "pentagram"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
+			},
+			{
+				"code": "the_last_king",
+				"cards": ["03068b"]
 			}
-		],
-		"extra_cards": ["01135", "01136", "03068b"]
+		]
 	},
 	{
 		"name": "Return to The Unspeakable Oath",
@@ -3319,9 +3415,12 @@
 			},
 			{
 				"code": "hasturs_envoys"
+			},
+			{
+				"code": "the_last_king",
+				"cards": ["03065b"]
 			}
-		],
-		"extra_cards": ["03065b"]
+		]
 	},
 	{
 		"name": "Return to A Phantom of Truth",
@@ -3345,9 +3444,16 @@
 			},
 			{
 				"code": "hasturs_envoys"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
+			},
+			{
+				"code": "the_last_king",
+				"cards": ["03066b"]
 			}
-		],
-		"extra_cards": ["01135", "01136", "03066b"]
+		]
 	},
 	{
 		"name": "Return to The Pallid Mask",
@@ -3368,9 +3474,12 @@
 			},
 			{
 				"code": "chilling_cold"
+			},
+			{
+				"code": "the_last_king",
+				"cards": ["03067b"]
 			}
-		],
-		"extra_cards": ["03067b"]
+		]
 	},
 	{
 		"name": "Return to Black Stars Rise",
@@ -3406,9 +3515,12 @@
 			},
 			{
 				"code": "vortex"
+			},
+			{
+				"code": "the_last_king",
+				"cards": ["03069b"]
 			}
-		],
-		"extra_cards": ["03069b"]
+		]
 	},
 	{
 		"name": "Return to Dim Carcosa",
@@ -3508,9 +3620,12 @@
 			},
 			{
 				"code": "chilling_cold"
+			},
+			{
+				"code": "serpents",
+				"cards": ["04078"]
 			}
-		],
-		"extra_cards": ["04078"]
+		]
 	},
 	{
 		"name": "Return to Threads of Fate",
@@ -3534,16 +3649,11 @@
 			},
 			{
 				"code": "nightgaunts"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01125", "01129", "01130", "01132", "01134", "01135", "01136"]
 			}
-		],
-		"extra_cards": [
-			"01125",
-			"01129",
-			"01130",
-			"01132",
-			"01134",
-			"01135",
-			"01136"
 		]
 	},
 	{
@@ -3574,9 +3684,12 @@
 			},
 			{
 				"code": "guardians_of_time"
+			},
+			{
+				"code": "return_to_the_doom_of_eztli",
+				"cards": ["53018"]
 			}
-		],
-		"extra_cards": ["53018"]
+		]
 	},
 	{
 		"name": "Return to Heart of the Elders, Part I",
@@ -3638,9 +3751,12 @@
 			},
 			{
 				"code": "poison"
+			},
+			{
+				"code": "return_to_the_doom_of_eztli",
+				"cards": ["53018"]
 			}
-		],
-		"extra_cards": ["53018"]
+		]
 	},
 	{
 		"name": "Return to The City of Archives",
@@ -3693,9 +3809,12 @@
 			},
 			{
 				"code": "poison"
+			},
+			{
+				"code": "return_to_the_doom_of_eztli",
+				"cards": ["53018"]
 			}
-		],
-		"extra_cards": ["53018"]
+		]
 	},
 	{
 		"name": "Return to Shattered Aeons",
@@ -3763,9 +3882,12 @@
 			},
 			{
 				"code": "chilling_cold"
+			},
+			{
+				"code": "serpents",
+				"cards": ["04078"]
 			}
-		],
-		"extra_cards": ["04078"]
+		]
 	},
 	{
 		"name": "Return to Disappearance at the Twilight Estate",
@@ -3798,9 +3920,12 @@
 			},
 			{
 				"code": "chilling_mists"
+			},
+			{
+				"code": "return_to_at_deaths_doorstep",
+				"cards": ["54028"]
 			}
-		],
-		"extra_cards": ["54028"]
+		]
 	},
 	{
 		"name": "Return to The Witching Hour",
@@ -3833,19 +3958,15 @@
 			},
 			{
 				"code": "agents_of_shub"
+			},
+			{
+				"code": "tentacles",
+				"cards": ["01150", "01151", "01152", "01153", "01154", "01155"]
+			},
+			{
+				"code": "return_to_the_devourer_below",
+				"cards": ["50033", "50034", "50035", "50036"]
 			}
-		],
-		"extra_cards": [
-			"01150",
-			"01151",
-			"01152",
-			"01153",
-			"01154",
-			"01155",
-			"50033",
-			"50034",
-			"50035",
-			"50036"
 		]
 	},
 	{
@@ -4010,9 +4131,16 @@
 			},
 			{
 				"code": "the_watcher"
+			},
+			{
+				"code": "the_witching_hour",
+				"cards": ["05057"]
+			},
+			{
+				"code": "at_deaths_doorstep",
+				"cards": ["05085"]
 			}
-		],
-		"extra_cards": ["05057", "05085"]
+		]
 	},
 	{
 		"name": "Return to In the Clutches of Chaos",
@@ -4051,9 +4179,12 @@
 			},
 			{
 				"code": "striking_fear"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
 			}
-		],
-		"extra_cards": ["01135", "01136"]
+		]
 	},
 	{
 		"name": "Return to Before the Black Throne",
@@ -4380,9 +4511,12 @@
 			},
 			{
 				"code": "rats"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
 			}
-		],
-		"extra_cards": ["01135", "01136"]
+		]
 	},
 	{
 		"name": "Bad Blood",
@@ -4406,16 +4540,11 @@
 			},
 			{
 				"code": "pentagram"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01125", "01129", "01130", "01132", "01134", "01135", "01136"]
 			}
-		],
-		"extra_cards": [
-			"01125",
-			"01129",
-			"01130",
-			"01132",
-			"01134",
-			"01135",
-			"01136"
 		]
 	},
 	{
@@ -4478,9 +4607,12 @@
 			},
 			{
 				"code": "nightgaunts"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
 			}
-		],
-		"extra_cards": ["01135", "01136"]
+		]
 	},
 	{
 		"name": "Laid to Rest",
@@ -4548,9 +4680,12 @@
 			},
 			{
 				"code": "locked_doors"
+			},
+			{
+				"code": "arkham",
+				"cards": ["01135", "01136"]
 			}
-		],
-		"extra_cards": ["01135", "01136"]
+		]
 	},
 	{
 		"name": "Enthralling Encore",

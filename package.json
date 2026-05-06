@@ -1,0 +1,10 @@
+{
+    "name": "arkhamlcg-metadata",
+    "private": true,
+    "scripts": {
+        "fmt": "biome format --write ."
+    },
+    "devDependencies": {
+        "@biomejs/biome": "2.4.14"
+    }
+}

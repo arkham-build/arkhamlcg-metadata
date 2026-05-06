@@ -934,7 +934,7 @@
         "name": "Return to In the Clutches of Chaos",
         "code": "return_to_in_the_clutches_of_chaos",
         "campaign_code": "rttcu",
-        "encounter_codes": ["in_the_clutches_of_chaos", "in_the_clutches_of_chaos", "agents_of_azathoth", "nightgaunts", "music_of_the_damned", "anettes_coven", "city_of_the_damned", "hexcraft", "secrets_of_the_universe", "silver_twilight_lodge", "striking_fear"],
+        "encounter_codes": ["in_the_clutches_of_chaos", "return_to_in_the_clutches_of_chaos", "agents_of_azathoth", "nightgaunts", "music_of_the_damned", "anettes_coven", "city_of_the_damned", "hexcraft", "secrets_of_the_universe", "silver_twilight_lodge", "striking_fear"],
         "extra_cards": ["01135", "01136"]
     },
     {

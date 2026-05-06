@@ -108,7 +108,7 @@
     {
         "type": "faq",
         "card_codes": ["02307"],
-        "question": "Can I play [Ward of Protection (5)](/card/02307) to cancel and discard an enemy on the reverse side of an act or agenda? And if so, where does it go?",
+        "question": "Can I play [Ward of Protection](/card/02307) to cancel and discard an enemy on the reverse side of an act or agenda? And if so, where does it go?",
         "ruling": "You cannot. When you flip to the b-side of an act or agenda and it is an encounter cardtype (typically a treachery, enemy or location), you should follow the rules for drawing that encounter card solely for the purposes of figuring out how that card enters play and for resolving any appropriate revelation effects. You should not be able to trigger effects based on having \"drawn\" that card, as it was not actually drawn, and it is not clear who is doing the drawing in such an event.",
         "citation": "faq-1.2"
     },
@@ -122,7 +122,7 @@
     {
         "type": "faq",
         "card_codes": ["03035", "03113", "08069"],
-        "question": "What consistitutes a \"skill test on a [[Spell]] card\" for the purposes of cards like [Spirit Athame](/card/03035) and [Grounded](/card/03113)?",
+        "question": "What constitutes a \"skill test on a [[Spell]] card\" for the purposes of cards like [Spirit Athame](/card/03035) and [Grounded](/card/03113)?",
         "ruling": "A \"skill test on a card\" is any ability that directly prompts a skill test, either through the template \"test skill (X),\" or by initiating an action that is, in itself, a skill test (for example, any card with <b>Fight</b>, <b>Evade</b>, or <b>Investigate</b> action designators).",
         "citation": "faq-1.2"
     },

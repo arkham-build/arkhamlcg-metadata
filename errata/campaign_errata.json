@@ -2,21 +2,32 @@
     {
         "type": "campaign_errata",
         "cycles": ["dwl"],
-        "scenario_codes": ["blood_on_the_altar", "return_to_blood_on_the_altar"],
+        "scenario_codes": [
+            "blood_on_the_altar",
+            "return_to_blood_on_the_altar"
+        ],
         "ruling": "In the \"If no resolution was reached\" resolution, between the third and fourth bullet points, add the following bullet point: \"If Dr. Henry Armitage is not listed under 'Sacrified to Yog-Sothoth' in your Campaign Log, record that <i>Dr. Henry Armitage survived The Dunwich Legacy</i>.\"",
         "citation": "faq-1.1"
     },
     {
         "type": "campaign_errata",
         "cycles": ["ptc"],
-        "scenario_codes": ["echoes_of_the_past", "return_to_echoes_of_the_past"],
+        "scenario_codes": [
+            "echoes_of_the_past",
+            "return_to_echoes_of_the_past"
+        ],
         "ruling": "The final bullet point in <b>Resolution 2</b> should read: \"Then, add 2 [elder_thing] tokens to the chaos bag.\"",
         "citation": "faq-1.2"
     },
     {
         "type": "campaign_errata",
         "cycles": ["ptc"],
-        "scenario_codes": ["the_last_king", "return_to_the_last_king", "the_unspeakable_oath", "return_to_the_unspeakable_oath"],
+        "scenario_codes": [
+            "the_last_king",
+            "return_to_the_last_king",
+            "the_unspeakable_oath",
+            "return_to_the_unspeakable_oath"
+        ],
         "ruling": "The [[Lunatic]] trait should read [[Possessed]] wherever it appears, instead.",
         "citation": "faq-2.0"
     },
@@ -30,21 +41,30 @@
     {
         "type": "campaign_errata",
         "cycles": ["ptc"],
-        "scenario_codes": ["the_unspeakable_oath", "return_to_the_unspeakable_oath"],
+        "scenario_codes": [
+            "the_unspeakable_oath",
+            "return_to_the_unspeakable_oath"
+        ],
         "ruling": "The first part of <b>Interlude II: Lost Soul</b> should read: \"If an investigator resigned with the asset version of Daniel Chesterfield under their control, proceed to <b>Daniel Survived</b>.\nIf the enemy version of Daniel Chesterfield was in play when the scenario ended, proceed to <b>Daniel Was Possessed</b>\nIf neither of the above are true, proceed to <b>Daniel Did Not Survive</b>.\"",
         "citation": "faq-1.2"
     },
     {
         "type": "campaign_errata",
         "cycles": ["tfa"],
-        "scenario_codes": ["the_depths_of_yoth", "return_to_the_depths_of_yoth"],
+        "scenario_codes": [
+            "the_depths_of_yoth",
+            "return_to_the_depths_of_yoth"
+        ],
         "ruling": "After the game text in <b>Intro 8</b>, add the following text: \"In your Campaign Log, cross off <i>the investigators found the missing relic</i> and record <i>the relic is missing</i>.\"",
         "citation": "faq-1.41"
     },
     {
         "type": "campaign_errata",
         "cycles": ["tfa"],
-        "scenario_codes": ["the_boundary_beyond", "return_to_the_boundary_beyond"],
+        "scenario_codes": [
+            "the_boundary_beyond",
+            "return_to_the_boundary_beyond"
+        ],
         "ruling": "The effect of the <b>Silent Journey</b> sidebar should read: \"Each investigator begins this scenario with 2 fewer cards in their opening hand.\"",
         "citation": "faq-1.5"
     },

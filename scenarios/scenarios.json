@@ -1,4722 +1,4746 @@
 [
-	{
-		"name": "The Gathering",
-		"code": "the_gathering",
-		"campaign_code": "core",
-		"encounter_sets": [
-			{
-				"code": "torch"
-			},
-			{
-				"code": "rats"
-			},
-			{
-				"code": "ghouls"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "chilling_cold"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Midnight Masks",
-		"code": "the_midnight_masks",
-		"campaign_code": "core",
-		"encounter_sets": [
-			{
-				"code": "arkham"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "cultists"
-			},
-			{
-				"code": "torch",
-				"cards": ["01116"]
-			}
-		]
-	},
-	{
-		"name": "The Devourer Below",
-		"code": "the_devourer_below",
-		"campaign_code": "core",
-		"encounter_sets": [
-			{
-				"code": "tentacles"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "ghouls"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "agents_of_yog"
-			},
-			{
-				"code": "cultists"
-			},
-			{
-				"code": "agents_of_shub"
-			},
-			{
-				"code": "agents_of_cthulhu"
-			},
-			{
-				"code": "agents_of_hastur"
-			},
-			{
-				"code": "torch",
-				"cards": ["01116"]
-			}
-		]
-	},
-	{
-		"name": "Extracurricular Activity",
-		"code": "extracurricular_activity",
-		"campaign_code": "dwl",
-		"encounter_sets": [
-			{
-				"code": "extracurricular_activity"
-			},
-			{
-				"code": "sorcery"
-			},
-			{
-				"code": "the_beyond"
-			},
-			{
-				"code": "bishops_thralls"
-			},
-			{
-				"code": "whippoorwills"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "agents_of_yog"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The House Always Wins",
-		"code": "the_house_always_wins",
-		"campaign_code": "dwl",
-		"encounter_sets": [
-			{
-				"code": "the_house_always_wins"
-			},
-			{
-				"code": "bad_luck"
-			},
-			{
-				"code": "naomis_crew"
-			},
-			{
-				"code": "rats"
-			},
-			{
-				"code": "hideous_abominations"
-			},
-			{
-				"code": "striking_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Miskatonic Museum",
-		"code": "the_miskatonic_museum",
-		"campaign_code": "dwl",
-		"encounter_sets": [
-			{
-				"code": "the_miskatonic_museum"
-			},
-			{
-				"code": "bad_luck"
-			},
-			{
-				"code": "sorcery"
-			},
-			{
-				"code": "the_beyond"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "locked_doors"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Essex County Express",
-		"code": "the_essex_county_express",
-		"campaign_code": "dwl",
-		"encounter_sets": [
-			{
-				"code": "essex_county_express"
-			},
-			{
-				"code": "the_beyond"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "pentagram"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Blood on the Altar",
-		"code": "blood_on_the_altar",
-		"campaign_code": "dwl",
-		"encounter_sets": [
-			{
-				"code": "blood_on_the_altar"
-			},
-			{
-				"code": "dunwich"
-			},
-			{
-				"code": "whippoorwills"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "naomis_crew"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Undimensioned and Unseen",
-		"code": "undimensioned_and_unseen",
-		"campaign_code": "dwl",
-		"encounter_sets": [
-			{
-				"code": "undimensioned_and_unseen"
-			},
-			{
-				"code": "whippoorwills"
-			},
-			{
-				"code": "beast_thralls"
-			},
-			{
-				"code": "dunwich"
-			},
-			{
-				"code": "striking_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Where Doom Awaits",
-		"code": "where_doom_awaits",
-		"campaign_code": "dwl",
-		"encounter_sets": [
-			{
-				"code": "where_doom_awaits"
-			},
-			{
-				"code": "beast_thralls"
-			},
-			{
-				"code": "sorcery"
-			},
-			{
-				"code": "bishops_thralls"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "hideous_abominations"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Lost in Time and Space",
-		"code": "lost_in_time_and_space",
-		"campaign_code": "dwl",
-		"encounter_sets": [
-			{
-				"code": "lost_in_time_and_space"
-			},
-			{
-				"code": "sorcery"
-			},
-			{
-				"code": "the_beyond"
-			},
-			{
-				"code": "hideous_abominations"
-			},
-			{
-				"code": "agents_of_yog"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Curtain Call",
-		"code": "curtain_call",
-		"campaign_code": "ptc",
-		"encounter_sets": [
-			{
-				"code": "curtain_call"
-			},
-			{
-				"code": "evil_portents"
-			},
-			{
-				"code": "delusions"
-			},
-			{
-				"code": "hauntings"
-			},
-			{
-				"code": "cult_of_the_yellow_sign"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "rats"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Last King",
-		"code": "the_last_king",
-		"campaign_code": "ptc",
-		"encounter_sets": [
-			{
-				"code": "the_last_king"
-			},
-			{
-				"code": "hasturs_gift"
-			},
-			{
-				"code": "decay"
-			},
-			{
-				"code": "stranger"
-			},
-			{
-				"code": "ancient_evils"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Echoes of the Past",
-		"code": "echoes_of_the_past",
-		"campaign_code": "ptc",
-		"encounter_sets": [
-			{
-				"code": "echoes_of_the_past"
-			},
-			{
-				"code": "cult_of_the_yellow_sign"
-			},
-			{
-				"code": "delusions"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			},
-			{
-				"code": "the_last_king",
-				"cards": ["03068b"]
-			}
-		]
-	},
-	{
-		"name": "The Unspeakable Oath",
-		"code": "the_unspeakable_oath",
-		"campaign_code": "ptc",
-		"encounter_sets": [
-			{
-				"code": "the_unspeakable_oath"
-			},
-			{
-				"code": "hasturs_gift"
-			},
-			{
-				"code": "inhabitants_of_carcosa"
-			},
-			{
-				"code": "delusions"
-			},
-			{
-				"code": "decay"
-			},
-			{
-				"code": "agents_of_hastur"
-			},
-			{
-				"code": "the_last_king",
-				"cards": ["03065b"]
-			}
-		]
-	},
-	{
-		"name": "A Phantom of Truth",
-		"code": "a_phantom_of_truth",
-		"campaign_code": "ptc",
-		"encounter_sets": [
-			{
-				"code": "a_phantom_of_truth"
-			},
-			{
-				"code": "evil_portents"
-			},
-			{
-				"code": "byakhee"
-			},
-			{
-				"code": "stranger"
-			},
-			{
-				"code": "agents_of_hastur"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			},
-			{
-				"code": "the_last_king",
-				"cards": ["03066b"]
-			}
-		]
-	},
-	{
-		"name": "The Pallid Mask",
-		"code": "the_pallid_mask",
-		"campaign_code": "ptc",
-		"encounter_sets": [
-			{
-				"code": "the_pallid_mask"
-			},
-			{
-				"code": "ghouls"
-			},
-			{
-				"code": "hauntings"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			},
-			{
-				"code": "the_last_king",
-				"cards": ["03067b"]
-			}
-		]
-	},
-	{
-		"name": "Black Stars Rise",
-		"code": "black_stars_rise",
-		"campaign_code": "ptc",
-		"encounter_sets": [
-			{
-				"code": "black_stars_rise"
-			},
-			{
-				"code": "evil_portents"
-			},
-			{
-				"code": "byakhee"
-			},
-			{
-				"code": "inhabitants_of_carcosa"
-			},
-			{
-				"code": "stranger"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "flood"
-			},
-			{
-				"code": "vortex"
-			},
-			{
-				"code": "the_last_king",
-				"cards": ["03069b"]
-			}
-		]
-	},
-	{
-		"name": "Dim Carcosa",
-		"code": "dim_carcosa",
-		"campaign_code": "ptc",
-		"encounter_sets": [
-			{
-				"code": "dim_carcosa"
-			},
-			{
-				"code": "delusions"
-			},
-			{
-				"code": "cult_of_the_yellow_sign"
-			},
-			{
-				"code": "inhabitants_of_carcosa"
-			},
-			{
-				"code": "agents_of_hastur"
-			},
-			{
-				"code": "striking_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Untamed Wilds",
-		"code": "the_untamed_wilds",
-		"campaign_code": "tfa",
-		"encounter_sets": [
-			{
-				"code": "wilds"
-			},
-			{
-				"code": "rainforest"
-			},
-			{
-				"code": "serpents"
-			},
-			{
-				"code": "expedition"
-			},
-			{
-				"code": "guardians_of_time"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "ancient_evils"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Doom of Eztli",
-		"code": "the_doom_of_eztli",
-		"campaign_code": "tfa",
-		"encounter_sets": [
-			{
-				"code": "eztli"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "venom"
-			},
-			{
-				"code": "flux"
-			},
-			{
-				"code": "traps"
-			},
-			{
-				"code": "ruins"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "chilling_cold"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Threads of Fate",
-		"code": "threads_of_fate",
-		"campaign_code": "tfa",
-		"encounter_sets": [
-			{
-				"code": "threads_of_fate"
-			},
-			{
-				"code": "pnakotic_brotherhood"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01125", "01129", "01130", "01132", "01134", "01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "The Boundary Beyond",
-		"code": "the_boundary_beyond",
-		"campaign_code": "tfa",
-		"encounter_sets": [
-			{
-				"code": "the_boundary_beyond"
-			},
-			{
-				"code": "flux"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "pnakotic_brotherhood"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "venom"
-			},
-			{
-				"code": "guardians_of_time"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Heart of the Elders, Part I",
-		"code": "pillars_of_judgment",
-		"campaign_code": "tfa",
-		"encounter_sets": [
-			{
-				"code": "pillars_of_judgment"
-			},
-			{
-				"code": "heart_of_the_elders"
-			},
-			{
-				"code": "rainforest"
-			},
-			{
-				"code": "serpents"
-			},
-			{
-				"code": "expedition"
-			},
-			{
-				"code": "poison"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Heart of the Elders, Part II",
-		"code": "knyan",
-		"campaign_code": "tfa",
-		"encounter_sets": [
-			{
-				"code": "knyan"
-			},
-			{
-				"code": "heart_of_the_elders"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "venom"
-			},
-			{
-				"code": "ruins"
-			},
-			{
-				"code": "traps"
-			},
-			{
-				"code": "poison"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The City of Archives",
-		"code": "the_city_of_archives",
-		"campaign_code": "tfa",
-		"encounter_sets": [
-			{
-				"code": "the_city_of_archives"
-			},
-			{
-				"code": "agents_of_yog"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "striking_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Depths of Yoth",
-		"code": "the_depths_of_yoth",
-		"campaign_code": "tfa",
-		"encounter_sets": [
-			{
-				"code": "the_depths_of_yoth"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "venom"
-			},
-			{
-				"code": "expedition"
-			},
-			{
-				"code": "ruins"
-			},
-			{
-				"code": "poison"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Shattered Aeons",
-		"code": "shattered_aeons",
-		"campaign_code": "tfa",
-		"encounter_sets": [
-			{
-				"code": "shattered_aeons"
-			},
-			{
-				"code": "pnakotic_brotherhood"
-			},
-			{
-				"code": "flux"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "agents_of_yig"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Turn Back Time",
-		"code": "turn_back_time",
-		"campaign_code": "tfa",
-		"encounter_sets": [
-			{
-				"code": "turn_back_time"
-			},
-			{
-				"code": "eztli"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "venom"
-			},
-			{
-				"code": "flux"
-			},
-			{
-				"code": "traps"
-			},
-			{
-				"code": "ruins"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "chilling_cold"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Disappearance at the Twilight Estate",
-		"code": "disappearance_at_the_twilight_estate",
-		"campaign_code": "tcu",
-		"encounter_sets": [
-			{
-				"code": "disappearance_at_the_twilight_estate"
-			},
-			{
-				"code": "at_deaths_doorstep"
-			},
-			{
-				"code": "inexorable_fate"
-			},
-			{
-				"code": "realm_of_death"
-			},
-			{
-				"code": "spectral_predators"
-			},
-			{
-				"code": "trapped_spirits"
-			},
-			{
-				"code": "the_watcher"
-			},
-			{
-				"code": "chilling_cold"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Witching Hour",
-		"code": "the_witching_hour",
-		"campaign_code": "tcu",
-		"encounter_sets": [
-			{
-				"code": "the_witching_hour"
-			},
-			{
-				"code": "anettes_coven"
-			},
-			{
-				"code": "city_of_sins"
-			},
-			{
-				"code": "witchcraft"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "agents_of_azathoth"
-			},
-			{
-				"code": "agents_of_shub"
-			},
-			{
-				"code": "tentacles",
-				"cards": ["01150", "01151", "01152", "01153", "01154", "01155"]
-			}
-		]
-	},
-	{
-		"name": "At Death's Doorstep",
-		"code": "at_deaths_doorstep",
-		"campaign_code": "tcu",
-		"encounter_sets": [
-			{
-				"code": "at_deaths_doorstep"
-			},
-			{
-				"code": "silver_twilight_lodge"
-			},
-			{
-				"code": "spectral_predators"
-			},
-			{
-				"code": "trapped_spirits"
-			},
-			{
-				"code": "inexorable_fate"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "realm_of_death"
-			},
-			{
-				"code": "the_watcher"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Secret Name",
-		"code": "the_secret_name",
-		"campaign_code": "tcu",
-		"encounter_sets": [
-			{
-				"code": "the_secret_name"
-			},
-			{
-				"code": "city_of_sins"
-			},
-			{
-				"code": "inexorable_fate"
-			},
-			{
-				"code": "realm_of_death"
-			},
-			{
-				"code": "witchcraft"
-			},
-			{
-				"code": "rats"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Wages of Sin",
-		"code": "the_wages_of_sin",
-		"campaign_code": "tcu",
-		"encounter_sets": [
-			{
-				"code": "the_wages_of_sin"
-			},
-			{
-				"code": "anettes_coven"
-			},
-			{
-				"code": "city_of_sins"
-			},
-			{
-				"code": "inexorable_fate"
-			},
-			{
-				"code": "realm_of_death"
-			},
-			{
-				"code": "trapped_spirits"
-			},
-			{
-				"code": "witchcraft"
-			},
-			{
-				"code": "the_watcher"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "For the Greater Good",
-		"code": "for_the_greater_good",
-		"campaign_code": "tcu",
-		"encounter_sets": [
-			{
-				"code": "for_the_greater_good"
-			},
-			{
-				"code": "city_of_sins"
-			},
-			{
-				"code": "silver_twilight_lodge"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "locked_doors"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Union and Disillusion",
-		"code": "union_and_disillusion",
-		"campaign_code": "tcu",
-		"encounter_sets": [
-			{
-				"code": "union_and_disillusion"
-			},
-			{
-				"code": "inexorable_fate"
-			},
-			{
-				"code": "realm_of_death"
-			},
-			{
-				"code": "spectral_predators"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "anettes_coven"
-			},
-			{
-				"code": "silver_twilight_lodge"
-			},
-			{
-				"code": "the_watcher"
-			},
-			{
-				"code": "the_witching_hour",
-				"cards": ["05057"]
-			},
-			{
-				"code": "at_deaths_doorstep",
-				"cards": ["05085"]
-			}
-		]
-	},
-	{
-		"name": "In the Clutches of Chaos",
-		"code": "in_the_clutches_of_chaos",
-		"campaign_code": "tcu",
-		"encounter_sets": [
-			{
-				"code": "in_the_clutches_of_chaos"
-			},
-			{
-				"code": "agents_of_azathoth"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "music_of_the_damned"
-			},
-			{
-				"code": "anettes_coven"
-			},
-			{
-				"code": "city_of_sins"
-			},
-			{
-				"code": "witchcraft"
-			},
-			{
-				"code": "secrets_of_the_universe"
-			},
-			{
-				"code": "silver_twilight_lodge"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "Before the Black Throne",
-		"code": "before_the_black_throne",
-		"campaign_code": "tcu",
-		"encounter_sets": [
-			{
-				"code": "before_the_black_throne"
-			},
-			{
-				"code": "agents_of_azathoth"
-			},
-			{
-				"code": "inexorable_fate"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "pentagram"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Beyond the Gates of Sleep",
-		"code": "beyond_the_gates_of_sleep",
-		"campaign_code": "tde",
-		"encounter_sets": [
-			{
-				"code": "beyond_the_gates_of_sleep"
-			},
-			{
-				"code": "agents_of_nyarlathotep"
-			},
-			{
-				"code": "zoogs"
-			},
-			{
-				"code": "dreamers_curse"
-			},
-			{
-				"code": "dreamlands"
-			},
-			{
-				"code": "chilling_cold"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Waking Nightmare",
-		"code": "waking_nightmare",
-		"campaign_code": "tde",
-		"encounter_sets": [
-			{
-				"code": "waking_nightmare"
-			},
-			{
-				"code": "merging_realities"
-			},
-			{
-				"code": "whispers_of_hypnos"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "agents_of_atlach_nacha"
-			},
-			{
-				"code": "spiders"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Search for Kadath",
-		"code": "the_search_for_kadath",
-		"campaign_code": "tde",
-		"encounter_sets": [
-			{
-				"code": "the_search_for_kadath"
-			},
-			{
-				"code": "agents_of_nyarlathotep"
-			},
-			{
-				"code": "corsairs"
-			},
-			{
-				"code": "dreamlands"
-			},
-			{
-				"code": "whispers_of_hypnos"
-			},
-			{
-				"code": "zoogs"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "A Thousand Shapes of Horror",
-		"code": "a_thousand_shapes_of_horror",
-		"campaign_code": "tde",
-		"encounter_sets": [
-			{
-				"code": "a_thousand_shapes_of_horror"
-			},
-			{
-				"code": "creatures_of_the_underworld"
-			},
-			{
-				"code": "merging_realities"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "ghouls"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "rats"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Dark Side of the Moon",
-		"code": "dark_side_of_the_moon",
-		"campaign_code": "tde",
-		"encounter_sets": [
-			{
-				"code": "dark_side_of_the_moon"
-			},
-			{
-				"code": "corsairs"
-			},
-			{
-				"code": "dreamers_curse"
-			},
-			{
-				"code": "ancient_evils"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Point of No Return",
-		"code": "point_of_no_return",
-		"campaign_code": "tde",
-		"encounter_sets": [
-			{
-				"code": "point_of_no_return"
-			},
-			{
-				"code": "creatures_of_the_underworld"
-			},
-			{
-				"code": "whispers_of_hypnos"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "ghouls"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "descent_into_the_pitch"
-			},
-			{
-				"code": "terror_of_the_vale"
-			},
-			{
-				"code": "agents_of_atlach_nacha"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "beyond_the_gates_of_sleep",
-				"cards": ["06053"]
-			}
-		]
-	},
-	{
-		"name": "Where the Gods Dwell",
-		"code": "where_the_gods_dwell",
-		"campaign_code": "tde",
-		"encounter_sets": [
-			{
-				"code": "where_the_gods_dwell"
-			},
-			{
-				"code": "agents_of_nyarlathotep"
-			},
-			{
-				"code": "dreamers_curse"
-			},
-			{
-				"code": "whispers_of_hypnos"
-			},
-			{
-				"code": "pentagram"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Weaver of the Cosmos",
-		"code": "weaver_of_the_cosmos",
-		"campaign_code": "tde",
-		"encounter_sets": [
-			{
-				"code": "weaver_of_the_cosmos"
-			},
-			{
-				"code": "agents_of_atlach_nacha"
-			},
-			{
-				"code": "spiders"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "chilling_cold"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Pit of Despair",
-		"code": "the_pit_of_despair",
-		"campaign_code": "tic",
-		"encounter_sets": [
-			{
-				"code": "the_pit_of_despair"
-			},
-			{
-				"code": "creatures_of_the_deep"
-			},
-			{
-				"code": "flooded_caverns"
-			},
-			{
-				"code": "rising_tide"
-			},
-			{
-				"code": "shattered_memories"
-			},
-			{
-				"code": "agents_of_cthulhu"
-			},
-			{
-				"code": "rats"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Vanishing of Elina Harper",
-		"code": "the_vanishing_of_elina_harper",
-		"campaign_code": "tic",
-		"encounter_sets": [
-			{
-				"code": "the_vanishing_of_elina_harper"
-			},
-			{
-				"code": "agents_of_dagon"
-			},
-			{
-				"code": "fog_over_innsmouth"
-			},
-			{
-				"code": "the_locals"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "In Too Deep",
-		"code": "in_too_deep",
-		"campaign_code": "tic",
-		"encounter_sets": [
-			{
-				"code": "in_too_deep"
-			},
-			{
-				"code": "creatures_of_the_deep"
-			},
-			{
-				"code": "rising_tide"
-			},
-			{
-				"code": "syzygy"
-			},
-			{
-				"code": "the_locals"
-			},
-			{
-				"code": "agents_of_cthulhu"
-			},
-			{
-				"code": "the_vanishing_of_elina_harper",
-				"cards": [
-					"07062b",
-					"07076",
-					"07077",
-					"07078",
-					"07079",
-					"07080",
-					"07081"
-				]
-			}
-		]
-	},
-	{
-		"name": "Devil Reef",
-		"code": "devil_reef",
-		"campaign_code": "tic",
-		"encounter_sets": [
-			{
-				"code": "devil_reef"
-			},
-			{
-				"code": "agents_of_hydra"
-			},
-			{
-				"code": "creatures_of_the_deep"
-			},
-			{
-				"code": "flooded_caverns"
-			},
-			{
-				"code": "malfunction"
-			},
-			{
-				"code": "rising_tide"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Horror in High Gear",
-		"code": "horror_in_high_gear",
-		"campaign_code": "tic",
-		"encounter_sets": [
-			{
-				"code": "horror_in_high_gear"
-			},
-			{
-				"code": "fog_over_innsmouth"
-			},
-			{
-				"code": "malfunction"
-			},
-			{
-				"code": "shattered_memories"
-			},
-			{
-				"code": "ancient_evils"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "A Light in the Fog",
-		"code": "a_light_in_the_fog",
-		"campaign_code": "tic",
-		"encounter_sets": [
-			{
-				"code": "a_light_in_the_fog"
-			},
-			{
-				"code": "creatures_of_the_deep"
-			},
-			{
-				"code": "flooded_caverns"
-			},
-			{
-				"code": "rising_tide"
-			},
-			{
-				"code": "syzygy"
-			},
-			{
-				"code": "striking_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Lair of Dagon",
-		"code": "the_lair_of_dagon",
-		"campaign_code": "tic",
-		"encounter_sets": [
-			{
-				"code": "the_lair_of_dagon"
-			},
-			{
-				"code": "agents_of_dagon"
-			},
-			{
-				"code": "flooded_caverns"
-			},
-			{
-				"code": "syzygy"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "the_vanishing_of_elina_harper",
-				"cards": ["07076", "07077", "07078", "07079", "07080", "07081"]
-			}
-		]
-	},
-	{
-		"name": "Into the Maelstrom",
-		"code": "into_the_maelstrom",
-		"campaign_code": "tic",
-		"encounter_sets": [
-			{
-				"code": "into_the_maelstrom"
-			},
-			{
-				"code": "agents_of_hydra"
-			},
-			{
-				"code": "creatures_of_the_deep"
-			},
-			{
-				"code": "flooded_caverns"
-			},
-			{
-				"code": "shattered_memories"
-			},
-			{
-				"code": "syzygy"
-			},
-			{
-				"code": "ancient_evils"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Ice and Death, Part I",
-		"code": "the_crash",
-		"campaign_code": "eoe",
-		"encounter_sets": [
-			{
-				"code": "the_crash"
-			},
-			{
-				"code": "ice_and_death"
-			},
-			{
-				"code": "creatures_in_the_ice"
-			},
-			{
-				"code": "deadly_weather"
-			},
-			{
-				"code": "hazards_of_antarctica"
-			},
-			{
-				"code": "silence_and_mystery"
-			},
-			{
-				"code": "tekelili"
-			},
-			{
-				"code": "ancient_evils"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Ice and Death, Part II",
-		"code": "lost_in_the_night",
-		"campaign_code": "eoe",
-		"encounter_sets": [
-			{
-				"code": "lost_in_the_night"
-			},
-			{
-				"code": "ice_and_death"
-			},
-			{
-				"code": "left_behind"
-			},
-			{
-				"code": "deadly_weather"
-			},
-			{
-				"code": "hazards_of_antarctica"
-			},
-			{
-				"code": "silence_and_mystery"
-			},
-			{
-				"code": "tekelili"
-			},
-			{
-				"code": "ancient_evils"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Ice and Death, Part III",
-		"code": "seeping_nightmares",
-		"campaign_code": "eoe",
-		"encounter_sets": [
-			{
-				"code": "seeping_nightmares"
-			},
-			{
-				"code": "ice_and_death"
-			},
-			{
-				"code": "creatures_in_the_ice"
-			},
-			{
-				"code": "deadly_weather"
-			},
-			{
-				"code": "hazards_of_antarctica"
-			},
-			{
-				"code": "silence_and_mystery"
-			},
-			{
-				"code": "tekelili"
-			},
-			{
-				"code": "ancient_evils"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Fatal Mirage",
-		"code": "fatal_mirage",
-		"campaign_code": "eoe",
-		"encounter_sets": [
-			{
-				"code": "fatal_mirage"
-			},
-			{
-				"code": "agents_of_the_unknown"
-			},
-			{
-				"code": "left_behind"
-			},
-			{
-				"code": "miasma"
-			},
-			{
-				"code": "nameless_horrors"
-			},
-			{
-				"code": "silence_and_mystery"
-			},
-			{
-				"code": "tekelili"
-			},
-			{
-				"code": "chilling_cold"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "To the Forbidden Peaks",
-		"code": "to_the_forbidden_peaks",
-		"campaign_code": "eoe",
-		"encounter_sets": [
-			{
-				"code": "to_the_forbidden_peaks"
-			},
-			{
-				"code": "deadly_weather"
-			},
-			{
-				"code": "elder_things"
-			},
-			{
-				"code": "hazards_of_antarctica"
-			},
-			{
-				"code": "nameless_horrors"
-			},
-			{
-				"code": "tekelili"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "City of the Elder Things",
-		"code": "city_of_the_elder_things",
-		"campaign_code": "eoe",
-		"encounter_sets": [
-			{
-				"code": "city_of_the_elder_things"
-			},
-			{
-				"code": "elder_things"
-			},
-			{
-				"code": "miasma"
-			},
-			{
-				"code": "nameless_horrors"
-			},
-			{
-				"code": "penguins"
-			},
-			{
-				"code": "shoggoths"
-			},
-			{
-				"code": "silence_and_mystery"
-			},
-			{
-				"code": "tekelili"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "creatures_in_the_ice"
-			},
-			{
-				"code": "chilling_cold"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Heart of Madness, Part I",
-		"code": "the_great_seal",
-		"campaign_code": "eoe",
-		"encounter_sets": [
-			{
-				"code": "the_great_seal"
-			},
-			{
-				"code": "the_heart_of_madness"
-			},
-			{
-				"code": "miasma"
-			},
-			{
-				"code": "nameless_horrors"
-			},
-			{
-				"code": "penguins"
-			},
-			{
-				"code": "shoggoths"
-			},
-			{
-				"code": "tekelili"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "locked_doors"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Heart of Madness, Part  II",
-		"code": "stirring_in_the_deep",
-		"campaign_code": "eoe",
-		"encounter_sets": [
-			{
-				"code": "stirring_in_the_deep"
-			},
-			{
-				"code": "the_heart_of_madness"
-			},
-			{
-				"code": "agents_of_the_unknown"
-			},
-			{
-				"code": "miasma"
-			},
-			{
-				"code": "nameless_horrors"
-			},
-			{
-				"code": "penguins"
-			},
-			{
-				"code": "tekelili"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "striking_fear",
-				"cards": ["01164", "01165"]
-			}
-		]
-	},
-	{
-		"name": "Riddles and Rain",
-		"code": "riddles_and_rain",
-		"campaign_code": "tsk",
-		"encounter_sets": [
-			{
-				"code": "riddles_and_rain"
-			},
-			{
-				"code": "crimson_conspiracy"
-			},
-			{
-				"code": "dark_veiling"
-			},
-			{
-				"code": "outsiders"
-			},
-			{
-				"code": "shadow_of_a_doubt"
-			},
-			{
-				"code": "strange_happenings"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "Dead Heat",
-		"code": "dead_heat",
-		"campaign_code": "tsk",
-		"encounter_sets": [
-			{
-				"code": "dead_heat"
-			},
-			{
-				"code": "scarlet_sorcery"
-			},
-			{
-				"code": "spreading_corruption"
-			},
-			{
-				"code": "ghouls"
-			},
-			{
-				"code": "striking_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Sanguine Shadows",
-		"code": "sanguine_shadows",
-		"campaign_code": "tsk",
-		"encounter_sets": [
-			{
-				"code": "sanguine_shadows"
-			},
-			{
-				"code": "dark_veiling"
-			},
-			{
-				"code": "mysteries_abound"
-			},
-			{
-				"code": "shadow_of_a_doubt"
-			},
-			{
-				"code": "strange_happenings"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "nightgaunts"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Dealings in the Dark",
-		"code": "dealings_in_the_dark",
-		"campaign_code": "tsk",
-		"encounter_sets": [
-			{
-				"code": "dealings_in_the_dark"
-			},
-			{
-				"code": "agents_of_yuggoth"
-			},
-			{
-				"code": "dark_veiling"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "Dancing Mad",
-		"code": "dancing_mad",
-		"campaign_code": "tsk",
-		"encounter_sets": [
-			{
-				"code": "dancing_mad"
-			},
-			{
-				"code": "agents_of_the_outside"
-			},
-			{
-				"code": "cleanup_crew"
-			},
-			{
-				"code": "crimson_conspiracy"
-			},
-			{
-				"code": "secret_war"
-			},
-			{
-				"code": "shadow_of_a_doubt"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "On Thin Ice",
-		"code": "on_thin_ice",
-		"campaign_code": "tsk",
-		"encounter_sets": [
-			{
-				"code": "on_thin_ice"
-			},
-			{
-				"code": "agents_of_the_outside"
-			},
-			{
-				"code": "agents_of_yuggoth"
-			},
-			{
-				"code": "crimson_conspiracy"
-			},
-			{
-				"code": "dark_veiling"
-			},
-			{
-				"code": "outsiders"
-			},
-			{
-				"code": "spatial_anomaly"
-			},
-			{
-				"code": "chilling_cold"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Dogs of War",
-		"code": "dogs_of_war",
-		"campaign_code": "tsk",
-		"encounter_sets": [
-			{
-				"code": "dogs_of_war"
-			},
-			{
-				"code": "scarlet_sorcery"
-			},
-			{
-				"code": "spatial_anomaly"
-			},
-			{
-				"code": "spreading_corruption"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "cleanup_crew"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Shades of Suffering",
-		"code": "shades_of_suffering",
-		"campaign_code": "tsk",
-		"encounter_sets": [
-			{
-				"code": "shades_of_suffering"
-			},
-			{
-				"code": "dark_veiling"
-			},
-			{
-				"code": "mysteries_abound"
-			},
-			{
-				"code": "scarlet_sorcery"
-			},
-			{
-				"code": "spreading_corruption"
-			},
-			{
-				"code": "striking_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Without a Trace",
-		"code": "without_a_trace",
-		"campaign_code": "tsk",
-		"encounter_sets": [
-			{
-				"code": "without_a_trace"
-			},
-			{
-				"code": "agents_of_the_outside"
-			},
-			{
-				"code": "beyond_the_beyond"
-			},
-			{
-				"code": "outsiders"
-			},
-			{
-				"code": "secret_war"
-			},
-			{
-				"code": "spreading_corruption"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Congress of the Keys",
-		"code": "congress_of_the_keys",
-		"campaign_code": "tsk",
-		"encounter_sets": [
-			{
-				"code": "congress_of_the_keys"
-			},
-			{
-				"code": "red_coterie"
-			},
-			{
-				"code": "scarlet_sorcery"
-			},
-			{
-				"code": "spatial_anomaly"
-			},
-			{
-				"code": "spreading_corruption"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "agents_of_the_outside"
-			},
-			{
-				"code": "beyond_the_beyond"
-			},
-			{
-				"code": "outsiders"
-			},
-			{
-				"code": "secret_war"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "striking_fear",
-				"cards": ["01164", "01165"]
-			}
-		]
-	},
-	{
-		"name": "Prelude: Welcome to Hemlock Vale!",
-		"code": "prelude_1",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "the_first_day"
-			},
-			{
-				"code": "day_of_rest"
-			},
-			{
-				"code": "residents"
-			},
-			{
-				"code": "the_vale"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Written in Rock",
-		"code": "written_in_rock",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "written_in_rock"
-			},
-			{
-				"code": "horrors_in_the_rock"
-			},
-			{
-				"code": "refractions"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "ghouls"
-			},
-			{
-				"code": "the_first_day"
-			},
-			{
-				"code": "the_second_day"
-			},
-			{
-				"code": "the_final_day"
-			},
-			{
-				"code": "residents"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Hemlock House",
-		"code": "hemlock_house",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "hemlock_house"
-			},
-			{
-				"code": "agents_of_the_colour"
-			},
-			{
-				"code": "blight"
-			},
-			{
-				"code": "fire"
-			},
-			{
-				"code": "transfiguration"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "rats"
-			},
-			{
-				"code": "the_first_day"
-			},
-			{
-				"code": "the_second_day"
-			},
-			{
-				"code": "the_final_day"
-			},
-			{
-				"code": "residents"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Silent Heath",
-		"code": "the_silent_heath",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "the_silent_heath"
-			},
-			{
-				"code": "agents_of_the_colour"
-			},
-			{
-				"code": "blight"
-			},
-			{
-				"code": "horrors_in_the_rock"
-			},
-			{
-				"code": "refractions"
-			},
-			{
-				"code": "transfiguration"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "the_first_day"
-			},
-			{
-				"code": "the_second_day"
-			},
-			{
-				"code": "the_final_day"
-			},
-			{
-				"code": "residents"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Lost Sister",
-		"code": "the_lost_sister",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "the_lost_sister"
-			},
-			{
-				"code": "blight"
-			},
-			{
-				"code": "horrors_in_the_rock"
-			},
-			{
-				"code": "mutations"
-			},
-			{
-				"code": "myconids"
-			},
-			{
-				"code": "the_first_day"
-			},
-			{
-				"code": "the_second_day"
-			},
-			{
-				"code": "the_final_day"
-			},
-			{
-				"code": "residents"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Thing in the Depths",
-		"code": "the_thing_in_the_depths",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "the_thing_in_the_depths"
-			},
-			{
-				"code": "blight"
-			},
-			{
-				"code": "the_forest"
-			},
-			{
-				"code": "mutations"
-			},
-			{
-				"code": "the_first_day"
-			},
-			{
-				"code": "the_second_day"
-			},
-			{
-				"code": "the_final_day"
-			},
-			{
-				"code": "residents"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Twisted Hollow",
-		"code": "the_twisted_hollow",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "the_twisted_hollow"
-			},
-			{
-				"code": "the_first_day"
-			},
-			{
-				"code": "the_forest"
-			},
-			{
-				"code": "myconids"
-			},
-			{
-				"code": "residents"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Prelude: Dawn of the Second Day",
-		"code": "prelude_2",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "the_second_day"
-			},
-			{
-				"code": "day_of_rain"
-			},
-			{
-				"code": "residents"
-			},
-			{
-				"code": "the_vale"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Longest Night",
-		"code": "the_longest_night",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "the_second_day"
-			},
-			{
-				"code": "the_longest_night"
-			},
-			{
-				"code": "blight"
-			},
-			{
-				"code": "transfiguration"
-			},
-			{
-				"code": "fire"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "residents"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "Prelude: Dawn of the Final Day",
-		"code": "prelude_3",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "the_final_day"
-			},
-			{
-				"code": "day_of_the_feast"
-			},
-			{
-				"code": "agents_of_the_colour"
-			},
-			{
-				"code": "residents"
-			},
-			{
-				"code": "the_vale"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Prelude: The Final Evening",
-		"code": "prelude_4",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "the_final_day"
-			},
-			{
-				"code": "day_of_the_feast"
-			},
-			{
-				"code": "residents"
-			},
-			{
-				"code": "the_vale"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Fate of the Vale",
-		"code": "fate_of_the_vale",
-		"campaign_code": "fhv",
-		"encounter_sets": [
-			{
-				"code": "the_final_day"
-			},
-			{
-				"code": "fate_of_the_vale"
-			},
-			{
-				"code": "day_of_the_feast"
-			},
-			{
-				"code": "agents_of_the_colour"
-			},
-			{
-				"code": "fire"
-			},
-			{
-				"code": "horrors_in_the_rock"
-			},
-			{
-				"code": "refractions"
-			},
-			{
-				"code": "residents"
-			},
-			{
-				"code": "transfiguration"
-			},
-			{
-				"code": "the_vale"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "One Last Job",
-		"code": "one_last_job",
-		"campaign_code": "tdc",
-		"encounter_sets": [
-			{
-				"code": "one_last_job"
-			},
-			{
-				"code": "dreams"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "rats"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01125", "01129", "01130", "01131", "01132", "01134"]
-			}
-		]
-	},
-	{
-		"name": "The Western Wall",
-		"code": "the_western_wall",
-		"campaign_code": "tdc",
-		"encounter_sets": [
-			{
-				"code": "the_western_wall"
-			},
-			{
-				"code": "cosmic_legacy"
-			},
-			{
-				"code": "deep_ones"
-			},
-			{
-				"code": "tdc_flood"
-			},
-			{
-				"code": "rlyeh"
-			},
-			{
-				"code": "the_inescapable"
-			},
-			{
-				"code": "undersea_creatures"
-			},
-			{
-				"code": "agents_of_cthulhu"
-			},
-			{
-				"code": "tdc_expedition"
-			},
-			{
-				"code": "star_spawn",
-				"cards": ["11727"]
-			}
-		]
-	},
-	{
-		"name": "The Drowned Quarter",
-		"code": "the_drowned_quarter",
-		"campaign_code": "tdc",
-		"encounter_sets": [
-			{
-				"code": "the_drowned_quarter"
-			},
-			{
-				"code": "alien_machinery"
-			},
-			{
-				"code": "cosmic_legacy"
-			},
-			{
-				"code": "deep_ones"
-			},
-			{
-				"code": "elder_mist"
-			},
-			{
-				"code": "tdc_flood"
-			},
-			{
-				"code": "rlyeh"
-			},
-			{
-				"code": "undersea_creatures"
-			},
-			{
-				"code": "tdc_expedition"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Apiary",
-		"code": "the_apiary",
-		"campaign_code": "tdc",
-		"encounter_sets": [
-			{
-				"code": "the_apiary"
-			},
-			{
-				"code": "cosmic_legacy"
-			},
-			{
-				"code": "elder_mist"
-			},
-			{
-				"code": "the_inescapable"
-			},
-			{
-				"code": "pilgrims"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "stowaways"
-			},
-			{
-				"code": "tdc_expedition"
-			},
-			{
-				"code": "star_spawn",
-				"cards": ["11726"]
-			}
-		]
-	},
-	{
-		"name": "The Grand Vault",
-		"code": "the_grand_vault",
-		"campaign_code": "tdc",
-		"encounter_sets": [
-			{
-				"code": "the_grand_vault"
-			},
-			{
-				"code": "alien_machinery"
-			},
-			{
-				"code": "tdc_flood"
-			},
-			{
-				"code": "the_inescapable"
-			},
-			{
-				"code": "rlyeh"
-			},
-			{
-				"code": "star_spawn"
-			},
-			{
-				"code": "tdc_expedition"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Court of the Ancients",
-		"code": "court_of_the_ancients",
-		"campaign_code": "tdc",
-		"encounter_sets": [
-			{
-				"code": "court_of_the_ancients"
-			},
-			{
-				"code": "domination"
-			},
-			{
-				"code": "dreams"
-			},
-			{
-				"code": "elder_mist"
-			},
-			{
-				"code": "the_inescapable"
-			},
-			{
-				"code": "rlyeh"
-			},
-			{
-				"code": "star_spawn"
-			},
-			{
-				"code": "stowaways"
-			},
-			{
-				"code": "pilgrims"
-			},
-			{
-				"code": "tdc_expedition"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Obsidian Canyons",
-		"code": "obsidian_canyons",
-		"campaign_code": "tdc",
-		"encounter_sets": [
-			{
-				"code": "obsidian_canyons"
-			},
-			{
-				"code": "cosmic_legacy"
-			},
-			{
-				"code": "elder_mist"
-			},
-			{
-				"code": "the_inescapable"
-			},
-			{
-				"code": "rlyeh"
-			},
-			{
-				"code": "star_spawn"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "tdc_expedition"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Sepulchre of the Sleeper",
-		"code": "sepulchre_of_the_sleeper",
-		"campaign_code": "tdc",
-		"encounter_sets": [
-			{
-				"code": "sepulchre_of_the_sleeper"
-			},
-			{
-				"code": "domination"
-			},
-			{
-				"code": "dreams"
-			},
-			{
-				"code": "rlyeh"
-			},
-			{
-				"code": "star_spawn"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "tdc_expedition"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Doom of Arkham Part I",
-		"code": "the_doom_of_arkham_part_1",
-		"campaign_code": "tdc",
-		"encounter_sets": [
-			{
-				"code": "the_doom_of_arkham_part_1"
-			},
-			{
-				"code": "deep_ones"
-			},
-			{
-				"code": "domination"
-			},
-			{
-				"code": "dreams"
-			},
-			{
-				"code": "star_spawn"
-			},
-			{
-				"code": "agents_of_cthulhu"
-			},
-			{
-				"code": "arkham",
-				"cards": [
-					"01125",
-					"01126",
-					"01127",
-					"01128",
-					"01129",
-					"01130",
-					"01131",
-					"01132",
-					"01134",
-					"01135",
-					"01136"
-				]
-			}
-		]
-	},
-	{
-		"name": "The Doom of Arkham Part II",
-		"code": "the_doom_of_arkham_part_2",
-		"campaign_code": "tdc",
-		"encounter_sets": [
-			{
-				"code": "the_doom_of_arkham_part_2"
-			},
-			{
-				"code": "domination"
-			},
-			{
-				"code": "elder_mist"
-			},
-			{
-				"code": "tdc_flood"
-			},
-			{
-				"code": "star_spawn"
-			},
-			{
-				"code": "agents_of_cthulhu"
-			},
-			{
-				"code": "arkham",
-				"cards": [
-					"01126",
-					"01127",
-					"01128",
-					"01129",
-					"01130",
-					"01131",
-					"01132",
-					"01134"
-				]
-			}
-		]
-	},
-	{
-		"name": "Spreading Flames",
-		"code": "spreading_flames",
-		"campaign_code": "core_ch2",
-		"encounter_sets": [
-			{
-				"code": "spreading_flames"
-			},
-			{
-				"code": "ashen_pilgrims"
-			},
-			{
-				"code": "bystanders"
-			},
-			{
-				"code": "cosmic_evils"
-			},
-			{
-				"code": "eldritch_lore"
-			},
-			{
-				"code": "fire_ch2"
-			},
-			{
-				"code": "hallucinations"
-			},
-			{
-				"code": "mad_science"
-			},
-			{
-				"code": "miskatonic_university"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Smoke and Mirrors",
-		"code": "smoke_and_mirrors",
-		"campaign_code": "core_ch2",
-		"encounter_sets": [
-			{
-				"code": "smoke_and_mirrors"
-			},
-			{
-				"code": "arcane_lock"
-			},
-			{
-				"code": "arkham_ch2"
-			},
-			{
-				"code": "bad_weather"
-			},
-			{
-				"code": "dead_ends"
-			},
-			{
-				"code": "flying_terrors"
-			},
-			{
-				"code": "gangs_of_arkham"
-			},
-			{
-				"code": "people_of_arkham"
-			},
-			{
-				"code": "whippoorwills_ch2"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Queen of Ash",
-		"code": "queen_of_ash",
-		"campaign_code": "core_ch2",
-		"encounter_sets": [
-			{
-				"code": "queen_of_ash"
-			},
-			{
-				"code": "ashen_pilgrims"
-			},
-			{
-				"code": "cosmic_evils"
-			},
-			{
-				"code": "cultists_ch2"
-			},
-			{
-				"code": "fire_ch2"
-			},
-			{
-				"code": "hallucinations"
-			},
-			{
-				"code": "reeking_decay"
-			},
-			{
-				"code": "arkham_sewers"
-			},
-			{
-				"code": "torment"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The Gathering",
-		"code": "return_to_the_gathering",
-		"campaign_code": "rtnotz",
-		"encounter_sets": [
-			{
-				"code": "return_to_the_gathering"
-			},
-			{
-				"code": "torch"
-			},
-			{
-				"code": "rats"
-			},
-			{
-				"code": "ghouls_of_umôrdhoth"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "chilling_cold"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The Midnight Masks",
-		"code": "return_to_the_midnight_masks",
-		"campaign_code": "rtnotz",
-		"encounter_sets": [
-			{
-				"code": "arkham"
-			},
-			{
-				"code": "return_to_the_midnight_masks"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "return_cult"
-			},
-			{
-				"code": "the_devourers_cult"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "cultists"
-			},
-			{
-				"code": "torch",
-				"cards": ["01116"]
-			}
-		]
-	},
-	{
-		"name": "Return to The Devourer Below",
-		"code": "return_to_the_devourer_below",
-		"campaign_code": "rtnotz",
-		"encounter_sets": [
-			{
-				"code": "tentacles"
-			},
-			{
-				"code": "return_to_the_devourer_below"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "ghouls_of_umôrdhoth"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "return_cult"
-			},
-			{
-				"code": "the_devourers_cult"
-			},
-			{
-				"code": "agents_of_yog"
-			},
-			{
-				"code": "cultists"
-			},
-			{
-				"code": "agents_of_shub"
-			},
-			{
-				"code": "agents_of_cthulhu"
-			},
-			{
-				"code": "agents_of_hastur"
-			},
-			{
-				"code": "torch",
-				"cards": ["01116"]
-			}
-		]
-	},
-	{
-		"name": "Return to Extracurricular Activity",
-		"code": "return_to_extracurricular_activity",
-		"campaign_code": "rtdwl",
-		"encounter_sets": [
-			{
-				"code": "extracurricular_activity"
-			},
-			{
-				"code": "return_to_extracurricular_activities"
-			},
-			{
-				"code": "sorcery"
-			},
-			{
-				"code": "beyond_the_threshold"
-			},
-			{
-				"code": "bishops_thralls"
-			},
-			{
-				"code": "whippoorwills"
-			},
-			{
-				"code": "resurgent_evils"
-			},
-			{
-				"code": "secret_doors"
-			},
-			{
-				"code": "yog_sothoths_emissaries"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The House Always Wins",
-		"code": "return_to_the_house_always_wins",
-		"campaign_code": "rtdwl",
-		"encounter_sets": [
-			{
-				"code": "the_house_always_wins"
-			},
-			{
-				"code": "return_to_the_house_always_wins"
-			},
-			{
-				"code": "bad_luck"
-			},
-			{
-				"code": "naomis_crew"
-			},
-			{
-				"code": "rats"
-			},
-			{
-				"code": "hideous_abominations"
-			},
-			{
-				"code": "erratic_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The Miskatonic Museum",
-		"code": "return_to_the_miskatonic_museum",
-		"campaign_code": "rtdwl",
-		"encounter_sets": [
-			{
-				"code": "the_miskatonic_museum"
-			},
-			{
-				"code": "return_to_the_miskatonic_museum"
-			},
-			{
-				"code": "bad_luck"
-			},
-			{
-				"code": "sorcery"
-			},
-			{
-				"code": "beyond_the_threshold"
-			},
-			{
-				"code": "creeping_cold"
-			},
-			{
-				"code": "secret_doors"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The Essex County Express",
-		"code": "return_to_the_essex_county_express",
-		"campaign_code": "rtdwl",
-		"encounter_sets": [
-			{
-				"code": "essex_county_express"
-			},
-			{
-				"code": "return_to_the_essex_county_express"
-			},
-			{
-				"code": "beyond_the_threshold"
-			},
-			{
-				"code": "erratic_fear"
-			},
-			{
-				"code": "resurgent_evils"
-			},
-			{
-				"code": "pentagram"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to Blood on the Altar",
-		"code": "return_to_blood_on_the_altar",
-		"campaign_code": "rtdwl",
-		"encounter_sets": [
-			{
-				"code": "blood_on_the_altar"
-			},
-			{
-				"code": "return_to_blood_on_the_altar"
-			},
-			{
-				"code": "dunwich"
-			},
-			{
-				"code": "whippoorwills"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "resurgent_evils"
-			},
-			{
-				"code": "naomis_crew"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to Undimensioned and Unseen",
-		"code": "return_to_undimensioned_and_unseen",
-		"campaign_code": "rtdwl",
-		"encounter_sets": [
-			{
-				"code": "undimensioned_and_unseen"
-			},
-			{
-				"code": "return_to_undimensioned_and_unseen"
-			},
-			{
-				"code": "whippoorwills"
-			},
-			{
-				"code": "beast_thralls"
-			},
-			{
-				"code": "dunwich"
-			},
-			{
-				"code": "erratic_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to Where Doom Awaits",
-		"code": "return_to_where_doom_awaits",
-		"campaign_code": "rtdwl",
-		"encounter_sets": [
-			{
-				"code": "where_doom_awaits"
-			},
-			{
-				"code": "return_to_where_doom_awaits"
-			},
-			{
-				"code": "beast_thralls"
-			},
-			{
-				"code": "sorcery"
-			},
-			{
-				"code": "bishops_thralls"
-			},
-			{
-				"code": "erratic_fear"
-			},
-			{
-				"code": "resurgent_evils"
-			},
-			{
-				"code": "creeping_cold"
-			},
-			{
-				"code": "hideous_abominations"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to Lost in Time and Space",
-		"code": "return_to_lost_in_time_and_space",
-		"campaign_code": "rtdwl",
-		"encounter_sets": [
-			{
-				"code": "lost_in_time_and_space"
-			},
-			{
-				"code": "return_to_lost_in_time_and_space"
-			},
-			{
-				"code": "sorcery"
-			},
-			{
-				"code": "beyond_the_threshold"
-			},
-			{
-				"code": "hideous_abominations"
-			},
-			{
-				"code": "yog_sothoths_emissaries"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to Curtain Call",
-		"code": "return_to_curtain_call",
-		"campaign_code": "rtptc",
-		"encounter_sets": [
-			{
-				"code": "curtain_call"
-			},
-			{
-				"code": "return_to_curtain_call"
-			},
-			{
-				"code": "evil_portents"
-			},
-			{
-				"code": "maddening_delusions"
-			},
-			{
-				"code": "hauntings"
-			},
-			{
-				"code": "cult_of_the_yellow_sign"
-			},
-			{
-				"code": "neurotic_fear"
-			},
-			{
-				"code": "rats"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The Last King",
-		"code": "return_to_the_last_king",
-		"campaign_code": "rtptc",
-		"encounter_sets": [
-			{
-				"code": "the_last_king"
-			},
-			{
-				"code": "return_to_the_last_king"
-			},
-			{
-				"code": "hasturs_gift"
-			},
-			{
-				"code": "decaying_reality"
-			},
-			{
-				"code": "stranger"
-			},
-			{
-				"code": "delusory_evils"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to Echoes of the Past",
-		"code": "return_to_echoes_of_the_past",
-		"campaign_code": "rtptc",
-		"encounter_sets": [
-			{
-				"code": "echoes_of_the_past"
-			},
-			{
-				"code": "return_to_echoes_of_the_past"
-			},
-			{
-				"code": "cult_of_the_yellow_sign"
-			},
-			{
-				"code": "maddening_delusions"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			},
-			{
-				"code": "the_last_king",
-				"cards": ["03068b"]
-			}
-		]
-	},
-	{
-		"name": "Return to The Unspeakable Oath",
-		"code": "return_to_the_unspeakable_oath",
-		"campaign_code": "rtptc",
-		"encounter_sets": [
-			{
-				"code": "the_unspeakable_oath"
-			},
-			{
-				"code": "return_to_the_unspeakable_oath"
-			},
-			{
-				"code": "hasturs_gift"
-			},
-			{
-				"code": "inhabitants_of_carcosa"
-			},
-			{
-				"code": "maddening_delusions"
-			},
-			{
-				"code": "decaying_reality"
-			},
-			{
-				"code": "hasturs_envoys"
-			},
-			{
-				"code": "the_last_king",
-				"cards": ["03065b"]
-			}
-		]
-	},
-	{
-		"name": "Return to A Phantom of Truth",
-		"code": "return_to_a_phantom_of_truth",
-		"campaign_code": "rtptc",
-		"encounter_sets": [
-			{
-				"code": "a_phantom_of_truth"
-			},
-			{
-				"code": "return_to_a_phantom_of_truth"
-			},
-			{
-				"code": "evil_portents"
-			},
-			{
-				"code": "byakhee"
-			},
-			{
-				"code": "stranger"
-			},
-			{
-				"code": "hasturs_envoys"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			},
-			{
-				"code": "the_last_king",
-				"cards": ["03066b"]
-			}
-		]
-	},
-	{
-		"name": "Return to The Pallid Mask",
-		"code": "return_to_the_pallid_mask",
-		"campaign_code": "rtptc",
-		"encounter_sets": [
-			{
-				"code": "the_pallid_mask"
-			},
-			{
-				"code": "return_to_the_pallid_mask"
-			},
-			{
-				"code": "ghouls"
-			},
-			{
-				"code": "hauntings"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "the_last_king",
-				"cards": ["03067b"]
-			}
-		]
-	},
-	{
-		"name": "Return to Black Stars Rise",
-		"code": "return_to_black_stars_rise",
-		"campaign_code": "rtptc",
-		"encounter_sets": [
-			{
-				"code": "black_stars_rise"
-			},
-			{
-				"code": "return_to_black_stars_rise"
-			},
-			{
-				"code": "evil_portents"
-			},
-			{
-				"code": "byakhee"
-			},
-			{
-				"code": "inhabitants_of_carcosa"
-			},
-			{
-				"code": "stranger"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "delusory_evils"
-			},
-			{
-				"code": "flood"
-			},
-			{
-				"code": "vortex"
-			},
-			{
-				"code": "the_last_king",
-				"cards": ["03069b"]
-			}
-		]
-	},
-	{
-		"name": "Return to Dim Carcosa",
-		"code": "return_to_dim_carcosa",
-		"campaign_code": "rtptc",
-		"encounter_sets": [
-			{
-				"code": "dim_carcosa"
-			},
-			{
-				"code": "return_to_dim_carcosa"
-			},
-			{
-				"code": "maddening_delusions"
-			},
-			{
-				"code": "cult_of_the_yellow_sign"
-			},
-			{
-				"code": "inhabitants_of_carcosa"
-			},
-			{
-				"code": "hasturs_envoys"
-			},
-			{
-				"code": "neurotic_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The Untamed Wilds",
-		"code": "return_to_the_untamed_wilds",
-		"campaign_code": "rttfa",
-		"encounter_sets": [
-			{
-				"code": "wilds"
-			},
-			{
-				"code": "return_to_the_untamed_wilds"
-			},
-			{
-				"code": "rainforest"
-			},
-			{
-				"code": "return_to_the_rainforest"
-			},
-			{
-				"code": "serpents"
-			},
-			{
-				"code": "doomed_expedition"
-			},
-			{
-				"code": "guardians_of_time"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "ancient_evils"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The Doom of Eztli",
-		"code": "return_to_the_doom_of_eztli",
-		"campaign_code": "rttfa",
-		"encounter_sets": [
-			{
-				"code": "eztli"
-			},
-			{
-				"code": "return_to_the_doom_of_eztli"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "venomous_hate"
-			},
-			{
-				"code": "temporal_hunters"
-			},
-			{
-				"code": "traps"
-			},
-			{
-				"code": "ruins"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "serpents",
-				"cards": ["04078"]
-			}
-		]
-	},
-	{
-		"name": "Return to Threads of Fate",
-		"code": "return_to_threads_of_fate",
-		"campaign_code": "rttfa",
-		"encounter_sets": [
-			{
-				"code": "threads_of_fate"
-			},
-			{
-				"code": "return_to_threads_of_fate"
-			},
-			{
-				"code": "pnakotic_brotherhood"
-			},
-			{
-				"code": "cult_of_pnakotus"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01125", "01129", "01130", "01132", "01134", "01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "Return to The Boundary Beyond",
-		"code": "return_to_the_boundary_beyond",
-		"campaign_code": "rttfa",
-		"encounter_sets": [
-			{
-				"code": "the_boundary_beyond"
-			},
-			{
-				"code": "return_to_the_boundary_beyond"
-			},
-			{
-				"code": "temporal_hunters"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "pnakotic_brotherhood"
-			},
-			{
-				"code": "cult_of_pnakotus"
-			},
-			{
-				"code": "venomous_hate"
-			},
-			{
-				"code": "guardians_of_time"
-			},
-			{
-				"code": "return_to_the_doom_of_eztli",
-				"cards": ["53018"]
-			}
-		]
-	},
-	{
-		"name": "Return to Heart of the Elders, Part I",
-		"code": "return_to_pillars_of_judgment",
-		"campaign_code": "rttfa",
-		"encounter_sets": [
-			{
-				"code": "pillars_of_judgment"
-			},
-			{
-				"code": "return_to_pillars_of_judgment"
-			},
-			{
-				"code": "heart_of_the_elders"
-			},
-			{
-				"code": "rainforest"
-			},
-			{
-				"code": "return_to_the_rainforest"
-			},
-			{
-				"code": "serpents"
-			},
-			{
-				"code": "doomed_expedition"
-			},
-			{
-				"code": "poison"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to Heart of the Elders, Part II",
-		"code": "return_to_knyan",
-		"campaign_code": "rttfa",
-		"encounter_sets": [
-			{
-				"code": "knyan"
-			},
-			{
-				"code": "return_to_knyan"
-			},
-			{
-				"code": "heart_of_the_elders"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "venomous_hate"
-			},
-			{
-				"code": "ruins"
-			},
-			{
-				"code": "traps"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "return_to_the_doom_of_eztli",
-				"cards": ["53018"]
-			}
-		]
-	},
-	{
-		"name": "Return to The City of Archives",
-		"code": "return_to_the_city_of_archives",
-		"campaign_code": "rttfa",
-		"encounter_sets": [
-			{
-				"code": "the_city_of_archives"
-			},
-			{
-				"code": "return_to_the_city_of_archives"
-			},
-			{
-				"code": "agents_of_yog"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "striking_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The Depths of Yoth",
-		"code": "return_to_the_depths_of_yoth",
-		"campaign_code": "rttfa",
-		"encounter_sets": [
-			{
-				"code": "the_depths_of_yoth"
-			},
-			{
-				"code": "return_to_the_depths_of_yoth"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "venomous_hate"
-			},
-			{
-				"code": "doomed_expedition"
-			},
-			{
-				"code": "ruins"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "return_to_the_doom_of_eztli",
-				"cards": ["53018"]
-			}
-		]
-	},
-	{
-		"name": "Return to Shattered Aeons",
-		"code": "return_to_shattered_aeons",
-		"campaign_code": "rttfa",
-		"encounter_sets": [
-			{
-				"code": "shattered_aeons"
-			},
-			{
-				"code": "return_to_shattered_aeons"
-			},
-			{
-				"code": "pnakotic_brotherhood"
-			},
-			{
-				"code": "temporal_hunters"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "cult_of_pnakotus"
-			},
-			{
-				"code": "agents_of_yig"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to Turn Back Time",
-		"code": "return_to_turn_back_time",
-		"campaign_code": "rttfa",
-		"encounter_sets": [
-			{
-				"code": "turn_back_time"
-			},
-			{
-				"code": "return_to_turn_back_time"
-			},
-			{
-				"code": "eztli"
-			},
-			{
-				"code": "return_to_the_doom_of_eztli"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "venomous_hate"
-			},
-			{
-				"code": "temporal_hunters"
-			},
-			{
-				"code": "traps"
-			},
-			{
-				"code": "ruins"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "serpents",
-				"cards": ["04078"]
-			}
-		]
-	},
-	{
-		"name": "Return to Disappearance at the Twilight Estate",
-		"code": "return_to_disappearance_at_the_twilight_estate",
-		"campaign_code": "rttcu",
-		"encounter_sets": [
-			{
-				"code": "disappearance_at_the_twilight_estate"
-			},
-			{
-				"code": "return_to_disappearance_at_the_twilight_estate"
-			},
-			{
-				"code": "at_deaths_doorstep"
-			},
-			{
-				"code": "unspeakable_fate"
-			},
-			{
-				"code": "unstable_realm"
-			},
-			{
-				"code": "spectral_predators"
-			},
-			{
-				"code": "bloodthirsty_spirits"
-			},
-			{
-				"code": "the_watcher"
-			},
-			{
-				"code": "chilling_mists"
-			},
-			{
-				"code": "return_to_at_deaths_doorstep",
-				"cards": ["54028"]
-			}
-		]
-	},
-	{
-		"name": "Return to The Witching Hour",
-		"code": "return_to_the_witching_hour",
-		"campaign_code": "rttcu",
-		"encounter_sets": [
-			{
-				"code": "the_witching_hour"
-			},
-			{
-				"code": "return_to_the_witching_hour"
-			},
-			{
-				"code": "anettes_coven"
-			},
-			{
-				"code": "city_of_the_damned"
-			},
-			{
-				"code": "hexcraft"
-			},
-			{
-				"code": "impending_evils"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "agents_of_azathoth"
-			},
-			{
-				"code": "agents_of_shub"
-			},
-			{
-				"code": "tentacles",
-				"cards": ["01150", "01151", "01152", "01153", "01154", "01155"]
-			},
-			{
-				"code": "return_to_the_devourer_below",
-				"cards": ["50033", "50034", "50035", "50036"]
-			}
-		]
-	},
-	{
-		"name": "Return to At Death's Doorstep",
-		"code": "return_to_at_deaths_doorstep",
-		"campaign_code": "rttcu",
-		"encounter_sets": [
-			{
-				"code": "at_deaths_doorstep"
-			},
-			{
-				"code": "return_to_at_deaths_doorstep"
-			},
-			{
-				"code": "silver_twilight_lodge"
-			},
-			{
-				"code": "spectral_predators"
-			},
-			{
-				"code": "bloodthirsty_spirits"
-			},
-			{
-				"code": "unspeakable_fate"
-			},
-			{
-				"code": "chilling_mists"
-			},
-			{
-				"code": "unstable_realm"
-			},
-			{
-				"code": "the_watcher"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The Secret Name",
-		"code": "return_to_the_secret_name",
-		"campaign_code": "rttcu",
-		"encounter_sets": [
-			{
-				"code": "the_secret_name"
-			},
-			{
-				"code": "return_to_the_secret_name"
-			},
-			{
-				"code": "city_of_the_damned"
-			},
-			{
-				"code": "unspeakable_fate"
-			},
-			{
-				"code": "unstable_realm"
-			},
-			{
-				"code": "hexcraft"
-			},
-			{
-				"code": "rats"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to The Wages of Sin",
-		"code": "return_to_the_wages_of_sin",
-		"campaign_code": "rttcu",
-		"encounter_sets": [
-			{
-				"code": "the_wages_of_sin"
-			},
-			{
-				"code": "return_to_the_wages_of_sin"
-			},
-			{
-				"code": "anettes_coven"
-			},
-			{
-				"code": "city_of_the_damned"
-			},
-			{
-				"code": "unspeakable_fate"
-			},
-			{
-				"code": "unstable_realm"
-			},
-			{
-				"code": "bloodthirsty_spirits"
-			},
-			{
-				"code": "hexcraft"
-			},
-			{
-				"code": "the_watcher"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to For the Greater Good",
-		"code": "return_to_for_the_greater_good",
-		"campaign_code": "rttcu",
-		"encounter_sets": [
-			{
-				"code": "for_the_greater_good"
-			},
-			{
-				"code": "return_to_for_the_greater_good"
-			},
-			{
-				"code": "city_of_the_damned"
-			},
-			{
-				"code": "silver_twilight_lodge"
-			},
-			{
-				"code": "impending_evils"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "locked_doors"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Return to Union and Disillusion",
-		"code": "return_to_union_and_disillusion",
-		"campaign_code": "rttcu",
-		"encounter_sets": [
-			{
-				"code": "union_and_disillusion"
-			},
-			{
-				"code": "return_to_union_and_disillusion"
-			},
-			{
-				"code": "unspeakable_fate"
-			},
-			{
-				"code": "unstable_realm"
-			},
-			{
-				"code": "spectral_predators"
-			},
-			{
-				"code": "impending_evils"
-			},
-			{
-				"code": "chilling_mists"
-			},
-			{
-				"code": "anettes_coven"
-			},
-			{
-				"code": "silver_twilight_lodge"
-			},
-			{
-				"code": "the_watcher"
-			},
-			{
-				"code": "the_witching_hour",
-				"cards": ["05057"]
-			},
-			{
-				"code": "at_deaths_doorstep",
-				"cards": ["05085"]
-			}
-		]
-	},
-	{
-		"name": "Return to In the Clutches of Chaos",
-		"code": "return_to_in_the_clutches_of_chaos",
-		"campaign_code": "rttcu",
-		"encounter_sets": [
-			{
-				"code": "in_the_clutches_of_chaos"
-			},
-			{
-				"code": "return_to_in_the_clutches_of_chaos"
-			},
-			{
-				"code": "agents_of_azathoth"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "music_of_the_damned"
-			},
-			{
-				"code": "anettes_coven"
-			},
-			{
-				"code": "city_of_the_damned"
-			},
-			{
-				"code": "hexcraft"
-			},
-			{
-				"code": "secrets_of_the_universe"
-			},
-			{
-				"code": "silver_twilight_lodge"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "Return to Before the Black Throne",
-		"code": "return_to_before_the_black_throne",
-		"campaign_code": "rttcu",
-		"encounter_sets": [
-			{
-				"code": "before_the_black_throne"
-			},
-			{
-				"code": "return_to_before_the_black_throne"
-			},
-			{
-				"code": "agents_of_azathoth"
-			},
-			{
-				"code": "unspeakable_fate"
-			},
-			{
-				"code": "impending_evils"
-			},
-			{
-				"code": "pentagram"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Curse of the Rougarou",
-		"code": "curse_of_the_rougarou",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "bayou"
-			},
-			{
-				"code": "rougarou"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Carnevale of Horrors",
-		"code": "carnevale_of_horrors",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "venice"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Labyrinths of Lunacy",
-		"code": "the_labyrinths_of_lunacy",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "in_the_labyrinths_of_lunacy"
-			},
-			{
-				"code": "epic_multiplayer"
-			},
-			{
-				"code": "single_group"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Eternal Slumber",
-		"code": "the_eternal_slumber",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "the_eternal_slumber"
-			},
-			{
-				"code": "abyssal_tribute"
-			},
-			{
-				"code": "brotherhood_of_the_beast"
-			},
-			{
-				"code": "sands_of_egypt"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Night's Usurper",
-		"code": "the_eternal_slumber",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "the_nights_usurper"
-			},
-			{
-				"code": "abyssal_gifts"
-			},
-			{
-				"code": "brotherhood_of_the_beast"
-			},
-			{
-				"code": "sands_of_egypt"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Murder at the Excelsior Hotel",
-		"code": "murder_at_the_excelsior_hotel",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "murder_at_the_excelsior_hotel"
-			},
-			{
-				"code": "alien_interference"
-			},
-			{
-				"code": "dark_rituals"
-			},
-			{
-				"code": "excelsior_management"
-			},
-			{
-				"code": "sins_of_the_past"
-			},
-			{
-				"code": "vile_experiments"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Blob That Ate Everything",
-		"code": "the_blob_that_ate_everything",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "blob"
-			},
-			{
-				"code": "blob_epic_multiplayer"
-			},
-			{
-				"code": "blob_single_group"
-			},
-			{
-				"code": "migo_incursion"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "War of the Outer Gods",
-		"code": "war_of_the_outer_gods",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "war_of_the_outer_gods"
-			},
-			{
-				"code": "children_of_paradise"
-			},
-			{
-				"code": "death_of_stars"
-			},
-			{
-				"code": "swarm_of_assimilation"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Machinations Through Time",
-		"code": "machinations_through_time",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "machinations_through_time"
-			},
-			{
-				"code": "machinations_through_time_epic_multiplayer"
-			},
-			{
-				"code": "machinations_through_time_single_group"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Fortune and Folly",
-		"code": "fortune_and_folly",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "fortune_and_folly"
-			},
-			{
-				"code": "fortunes_chosen"
-			},
-			{
-				"code": "plan_in_shambles"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Midwinter Gala",
-		"code": "the_midwinter_gala",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "the_midwinter_gala"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "The Blob That Ate Everything ELSE",
-		"code": "the_blob_that_ate_everything_else",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "blob"
-			},
-			{
-				"code": "blob_that_ate_everything_else"
-			},
-			{
-				"code": "blob_epic_multiplayer"
-			},
-			{
-				"code": "blob_single_group"
-			},
-			{
-				"code": "migo_incursion"
-			},
-			{
-				"code": "migo_incursion_2"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Film Fatale",
-		"code": "film_fatale",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "film_fatale"
-			},
-			{
-				"code": "abominable_contessa"
-			},
-			{
-				"code": "cosmic_journey"
-			},
-			{
-				"code": "forgotten_island"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Read or Die",
-		"code": "read_or_die",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "read_or_die"
-			},
-			{
-				"code": "extracurricular_activity"
-			},
-			{
-				"code": "sorcery"
-			},
-			{
-				"code": "the_beyond"
-			},
-			{
-				"code": "bishops_thralls"
-			},
-			{
-				"code": "whippoorwills"
-			},
-			{
-				"code": "ancient_evils"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "agents_of_yog"
-			},
-			{
-				"code": "armitages_fate"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "All or Nothing",
-		"code": "all_or_nothing",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "all_or_nothing"
-			},
-			{
-				"code": "the_house_always_wins"
-			},
-			{
-				"code": "bad_luck"
-			},
-			{
-				"code": "return_to_the_house_always_wins"
-			},
-			{
-				"code": "naomis_crew"
-			},
-			{
-				"code": "rats"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "Bad Blood",
-		"code": "bad_blood",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "bad_blood"
-			},
-			{
-				"code": "threads_of_fate"
-			},
-			{
-				"code": "pnakotic_brotherhood"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01125", "01129", "01130", "01132", "01134", "01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "By the Book",
-		"code": "by_the_book",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "by_the_book"
-			},
-			{
-				"code": "arkham"
-			},
-			{
-				"code": "agents_of_shub"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "pentagram"
-			},
-			{
-				"code": "cultists"
-			},
-			{
-				"code": "striking_fear"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Red Tide Rising",
-		"code": "red_tide_rising",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "red_tide_rising"
-			},
-			{
-				"code": "the_vanishing_of_elina_harper"
-			},
-			{
-				"code": "agents_of_dagon"
-			},
-			{
-				"code": "fog_over_innsmouth"
-			},
-			{
-				"code": "the_locals"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "nightgaunts"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "Laid to Rest",
-		"code": "laid_to_rest",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "laid_to_rest"
-			},
-			{
-				"code": "the_wages_of_sin"
-			},
-			{
-				"code": "anettes_coven"
-			},
-			{
-				"code": "city_of_sins"
-			},
-			{
-				"code": "inexorable_fate"
-			},
-			{
-				"code": "realm_of_death"
-			},
-			{
-				"code": "trapped_spirits"
-			},
-			{
-				"code": "witchcraft"
-			}
-		],
-		"extra_cards": null
-	},
-	{
-		"name": "Relics of the Past",
-		"code": "relics_of_the_past",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "relics_of_the_past"
-			},
-			{
-				"code": "eztli"
-			},
-			{
-				"code": "agents_of_yig"
-			},
-			{
-				"code": "venom"
-			},
-			{
-				"code": "traps"
-			},
-			{
-				"code": "ruins"
-			},
-			{
-				"code": "poison"
-			},
-			{
-				"code": "chilling_cold"
-			},
-			{
-				"code": "serpents"
-			},
-			{
-				"code": "locked_doors"
-			},
-			{
-				"code": "arkham",
-				"cards": ["01135", "01136"]
-			}
-		]
-	},
-	{
-		"name": "Enthralling Encore",
-		"code": "enthralling_encore",
-		"campaign_code": null,
-		"encounter_sets": [
-			{
-				"code": "enthralling_encore"
-			},
-			{
-				"code": "curtain_call"
-			},
-			{
-				"code": "decay"
-			},
-			{
-				"code": "delusions"
-			},
-			{
-				"code": "hauntings"
-			},
-			{
-				"code": "ghouls"
-			},
-			{
-				"code": "striking_fear"
-			},
-			{
-				"code": "rats"
-			}
-		],
-		"extra_cards": null
-	}
+    {
+        "name": "The Gathering",
+        "code": "the_gathering",
+        "campaign_code": "core",
+        "encounter_sets": [
+            {
+                "code": "torch"
+            },
+            {
+                "code": "rats"
+            },
+            {
+                "code": "ghouls"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "chilling_cold"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Midnight Masks",
+        "code": "the_midnight_masks",
+        "campaign_code": "core",
+        "encounter_sets": [
+            {
+                "code": "arkham"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "cultists"
+            },
+            {
+                "code": "torch",
+                "cards": ["01116"]
+            }
+        ]
+    },
+    {
+        "name": "The Devourer Below",
+        "code": "the_devourer_below",
+        "campaign_code": "core",
+        "encounter_sets": [
+            {
+                "code": "tentacles"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "ghouls"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "agents_of_yog"
+            },
+            {
+                "code": "cultists"
+            },
+            {
+                "code": "agents_of_shub"
+            },
+            {
+                "code": "agents_of_cthulhu"
+            },
+            {
+                "code": "agents_of_hastur"
+            },
+            {
+                "code": "torch",
+                "cards": ["01116"]
+            }
+        ]
+    },
+    {
+        "name": "Extracurricular Activity",
+        "code": "extracurricular_activity",
+        "campaign_code": "dwl",
+        "encounter_sets": [
+            {
+                "code": "extracurricular_activity"
+            },
+            {
+                "code": "sorcery"
+            },
+            {
+                "code": "the_beyond"
+            },
+            {
+                "code": "bishops_thralls"
+            },
+            {
+                "code": "whippoorwills"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "agents_of_yog"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The House Always Wins",
+        "code": "the_house_always_wins",
+        "campaign_code": "dwl",
+        "encounter_sets": [
+            {
+                "code": "the_house_always_wins"
+            },
+            {
+                "code": "bad_luck"
+            },
+            {
+                "code": "naomis_crew"
+            },
+            {
+                "code": "rats"
+            },
+            {
+                "code": "hideous_abominations"
+            },
+            {
+                "code": "striking_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Miskatonic Museum",
+        "code": "the_miskatonic_museum",
+        "campaign_code": "dwl",
+        "encounter_sets": [
+            {
+                "code": "the_miskatonic_museum"
+            },
+            {
+                "code": "bad_luck"
+            },
+            {
+                "code": "sorcery"
+            },
+            {
+                "code": "the_beyond"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "locked_doors"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Essex County Express",
+        "code": "the_essex_county_express",
+        "campaign_code": "dwl",
+        "encounter_sets": [
+            {
+                "code": "essex_county_express"
+            },
+            {
+                "code": "the_beyond"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "pentagram"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Blood on the Altar",
+        "code": "blood_on_the_altar",
+        "campaign_code": "dwl",
+        "encounter_sets": [
+            {
+                "code": "blood_on_the_altar"
+            },
+            {
+                "code": "dunwich"
+            },
+            {
+                "code": "whippoorwills"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "naomis_crew"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Undimensioned and Unseen",
+        "code": "undimensioned_and_unseen",
+        "campaign_code": "dwl",
+        "encounter_sets": [
+            {
+                "code": "undimensioned_and_unseen"
+            },
+            {
+                "code": "whippoorwills"
+            },
+            {
+                "code": "beast_thralls"
+            },
+            {
+                "code": "dunwich"
+            },
+            {
+                "code": "striking_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Where Doom Awaits",
+        "code": "where_doom_awaits",
+        "campaign_code": "dwl",
+        "encounter_sets": [
+            {
+                "code": "where_doom_awaits"
+            },
+            {
+                "code": "beast_thralls"
+            },
+            {
+                "code": "sorcery"
+            },
+            {
+                "code": "bishops_thralls"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "hideous_abominations"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Lost in Time and Space",
+        "code": "lost_in_time_and_space",
+        "campaign_code": "dwl",
+        "encounter_sets": [
+            {
+                "code": "lost_in_time_and_space"
+            },
+            {
+                "code": "sorcery"
+            },
+            {
+                "code": "the_beyond"
+            },
+            {
+                "code": "hideous_abominations"
+            },
+            {
+                "code": "agents_of_yog"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Curtain Call",
+        "code": "curtain_call",
+        "campaign_code": "ptc",
+        "encounter_sets": [
+            {
+                "code": "curtain_call"
+            },
+            {
+                "code": "evil_portents"
+            },
+            {
+                "code": "delusions"
+            },
+            {
+                "code": "hauntings"
+            },
+            {
+                "code": "cult_of_the_yellow_sign"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "rats"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Last King",
+        "code": "the_last_king",
+        "campaign_code": "ptc",
+        "encounter_sets": [
+            {
+                "code": "the_last_king"
+            },
+            {
+                "code": "hasturs_gift"
+            },
+            {
+                "code": "decay"
+            },
+            {
+                "code": "stranger"
+            },
+            {
+                "code": "ancient_evils"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Echoes of the Past",
+        "code": "echoes_of_the_past",
+        "campaign_code": "ptc",
+        "encounter_sets": [
+            {
+                "code": "echoes_of_the_past"
+            },
+            {
+                "code": "cult_of_the_yellow_sign"
+            },
+            {
+                "code": "delusions"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            },
+            {
+                "code": "the_last_king",
+                "cards": ["03068b"]
+            }
+        ]
+    },
+    {
+        "name": "The Unspeakable Oath",
+        "code": "the_unspeakable_oath",
+        "campaign_code": "ptc",
+        "encounter_sets": [
+            {
+                "code": "the_unspeakable_oath"
+            },
+            {
+                "code": "hasturs_gift"
+            },
+            {
+                "code": "inhabitants_of_carcosa"
+            },
+            {
+                "code": "delusions"
+            },
+            {
+                "code": "decay"
+            },
+            {
+                "code": "agents_of_hastur"
+            },
+            {
+                "code": "the_last_king",
+                "cards": ["03065b"]
+            }
+        ]
+    },
+    {
+        "name": "A Phantom of Truth",
+        "code": "a_phantom_of_truth",
+        "campaign_code": "ptc",
+        "encounter_sets": [
+            {
+                "code": "a_phantom_of_truth"
+            },
+            {
+                "code": "evil_portents"
+            },
+            {
+                "code": "byakhee"
+            },
+            {
+                "code": "stranger"
+            },
+            {
+                "code": "agents_of_hastur"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            },
+            {
+                "code": "the_last_king",
+                "cards": ["03066b"]
+            }
+        ]
+    },
+    {
+        "name": "The Pallid Mask",
+        "code": "the_pallid_mask",
+        "campaign_code": "ptc",
+        "encounter_sets": [
+            {
+                "code": "the_pallid_mask"
+            },
+            {
+                "code": "ghouls"
+            },
+            {
+                "code": "hauntings"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            },
+            {
+                "code": "the_last_king",
+                "cards": ["03067b"]
+            }
+        ]
+    },
+    {
+        "name": "Black Stars Rise",
+        "code": "black_stars_rise",
+        "campaign_code": "ptc",
+        "encounter_sets": [
+            {
+                "code": "black_stars_rise"
+            },
+            {
+                "code": "evil_portents"
+            },
+            {
+                "code": "byakhee"
+            },
+            {
+                "code": "inhabitants_of_carcosa"
+            },
+            {
+                "code": "stranger"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "flood"
+            },
+            {
+                "code": "vortex"
+            },
+            {
+                "code": "the_last_king",
+                "cards": ["03069b"]
+            }
+        ]
+    },
+    {
+        "name": "Dim Carcosa",
+        "code": "dim_carcosa",
+        "campaign_code": "ptc",
+        "encounter_sets": [
+            {
+                "code": "dim_carcosa"
+            },
+            {
+                "code": "delusions"
+            },
+            {
+                "code": "cult_of_the_yellow_sign"
+            },
+            {
+                "code": "inhabitants_of_carcosa"
+            },
+            {
+                "code": "agents_of_hastur"
+            },
+            {
+                "code": "striking_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Untamed Wilds",
+        "code": "the_untamed_wilds",
+        "campaign_code": "tfa",
+        "encounter_sets": [
+            {
+                "code": "wilds"
+            },
+            {
+                "code": "rainforest"
+            },
+            {
+                "code": "serpents"
+            },
+            {
+                "code": "expedition"
+            },
+            {
+                "code": "guardians_of_time"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "ancient_evils"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Doom of Eztli",
+        "code": "the_doom_of_eztli",
+        "campaign_code": "tfa",
+        "encounter_sets": [
+            {
+                "code": "eztli"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "venom"
+            },
+            {
+                "code": "flux"
+            },
+            {
+                "code": "traps"
+            },
+            {
+                "code": "ruins"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "chilling_cold"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Threads of Fate",
+        "code": "threads_of_fate",
+        "campaign_code": "tfa",
+        "encounter_sets": [
+            {
+                "code": "threads_of_fate"
+            },
+            {
+                "code": "pnakotic_brotherhood"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "arkham",
+                "cards": [
+                    "01125",
+                    "01129",
+                    "01130",
+                    "01132",
+                    "01134",
+                    "01135",
+                    "01136"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Boundary Beyond",
+        "code": "the_boundary_beyond",
+        "campaign_code": "tfa",
+        "encounter_sets": [
+            {
+                "code": "the_boundary_beyond"
+            },
+            {
+                "code": "flux"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "pnakotic_brotherhood"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "venom"
+            },
+            {
+                "code": "guardians_of_time"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Heart of the Elders, Part I",
+        "code": "pillars_of_judgment",
+        "campaign_code": "tfa",
+        "encounter_sets": [
+            {
+                "code": "pillars_of_judgment"
+            },
+            {
+                "code": "heart_of_the_elders"
+            },
+            {
+                "code": "rainforest"
+            },
+            {
+                "code": "serpents"
+            },
+            {
+                "code": "expedition"
+            },
+            {
+                "code": "poison"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Heart of the Elders, Part II",
+        "code": "knyan",
+        "campaign_code": "tfa",
+        "encounter_sets": [
+            {
+                "code": "knyan"
+            },
+            {
+                "code": "heart_of_the_elders"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "venom"
+            },
+            {
+                "code": "ruins"
+            },
+            {
+                "code": "traps"
+            },
+            {
+                "code": "poison"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The City of Archives",
+        "code": "the_city_of_archives",
+        "campaign_code": "tfa",
+        "encounter_sets": [
+            {
+                "code": "the_city_of_archives"
+            },
+            {
+                "code": "agents_of_yog"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "striking_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Depths of Yoth",
+        "code": "the_depths_of_yoth",
+        "campaign_code": "tfa",
+        "encounter_sets": [
+            {
+                "code": "the_depths_of_yoth"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "venom"
+            },
+            {
+                "code": "expedition"
+            },
+            {
+                "code": "ruins"
+            },
+            {
+                "code": "poison"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Shattered Aeons",
+        "code": "shattered_aeons",
+        "campaign_code": "tfa",
+        "encounter_sets": [
+            {
+                "code": "shattered_aeons"
+            },
+            {
+                "code": "pnakotic_brotherhood"
+            },
+            {
+                "code": "flux"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "agents_of_yig"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Turn Back Time",
+        "code": "turn_back_time",
+        "campaign_code": "tfa",
+        "encounter_sets": [
+            {
+                "code": "turn_back_time"
+            },
+            {
+                "code": "eztli"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "venom"
+            },
+            {
+                "code": "flux"
+            },
+            {
+                "code": "traps"
+            },
+            {
+                "code": "ruins"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "chilling_cold"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Disappearance at the Twilight Estate",
+        "code": "disappearance_at_the_twilight_estate",
+        "campaign_code": "tcu",
+        "encounter_sets": [
+            {
+                "code": "disappearance_at_the_twilight_estate"
+            },
+            {
+                "code": "at_deaths_doorstep"
+            },
+            {
+                "code": "inexorable_fate"
+            },
+            {
+                "code": "realm_of_death"
+            },
+            {
+                "code": "spectral_predators"
+            },
+            {
+                "code": "trapped_spirits"
+            },
+            {
+                "code": "the_watcher"
+            },
+            {
+                "code": "chilling_cold"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Witching Hour",
+        "code": "the_witching_hour",
+        "campaign_code": "tcu",
+        "encounter_sets": [
+            {
+                "code": "the_witching_hour"
+            },
+            {
+                "code": "anettes_coven"
+            },
+            {
+                "code": "city_of_sins"
+            },
+            {
+                "code": "witchcraft"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "agents_of_azathoth"
+            },
+            {
+                "code": "agents_of_shub"
+            },
+            {
+                "code": "tentacles",
+                "cards": ["01150", "01151", "01152", "01153", "01154", "01155"]
+            }
+        ]
+    },
+    {
+        "name": "At Death's Doorstep",
+        "code": "at_deaths_doorstep",
+        "campaign_code": "tcu",
+        "encounter_sets": [
+            {
+                "code": "at_deaths_doorstep"
+            },
+            {
+                "code": "silver_twilight_lodge"
+            },
+            {
+                "code": "spectral_predators"
+            },
+            {
+                "code": "trapped_spirits"
+            },
+            {
+                "code": "inexorable_fate"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "realm_of_death"
+            },
+            {
+                "code": "the_watcher"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Secret Name",
+        "code": "the_secret_name",
+        "campaign_code": "tcu",
+        "encounter_sets": [
+            {
+                "code": "the_secret_name"
+            },
+            {
+                "code": "city_of_sins"
+            },
+            {
+                "code": "inexorable_fate"
+            },
+            {
+                "code": "realm_of_death"
+            },
+            {
+                "code": "witchcraft"
+            },
+            {
+                "code": "rats"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Wages of Sin",
+        "code": "the_wages_of_sin",
+        "campaign_code": "tcu",
+        "encounter_sets": [
+            {
+                "code": "the_wages_of_sin"
+            },
+            {
+                "code": "anettes_coven"
+            },
+            {
+                "code": "city_of_sins"
+            },
+            {
+                "code": "inexorable_fate"
+            },
+            {
+                "code": "realm_of_death"
+            },
+            {
+                "code": "trapped_spirits"
+            },
+            {
+                "code": "witchcraft"
+            },
+            {
+                "code": "the_watcher"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "For the Greater Good",
+        "code": "for_the_greater_good",
+        "campaign_code": "tcu",
+        "encounter_sets": [
+            {
+                "code": "for_the_greater_good"
+            },
+            {
+                "code": "city_of_sins"
+            },
+            {
+                "code": "silver_twilight_lodge"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "locked_doors"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Union and Disillusion",
+        "code": "union_and_disillusion",
+        "campaign_code": "tcu",
+        "encounter_sets": [
+            {
+                "code": "union_and_disillusion"
+            },
+            {
+                "code": "inexorable_fate"
+            },
+            {
+                "code": "realm_of_death"
+            },
+            {
+                "code": "spectral_predators"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "anettes_coven"
+            },
+            {
+                "code": "silver_twilight_lodge"
+            },
+            {
+                "code": "the_watcher"
+            },
+            {
+                "code": "the_witching_hour",
+                "cards": ["05057"]
+            },
+            {
+                "code": "at_deaths_doorstep",
+                "cards": ["05085"]
+            }
+        ]
+    },
+    {
+        "name": "In the Clutches of Chaos",
+        "code": "in_the_clutches_of_chaos",
+        "campaign_code": "tcu",
+        "encounter_sets": [
+            {
+                "code": "in_the_clutches_of_chaos"
+            },
+            {
+                "code": "agents_of_azathoth"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "music_of_the_damned"
+            },
+            {
+                "code": "anettes_coven"
+            },
+            {
+                "code": "city_of_sins"
+            },
+            {
+                "code": "witchcraft"
+            },
+            {
+                "code": "secrets_of_the_universe"
+            },
+            {
+                "code": "silver_twilight_lodge"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            }
+        ]
+    },
+    {
+        "name": "Before the Black Throne",
+        "code": "before_the_black_throne",
+        "campaign_code": "tcu",
+        "encounter_sets": [
+            {
+                "code": "before_the_black_throne"
+            },
+            {
+                "code": "agents_of_azathoth"
+            },
+            {
+                "code": "inexorable_fate"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "pentagram"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Beyond the Gates of Sleep",
+        "code": "beyond_the_gates_of_sleep",
+        "campaign_code": "tde",
+        "encounter_sets": [
+            {
+                "code": "beyond_the_gates_of_sleep"
+            },
+            {
+                "code": "agents_of_nyarlathotep"
+            },
+            {
+                "code": "zoogs"
+            },
+            {
+                "code": "dreamers_curse"
+            },
+            {
+                "code": "dreamlands"
+            },
+            {
+                "code": "chilling_cold"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Waking Nightmare",
+        "code": "waking_nightmare",
+        "campaign_code": "tde",
+        "encounter_sets": [
+            {
+                "code": "waking_nightmare"
+            },
+            {
+                "code": "merging_realities"
+            },
+            {
+                "code": "whispers_of_hypnos"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "agents_of_atlach_nacha"
+            },
+            {
+                "code": "spiders"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Search for Kadath",
+        "code": "the_search_for_kadath",
+        "campaign_code": "tde",
+        "encounter_sets": [
+            {
+                "code": "the_search_for_kadath"
+            },
+            {
+                "code": "agents_of_nyarlathotep"
+            },
+            {
+                "code": "corsairs"
+            },
+            {
+                "code": "dreamlands"
+            },
+            {
+                "code": "whispers_of_hypnos"
+            },
+            {
+                "code": "zoogs"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "A Thousand Shapes of Horror",
+        "code": "a_thousand_shapes_of_horror",
+        "campaign_code": "tde",
+        "encounter_sets": [
+            {
+                "code": "a_thousand_shapes_of_horror"
+            },
+            {
+                "code": "creatures_of_the_underworld"
+            },
+            {
+                "code": "merging_realities"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "ghouls"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "rats"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Dark Side of the Moon",
+        "code": "dark_side_of_the_moon",
+        "campaign_code": "tde",
+        "encounter_sets": [
+            {
+                "code": "dark_side_of_the_moon"
+            },
+            {
+                "code": "corsairs"
+            },
+            {
+                "code": "dreamers_curse"
+            },
+            {
+                "code": "ancient_evils"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Point of No Return",
+        "code": "point_of_no_return",
+        "campaign_code": "tde",
+        "encounter_sets": [
+            {
+                "code": "point_of_no_return"
+            },
+            {
+                "code": "creatures_of_the_underworld"
+            },
+            {
+                "code": "whispers_of_hypnos"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "ghouls"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "descent_into_the_pitch"
+            },
+            {
+                "code": "terror_of_the_vale"
+            },
+            {
+                "code": "agents_of_atlach_nacha"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "beyond_the_gates_of_sleep",
+                "cards": ["06053"]
+            }
+        ]
+    },
+    {
+        "name": "Where the Gods Dwell",
+        "code": "where_the_gods_dwell",
+        "campaign_code": "tde",
+        "encounter_sets": [
+            {
+                "code": "where_the_gods_dwell"
+            },
+            {
+                "code": "agents_of_nyarlathotep"
+            },
+            {
+                "code": "dreamers_curse"
+            },
+            {
+                "code": "whispers_of_hypnos"
+            },
+            {
+                "code": "pentagram"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Weaver of the Cosmos",
+        "code": "weaver_of_the_cosmos",
+        "campaign_code": "tde",
+        "encounter_sets": [
+            {
+                "code": "weaver_of_the_cosmos"
+            },
+            {
+                "code": "agents_of_atlach_nacha"
+            },
+            {
+                "code": "spiders"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "chilling_cold"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Pit of Despair",
+        "code": "the_pit_of_despair",
+        "campaign_code": "tic",
+        "encounter_sets": [
+            {
+                "code": "the_pit_of_despair"
+            },
+            {
+                "code": "creatures_of_the_deep"
+            },
+            {
+                "code": "flooded_caverns"
+            },
+            {
+                "code": "rising_tide"
+            },
+            {
+                "code": "shattered_memories"
+            },
+            {
+                "code": "agents_of_cthulhu"
+            },
+            {
+                "code": "rats"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Vanishing of Elina Harper",
+        "code": "the_vanishing_of_elina_harper",
+        "campaign_code": "tic",
+        "encounter_sets": [
+            {
+                "code": "the_vanishing_of_elina_harper"
+            },
+            {
+                "code": "agents_of_dagon"
+            },
+            {
+                "code": "fog_over_innsmouth"
+            },
+            {
+                "code": "the_locals"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            }
+        ]
+    },
+    {
+        "name": "In Too Deep",
+        "code": "in_too_deep",
+        "campaign_code": "tic",
+        "encounter_sets": [
+            {
+                "code": "in_too_deep"
+            },
+            {
+                "code": "creatures_of_the_deep"
+            },
+            {
+                "code": "rising_tide"
+            },
+            {
+                "code": "syzygy"
+            },
+            {
+                "code": "the_locals"
+            },
+            {
+                "code": "agents_of_cthulhu"
+            },
+            {
+                "code": "the_vanishing_of_elina_harper",
+                "cards": [
+                    "07062b",
+                    "07076",
+                    "07077",
+                    "07078",
+                    "07079",
+                    "07080",
+                    "07081"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Devil Reef",
+        "code": "devil_reef",
+        "campaign_code": "tic",
+        "encounter_sets": [
+            {
+                "code": "devil_reef"
+            },
+            {
+                "code": "agents_of_hydra"
+            },
+            {
+                "code": "creatures_of_the_deep"
+            },
+            {
+                "code": "flooded_caverns"
+            },
+            {
+                "code": "malfunction"
+            },
+            {
+                "code": "rising_tide"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Horror in High Gear",
+        "code": "horror_in_high_gear",
+        "campaign_code": "tic",
+        "encounter_sets": [
+            {
+                "code": "horror_in_high_gear"
+            },
+            {
+                "code": "fog_over_innsmouth"
+            },
+            {
+                "code": "malfunction"
+            },
+            {
+                "code": "shattered_memories"
+            },
+            {
+                "code": "ancient_evils"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "A Light in the Fog",
+        "code": "a_light_in_the_fog",
+        "campaign_code": "tic",
+        "encounter_sets": [
+            {
+                "code": "a_light_in_the_fog"
+            },
+            {
+                "code": "creatures_of_the_deep"
+            },
+            {
+                "code": "flooded_caverns"
+            },
+            {
+                "code": "rising_tide"
+            },
+            {
+                "code": "syzygy"
+            },
+            {
+                "code": "striking_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Lair of Dagon",
+        "code": "the_lair_of_dagon",
+        "campaign_code": "tic",
+        "encounter_sets": [
+            {
+                "code": "the_lair_of_dagon"
+            },
+            {
+                "code": "agents_of_dagon"
+            },
+            {
+                "code": "flooded_caverns"
+            },
+            {
+                "code": "syzygy"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "the_vanishing_of_elina_harper",
+                "cards": ["07076", "07077", "07078", "07079", "07080", "07081"]
+            }
+        ]
+    },
+    {
+        "name": "Into the Maelstrom",
+        "code": "into_the_maelstrom",
+        "campaign_code": "tic",
+        "encounter_sets": [
+            {
+                "code": "into_the_maelstrom"
+            },
+            {
+                "code": "agents_of_hydra"
+            },
+            {
+                "code": "creatures_of_the_deep"
+            },
+            {
+                "code": "flooded_caverns"
+            },
+            {
+                "code": "shattered_memories"
+            },
+            {
+                "code": "syzygy"
+            },
+            {
+                "code": "ancient_evils"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Ice and Death, Part I",
+        "code": "the_crash",
+        "campaign_code": "eoe",
+        "encounter_sets": [
+            {
+                "code": "the_crash"
+            },
+            {
+                "code": "ice_and_death"
+            },
+            {
+                "code": "creatures_in_the_ice"
+            },
+            {
+                "code": "deadly_weather"
+            },
+            {
+                "code": "hazards_of_antarctica"
+            },
+            {
+                "code": "silence_and_mystery"
+            },
+            {
+                "code": "tekelili"
+            },
+            {
+                "code": "ancient_evils"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Ice and Death, Part II",
+        "code": "lost_in_the_night",
+        "campaign_code": "eoe",
+        "encounter_sets": [
+            {
+                "code": "lost_in_the_night"
+            },
+            {
+                "code": "ice_and_death"
+            },
+            {
+                "code": "left_behind"
+            },
+            {
+                "code": "deadly_weather"
+            },
+            {
+                "code": "hazards_of_antarctica"
+            },
+            {
+                "code": "silence_and_mystery"
+            },
+            {
+                "code": "tekelili"
+            },
+            {
+                "code": "ancient_evils"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Ice and Death, Part III",
+        "code": "seeping_nightmares",
+        "campaign_code": "eoe",
+        "encounter_sets": [
+            {
+                "code": "seeping_nightmares"
+            },
+            {
+                "code": "ice_and_death"
+            },
+            {
+                "code": "creatures_in_the_ice"
+            },
+            {
+                "code": "deadly_weather"
+            },
+            {
+                "code": "hazards_of_antarctica"
+            },
+            {
+                "code": "silence_and_mystery"
+            },
+            {
+                "code": "tekelili"
+            },
+            {
+                "code": "ancient_evils"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Fatal Mirage",
+        "code": "fatal_mirage",
+        "campaign_code": "eoe",
+        "encounter_sets": [
+            {
+                "code": "fatal_mirage"
+            },
+            {
+                "code": "agents_of_the_unknown"
+            },
+            {
+                "code": "left_behind"
+            },
+            {
+                "code": "miasma"
+            },
+            {
+                "code": "nameless_horrors"
+            },
+            {
+                "code": "silence_and_mystery"
+            },
+            {
+                "code": "tekelili"
+            },
+            {
+                "code": "chilling_cold"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "To the Forbidden Peaks",
+        "code": "to_the_forbidden_peaks",
+        "campaign_code": "eoe",
+        "encounter_sets": [
+            {
+                "code": "to_the_forbidden_peaks"
+            },
+            {
+                "code": "deadly_weather"
+            },
+            {
+                "code": "elder_things"
+            },
+            {
+                "code": "hazards_of_antarctica"
+            },
+            {
+                "code": "nameless_horrors"
+            },
+            {
+                "code": "tekelili"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "City of the Elder Things",
+        "code": "city_of_the_elder_things",
+        "campaign_code": "eoe",
+        "encounter_sets": [
+            {
+                "code": "city_of_the_elder_things"
+            },
+            {
+                "code": "elder_things"
+            },
+            {
+                "code": "miasma"
+            },
+            {
+                "code": "nameless_horrors"
+            },
+            {
+                "code": "penguins"
+            },
+            {
+                "code": "shoggoths"
+            },
+            {
+                "code": "silence_and_mystery"
+            },
+            {
+                "code": "tekelili"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "creatures_in_the_ice"
+            },
+            {
+                "code": "chilling_cold"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Heart of Madness, Part I",
+        "code": "the_great_seal",
+        "campaign_code": "eoe",
+        "encounter_sets": [
+            {
+                "code": "the_great_seal"
+            },
+            {
+                "code": "the_heart_of_madness"
+            },
+            {
+                "code": "miasma"
+            },
+            {
+                "code": "nameless_horrors"
+            },
+            {
+                "code": "penguins"
+            },
+            {
+                "code": "shoggoths"
+            },
+            {
+                "code": "tekelili"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "locked_doors"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Heart of Madness, Part  II",
+        "code": "stirring_in_the_deep",
+        "campaign_code": "eoe",
+        "encounter_sets": [
+            {
+                "code": "stirring_in_the_deep"
+            },
+            {
+                "code": "the_heart_of_madness"
+            },
+            {
+                "code": "agents_of_the_unknown"
+            },
+            {
+                "code": "miasma"
+            },
+            {
+                "code": "nameless_horrors"
+            },
+            {
+                "code": "penguins"
+            },
+            {
+                "code": "tekelili"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "striking_fear",
+                "cards": ["01164", "01165"]
+            }
+        ]
+    },
+    {
+        "name": "Riddles and Rain",
+        "code": "riddles_and_rain",
+        "campaign_code": "tsk",
+        "encounter_sets": [
+            {
+                "code": "riddles_and_rain"
+            },
+            {
+                "code": "crimson_conspiracy"
+            },
+            {
+                "code": "dark_veiling"
+            },
+            {
+                "code": "outsiders"
+            },
+            {
+                "code": "shadow_of_a_doubt"
+            },
+            {
+                "code": "strange_happenings"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            }
+        ]
+    },
+    {
+        "name": "Dead Heat",
+        "code": "dead_heat",
+        "campaign_code": "tsk",
+        "encounter_sets": [
+            {
+                "code": "dead_heat"
+            },
+            {
+                "code": "scarlet_sorcery"
+            },
+            {
+                "code": "spreading_corruption"
+            },
+            {
+                "code": "ghouls"
+            },
+            {
+                "code": "striking_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Sanguine Shadows",
+        "code": "sanguine_shadows",
+        "campaign_code": "tsk",
+        "encounter_sets": [
+            {
+                "code": "sanguine_shadows"
+            },
+            {
+                "code": "dark_veiling"
+            },
+            {
+                "code": "mysteries_abound"
+            },
+            {
+                "code": "shadow_of_a_doubt"
+            },
+            {
+                "code": "strange_happenings"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "nightgaunts"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Dealings in the Dark",
+        "code": "dealings_in_the_dark",
+        "campaign_code": "tsk",
+        "encounter_sets": [
+            {
+                "code": "dealings_in_the_dark"
+            },
+            {
+                "code": "agents_of_yuggoth"
+            },
+            {
+                "code": "dark_veiling"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            }
+        ]
+    },
+    {
+        "name": "Dancing Mad",
+        "code": "dancing_mad",
+        "campaign_code": "tsk",
+        "encounter_sets": [
+            {
+                "code": "dancing_mad"
+            },
+            {
+                "code": "agents_of_the_outside"
+            },
+            {
+                "code": "cleanup_crew"
+            },
+            {
+                "code": "crimson_conspiracy"
+            },
+            {
+                "code": "secret_war"
+            },
+            {
+                "code": "shadow_of_a_doubt"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "On Thin Ice",
+        "code": "on_thin_ice",
+        "campaign_code": "tsk",
+        "encounter_sets": [
+            {
+                "code": "on_thin_ice"
+            },
+            {
+                "code": "agents_of_the_outside"
+            },
+            {
+                "code": "agents_of_yuggoth"
+            },
+            {
+                "code": "crimson_conspiracy"
+            },
+            {
+                "code": "dark_veiling"
+            },
+            {
+                "code": "outsiders"
+            },
+            {
+                "code": "spatial_anomaly"
+            },
+            {
+                "code": "chilling_cold"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Dogs of War",
+        "code": "dogs_of_war",
+        "campaign_code": "tsk",
+        "encounter_sets": [
+            {
+                "code": "dogs_of_war"
+            },
+            {
+                "code": "scarlet_sorcery"
+            },
+            {
+                "code": "spatial_anomaly"
+            },
+            {
+                "code": "spreading_corruption"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "cleanup_crew"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Shades of Suffering",
+        "code": "shades_of_suffering",
+        "campaign_code": "tsk",
+        "encounter_sets": [
+            {
+                "code": "shades_of_suffering"
+            },
+            {
+                "code": "dark_veiling"
+            },
+            {
+                "code": "mysteries_abound"
+            },
+            {
+                "code": "scarlet_sorcery"
+            },
+            {
+                "code": "spreading_corruption"
+            },
+            {
+                "code": "striking_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Without a Trace",
+        "code": "without_a_trace",
+        "campaign_code": "tsk",
+        "encounter_sets": [
+            {
+                "code": "without_a_trace"
+            },
+            {
+                "code": "agents_of_the_outside"
+            },
+            {
+                "code": "beyond_the_beyond"
+            },
+            {
+                "code": "outsiders"
+            },
+            {
+                "code": "secret_war"
+            },
+            {
+                "code": "spreading_corruption"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Congress of the Keys",
+        "code": "congress_of_the_keys",
+        "campaign_code": "tsk",
+        "encounter_sets": [
+            {
+                "code": "congress_of_the_keys"
+            },
+            {
+                "code": "red_coterie"
+            },
+            {
+                "code": "scarlet_sorcery"
+            },
+            {
+                "code": "spatial_anomaly"
+            },
+            {
+                "code": "spreading_corruption"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "agents_of_the_outside"
+            },
+            {
+                "code": "beyond_the_beyond"
+            },
+            {
+                "code": "outsiders"
+            },
+            {
+                "code": "secret_war"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "striking_fear",
+                "cards": ["01164", "01165"]
+            }
+        ]
+    },
+    {
+        "name": "Prelude: Welcome to Hemlock Vale!",
+        "code": "prelude_1",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "the_first_day"
+            },
+            {
+                "code": "day_of_rest"
+            },
+            {
+                "code": "residents"
+            },
+            {
+                "code": "the_vale"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Written in Rock",
+        "code": "written_in_rock",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "written_in_rock"
+            },
+            {
+                "code": "horrors_in_the_rock"
+            },
+            {
+                "code": "refractions"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "ghouls"
+            },
+            {
+                "code": "the_first_day"
+            },
+            {
+                "code": "the_second_day"
+            },
+            {
+                "code": "the_final_day"
+            },
+            {
+                "code": "residents"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Hemlock House",
+        "code": "hemlock_house",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "hemlock_house"
+            },
+            {
+                "code": "agents_of_the_colour"
+            },
+            {
+                "code": "blight"
+            },
+            {
+                "code": "fire"
+            },
+            {
+                "code": "transfiguration"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "rats"
+            },
+            {
+                "code": "the_first_day"
+            },
+            {
+                "code": "the_second_day"
+            },
+            {
+                "code": "the_final_day"
+            },
+            {
+                "code": "residents"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Silent Heath",
+        "code": "the_silent_heath",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "the_silent_heath"
+            },
+            {
+                "code": "agents_of_the_colour"
+            },
+            {
+                "code": "blight"
+            },
+            {
+                "code": "horrors_in_the_rock"
+            },
+            {
+                "code": "refractions"
+            },
+            {
+                "code": "transfiguration"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "the_first_day"
+            },
+            {
+                "code": "the_second_day"
+            },
+            {
+                "code": "the_final_day"
+            },
+            {
+                "code": "residents"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Lost Sister",
+        "code": "the_lost_sister",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "the_lost_sister"
+            },
+            {
+                "code": "blight"
+            },
+            {
+                "code": "horrors_in_the_rock"
+            },
+            {
+                "code": "mutations"
+            },
+            {
+                "code": "myconids"
+            },
+            {
+                "code": "the_first_day"
+            },
+            {
+                "code": "the_second_day"
+            },
+            {
+                "code": "the_final_day"
+            },
+            {
+                "code": "residents"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Thing in the Depths",
+        "code": "the_thing_in_the_depths",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "the_thing_in_the_depths"
+            },
+            {
+                "code": "blight"
+            },
+            {
+                "code": "the_forest"
+            },
+            {
+                "code": "mutations"
+            },
+            {
+                "code": "the_first_day"
+            },
+            {
+                "code": "the_second_day"
+            },
+            {
+                "code": "the_final_day"
+            },
+            {
+                "code": "residents"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Twisted Hollow",
+        "code": "the_twisted_hollow",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "the_twisted_hollow"
+            },
+            {
+                "code": "the_first_day"
+            },
+            {
+                "code": "the_forest"
+            },
+            {
+                "code": "myconids"
+            },
+            {
+                "code": "residents"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Prelude: Dawn of the Second Day",
+        "code": "prelude_2",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "the_second_day"
+            },
+            {
+                "code": "day_of_rain"
+            },
+            {
+                "code": "residents"
+            },
+            {
+                "code": "the_vale"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Longest Night",
+        "code": "the_longest_night",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "the_second_day"
+            },
+            {
+                "code": "the_longest_night"
+            },
+            {
+                "code": "blight"
+            },
+            {
+                "code": "transfiguration"
+            },
+            {
+                "code": "fire"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "residents"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            }
+        ]
+    },
+    {
+        "name": "Prelude: Dawn of the Final Day",
+        "code": "prelude_3",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "the_final_day"
+            },
+            {
+                "code": "day_of_the_feast"
+            },
+            {
+                "code": "agents_of_the_colour"
+            },
+            {
+                "code": "residents"
+            },
+            {
+                "code": "the_vale"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Prelude: The Final Evening",
+        "code": "prelude_4",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "the_final_day"
+            },
+            {
+                "code": "day_of_the_feast"
+            },
+            {
+                "code": "residents"
+            },
+            {
+                "code": "the_vale"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Fate of the Vale",
+        "code": "fate_of_the_vale",
+        "campaign_code": "fhv",
+        "encounter_sets": [
+            {
+                "code": "the_final_day"
+            },
+            {
+                "code": "fate_of_the_vale"
+            },
+            {
+                "code": "day_of_the_feast"
+            },
+            {
+                "code": "agents_of_the_colour"
+            },
+            {
+                "code": "fire"
+            },
+            {
+                "code": "horrors_in_the_rock"
+            },
+            {
+                "code": "refractions"
+            },
+            {
+                "code": "residents"
+            },
+            {
+                "code": "transfiguration"
+            },
+            {
+                "code": "the_vale"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "One Last Job",
+        "code": "one_last_job",
+        "campaign_code": "tdc",
+        "encounter_sets": [
+            {
+                "code": "one_last_job"
+            },
+            {
+                "code": "dreams"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "rats"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01125", "01129", "01130", "01131", "01132", "01134"]
+            }
+        ]
+    },
+    {
+        "name": "The Western Wall",
+        "code": "the_western_wall",
+        "campaign_code": "tdc",
+        "encounter_sets": [
+            {
+                "code": "the_western_wall"
+            },
+            {
+                "code": "cosmic_legacy"
+            },
+            {
+                "code": "deep_ones"
+            },
+            {
+                "code": "tdc_flood"
+            },
+            {
+                "code": "rlyeh"
+            },
+            {
+                "code": "the_inescapable"
+            },
+            {
+                "code": "undersea_creatures"
+            },
+            {
+                "code": "agents_of_cthulhu"
+            },
+            {
+                "code": "tdc_expedition"
+            },
+            {
+                "code": "star_spawn",
+                "cards": ["11727"]
+            }
+        ]
+    },
+    {
+        "name": "The Drowned Quarter",
+        "code": "the_drowned_quarter",
+        "campaign_code": "tdc",
+        "encounter_sets": [
+            {
+                "code": "the_drowned_quarter"
+            },
+            {
+                "code": "alien_machinery"
+            },
+            {
+                "code": "cosmic_legacy"
+            },
+            {
+                "code": "deep_ones"
+            },
+            {
+                "code": "elder_mist"
+            },
+            {
+                "code": "tdc_flood"
+            },
+            {
+                "code": "rlyeh"
+            },
+            {
+                "code": "undersea_creatures"
+            },
+            {
+                "code": "tdc_expedition"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Apiary",
+        "code": "the_apiary",
+        "campaign_code": "tdc",
+        "encounter_sets": [
+            {
+                "code": "the_apiary"
+            },
+            {
+                "code": "cosmic_legacy"
+            },
+            {
+                "code": "elder_mist"
+            },
+            {
+                "code": "the_inescapable"
+            },
+            {
+                "code": "pilgrims"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "stowaways"
+            },
+            {
+                "code": "tdc_expedition"
+            },
+            {
+                "code": "star_spawn",
+                "cards": ["11726"]
+            }
+        ]
+    },
+    {
+        "name": "The Grand Vault",
+        "code": "the_grand_vault",
+        "campaign_code": "tdc",
+        "encounter_sets": [
+            {
+                "code": "the_grand_vault"
+            },
+            {
+                "code": "alien_machinery"
+            },
+            {
+                "code": "tdc_flood"
+            },
+            {
+                "code": "the_inescapable"
+            },
+            {
+                "code": "rlyeh"
+            },
+            {
+                "code": "star_spawn"
+            },
+            {
+                "code": "tdc_expedition"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Court of the Ancients",
+        "code": "court_of_the_ancients",
+        "campaign_code": "tdc",
+        "encounter_sets": [
+            {
+                "code": "court_of_the_ancients"
+            },
+            {
+                "code": "domination"
+            },
+            {
+                "code": "dreams"
+            },
+            {
+                "code": "elder_mist"
+            },
+            {
+                "code": "the_inescapable"
+            },
+            {
+                "code": "rlyeh"
+            },
+            {
+                "code": "star_spawn"
+            },
+            {
+                "code": "stowaways"
+            },
+            {
+                "code": "pilgrims"
+            },
+            {
+                "code": "tdc_expedition"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Obsidian Canyons",
+        "code": "obsidian_canyons",
+        "campaign_code": "tdc",
+        "encounter_sets": [
+            {
+                "code": "obsidian_canyons"
+            },
+            {
+                "code": "cosmic_legacy"
+            },
+            {
+                "code": "elder_mist"
+            },
+            {
+                "code": "the_inescapable"
+            },
+            {
+                "code": "rlyeh"
+            },
+            {
+                "code": "star_spawn"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "tdc_expedition"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Sepulchre of the Sleeper",
+        "code": "sepulchre_of_the_sleeper",
+        "campaign_code": "tdc",
+        "encounter_sets": [
+            {
+                "code": "sepulchre_of_the_sleeper"
+            },
+            {
+                "code": "domination"
+            },
+            {
+                "code": "dreams"
+            },
+            {
+                "code": "rlyeh"
+            },
+            {
+                "code": "star_spawn"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "tdc_expedition"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Doom of Arkham Part I",
+        "code": "the_doom_of_arkham_part_1",
+        "campaign_code": "tdc",
+        "encounter_sets": [
+            {
+                "code": "the_doom_of_arkham_part_1"
+            },
+            {
+                "code": "deep_ones"
+            },
+            {
+                "code": "domination"
+            },
+            {
+                "code": "dreams"
+            },
+            {
+                "code": "star_spawn"
+            },
+            {
+                "code": "agents_of_cthulhu"
+            },
+            {
+                "code": "arkham",
+                "cards": [
+                    "01125",
+                    "01126",
+                    "01127",
+                    "01128",
+                    "01129",
+                    "01130",
+                    "01131",
+                    "01132",
+                    "01134",
+                    "01135",
+                    "01136"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Doom of Arkham Part II",
+        "code": "the_doom_of_arkham_part_2",
+        "campaign_code": "tdc",
+        "encounter_sets": [
+            {
+                "code": "the_doom_of_arkham_part_2"
+            },
+            {
+                "code": "domination"
+            },
+            {
+                "code": "elder_mist"
+            },
+            {
+                "code": "tdc_flood"
+            },
+            {
+                "code": "star_spawn"
+            },
+            {
+                "code": "agents_of_cthulhu"
+            },
+            {
+                "code": "arkham",
+                "cards": [
+                    "01126",
+                    "01127",
+                    "01128",
+                    "01129",
+                    "01130",
+                    "01131",
+                    "01132",
+                    "01134"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Spreading Flames",
+        "code": "spreading_flames",
+        "campaign_code": "core_ch2",
+        "encounter_sets": [
+            {
+                "code": "spreading_flames"
+            },
+            {
+                "code": "ashen_pilgrims"
+            },
+            {
+                "code": "bystanders"
+            },
+            {
+                "code": "cosmic_evils"
+            },
+            {
+                "code": "eldritch_lore"
+            },
+            {
+                "code": "fire_ch2"
+            },
+            {
+                "code": "hallucinations"
+            },
+            {
+                "code": "mad_science"
+            },
+            {
+                "code": "miskatonic_university"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Smoke and Mirrors",
+        "code": "smoke_and_mirrors",
+        "campaign_code": "core_ch2",
+        "encounter_sets": [
+            {
+                "code": "smoke_and_mirrors"
+            },
+            {
+                "code": "arcane_lock"
+            },
+            {
+                "code": "arkham_ch2"
+            },
+            {
+                "code": "bad_weather"
+            },
+            {
+                "code": "dead_ends"
+            },
+            {
+                "code": "flying_terrors"
+            },
+            {
+                "code": "gangs_of_arkham"
+            },
+            {
+                "code": "people_of_arkham"
+            },
+            {
+                "code": "whippoorwills_ch2"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Queen of Ash",
+        "code": "queen_of_ash",
+        "campaign_code": "core_ch2",
+        "encounter_sets": [
+            {
+                "code": "queen_of_ash"
+            },
+            {
+                "code": "ashen_pilgrims"
+            },
+            {
+                "code": "cosmic_evils"
+            },
+            {
+                "code": "cultists_ch2"
+            },
+            {
+                "code": "fire_ch2"
+            },
+            {
+                "code": "hallucinations"
+            },
+            {
+                "code": "reeking_decay"
+            },
+            {
+                "code": "arkham_sewers"
+            },
+            {
+                "code": "torment"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Gathering",
+        "code": "return_to_the_gathering",
+        "campaign_code": "rtnotz",
+        "encounter_sets": [
+            {
+                "code": "return_to_the_gathering"
+            },
+            {
+                "code": "torch"
+            },
+            {
+                "code": "rats"
+            },
+            {
+                "code": "ghouls_of_umôrdhoth"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "chilling_cold"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Midnight Masks",
+        "code": "return_to_the_midnight_masks",
+        "campaign_code": "rtnotz",
+        "encounter_sets": [
+            {
+                "code": "arkham"
+            },
+            {
+                "code": "return_to_the_midnight_masks"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "return_cult"
+            },
+            {
+                "code": "the_devourers_cult"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "cultists"
+            },
+            {
+                "code": "torch",
+                "cards": ["01116"]
+            }
+        ]
+    },
+    {
+        "name": "Return to The Devourer Below",
+        "code": "return_to_the_devourer_below",
+        "campaign_code": "rtnotz",
+        "encounter_sets": [
+            {
+                "code": "tentacles"
+            },
+            {
+                "code": "return_to_the_devourer_below"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "ghouls_of_umôrdhoth"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "return_cult"
+            },
+            {
+                "code": "the_devourers_cult"
+            },
+            {
+                "code": "agents_of_yog"
+            },
+            {
+                "code": "cultists"
+            },
+            {
+                "code": "agents_of_shub"
+            },
+            {
+                "code": "agents_of_cthulhu"
+            },
+            {
+                "code": "agents_of_hastur"
+            },
+            {
+                "code": "torch",
+                "cards": ["01116"]
+            }
+        ]
+    },
+    {
+        "name": "Return to Extracurricular Activity",
+        "code": "return_to_extracurricular_activity",
+        "campaign_code": "rtdwl",
+        "encounter_sets": [
+            {
+                "code": "extracurricular_activity"
+            },
+            {
+                "code": "return_to_extracurricular_activities"
+            },
+            {
+                "code": "sorcery"
+            },
+            {
+                "code": "beyond_the_threshold"
+            },
+            {
+                "code": "bishops_thralls"
+            },
+            {
+                "code": "whippoorwills"
+            },
+            {
+                "code": "resurgent_evils"
+            },
+            {
+                "code": "secret_doors"
+            },
+            {
+                "code": "yog_sothoths_emissaries"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The House Always Wins",
+        "code": "return_to_the_house_always_wins",
+        "campaign_code": "rtdwl",
+        "encounter_sets": [
+            {
+                "code": "the_house_always_wins"
+            },
+            {
+                "code": "return_to_the_house_always_wins"
+            },
+            {
+                "code": "bad_luck"
+            },
+            {
+                "code": "naomis_crew"
+            },
+            {
+                "code": "rats"
+            },
+            {
+                "code": "hideous_abominations"
+            },
+            {
+                "code": "erratic_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Miskatonic Museum",
+        "code": "return_to_the_miskatonic_museum",
+        "campaign_code": "rtdwl",
+        "encounter_sets": [
+            {
+                "code": "the_miskatonic_museum"
+            },
+            {
+                "code": "return_to_the_miskatonic_museum"
+            },
+            {
+                "code": "bad_luck"
+            },
+            {
+                "code": "sorcery"
+            },
+            {
+                "code": "beyond_the_threshold"
+            },
+            {
+                "code": "creeping_cold"
+            },
+            {
+                "code": "secret_doors"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Essex County Express",
+        "code": "return_to_the_essex_county_express",
+        "campaign_code": "rtdwl",
+        "encounter_sets": [
+            {
+                "code": "essex_county_express"
+            },
+            {
+                "code": "return_to_the_essex_county_express"
+            },
+            {
+                "code": "beyond_the_threshold"
+            },
+            {
+                "code": "erratic_fear"
+            },
+            {
+                "code": "resurgent_evils"
+            },
+            {
+                "code": "pentagram"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Blood on the Altar",
+        "code": "return_to_blood_on_the_altar",
+        "campaign_code": "rtdwl",
+        "encounter_sets": [
+            {
+                "code": "blood_on_the_altar"
+            },
+            {
+                "code": "return_to_blood_on_the_altar"
+            },
+            {
+                "code": "dunwich"
+            },
+            {
+                "code": "whippoorwills"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "resurgent_evils"
+            },
+            {
+                "code": "naomis_crew"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Undimensioned and Unseen",
+        "code": "return_to_undimensioned_and_unseen",
+        "campaign_code": "rtdwl",
+        "encounter_sets": [
+            {
+                "code": "undimensioned_and_unseen"
+            },
+            {
+                "code": "return_to_undimensioned_and_unseen"
+            },
+            {
+                "code": "whippoorwills"
+            },
+            {
+                "code": "beast_thralls"
+            },
+            {
+                "code": "dunwich"
+            },
+            {
+                "code": "erratic_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Where Doom Awaits",
+        "code": "return_to_where_doom_awaits",
+        "campaign_code": "rtdwl",
+        "encounter_sets": [
+            {
+                "code": "where_doom_awaits"
+            },
+            {
+                "code": "return_to_where_doom_awaits"
+            },
+            {
+                "code": "beast_thralls"
+            },
+            {
+                "code": "sorcery"
+            },
+            {
+                "code": "bishops_thralls"
+            },
+            {
+                "code": "erratic_fear"
+            },
+            {
+                "code": "resurgent_evils"
+            },
+            {
+                "code": "creeping_cold"
+            },
+            {
+                "code": "hideous_abominations"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Lost in Time and Space",
+        "code": "return_to_lost_in_time_and_space",
+        "campaign_code": "rtdwl",
+        "encounter_sets": [
+            {
+                "code": "lost_in_time_and_space"
+            },
+            {
+                "code": "return_to_lost_in_time_and_space"
+            },
+            {
+                "code": "sorcery"
+            },
+            {
+                "code": "beyond_the_threshold"
+            },
+            {
+                "code": "hideous_abominations"
+            },
+            {
+                "code": "yog_sothoths_emissaries"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Curtain Call",
+        "code": "return_to_curtain_call",
+        "campaign_code": "rtptc",
+        "encounter_sets": [
+            {
+                "code": "curtain_call"
+            },
+            {
+                "code": "return_to_curtain_call"
+            },
+            {
+                "code": "evil_portents"
+            },
+            {
+                "code": "maddening_delusions"
+            },
+            {
+                "code": "hauntings"
+            },
+            {
+                "code": "cult_of_the_yellow_sign"
+            },
+            {
+                "code": "neurotic_fear"
+            },
+            {
+                "code": "rats"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Last King",
+        "code": "return_to_the_last_king",
+        "campaign_code": "rtptc",
+        "encounter_sets": [
+            {
+                "code": "the_last_king"
+            },
+            {
+                "code": "return_to_the_last_king"
+            },
+            {
+                "code": "hasturs_gift"
+            },
+            {
+                "code": "decaying_reality"
+            },
+            {
+                "code": "stranger"
+            },
+            {
+                "code": "delusory_evils"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Echoes of the Past",
+        "code": "return_to_echoes_of_the_past",
+        "campaign_code": "rtptc",
+        "encounter_sets": [
+            {
+                "code": "echoes_of_the_past"
+            },
+            {
+                "code": "return_to_echoes_of_the_past"
+            },
+            {
+                "code": "cult_of_the_yellow_sign"
+            },
+            {
+                "code": "maddening_delusions"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            },
+            {
+                "code": "the_last_king",
+                "cards": ["03068b"]
+            }
+        ]
+    },
+    {
+        "name": "Return to The Unspeakable Oath",
+        "code": "return_to_the_unspeakable_oath",
+        "campaign_code": "rtptc",
+        "encounter_sets": [
+            {
+                "code": "the_unspeakable_oath"
+            },
+            {
+                "code": "return_to_the_unspeakable_oath"
+            },
+            {
+                "code": "hasturs_gift"
+            },
+            {
+                "code": "inhabitants_of_carcosa"
+            },
+            {
+                "code": "maddening_delusions"
+            },
+            {
+                "code": "decaying_reality"
+            },
+            {
+                "code": "hasturs_envoys"
+            },
+            {
+                "code": "the_last_king",
+                "cards": ["03065b"]
+            }
+        ]
+    },
+    {
+        "name": "Return to A Phantom of Truth",
+        "code": "return_to_a_phantom_of_truth",
+        "campaign_code": "rtptc",
+        "encounter_sets": [
+            {
+                "code": "a_phantom_of_truth"
+            },
+            {
+                "code": "return_to_a_phantom_of_truth"
+            },
+            {
+                "code": "evil_portents"
+            },
+            {
+                "code": "byakhee"
+            },
+            {
+                "code": "stranger"
+            },
+            {
+                "code": "hasturs_envoys"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            },
+            {
+                "code": "the_last_king",
+                "cards": ["03066b"]
+            }
+        ]
+    },
+    {
+        "name": "Return to The Pallid Mask",
+        "code": "return_to_the_pallid_mask",
+        "campaign_code": "rtptc",
+        "encounter_sets": [
+            {
+                "code": "the_pallid_mask"
+            },
+            {
+                "code": "return_to_the_pallid_mask"
+            },
+            {
+                "code": "ghouls"
+            },
+            {
+                "code": "hauntings"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "the_last_king",
+                "cards": ["03067b"]
+            }
+        ]
+    },
+    {
+        "name": "Return to Black Stars Rise",
+        "code": "return_to_black_stars_rise",
+        "campaign_code": "rtptc",
+        "encounter_sets": [
+            {
+                "code": "black_stars_rise"
+            },
+            {
+                "code": "return_to_black_stars_rise"
+            },
+            {
+                "code": "evil_portents"
+            },
+            {
+                "code": "byakhee"
+            },
+            {
+                "code": "inhabitants_of_carcosa"
+            },
+            {
+                "code": "stranger"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "delusory_evils"
+            },
+            {
+                "code": "flood"
+            },
+            {
+                "code": "vortex"
+            },
+            {
+                "code": "the_last_king",
+                "cards": ["03069b"]
+            }
+        ]
+    },
+    {
+        "name": "Return to Dim Carcosa",
+        "code": "return_to_dim_carcosa",
+        "campaign_code": "rtptc",
+        "encounter_sets": [
+            {
+                "code": "dim_carcosa"
+            },
+            {
+                "code": "return_to_dim_carcosa"
+            },
+            {
+                "code": "maddening_delusions"
+            },
+            {
+                "code": "cult_of_the_yellow_sign"
+            },
+            {
+                "code": "inhabitants_of_carcosa"
+            },
+            {
+                "code": "hasturs_envoys"
+            },
+            {
+                "code": "neurotic_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Untamed Wilds",
+        "code": "return_to_the_untamed_wilds",
+        "campaign_code": "rttfa",
+        "encounter_sets": [
+            {
+                "code": "wilds"
+            },
+            {
+                "code": "return_to_the_untamed_wilds"
+            },
+            {
+                "code": "rainforest"
+            },
+            {
+                "code": "return_to_the_rainforest"
+            },
+            {
+                "code": "serpents"
+            },
+            {
+                "code": "doomed_expedition"
+            },
+            {
+                "code": "guardians_of_time"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "ancient_evils"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Doom of Eztli",
+        "code": "return_to_the_doom_of_eztli",
+        "campaign_code": "rttfa",
+        "encounter_sets": [
+            {
+                "code": "eztli"
+            },
+            {
+                "code": "return_to_the_doom_of_eztli"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "venomous_hate"
+            },
+            {
+                "code": "temporal_hunters"
+            },
+            {
+                "code": "traps"
+            },
+            {
+                "code": "ruins"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "serpents",
+                "cards": ["04078"]
+            }
+        ]
+    },
+    {
+        "name": "Return to Threads of Fate",
+        "code": "return_to_threads_of_fate",
+        "campaign_code": "rttfa",
+        "encounter_sets": [
+            {
+                "code": "threads_of_fate"
+            },
+            {
+                "code": "return_to_threads_of_fate"
+            },
+            {
+                "code": "pnakotic_brotherhood"
+            },
+            {
+                "code": "cult_of_pnakotus"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "arkham",
+                "cards": [
+                    "01125",
+                    "01129",
+                    "01130",
+                    "01132",
+                    "01134",
+                    "01135",
+                    "01136"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Return to The Boundary Beyond",
+        "code": "return_to_the_boundary_beyond",
+        "campaign_code": "rttfa",
+        "encounter_sets": [
+            {
+                "code": "the_boundary_beyond"
+            },
+            {
+                "code": "return_to_the_boundary_beyond"
+            },
+            {
+                "code": "temporal_hunters"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "pnakotic_brotherhood"
+            },
+            {
+                "code": "cult_of_pnakotus"
+            },
+            {
+                "code": "venomous_hate"
+            },
+            {
+                "code": "guardians_of_time"
+            },
+            {
+                "code": "return_to_the_doom_of_eztli",
+                "cards": ["53018"]
+            }
+        ]
+    },
+    {
+        "name": "Return to Heart of the Elders, Part I",
+        "code": "return_to_pillars_of_judgment",
+        "campaign_code": "rttfa",
+        "encounter_sets": [
+            {
+                "code": "pillars_of_judgment"
+            },
+            {
+                "code": "return_to_pillars_of_judgment"
+            },
+            {
+                "code": "heart_of_the_elders"
+            },
+            {
+                "code": "rainforest"
+            },
+            {
+                "code": "return_to_the_rainforest"
+            },
+            {
+                "code": "serpents"
+            },
+            {
+                "code": "doomed_expedition"
+            },
+            {
+                "code": "poison"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Heart of the Elders, Part II",
+        "code": "return_to_knyan",
+        "campaign_code": "rttfa",
+        "encounter_sets": [
+            {
+                "code": "knyan"
+            },
+            {
+                "code": "return_to_knyan"
+            },
+            {
+                "code": "heart_of_the_elders"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "venomous_hate"
+            },
+            {
+                "code": "ruins"
+            },
+            {
+                "code": "traps"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "return_to_the_doom_of_eztli",
+                "cards": ["53018"]
+            }
+        ]
+    },
+    {
+        "name": "Return to The City of Archives",
+        "code": "return_to_the_city_of_archives",
+        "campaign_code": "rttfa",
+        "encounter_sets": [
+            {
+                "code": "the_city_of_archives"
+            },
+            {
+                "code": "return_to_the_city_of_archives"
+            },
+            {
+                "code": "agents_of_yog"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "striking_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Depths of Yoth",
+        "code": "return_to_the_depths_of_yoth",
+        "campaign_code": "rttfa",
+        "encounter_sets": [
+            {
+                "code": "the_depths_of_yoth"
+            },
+            {
+                "code": "return_to_the_depths_of_yoth"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "venomous_hate"
+            },
+            {
+                "code": "doomed_expedition"
+            },
+            {
+                "code": "ruins"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "return_to_the_doom_of_eztli",
+                "cards": ["53018"]
+            }
+        ]
+    },
+    {
+        "name": "Return to Shattered Aeons",
+        "code": "return_to_shattered_aeons",
+        "campaign_code": "rttfa",
+        "encounter_sets": [
+            {
+                "code": "shattered_aeons"
+            },
+            {
+                "code": "return_to_shattered_aeons"
+            },
+            {
+                "code": "pnakotic_brotherhood"
+            },
+            {
+                "code": "temporal_hunters"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "cult_of_pnakotus"
+            },
+            {
+                "code": "agents_of_yig"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Turn Back Time",
+        "code": "return_to_turn_back_time",
+        "campaign_code": "rttfa",
+        "encounter_sets": [
+            {
+                "code": "turn_back_time"
+            },
+            {
+                "code": "return_to_turn_back_time"
+            },
+            {
+                "code": "eztli"
+            },
+            {
+                "code": "return_to_the_doom_of_eztli"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "venomous_hate"
+            },
+            {
+                "code": "temporal_hunters"
+            },
+            {
+                "code": "traps"
+            },
+            {
+                "code": "ruins"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "serpents",
+                "cards": ["04078"]
+            }
+        ]
+    },
+    {
+        "name": "Return to Disappearance at the Twilight Estate",
+        "code": "return_to_disappearance_at_the_twilight_estate",
+        "campaign_code": "rttcu",
+        "encounter_sets": [
+            {
+                "code": "disappearance_at_the_twilight_estate"
+            },
+            {
+                "code": "return_to_disappearance_at_the_twilight_estate"
+            },
+            {
+                "code": "at_deaths_doorstep"
+            },
+            {
+                "code": "unspeakable_fate"
+            },
+            {
+                "code": "unstable_realm"
+            },
+            {
+                "code": "spectral_predators"
+            },
+            {
+                "code": "bloodthirsty_spirits"
+            },
+            {
+                "code": "the_watcher"
+            },
+            {
+                "code": "chilling_mists"
+            },
+            {
+                "code": "return_to_at_deaths_doorstep",
+                "cards": ["54028"]
+            }
+        ]
+    },
+    {
+        "name": "Return to The Witching Hour",
+        "code": "return_to_the_witching_hour",
+        "campaign_code": "rttcu",
+        "encounter_sets": [
+            {
+                "code": "the_witching_hour"
+            },
+            {
+                "code": "return_to_the_witching_hour"
+            },
+            {
+                "code": "anettes_coven"
+            },
+            {
+                "code": "city_of_the_damned"
+            },
+            {
+                "code": "hexcraft"
+            },
+            {
+                "code": "impending_evils"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "agents_of_azathoth"
+            },
+            {
+                "code": "agents_of_shub"
+            },
+            {
+                "code": "tentacles",
+                "cards": ["01150", "01151", "01152", "01153", "01154", "01155"]
+            },
+            {
+                "code": "return_to_the_devourer_below",
+                "cards": ["50033", "50034", "50035", "50036"]
+            }
+        ]
+    },
+    {
+        "name": "Return to At Death's Doorstep",
+        "code": "return_to_at_deaths_doorstep",
+        "campaign_code": "rttcu",
+        "encounter_sets": [
+            {
+                "code": "at_deaths_doorstep"
+            },
+            {
+                "code": "return_to_at_deaths_doorstep"
+            },
+            {
+                "code": "silver_twilight_lodge"
+            },
+            {
+                "code": "spectral_predators"
+            },
+            {
+                "code": "bloodthirsty_spirits"
+            },
+            {
+                "code": "unspeakable_fate"
+            },
+            {
+                "code": "chilling_mists"
+            },
+            {
+                "code": "unstable_realm"
+            },
+            {
+                "code": "the_watcher"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Secret Name",
+        "code": "return_to_the_secret_name",
+        "campaign_code": "rttcu",
+        "encounter_sets": [
+            {
+                "code": "the_secret_name"
+            },
+            {
+                "code": "return_to_the_secret_name"
+            },
+            {
+                "code": "city_of_the_damned"
+            },
+            {
+                "code": "unspeakable_fate"
+            },
+            {
+                "code": "unstable_realm"
+            },
+            {
+                "code": "hexcraft"
+            },
+            {
+                "code": "rats"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to The Wages of Sin",
+        "code": "return_to_the_wages_of_sin",
+        "campaign_code": "rttcu",
+        "encounter_sets": [
+            {
+                "code": "the_wages_of_sin"
+            },
+            {
+                "code": "return_to_the_wages_of_sin"
+            },
+            {
+                "code": "anettes_coven"
+            },
+            {
+                "code": "city_of_the_damned"
+            },
+            {
+                "code": "unspeakable_fate"
+            },
+            {
+                "code": "unstable_realm"
+            },
+            {
+                "code": "bloodthirsty_spirits"
+            },
+            {
+                "code": "hexcraft"
+            },
+            {
+                "code": "the_watcher"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to For the Greater Good",
+        "code": "return_to_for_the_greater_good",
+        "campaign_code": "rttcu",
+        "encounter_sets": [
+            {
+                "code": "for_the_greater_good"
+            },
+            {
+                "code": "return_to_for_the_greater_good"
+            },
+            {
+                "code": "city_of_the_damned"
+            },
+            {
+                "code": "silver_twilight_lodge"
+            },
+            {
+                "code": "impending_evils"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "locked_doors"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Return to Union and Disillusion",
+        "code": "return_to_union_and_disillusion",
+        "campaign_code": "rttcu",
+        "encounter_sets": [
+            {
+                "code": "union_and_disillusion"
+            },
+            {
+                "code": "return_to_union_and_disillusion"
+            },
+            {
+                "code": "unspeakable_fate"
+            },
+            {
+                "code": "unstable_realm"
+            },
+            {
+                "code": "spectral_predators"
+            },
+            {
+                "code": "impending_evils"
+            },
+            {
+                "code": "chilling_mists"
+            },
+            {
+                "code": "anettes_coven"
+            },
+            {
+                "code": "silver_twilight_lodge"
+            },
+            {
+                "code": "the_watcher"
+            },
+            {
+                "code": "the_witching_hour",
+                "cards": ["05057"]
+            },
+            {
+                "code": "at_deaths_doorstep",
+                "cards": ["05085"]
+            }
+        ]
+    },
+    {
+        "name": "Return to In the Clutches of Chaos",
+        "code": "return_to_in_the_clutches_of_chaos",
+        "campaign_code": "rttcu",
+        "encounter_sets": [
+            {
+                "code": "in_the_clutches_of_chaos"
+            },
+            {
+                "code": "return_to_in_the_clutches_of_chaos"
+            },
+            {
+                "code": "agents_of_azathoth"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "music_of_the_damned"
+            },
+            {
+                "code": "anettes_coven"
+            },
+            {
+                "code": "city_of_the_damned"
+            },
+            {
+                "code": "hexcraft"
+            },
+            {
+                "code": "secrets_of_the_universe"
+            },
+            {
+                "code": "silver_twilight_lodge"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            }
+        ]
+    },
+    {
+        "name": "Return to Before the Black Throne",
+        "code": "return_to_before_the_black_throne",
+        "campaign_code": "rttcu",
+        "encounter_sets": [
+            {
+                "code": "before_the_black_throne"
+            },
+            {
+                "code": "return_to_before_the_black_throne"
+            },
+            {
+                "code": "agents_of_azathoth"
+            },
+            {
+                "code": "unspeakable_fate"
+            },
+            {
+                "code": "impending_evils"
+            },
+            {
+                "code": "pentagram"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Curse of the Rougarou",
+        "code": "curse_of_the_rougarou",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "bayou"
+            },
+            {
+                "code": "rougarou"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Carnevale of Horrors",
+        "code": "carnevale_of_horrors",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "venice"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Labyrinths of Lunacy",
+        "code": "the_labyrinths_of_lunacy",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "in_the_labyrinths_of_lunacy"
+            },
+            {
+                "code": "epic_multiplayer"
+            },
+            {
+                "code": "single_group"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Eternal Slumber",
+        "code": "the_eternal_slumber",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "the_eternal_slumber"
+            },
+            {
+                "code": "abyssal_tribute"
+            },
+            {
+                "code": "brotherhood_of_the_beast"
+            },
+            {
+                "code": "sands_of_egypt"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Night's Usurper",
+        "code": "the_eternal_slumber",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "the_nights_usurper"
+            },
+            {
+                "code": "abyssal_gifts"
+            },
+            {
+                "code": "brotherhood_of_the_beast"
+            },
+            {
+                "code": "sands_of_egypt"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Murder at the Excelsior Hotel",
+        "code": "murder_at_the_excelsior_hotel",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "murder_at_the_excelsior_hotel"
+            },
+            {
+                "code": "alien_interference"
+            },
+            {
+                "code": "dark_rituals"
+            },
+            {
+                "code": "excelsior_management"
+            },
+            {
+                "code": "sins_of_the_past"
+            },
+            {
+                "code": "vile_experiments"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Blob That Ate Everything",
+        "code": "the_blob_that_ate_everything",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "blob"
+            },
+            {
+                "code": "blob_epic_multiplayer"
+            },
+            {
+                "code": "blob_single_group"
+            },
+            {
+                "code": "migo_incursion"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "War of the Outer Gods",
+        "code": "war_of_the_outer_gods",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "war_of_the_outer_gods"
+            },
+            {
+                "code": "children_of_paradise"
+            },
+            {
+                "code": "death_of_stars"
+            },
+            {
+                "code": "swarm_of_assimilation"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Machinations Through Time",
+        "code": "machinations_through_time",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "machinations_through_time"
+            },
+            {
+                "code": "machinations_through_time_epic_multiplayer"
+            },
+            {
+                "code": "machinations_through_time_single_group"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Fortune and Folly",
+        "code": "fortune_and_folly",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "fortune_and_folly"
+            },
+            {
+                "code": "fortunes_chosen"
+            },
+            {
+                "code": "plan_in_shambles"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Midwinter Gala",
+        "code": "the_midwinter_gala",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "the_midwinter_gala"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "The Blob That Ate Everything ELSE",
+        "code": "the_blob_that_ate_everything_else",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "blob"
+            },
+            {
+                "code": "blob_that_ate_everything_else"
+            },
+            {
+                "code": "blob_epic_multiplayer"
+            },
+            {
+                "code": "blob_single_group"
+            },
+            {
+                "code": "migo_incursion"
+            },
+            {
+                "code": "migo_incursion_2"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Film Fatale",
+        "code": "film_fatale",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "film_fatale"
+            },
+            {
+                "code": "abominable_contessa"
+            },
+            {
+                "code": "cosmic_journey"
+            },
+            {
+                "code": "forgotten_island"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Read or Die",
+        "code": "read_or_die",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "read_or_die"
+            },
+            {
+                "code": "extracurricular_activity"
+            },
+            {
+                "code": "sorcery"
+            },
+            {
+                "code": "the_beyond"
+            },
+            {
+                "code": "bishops_thralls"
+            },
+            {
+                "code": "whippoorwills"
+            },
+            {
+                "code": "ancient_evils"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "agents_of_yog"
+            },
+            {
+                "code": "armitages_fate"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "All or Nothing",
+        "code": "all_or_nothing",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "all_or_nothing"
+            },
+            {
+                "code": "the_house_always_wins"
+            },
+            {
+                "code": "bad_luck"
+            },
+            {
+                "code": "return_to_the_house_always_wins"
+            },
+            {
+                "code": "naomis_crew"
+            },
+            {
+                "code": "rats"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            }
+        ]
+    },
+    {
+        "name": "Bad Blood",
+        "code": "bad_blood",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "bad_blood"
+            },
+            {
+                "code": "threads_of_fate"
+            },
+            {
+                "code": "pnakotic_brotherhood"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "arkham",
+                "cards": [
+                    "01125",
+                    "01129",
+                    "01130",
+                    "01132",
+                    "01134",
+                    "01135",
+                    "01136"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "By the Book",
+        "code": "by_the_book",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "by_the_book"
+            },
+            {
+                "code": "arkham"
+            },
+            {
+                "code": "agents_of_shub"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "pentagram"
+            },
+            {
+                "code": "cultists"
+            },
+            {
+                "code": "striking_fear"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Red Tide Rising",
+        "code": "red_tide_rising",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "red_tide_rising"
+            },
+            {
+                "code": "the_vanishing_of_elina_harper"
+            },
+            {
+                "code": "agents_of_dagon"
+            },
+            {
+                "code": "fog_over_innsmouth"
+            },
+            {
+                "code": "the_locals"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "nightgaunts"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            }
+        ]
+    },
+    {
+        "name": "Laid to Rest",
+        "code": "laid_to_rest",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "laid_to_rest"
+            },
+            {
+                "code": "the_wages_of_sin"
+            },
+            {
+                "code": "anettes_coven"
+            },
+            {
+                "code": "city_of_sins"
+            },
+            {
+                "code": "inexorable_fate"
+            },
+            {
+                "code": "realm_of_death"
+            },
+            {
+                "code": "trapped_spirits"
+            },
+            {
+                "code": "witchcraft"
+            }
+        ],
+        "extra_cards": null
+    },
+    {
+        "name": "Relics of the Past",
+        "code": "relics_of_the_past",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "relics_of_the_past"
+            },
+            {
+                "code": "eztli"
+            },
+            {
+                "code": "agents_of_yig"
+            },
+            {
+                "code": "venom"
+            },
+            {
+                "code": "traps"
+            },
+            {
+                "code": "ruins"
+            },
+            {
+                "code": "poison"
+            },
+            {
+                "code": "chilling_cold"
+            },
+            {
+                "code": "serpents"
+            },
+            {
+                "code": "locked_doors"
+            },
+            {
+                "code": "arkham",
+                "cards": ["01135", "01136"]
+            }
+        ]
+    },
+    {
+        "name": "Enthralling Encore",
+        "code": "enthralling_encore",
+        "campaign_code": null,
+        "encounter_sets": [
+            {
+                "code": "enthralling_encore"
+            },
+            {
+                "code": "curtain_call"
+            },
+            {
+                "code": "decay"
+            },
+            {
+                "code": "delusions"
+            },
+            {
+                "code": "hauntings"
+            },
+            {
+                "code": "ghouls"
+            },
+            {
+                "code": "striking_fear"
+            },
+            {
+                "code": "rats"
+            }
+        ],
+        "extra_cards": null
+    }
 ]

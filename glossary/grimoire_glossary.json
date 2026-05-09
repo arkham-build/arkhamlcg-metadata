@@ -1,7 +1,7 @@
 [
     {
         "type": "glossary",
-        "entry_id": 1,
+        "id": 1,
         "section": "Ability",
         "ruling": "An ability is the specialized game text that indicates how a card affects the game. The various types of card abilities are: constant abilities, forced abilities, revelation abilities, triggered abilities, keyword abilities, and enemy instructions such as spawn.\n- Card abilities only interact with other game elements if the card bearing that ability is in play, unless the ability (or the rules for the cardtype) specifically references its use from an out-of-play area.\n- Card abilities only interact with other cards that are in play, unless that ability (or the rules for the cardtype) specifically references an interaction with cards in an out-of-play area.\n- If multiple instances of the same ability are in play, each instance interacts with (or may interact with) its target individually.",
         "references": [31, 69, 87, 128, 149],
@@ -9,7 +9,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 2,
+        "id": 2,
         "section": "Act Cards",
         "ruling": "Act is a cardtype. One or more sequentially-numbered act cards make up the act deck, which represents the progress the investigators make during the current scenario. Generally, advancing the act deck is good for the investigators.\n- An act card will generally advance through the investigators spending clues, fulfilling an Objective ability, or resolving a Forced effect on its revealed side.\n- Act decks typically contain a requisite clue threshold to advance. As a [fast] player ability, investigators may spend the requisite clues, as a group, to advance during any player window.\n-- An act card may indicate a flat value (such as \"4\") or a per investigator value (as indicated by the [per_investigator] icon).\n-- <i>Reminder: Even if 1 or more investigators are eliminated during a scenario, the [per_investigator] icon's value stays the same.</i>/n- Some act decks have additional objectives which must be met, which may specify when and how investigators must advance. \"<b>Objective</b> -\" instructions override or add additional requirements to advancing, in addition to any clues that must be spent.\n- If an act card has an Objective ability, the act must advance at the specified timing point if its conditions are met, unless the ability specifies that players \"may\" advance.\n- If an Objective ability specifies players \"may\" advance, but does not specify a timing window for this advancement, it may be advanced during any [fast] player window.\n- Any constant abilities and/or forced abilities on an act card's \"a\" side are in effect while resolving the text on its \"b\" side.",
         "references": [3, 26],
@@ -17,7 +17,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 3,
+        "id": 3,
         "section": "Act Deck and Agenda Deck",
         "ruling": "In a given scenario, the act deck represents the progress the investigators can make during their investigations, while the agenda deck represents the progress and objectives of the dark forces arrayed against them. Generally, advancing the act deck is good for the investigators, and advancing the agenda deck is bad for the investigators.\n- The act deck advances if the investigators, as a group, spend the requisite number of clues (as indicated by the act card). An act card may indicate a flat value (such as \"4\") or a \"per investigator\" value (as indicated by the [per_investigator] icon). This is normally done as a [fast] player ability. Any or all investigators may contribute any number of clues toward the total number of clues required to advance the act. If the act has an \"<b>Objective</b> -\" instruction, that instruction overrides or adds additional requirements to the spending of those clues.\n- The agenda deck advances if the requisite number of doom is in play (doom on the agenda card as well as doom on any other cards in play), as indicated by the agenda card. An agenda card may indicate a flat value or a \"per investigator\" value. If the agenda has an \"<b>Objective</b> -\" instruction, that instruction overrides or adds additional requirements to meeting this doom requirement.\n- The act/agenda card on top of the act/agenda deck is referred to as the \"current\" act/agenda.\nTo advance the act deck or the agenda deck, follow these steps, in order:\n1. Remove all tokens from the card to be advanced. If the agenda deck is advancing, remove all doom from each card in play.\n2. Flip the advancing card over and follow the instructions on the reverse (\"b\") side. Any constant abilities and/or forced abilities on an act card's \"a\" side remain in effect while following these instructions.\n3. If the reverse side of the act or agenda is an encounter card, follow the rules for resolving that encounter cardtype. Otherwise, simply follow the instructions on the card.\n4. Sometimes, the advancing act/agenda specifies which card becomes the next act/agenda. If it does not, the next card in the deck becomes the current act/agenda. As a new card becomes the current act/agenda,the advancing card is simultaneously removed from the game.\n-- Some instructions in the act and agenda decks (as well as on other encounter cardtypes) contain resolution points, in the format of: \"<b>(→R#)</b>.\" If a resolution point is reached, the scenario ends. Read the designated resolution in the campaign guide.",
         "references": null,
@@ -25,7 +25,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 4,
+        "id": 4,
         "section": "Action",
         "ruling": "During their turn, an investigator is permitted to take three actions by default. When performing an action, all costs of the action are first paid. Then, the consequences of the action resolve.\n- At the beginning of an investigator's turn, they gain 3 actions.\n- At the end of an investigator's turn, they forfeit all unspent actions.\n- If an investigator is instructed to lose 1 or more actions outside of their turn, they have that many fewer actions to take during their next turn.\n- If an investigator is instructed to gain 1 or more actions outside of their turn, they may take that many additional actions during their next turn.",
         "references": null,
@@ -33,7 +33,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 5,
+        "id": 5,
         "section": "Action Designators",
         "ruling": "Some abilities have one or more bold action designators (such as <b>Fight</b>, <b>Evade</b>, <b>Investigate</b>, or <b>Move</b>). Activating such an ability allows an investigator to perform the effects of the designated action(s) as described in the rules, modified according to that ability's text.\n- If the ability requires a skill test, the skill being tested for that ability is indicated after the bold action designator. <i>(For example, [action] Fight ([combat]) indicates that the skill being tested is [combat].)</i>",
         "references": null,
@@ -41,7 +41,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 6,
+        "id": 6,
         "section": "Activate Action",
         "ruling": "\"Activate\" is an action an investigator may take during their turn.\nWhen this action is taken, the investigator initiates an ability that specifies one or more [action] icons as part of its ability cost. The number of [action] icons in the ability's cost determines how many actions the investigator is required to use for this activate action. When performing an activate action, all of that action's costs are simultaneously paid. Then, the consequences of that action resolve.\nAn investigator is permitted to activate abilities from the following sources:\n- A card in play and under their control. This includes their investigator card.\n- A scenario card that is in play and at the same location as the investigator. This includes the location itself, encounter cards placed at that location, and all encounter cards in the threat area of any investigator at that location.\n- The current act or current agenda card.\nAn activate action provokes attacks of opportunity unless it is also another action type. <i>(For example, triggering the [action] ability on Cosmic Flame counts as both an activate action and a fight action, and thus does not provoke an attack of opportunity).</i>",
         "references": null,
@@ -49,7 +49,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 7,
+        "id": 7,
         "section": "Active Player",
         "ruling": "The active player is the player currently taking their turn during the investigation phase.",
         "references": null,
@@ -57,7 +57,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 8,
+        "id": 8,
         "section": "After",
         "ruling": "The word \"after\" refers to the moment immediately after the specified timing point or triggering condition has fully resolved, but before moving on to the next game step.\n<i>(For example, an ability that reads \"After you draw an enemy card\" initiates immediately after resolving all of the steps for drawing an enemy - resolving its revelation ability, spawning it, etc.)</i>",
         "references": [1, 117, 150],
@@ -65,7 +65,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 9,
+        "id": 9,
         "section": "Agenda Cards",
         "ruling": "Agenda is a cardtype. The agenda deck is a deck of sequentially numbered agenda cards, beginning with agenda 1a, 2a, etc.\nAgenda cards are part of the agenda deck, and represent the progress and objectives of the dark forces arrayed against the investigators during the current scenario. Generally, advancing the agenda deck is bad for the investigators",
         "references": [3, 26],
@@ -73,7 +73,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 10,
+        "id": 10,
         "section": "Alert",
         "ruling": "Alert is a keyword ability.\nEach time an investigator fails a skill test while attempting to evade a ready enemy with the alert keyword, after applying all results for that skill test, that enemy performs an attack against the evading investigator. An enemy does not exhaust after performing an alert attack.\n- This attack occurs whether or not the enemy is engaged with the evading investigator, but does not occur if the enemy is exhausted.",
         "references": null,
@@ -81,7 +81,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 11,
+        "id": 11,
         "section": "Aloof",
         "ruling": "Aloof is a keyword ability.\nAn enemy with the aloof keyword does not automatically engage investigators at its location.\n- When an aloof enemy spawns, it spawns unengaged.\n- An investigator may use an engage action or a card ability to engage an aloof enemy.\n- An investigator cannot attack an aloof enemy while that enemy is not engaged with an investigator.",
         "references": [59, 67],
@@ -89,7 +89,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 12,
+        "id": 12,
         "section": "\"As If\"",
         "ruling": "Some card abilities allow an investigator to resolve that ability or another ability, or to perform an action, as if a certain aspect of the game state were altered. Such abilities are indicated by the use of the phrase \"as if...\" in their ability text. The indicated ability or action is resolved with the altered game state in mind, but the actual game state remains unchanged.\n- Unless otherwise stated, the game state is considered to be altered only <b>during</b> the resolution of the ability or action. All costs must be paid and attacks of opportunity must resolve before resolving the effects.\n-- <i>For example, enemies in an investigator's threat area (and massive enemies at their location) make attacks of opportunity against the investigator initiating the ability when costs are paid, before resolving an ability \"as if\" that investigator is at another location or engaged with other enemies.</i>\n- Play restrictions, costs, and triggering conditions for an \"as if\" ability are considered with the altered game state in mind.\n-- <i>For example, an investigator resolves an ability that lets them play an event \"as if\" they are at a connecting location. The event they wish to play can only be played \"if there is a clue at your location\"; this play restriction is considered fulfilled as long as the location at which they are playing it via the \"as if\" ability has a clue on it, even if their original location, where the ability is initiated, has none.</i>\n- Valid targets for an \"as if\" ability are determined and chosen with the altered game state in mind.\n- While resolving \"as if\" abilities, the altered game state is only considered as it pertains to the resolution of the specified ability or action. Other card abilities or game effects resolve under consideration of the actual game state.\n-- <i>For example, Trish Scarborough uses a card ability to investigate \"as if\" she is at a connecting location. While resolving the skill test, she may trigger the [fast] action ability on Olivier Bishop to move to a connecting location. Even though she is resolving a different ability \"as if\" she is at another location, the [fast] ability on Olivier Bishop may only move her mini-card or investigator token to a location connected to the location where Trish is considered to be under the actual, un-altered game state (in other words, the location at which her mini-card or investigator token is physically present).</i>\n- Unless otherwise stated, resolving an \"as if \" ability does not inherently alter the contents of an investigator's threat area.",
         "references": [144, 150],
@@ -97,7 +97,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 13,
+        "id": 13,
         "section": "Asset Cards",
         "ruling": "Asset is a cardtype.\nAsset cards represent items, allies, talents, spells, and other reserves that may assist or be used by an investigator during a scenario.\n- When an investigator plays an asset, it is placed in your play area. Generally, assets remain in play unless discarded by a card ability or game step.\n- Some assets have health and/or sanity. When an investigator is dealt damage or horror, that investigator may assign some or all of that damage or horror to eligible asset cards they control.\n- Most assets take up one or more slots while in play.\n- Some assets have an encounter set icon and no level indicator. Such assets are known as Story Assets. Story Assets are part of an encounter set and may not be included in a player's deck unless the resolution or setup of a scenario makes that player its bearer.",
         "references": [35, 136],
@@ -105,7 +105,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 14,
+        "id": 14,
         "section": "At",
         "ruling": "The word \"at\" refers to the moment simultaneous to the resolution of the specified timing point or triggering condition.\n- An effect that triggers \"if\" a triggering condition is met should be treated as conditionally triggering \"at\" that timing point.\n- \"At\" and \"if\" abilities trigger in between any \"when\" abilities and any \"after\" abilities with the same triggering condition.\n(For example, an ability that reads \"At the end of the round\" initiates and resolves simultaneously to the round ending, whereas an ability that reads \"If you reveal a [skull] token\" initiates and resolves simultaneously to a chaos token being revealed, but only if its specific triggering condition was met.)",
         "references": [1, 117, 150],
@@ -113,7 +113,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 15,
+        "id": 15,
         "section": "Attachments, \"Attach To\"",
         "ruling": "A card including the phrase \"attach to\" indicates that as it enters play, it must be attached to (placed beneath and slightly overlapped by) the target game element. Once attached, such a card is referred to as an attachment.\n- The \"attach to\" phrase is checked for legality each time a card would be attached to a game element, but is not checked again after that attachment occurs. If the initial \"attach to\" check does not pass, the card is not able to be attached, and remains in its prior state or game area. If such a card cannot remain in its prior state or game area,discard it.\n- Once in play, an attachment remains attached until either the attachment or the game element to which it is attached leaves play (in which case the attachment is discarded), or unless a card ability explicitly detaches the card.\n- An attachment exhausts and readies independently of the game element to which it is attached.",
         "references": null,
@@ -121,7 +121,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 16,
+        "id": 16,
         "section": "Attacker, Attacked",
         "ruling": "An \"attacker\" is an entity (usually an enemy or investigator) that is resolving an attack against another entity. The entity being attacked is referred to as the \"target,\" the \"targeted enemy/investigator/card,\" or the \"attacked enemy/investigator.\"",
         "references": [67, 142],
@@ -129,7 +129,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 17,
+        "id": 17,
         "section": "Attack of Opportunity",
         "ruling": "Each time an investigator engaged with one or more ready enemies takes an action other than <b>Fight</b>, <b>Evade</b>, <b>Parley</b>, or <b>Resign</b>, each engaged enemy attacks them. This is called an attack of opportunity.\n- The investigator who triggered the attack(s) of opportunity chooses the order in which attacks of opportunity resolve.\n- An attack of opportunity is made immediately after the investigator has paid all costs for initiating the action that provoked the attack of opportunity, but before that action's effects are resolved.\n- An ability that costs more than one action only provokes one attack of opportunity from each engaged enemy.\n- An enemy does not exhaust while making an attack of opportunity.\n- After all attacks of opportunity are made, the investigator resolves the action which provoked the attack.\n- Attacks of opportunity count as enemy attacks for the purposes of card abilities.\n- An investigator provokes an attack of opportunity if they spend 1 or more actions to perform an ability or action. [fast] abilities with a bold action designator do not provoke attacks of opportunity.",
         "references": null,
@@ -137,7 +137,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 18,
+        "id": 18,
         "section": "Automatic Failure/Success",
         "ruling": "Some card or token abilities may cause a skill test to automatically fail or to automatically succeed. If a skill test automatically fails or automatically succeeds, it does so during step \"ST.6\" of the \"Skill Test Timing\" process.\n- If a skill test automatically fails, the investigator's total skill value for that test is considered 0, and they fail ties during this skill test.\n- If a skill test automatically succeeds, the total difficulty of that test is considered 0.\n- If it is known that an investigator automatically succeeds or fails at a skill test before Step 3 (\"Reveal chaos token\") occurs, that step is skipped, along with Step 4. No chaos token(s) are revealed from the chaos bag, and the investigator immediately moves to Step 5. All other steps of the skill test resolve as normal.\n- If an ability \"automatically evades\" one or more enemies, this is not the same as automatically succeeding at an evasion attempt.",
         "references": [59],
@@ -145,7 +145,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 19,
+        "id": 19,
         "section": "Base Value",
         "ruling": "Base value is the value of an element before any modifiers are applied. Unless otherwise specified, the base value of an element derived from a card is the value printed on that card.",
         "references": null,
@@ -153,7 +153,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 20,
+        "id": 20,
         "section": "Basic Actions",
         "ruling": "Basic actions are actions that can be taken with no other modifiers, cards or abilities. Types of basic actions available to players are:\n- <b>Draw</b> 1 card.\n- Gain 1 <b>Resource</b>.\n- <b>Move</b> to a connecting location.\n- <b>Engage</b> an enemy at their location.\n- <b>Fight</b> an enemy at their location using [combat].\n- <b>Evade</b> an enemy they are engaged with using [agility].\n- <b>Investigate</b> their location using [intellect].\n<b>Play</b>, <b>Activate</b>, <b>Parley</b>, and <b>Resign</b> actions are not basic actions, as they require cards or card abilities to initiate.",
         "references": null,
@@ -161,7 +161,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 21,
+        "id": 21,
         "section": "Bearer",
         "ruling": "An investigator who has a specific card in their deck is the \"bearer\" of that card.\n- If a game effect instructs an investigator to become the bearer of a specific card (generally a weakness or story asset), that card is added to their deck, ignoring all deckbuilding restrictions. That card does not count toward its bearer's deck size.\n- The bearer of a weakness is the investigator who started the game with that weakness in their deck or play area, or who became its bearer (thus adding it to their deck) during the game.",
         "references": [155],
@@ -169,7 +169,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 22,
+        "id": 22,
         "section": "Blank",
         "ruling": "If a card's printed text box is considered \"blank\" by an ability, that text box is treated as if it did not have any of its printed content. Text and/or icons gained from another source are not blanked.\nA card's text box includes: traits, keywords, card text and abilities.\n- Cards with the permanent keyword do not lose the permanent keyword if their text is blanked.",
         "references": null,
@@ -177,7 +177,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 23,
+        "id": 23,
         "section": "Campaign Play",
         "ruling": "See the \"Campaign Play\" section of the Grimoire.",
         "references": [37, 50, 64],
@@ -185,7 +185,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 24,
+        "id": 24,
         "section": "Cancel",
         "ruling": "Some card abilities can \"cancel\" other card or game effects. Cancel abilities interrupt the initiation of an effect, and prevent the effect from initiating.\nIf an effect is canceled, it is considered not to have happened for the purposes of card abilities. (For example, if all damage from a certain game effect is canceled, that investigator is not considered to have taken damage for the purposes of a card effect such as the [reaction] ability on Jim Culver).",
         "references": null,
@@ -193,7 +193,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 25,
+        "id": 25,
         "section": "Cannot",
         "ruling": "The word \"cannot\" is absolute, and cannot be countermanded by other abilities.",
         "references": null,
@@ -201,7 +201,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 26,
+        "id": 26,
         "section": "Cardtypes",
         "ruling": "The game's cardtypes are introduced in the \"Card Anatomy\" section of the Grimoire.\nIf an ability causes a card to change its cardtype, it loses all other cardtypes it might possess and functions as would any card of the new cardtype.\nAsset, event, skill, and investigator cards are generally referred to as <b>Player Cards</b>, while act, agenda, enemy, location, scenario reference, story, and treachery cards are generally referred to as <b>Scenario Cards</b>. Enemy and treachery cards are also referred to as <b>Encounter Cards</b>, a sub-category of scenario cards.\nThe primary exceptions to the above rules are weakness cards, a card sub-type which are considered to be player cards while in their bearer's deck, and either encounter cards or player cards (depending on their primary cardtype) while they are being resolved or are in play.\n<b>Act Cards</b> are part of the act deck, and represent the progress the investigators make during the current scenario. Generally, advancing the act deck is good for the investigators.\n<b>Agenda Cards</b> are part of the agenda deck, and represent the progress and objectives of the dark forces arrayed against the investigators during the current scenario. Generally, advancing the agenda deck is bad for the investigators.\n<b>Asset Cards</b> represent items, allies, talents, spells, and other reserves that may assist or be used by an investigator during the current scenario. When an investigator plays an asset, it is placed in their play area. Generally, assets remain in play unless discarded by a card ability or scenario effect.\n- Some assets have health and/or sanity. When an investigator is dealt damage or horror, that investigator may assign some or all of that damage or horror to eligible asset cards they control, up to that asset's health/sanity value(s).\n- Most assets take up one or more slots while in play.<b>Enemy Cards</b> represent villains, cultists, terrible monsters, and unfathomable entities from alternate dimensions or the cosmos beyond. Enemies are drawn from the encounter deck and may attack investigators during their turn, the enemy phase, and/or during the mythos phase.\n<b>Event Cards</b> represent tactical actions, maneuvers, spells, tricks, and other instantaneous effects at a player's disposal. Any time a player plays an event card, its cost is paid, its effects are resolved (or canceled), and the card is placed in that investigator's discard pile.\n<b>Investigator Cards</b> represent the brave individuals make their stand (willingly or otherwise) against the dark forces of the Mythos.\nInvestigator cards are chosen at the beginning of deckbuilding and begin each scenario in play. They define an investigator's skills, most innate abilities, and the kinds of other cards they can employ or call upon during the course of a campaign.\n<b>Location Cards</b> represent the places the investigators may explore during a scenario. Place an investigator token or mini-card at a location to indicate where the investigator is located. While an investigator is at a location, that investigator, each of their assets, and each card in that investigator's threat area are considered to be at the same location.\nThe <b>Scenario Reference Card</b> is placed next to the agenda deck during scenario setup. The scenario reference card provides a list of effects for each symbol token used during that scenario.\n<b>Skill Cards</b> represent innate or learned attributes or character traits that improve an investigator's skill tests. Skill cards do not have a cost and cannot be played from a player's hand. In order to resolve its ability, a skill card must be committed to a skill test.\n<b>Story Cards</b> serve as an avenue for additional narrative and typically appear as the reverse side of another scenario card. Players may be instructed to resolve story cards or the story card side of some scenario cards during the course of a game.\n<b>Treachery Cards</b> represent curses, afflictions, madnesses, obstacles, disasters, or other unexpected occurrences an investigator may encounter throughout the course of a scenario. When a treachery card is drawn by an investigator, that investigator must resolve its effects. Then, that card is placed in its discard pile unless otherwise instructed by an ability.",
         "references": [2, 9, 136],
@@ -209,7 +209,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 27,
+        "id": 27,
         "section": "Chaos Tokens",
         "ruling": "Chaos tokens are revealed from the chaos bag during skill tests to modify or influence the results of a skill test.\n- Skull ([skull]), Cultist ([cultist]), Tablet ([tablet]), Elder Thing ([elder_thing) - If any of these tokens are revealed for a skill test, resolve the effect for that symbol as indicated on the scenario reference card for the current scenario.\n- Auto-fail ([auto_fail])- If this token is revealed for a skill test, it indicates that the investigator automatically fails the test.\n- Elder Sign ([elder_sign]) - If this token is revealed for a skill test, resolve the [elder_sign] effect on the investigator card belonging to the player performing the skill test.\n- If a revealed chaos token (or the effect referenced by a chaos token) has a numerical modifier, that modifier is applied to the investigator's skill value for this test.\n- If a card ability references a \"symbol token,\" it refers to any non-numerical token.",
         "references": [135, 18],
@@ -217,7 +217,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 28,
+        "id": 28,
         "section": "Clues",
         "ruling": "Clue tokens represent the progress the investigators can make toward solving a mystery, unraveling a conspiracy, and/or advancing the story.\n- The first time an investigator enters an unrevealed location (even during setup), that location is revealed (turned faceup) and a number of clues equal to its clue value are placed on that location from the token pool. Most clue values use a \"per investigator ([per_investigator])\" value.\n- A clue on a location can be discovered by successfully investigating that location, or by a card ability. If an investigator discovers a clue, they take a clue from that location and place it on their investigator card, under their control.\n- If the current act has a clue value (usually conveyed as a \"per investigator\" value) and no \"<b>Objective</b> -\" requirements for advancing, during any investigator's turn the investigators may, as a group, spend the requisite number of clues from their investigator cards to advance the act deck. This is normally done as a [fast] player ability. Any number of investigators may contribute clues toward the total number of clues required to advance the act.\n- A card ability that refers to clues \"at a location\" or \"on a location\" is referring to the undiscovered clue tokens that are currently on that location card.\n-- At the end of a scenario, any location with victory X and no undiscovered clues on it is added to the victory display.\n- If a player card such as an investigator or asset is defeated or discarded, place all clues that are on that player card on its current location.",
         "references": [94, 84, 154],
@@ -225,7 +225,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 29,
+        "id": 29,
         "section": "The Codex [codex]",
         "ruling": "Some cards have the codex symbol ([codex]) on them. During a scenario, some card effects and abilities may direct players to read a specific codex entry. While playing, keep the campaign guide on hand for easy reference.\nCertain locations, allies, enemies, and other game entities have codex entries, marked with ([codex] X). To read a codex entry, pay all costs and/or resolve all effects associated with its triggering ability, then read the corresponding entry for the current scenario in the campaign guide and resolve its text.\n- Each codex entry cannot be resolved more than once per scenario unless otherwise stated.\n- When resolving a codex entry, the player who triggered that entry resolves all its effects (resolving a test, dealing damage, paying resources, and so forth). If it is unclear who triggered the codex entry, the lead investigator resolves the entry.\n- Codex entries that are triggered via a specific action type (such as <b>Fight</b>, <b>Evade</b>, <b>Parley</b>, etc.) are considered to be that action type throughout the resolution of that codex entry.\n- While resolving a codex entry, a player only reads the section(s) for which they meet the requirements. If they do not meet the requirements to resolve the first section of a codex entry, skip to the following section.\n- If a card effect directs players to resolve a codex entry that does not exist for the scenario being played, that effect fails.\n- After resolving a codex entry and making any changes to the game and/or in the campaign log, resume play.",
         "references": null,
@@ -233,7 +233,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 30,
+        "id": 30,
         "section": "Collection",
         "ruling": "If an ability refers to a player's collection (for example, \"search the collection\"), the collection of cards from which that player's deck was assembled is used.\n- Cards that are currently in use by the game are not also present in a player's collection. <i>(For example, Sean and Etienne are each using a deck built from Sean's collection. If Etienne is instructed to \"search the collection,\" he searches Sean's collection, but cannot search his own deck, discard pile, hand, etc.)</i>.\n- If a player owns multiple copies of a single product, their collection is still only defined (for the purposes of game effects) as a single copy of each unique product they own.",
         "references": null,
@@ -241,7 +241,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 31,
+        "id": 31,
         "section": "Constant Ability",
         "ruling": "A constant ability is a type of card ability.\nA constant ability is always interacting with other game elements as long as the card it is printed on is in play.\n- Some constant abilities require a specific condition to be met. These abilities are denoted by words such as \"during\" or \"while,\" and the effects of such abilities are active whenever the specified condition is met.\n- Constant abilities do not trigger at any specific point.",
         "references": null,
@@ -249,7 +249,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 32,
+        "id": 32,
         "section": "Control",
         "ruling": null,
         "references": [106],
@@ -257,7 +257,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 33,
+        "id": 33,
         "section": "Copy",
         "ruling": "A copy of a card is defined by title. A second copy of a card is any other card that shares the same title, regardless of cardtype, text, artwork, or any other differing characteristics between the cards.\nWhen a card exits and re-enters play, it is considered to be a new copy of itself. As a result, any aspect of the game state that applied to it previously no longer applies.",
         "references": null,
@@ -265,7 +265,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 34,
+        "id": 34,
         "section": "Costs",
         "ruling": "Most card abilities require a cost to be paid in order to initiate. There are two types of costs in the game: resource costs and ability costs.\nA card's <b>resource cost</b> is the numerical value that must be paid (in resources) to play the card from hand. To pay a resource cost, an investigator takes the specified number of resources from their resource pool and places them in the token pool.\nAn <b>ability cost</b> is presented in a \"cost: effect\" construct. Some card abilities require players to spend additional resources, take damage/horror, or meet other conditions in order to trigger. In such a construct, the ability costs and triggering conditions precede the colon, and all of the text following the colon is that ability's effect.\n- If playing a card or triggering an ability with multiple costs, those costs must be paid simultaneously.\n- Only the controller of the card or ability may pay its costs.\n- When a player is exhausting, discarding, or otherwise using cards to pay costs, only cards that are in play and under that player's control may be used, unless the cost specifies an out-of-play state.\n- If a cost involves a game element that is not in play (such as discarding one or more cards from hand), the player paying that cost may only use game elements they control, such as their hand or deck, to pay the cost.\n- If the investigators are instructed to pay a cost as a group, each investigator (or each investigator in the group defined by the ability) may contribute to paying the cost.\n- An ability with a target cannot be initiated—and therefore its costs cannot be paid—if the resolution of its effect will not affect or change its target.\n- If an investigator takes damage or horror as an ability cost and assigns any of it to an asset they control, the cost is still considered paid.\nSome cards add <b>additional costs</b> that must be paid in order to perform certain effects or actions, in the form of \"As an additional cost to (Campaignspecifed effect/action) you must (additional cost)\" or \"You must (additional cost) to (specifed effect/action).\"\n- Additional costs are costs that can be paid outside the normal timing point of paying costs (for instance, during the resolution of an effect).\n- If an effect that requires an additional cost would resolve, the additional cost must be paid at that time. If the additional cost cannot be paid, that aspect of the effect fails to resolve.\n- Additional costs do not have to be paid when a mandatory instruction <i>(such as in the campaign guide, or on the back of an act or agenda card)</i> requires an investigator to resolve an effect.",
         "references": [79],
@@ -273,7 +273,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 35,
+        "id": 35,
         "section": "Dealing Damage/Horror",
         "ruling": "There are two primary types of afflictions that may beset an investigator in the game: damage and horror. Damage afflicts an investigator's health, and horror afflicts an investigator's sanity.\nWhen an investigator or enemy is dealt damage and/or horror, follow these steps, in order:\n<b>1. Assign Damage/Horror</b>: Determine the amount of damage and/or horror being dealt. Place damage and/or horror tokens equal to the amount of damage and horror being dealt next to the cards that will be taking the damage/horror.\n-- When an investigator is dealt damage or horror, that investigator may assign it to eligible asset cards they control. To be eligible, an asset card must have health in order to be assigned damage, and it must have sanity in order to be assigned horror.\n-- An asset cannot be assigned damage beyond the amount of damage it would take to defeat the card, and cannot be assigned horror beyond the amount of horror it would take to defeat the card.\n-- All damage/horror that cannot be assigned to an asset must be assigned to the investigator.\n<b>2. Apply Damage/Horror</b>: Any assigned damage/horror that has not been prevented is now placed on each card to which it has been assigned, simultaneously. If no damage/horror is applied in this step, no damage/horror has been successfully dealt.\n-- Abilities that prevent, reduce, or reassign damage and/or horror that is being dealt are resolved between steps 1 and 2.\n-- After applying damage/horror, if an investigator has damage equal to or higher than their health or horror equal to or higher than their sanity, they are defeated. When an investigator is defeated, they are eliminated from the scenario.\n-- After applying damage/horror, if an enemy has damage equal to or higher than its health, it is defeated and placed in the encounter discard pile (or in its owner's discard pile if it is a weakness).\n-- After applying damage/horror, if an asset has damage equal to or higher than its health or horror equal to or higher than its sanity, it is defeated and placed in its owner's discard pile.",
         "references": [38, 50, 76, 130],
@@ -281,7 +281,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 36,
+        "id": 36,
         "section": "Deck",
         "ruling": "There are 4 main types of decks that appear in any game: the investigator deck, the encounter deck, the act deck, and the agenda deck.\n- The order of cards within a deck may not be altered unless a player is instructed to do so by a card ability.\n- For card effects that instruct an investigator to \"draw X cards,\" those cards are drawn from that investigator's deck unless otherwise stated.",
         "references": [3, 53, 86],
@@ -289,7 +289,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 37,
+        "id": 37,
         "section": "Deckbuilding",
         "ruling": "See the \"Deck Customization\" section of the Grimoire.",
         "references": null,
@@ -297,7 +297,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 38,
+        "id": 38,
         "section": "Defeat",
         "ruling": "Taking damage and/or horror may cause an investigator, enemy, or asset to be defeated.\n- If an investigator has damage on their investigator card equal to or greater than the card's health value, that investigator is defeated. If an investigator has horror on their investigator card equal to or greater than the card's sanity value, that investigator is defeated. A card ability may also defeat an investigator. When an investigator is defeated, they are eliminated from the current scenario.\n- In campaign play, an investigator who is defeated by taking damage equal to or greater than their health suffers 1 physical trauma. An investigator who is defeated by taking horror equal to their sanity suffers 1 mental trauma. Taking trauma may cause an investigator to be killed or driven insane.\n- If an enemy has damage on it equal to or greater than its health value, that enemy is defeated and placed in the encounter discard pile (or in its owner's discard pile if it is a weakness). Defeated enemies with <b>victory X</b> are placed in the victory display.\n- If an asset has damage on it equal to or greater than its health value, it is defeated. If an asset has horror on it equal to or greater than its sanity value, it is defeated. A defeated asset is placed in its owner's discard pile.",
         "references": [50, 147],
@@ -305,7 +305,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 39,
+        "id": 39,
         "section": "Delayed Effects",
         "ruling": "Some abilities create delayed effects. Such abilities specify a future timing point, or indicate a future condition that may arise, and dictate an effect that will happen at that time.\n- Each delayed effect initiates automatically and immediately (as a forced ability) if its future timing point or future condition occurs.\n- A delayed effect affects all specified entities that are in the specified game area and eligible at the time the delayed effect resolves.",
         "references": null,
@@ -313,7 +313,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 40,
+        "id": 40,
         "section": "\"Different\"",
         "ruling": "Some card abilities refer to \"different\" cards. Different cards are cards with different titles (excluding subtitles). (For example, two copies of Ward of Protection are not considered to be \"different,\" even if they have different levels.)\nSome card abilities refer to \"different\" actions or \"different\" abilities. An ability or action is different from another ability/action if the two are non-identical abilities, separate abilities on the same card, or abilities on two different cards. (For example, the two separate <b>Fight</b> abilities on Sledgehammer are different from one another, however identical <b>Fight</b> abilities on two copies of Machete are not different from one another, nor are two basic <b>Fight</b> actions).\n- Location cards are an exception to this rule. Separate location cards are, by their very nature, not the same location. Therefore, multiple copies of a location with the same title are still considered to be different locations.",
         "references": null,
@@ -321,7 +321,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 41,
+        "id": 41,
         "section": "Difficulty (Level)",
         "ruling": "<i>Arkham Horror: The Card Game</i> has four levels of difficulty: Easy, Standard, Hard, and Expert. At the beginning of a campaign or standalone scenario, the players choose which difficulty level to use. The campaign setup section of that campaign or scenario's campaign guide indicates which chaos tokens should be placed into the chaos bag when playing on each difficulty level.\n- When playing in Easy or Standard mode, use the \"Easy/Standard\" side of each scenario's reference card. When playing in Hard or Expert mode, use the \"Hard/Expert\" side of each scenario's reference card instead.",
         "references": null,
@@ -329,7 +329,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 42,
+        "id": 42,
         "section": "Difficulty (Skill Tests)",
         "ruling": "The difficulty of a skill test is the target number an investigator is trying to equal or exceed with their modified skill value to pass that test.\n- When attacking an enemy, the base difficulty of the skill test is the enemy's fight value.\n- When investigating a location, the base difficulty of the skill test is the location's shroud value.\n- When attempting to evade an enemy, the base difficulty for the skill test is the enemy's evade value.\n- When resolving a skill test created by a card ability, the base difficulty is indicated as a parenthetical value following the indication of which skill is being tested. <i>(For example, an Intellect test with a difficulty of 3 would be indicated by the following: [intellect] (3))</i>.",
         "references": null,
@@ -337,7 +337,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 43,
+        "id": 43,
         "section": "Direct Damage, Direct Horror",
         "ruling": "If an ability causes a card to take direct damage or direct horror, that damage or horror must be assigned directly to the specified card, and cannot be assigned or re-assigned elsewhere.",
         "references": null,
@@ -345,7 +345,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 44,
+        "id": 44,
         "section": "Discard Piles",
         "ruling": "Any time a card is discarded, it is placed faceup on top of its owner's discard pile. Encounter cards are owned by the encounter deck.\n- Each discard pile is an out-of-play area.\n- Each investigator has their own discard pile, and the encounter deck has its own discard pile.\n- Each discard pile is open information, and may be looked at by any player at any time.\n- The order of cards in a discard pile may not be altered unless a player is instructed to do so by a card ability.\n- If multiple cards are discarded simultaneously, the owner of the cards may physically place them on top of their discard pile one at a time, in any order. If multiple encounter cards are discarded simultaneously, they are placed on top of the encounter discard pile in any order (determined by lead investigator).\n- Any ability that would shuffle a discard pile of zero cards back into a deck does not shuffle the deck.",
         "references": null,
@@ -353,7 +353,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 45,
+        "id": 45,
         "section": "Doom",
         "ruling": "Doom tokens represent the progress the forces of the Mythos make toward completing foul rituals, summoning cosmic entities, and/or advancing the story in an unfavorable direction.\n- During each Mythos phase, 1 doom is placed on the current agenda.\n- If the current agenda has a doom value and no \"<b>Objective</b> -\" requirements for advancing the current agenda, and the requisite amount of doom is in play (among the agenda and all cards in play), the agenda advances during step 2 of the mythos phase. Unless a card or keyword ability specifies that it can advance the agenda, this is the only time at which the agenda can advance.\nDoom on cards other than the agenda (such as enemies, allies, locations, etc.) counts toward the amount of doom in play.",
         "references": [103],
@@ -361,7 +361,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 46,
+        "id": 46,
         "section": "Doomed",
         "ruling": "Doomed is a keyword ability.\nWhen an enemy with the doomed keyword is defeated (either by an investigator or a scenario effect), place 1 doom on the current agenda. This effect can cause the current agenda to advance.\n- An effect that \"discards\" an enemy is not considered to defeat that enemy and does not trigger the doomed keyword.",
         "references": null,
@@ -369,7 +369,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 47,
+        "id": 47,
         "section": "Draw Action",
         "ruling": "\"Draw\" is an action an investigator may take during their turn in the investigation phase.\nWhen an investigator takes this action, that investigator draws one card from their deck.\n- Taking a draw action provokes attacks of opportunity.",
         "references": null,
@@ -377,7 +377,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 48,
+        "id": 48,
         "section": "Drawing Cards",
         "ruling": "When a player is instructed to draw one or more cards, those cards are drawn from the top of their investigator deck and added to their hand.\nWhen a player is instructed to draw one or more encounter cards, those cards are drawn from the top of the encounter deck, and resolved following the rules for drawing encounter cards under framework step 1.4, \"Each investigator draws 1 encounter card.\"\n- When a player draws two or more cards as the result of a single ability or game step, those cards are drawn simultaneously. If multiple weaknesses or encounter cards are drawn this way, their effects are resolved in the order that they entered that player's hand. If a deck empties mid-draw, reset the deck and complete the draw.\n- There is no limit to the number of cards a player may draw each round.\n- If an investigator with an empty deck needs to draw 1 or more cards, that investigator immediately shuffles their discard pile back into their deck, then draws the card and takes one horror.\n-- Drawing the card and taking the horror occur simultaneously.\n-- If an investigator would draw from an empty deck and has no cards in their discard pile, that investigator is immediately defeated and suffers 1 mental trauma.",
         "references": null,
@@ -385,7 +385,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 49,
+        "id": 49,
         "section": "Effects",
         "ruling": "A card effect is any effect that arises from the resolution of ability text printed on, or gained by, a card. A framework effect is any effect that arises from the resolution of a framework event.\n- Card effects may be preceded by costs, triggering conditions, play restrictions, and/or play permissions; such elements are not considered effects.\n- Once initiated, players must resolve as much of each aspect of the effect as they are able, unless the effect uses the word \"may.\"\n-- In order for an effect with a target to initiate and thus resolve, it must have a valid target to choose. For example, if a card ability prompts an investigator to choose an enemy/investigator at their location and there is none, the effect fails.\n- When a non-targeting effect attempts to interact with a number of entities (such as \"draw 3 cards\" or \"search the top 5 cards of your deck\") that exceeds the number of entities that currently exist in the specified game area, the effect interacts with as many entities as possible.\n- All aspects of an effect have timing priority over all \"after...\" triggering conditions that might arise as a consequence of that effect. For example, if an effect reads \"Gain 3 resources and draw 3 cards,\" resolve both aspects of the effect (gaining resources and drawing cards) before initiating an ability that reads \"After drawing a card...\"",
         "references": [1, 142],
@@ -393,7 +393,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 50,
+        "id": 50,
         "section": "Elimination",
         "ruling": "A player is eliminated from a scenario when their investigator is defeated, or if they resign. The only manner in which eliminated investigators continue to affect the game is when establishing \"per investigator\" values. Any time a player is eliminated:\n- For the purpose of resolving weakness cards, the game has ended for the eliminated investigator. Trigger any \"when the game ends\" abilities on each weakness the eliminated investigator owns that is in play (or, in rare cases, their hand). Then, remove those weaknesses from the game.\n- The cards that player owns and controls that are currently in play and all of the cards they own in their play area (such as their hand, deck, and discard pile) are removed from the game.\n- Any card that player owns but does not control that is currently in play remains in play. If that card leaves play, it is removed from the game.\n- All clue tokens that player possesses are placed on the location where the investigator was when they were eliminated, and all of their resource tokens are returned to the token pool.\n- All enemies in that player's threat area are placed at the location where the investigator was when they were eliminated.\n- All other cards in the eliminated investigator's threat area are placed in the appropriate discard pile(s).\n- If the lead investigator is eliminated, the remaining players (if any) choose a new lead investigator to take the lead investigator token.\n- If there are no remaining investigators in the game, the scenario ends. Refer to the \"no resolution was reached\" entry for that scenario in the campaign guide.\n- <i>Reminder: an investigator who has been eliminated from the current scenario is not necessarily eliminated from the campaign.</i>",
         "references": [110],
@@ -401,7 +401,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 51,
+        "id": 51,
         "section": "Elusive",
         "ruling": "Elusive is a keyword ability.\nElusive enemies represent enemies who want to avoid the investigators for their own survival or to accomplish their own goals. If a ready enemy with the elusive keyword attacks or is attacked, after that attack resolves, that enemy immediately disengages from all investigators, moves to a connecting location (with no investigators if able), and exhausts.\n- This effect occurs whether or not the enemy was engaged with the attacking investigator.",
         "references": null,
@@ -409,7 +409,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 52,
+        "id": 52,
         "section": "Empty Location",
         "ruling": "An empty location is a location with no enemies or investigators at it.",
         "references": null,
@@ -417,7 +417,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 53,
+        "id": 53,
         "section": "Encounter Deck",
         "ruling": "The encounter deck contains the encounter cards (enemy, treachery, and other cards specified by the scenario) the investigators must face during the current scenario.\n- If the encounter deck is empty, shuffle the encounter discard pile back into the encounter deck.\n- If the encounter deck runs out of cards while resolving a card ability or game effect, after resolving that effect in full, shuffle the encounter discard pile back into the encounter deck.",
         "references": [36],
@@ -425,7 +425,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 54,
+        "id": 54,
         "section": "Encounter Set",
         "ruling": "An encounter set is a collection of encounter cards, denoted by a common encounter set symbol near each card's cardtype.",
         "references": null,
@@ -433,7 +433,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 55,
+        "id": 55,
         "section": "Enemy Cards",
         "ruling": "Enemy is a cardtype.\nEnemies represent villains, cultists, ne'er-do-wells, terrible monsters, and unfathomable entities from alternate dimensions or the cosmos beyond.\nWhen an enemy card is drawn by an investigator, that investigator must spawn it following any spawn instructions on the card. If the encountered enemy has no spawn instructions, the enemy spawns engaged with the investigator encountering the card and is placed in that investigator's threat area.\n- Any time a ready, unengaged enemy is at the same location as an investigator, it engages that investigator.\n-- Enemies with the aloof and massive keywords are an exception to the above rules. When an investigator encounters an aloof or massive enemy, the enemy is placed at that investigator's location (rather than in their threat area).\n-- Enemies with the aloof keyword do not automatically engage investigators at their location.\n-- Enemies with the massive keyword are considered to be engaged with each investigator at their current location while ready, and engaged with no investigators while exhausted.\n- If an investigator is engaged with a ready enemy and takes an action other than to fight, to evade, or to activate a parley or resign ability, that enemy makes an attack of opportunity.\nEnemies with the hunter and patrol keywords move during Step 3.2 of the Enemy Phase.\n- Engaged enemies attack during Step 3.3 of the Enemy Phase.",
         "references": [11, 17, 78, 95, 108, 56],
@@ -441,7 +441,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 56,
+        "id": 56,
         "section": "Enemy Phase",
         "ruling": "During the enemy phase, each ready enemy with the hunter keyword moves once toward the nearest investigator, and each ready enemy with the patrol keyword moves once toward its designated target.\nEach enemy engaged with an investigator attacks that investigator, then exhausts.",
         "references": null,
@@ -449,7 +449,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 57,
+        "id": 57,
         "section": "Engage Action",
         "ruling": "\"Engage\" is an action an investigator may take during their turn in the investigation phase.\nTo engage an enemy at the same location, an investigator places the chosen enemy in their threat area. The investigator and the enemy are now engaged. <i>(For example, this might be done to engage an exhausted enemy, an aloof enemy, or an enemy engaged with another investigator.)</i>\n- An investigator may perform the engage action to engage an enemy that is engaged with a different investigator at the same location. The enemy simultaneously disengages from the previous investigator and engages the investigator performing the action.\n- An investigator cannot use the engage action to engage an enemy they are already engaged with, or an enemy with the massive keyword.\n- An engage action provokes attacks of opportunity.",
         "references": null,
@@ -457,7 +457,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 58,
+        "id": 58,
         "section": "Enters Play",
         "ruling": "The phrase \"enters play\" refers to any time a card makes a transition from an out-of-play area to a play area.\n- If an ability (either on the card itself or from another card) causes a card to enter play in a state different from that specified by the rules,there is no transition to that state. It merely enters play in that state.",
         "references": [81],
@@ -465,7 +465,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 59,
+        "id": 59,
         "section": "Evade, Evade Action",
         "ruling": "\"Evade\" is an action an investigator may take during their turn in the investigation phase.\nTo evade an enemy engaged with an investigator, that investigator makes an agility ([agility]) test against the enemy's evade value. If the test is successful, that investigator evades the enemy (during Step 7 of the skill test).\n- If the test fails, the investigator does not evade the enemy, and it remains engaged with them.\nAny time an enemy is evaded, the enemy is exhausted (if it was ready) and the investigator disengages from the enemy. Move the enemy from the investigator's threat area to the investigator's location to mark that it is no longer engaged with that investigator.\n- Unlike the fight, engage or parley actions, by default an investigator can only perform an evade action against an enemy engaged with them.\n- Taking an evade action does not provoke attacks of opportunity.\n- If an ability \"automatically\" evades one or more enemies, no skill test is made for the evasion attempt. Consequently, it is not considered a \"successful\" evasion. The investigator simply follows the steps for evading an enemy (exhausting it and breaking its engagement) for each enemy evaded in this way.",
         "references": [18, 135],
@@ -473,7 +473,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 60,
+        "id": 60,
         "section": "Event Cards",
         "ruling": "Event cards represent tactical actions, maneuvers, spells, tricks, and other instantaneous effects at a player's disposal.\n- If an event card does not have the fast keyword, it may only be played from a player's hand by performing a \"Play\" action during their turn. That player must follow all play permissions/restrictions that card has.\n- A fast event card may be played from a player's hand any time its play instructions specify <i>(typically during any player window, or in response to a triggering condition)</i>.\n- Any time a player plays an event card, its costs are paid, its effects are resolved (or canceled), and the card is placed in its owner's discard pile after those effects resolve (or are canceled).\n- If the effects of an event card are canceled, the card is still considered to have been played, and its costs remain paid. Only the effects have been canceled.\n- Playing an event card from hand (or not playing it) is always optional for a player, unless the event uses the word \"must\" in its play instructions.",
         "references": null,
@@ -481,7 +481,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 61,
+        "id": 61,
         "section": "Exceptional",
         "ruling": "Exceptional is a deckbuilding keyword ability.\n- A card with the exceptional keyword costs twice its printed experience cost (the card's level) to purchase.\n - An investigator deck cannot include more than one copy (by title) of an exceptional card.",
         "references": null,
@@ -489,7 +489,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 62,
+        "id": 62,
         "section": "Exhaust, Exhausted",
         "ruling": "A card that is rotated 90 degrees sideways is considered to be exhausted.\nA card can become exhausted either as part of an ability cost or other game effect. When a card exhausts, it is rotated 90 degrees (sideways).\n- An exhausted card cannot exhaust again until it is readied (typically during the upkeep phase or via a card ability).",
         "references": null,
@@ -497,7 +497,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 63,
+        "id": 63,
         "section": "Exile",
         "ruling": "Exile is an ability that may appear on some player cards and in the campaign guide.\nSome player cards must be exiled when they are used. When a card is exiled, it is removed from the game and returned to the collection.\n- During campaign play, a non-level-0 card that has been exiled must be purchased again with experience points (between scenarios) before an investigator can add it back into their deck.\n- If exiling one or more cards would reduce an investigator's deck below their deck size, when purchasing cards between scenarios, they must purchase cards so that a legal deck size is maintained. <i>(Reminder: when purchasing cards in this manner, an investigator may purchase level 0 cards for 0 experience cost until a legal deck size is reached).</i>",
         "references": null,
@@ -505,7 +505,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 64,
+        "id": 64,
         "section": "Experience",
         "ruling": "After recording the results of a scenario, the investigators are ready to reflect on their experiences and purchase new cards for their decks. To do this, follow these steps, in order:\n<b>1. Count experience.</b> Each investigator earns experience equal to the total victory value of all cards in the victory display plus or minus any bonuses or penalties indicated by the campaign guide for that resolution. This total is added to any unspent experience an investigator has recorded from previous scenarios in the campaign.\n<b>2. Purchase new cards.</b> New cards may be purchased and added to a player's deck by spending experience equal to the card's level (denoted by a number of pips in the upper left hand corner of the card). While purchasing new cards, observe the following rules:\n-- An investigator's deckbuilding guidelines (found on the back of the investigator card) must be observed while that investigator is purchasing new cards. Only cards the investigator has access to may be purchased. The deck-size requirement must also be maintained, so that for each (non-Permanent) card purchased and added to a deck, a different card is removed from the deck. Weakness cards and cards that must be included in an investigator's deck may not be removed while that investigator is purchasing new cards.\n-- Each card costs experience equal to the card's level, to a minimum of 1 (purchasing a level zero card still costs 1 experience). The number of pips beneath a card's cost indicates the card's level.\n-- When purchasing a higher level version of a card with the same title, the investigator may choose to \"upgrade\" that card by paying only the difference in experience (to a minimum of 1) between the two cards and removing the lower level version of the card from their deck.\n-- New cards are purchased (or upgraded) individually. If an investigator wishes to purchase more than 1 copy of a new card, each copy must be paid for separately, and one card must be removed from that investigator's deck for each copy purchased.\n-- The above processes, and any specific instructions provided by the campaign guide, are the only methods by which a player may modify their deck during a campaign.\n<b>3. Record unspent experience.</b> Each investigator records any unspent experience on the campaign log. This experience may be spent at a later time during this campaign.",
         "references": null,
@@ -513,7 +513,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 65,
+        "id": 65,
         "section": "Farthest",
         "ruling": "Some card abilities reference the \"farthest\" entity or location.\nThis is determined by finding the entity or location from which the shortest distance (by movement) to the subject of the ability is the highest out of all eligible entities or locations. In the event of a tie, the lead investigator decides which location or entity is the \"farthest.\"\n<i>For example: Location A is 5 connections away from investigator A and 1 connection away from investigator B. Location B is 3 connections away from investigator A and 4 connections away from investigator B. Location B is therefore the \" farthest from all investigators,\" because its distance to the nearest investigator is greater than that of location A. (This is true even though location A is farther from investigator A.)</i>",
         "references": null,
@@ -521,7 +521,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 66,
+        "id": 66,
         "section": "Fast",
         "ruling": "Fast is a keyword ability. A fast card does not cost an action to be played and is not played using the \"Play\" action.\n- Playing a fast card does not provoke attacks of opportunity because it does not cost an action to play.\n- A fast asset may only be played by an investigator during a player window on their turn.\n- A fast event may be played from a player's hand any time its play instructions specify.\n- If a card's play instructions specify that it is played \"when/after\" a specific timing point, that timing point is the triggering condition for playing the card.\n- If a card's play instructions specify that it is played during a specific duration or period of time, it may be played during any player window within that period.\n- If a card's instructions specify both a \"when/after\" timing point and a specific duration or period of time, it may be played in reference to any instance of the specified triggering condition during any player window within that time period.",
         "references": [87],
@@ -529,7 +529,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 67,
+        "id": 67,
         "section": "Fight Action",
         "ruling": "\"Fight\" is an action an investigator may take during their turn in the investigation phase.\nTo fight an enemy at their location, an investigator resolves an attack against that enemy by making a combat ([combat]) test against the enemy's fight value.\nIf the test is successful, the attack succeeds and 1 damage is dealt to the attacked enemy (during Step 7 of the skill test).\n- By default, an attack deals 1 damage. Weapons, spells, skills, and other card effects may modify this damage.\nIf the test fails, no damage is dealt to the attacked enemy. However, if an investigator fails this test against an enemy that is engaged with another single investigator, the damage of the attack is dealt to the investigator engaged with that enemy.\n- Taking a fight action (either by playing a card with a bolded Fight ability, activating a bolded Fight ability on a card, or taking a basic fight action) does not provoke attacks of opportunity.\n- An investigator may fight any enemy at their location, including: an enemy they are engaged with, an unengaged enemy at the same location, or an enemy engaged with another investigator who is at the same location.",
         "references": [11, 135],
@@ -537,7 +537,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 68,
+        "id": 68,
         "section": "Flavor Text",
         "ruling": "Flavor text is additional text that provides thematic context to a card and/or its abilities. Flavor text does not interact with the game in any manner.",
         "references": null,
@@ -545,7 +545,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 69,
+        "id": 69,
         "section": "Forced Ability",
         "ruling": "A forced ability is a type of card ability.\nForced abilities are identified by a bold \"<b>Forced</b> -\" instruction. Forced abilities trigger at a specific timing point. Such a timing point is usually indicated by words such as: \"when,\" \"after,\" \"if,\" or \"at.\"\n- A forced ability with a target does not trigger if it cannot affect its target.\n- A forced ability <b>must</b> trigger each time its specified timing point is met.\n- A forced ability that triggers \"when\" its timing point occurs is triggered as soon as the specified timing point is met, but before its impact upon the game resolves. <i>(For example, an effect that states \"<b>Forced</b> - When you play an asset: Take 1 horror.\" deals 1 horror when the asset is being played, but before that asset enters play.)</i>\n- A forced ability that triggers \"after\" its timing point occurs is triggered immediately after that timing point's impact upon the game resolves.\n- Forced abilities take precedence over player card abilities. All forced abilities triggered at a specific timing point must be resolved in full before triggering any [reaction] abilities referencing the same timing point.",
         "references": [1],
@@ -553,7 +553,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 70,
+        "id": 70,
         "section": "\"For each\" or \"for every\"",
         "ruling": "Some card effects instruct an investigator to perform an effect multiple times for each instance of a particular condition (For example, \"for each horror on you,\" or \"for every asset you control\"). If such an effect can be calculated and resolved simultaneously, it should be resolved (and may be canceled, ignored, or prevented) as a single cumulative effect.\nIf a card effect cannot be resolved simultaneously, each instance should be resolved as a separate effect (and must be canceled, ignored, or prevented independently of each other effect).\n- This typically occurs if an effect has multiple steps, a choice, or other dependencies. <i>(For example: A treachery card instructs you to \"take 1 horror for each point you fail by.\" Since you can calculate how many points you fail by and resolve the dealt horror simultaneously, it can be resolved as a single instance of horror, and can be treated as such for the purposes of card abilities. A different treachery card reads: \"For each point you fail by, you must either lose 1 action or take 1 horror.\" This treachery must be resolved as separate effects; each point failed by requires you to make a choice, whether that choice is to lose an action or to take a horror. Each instance must be resolved separately, even if the resulting outcome only causes you to take horror.)</i>",
         "references": null,
@@ -561,7 +561,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 71,
+        "id": 71,
         "section": "Gains",
         "ruling": "The word \"gains\" is used in multiple contexts.\n- If a player gains one or more resources, the player takes the specified number of resources from the token pool and adds them to their resource pool.\n- If an investigator gains an action, that investigator is permitted one additional action to spend during the specified time period.\n-- If an investigator gains an action outside of their turn, they may spend that action during their next turn.\n- If a card gains a characteristic (such as an icon, a trait, a keyword, or ability text), the card functions as if it possesses the gained characteristic.\n- \"Gained\" characteristics are not considered to be \"printed\" on the card. If an ability refers to the printed characteristics of a card, it does not refer to gained characteristics.",
         "references": null,
@@ -569,7 +569,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 72,
+        "id": 72,
         "section": "Game",
         "ruling": "A \"game\" consists of a single scenario, not an entire campaign. In a campaign, the beginning of a new scenario marks the start of a new game.",
         "references": null,
@@ -577,7 +577,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 73,
+        "id": 73,
         "section": "Hand Size",
         "ruling": "Each investigator's maximum hand size is 8 by default. This value is checked only during the upkeep phase, after drawing 1 card and gaining 1 resource.",
         "references": [152],
@@ -585,7 +585,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 74,
+        "id": 74,
         "section": "Haunted",
         "ruling": "Haunted is an ability that appears on some locations.\nEach time an investigator fails a skill test while investigating a location, after applying all results for that skill test, that investigator must resolve all \"<b>Haunted</b> -\" abilities on that location.\n- A location is \"haunted\" for the purposes of other card effects if it has at least one \"<b>Haunted</b> -\" ability (printed or otherwise).",
         "references": null,
@@ -593,7 +593,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 75,
+        "id": 75,
         "section": "Heal",
         "ruling": "\"Heal\" is an instruction to remove the indicated amount of damage or the indicated amount of horror from a card.\n- If a card is healed for more damage or horror than it currently has on it, remove as much of the indicated amount as possible. Any remaining damage/horror that was not healed is considered to have been healed \"in excess\" of the card's maximum health/sanity.\n- Moving damage and/or horror from one card to another is not considered to be healing for the purposes of card effects, nor is it considered to be \"damaging\" them.",
         "references": null,
@@ -601,7 +601,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 76,
+        "id": 76,
         "section": "Health and Damage",
         "ruling": "Health represents a card's physical fortitude. Damage tokens track the physical harm that has been done to a card during a scenario.\n- When a card takes damage, place that many damage tokens on the card.\n- If an investigator card has damage on it equal to or greater than its health value, that investigator is defeated. When an investigator is defeated, they are eliminated from the current scenario.\n- In campaign play, an investigator who is defeated by damage suffers 1 physical trauma. Taking physical trauma may cause an investigator to be <b>killed</b>.\n- If an enemy has damage on it equal to or greater than its health value, that enemy is defeated.\n- If an asset has damage on it equal to or greater than its health value, it is defeated.\n- An asset card without a health value cannot be assigned damage.\n- A card's remaining health is its health value, plus or minus any active health modifiers, minus the amount of damage on it.\n- If an investigator takes \"direct damage\" that damage must be assigned to their investigator card.",
         "references": [35, 38, 50],
@@ -609,7 +609,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 77,
+        "id": 77,
         "section": "Hidden",
         "ruling": "Hidden is a keyword ability.\nHidden cards have <b>Revelation</b> abilities that secretly add them to an investigator's hand. This should be done without revealing that card or its text to the other investigators. While a hidden card is in an investigator's hand, they treat it as if it were in their threat area. Its constant abilities are active, and abilities on it can be triggered, but only by that investigator.\n- A hidden card counts toward an investigator's maximum hand size, but it cannot be discarded from hand by any means except those described on the card.\n- When discarded, hidden cards are placed in the encounter discard pile.\n- For the best experience, players are encouraged to stay \"in character\" and not share information about hidden cards in their hand.",
         "references": null,
@@ -617,7 +617,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 78,
+        "id": 78,
         "section": "Hunter",
         "ruling": "Hunter is a keyword ability.\nAt the start of the enemy phase, each ready, unengaged enemy with the hunter keyword moves to a connecting location, along the shortest path toward the nearest investigator. Enemies at a location with one or more investigators do not move.\n- Some enemies may target specific prey, indicated in parentheses next to the prey keyword.\n- If there are multiple equidistant investigators who qualify as \"the nearest investigator,\" the hunter enemy moves toward the one who best meets its designated prey. If none do, or if the enemy has no prey keyword, the lead investigator decides.\n- If a hunter enemy would be compelled to move into a location but is blocked by a card ability, that enemy does not move.",
         "references": [115],
@@ -625,7 +625,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 79,
+        "id": 79,
         "section": "Ignore",
         "ruling": "Some card abilities can \"ignore\" the costs or effects of other abilities or game actions. Ignore abilities either bypass the paying of costs without interfering with the resolution of a card or ability's effects, or prevent one or more of a card, token, or ability's effects without interfering with other non-ignored effects or cancelling the ability's initiation.\n- If a cost is ignored, it is no longer required to be paid in order for the card or ability in question to resolve.\n-- Some cards allow an investigator to play a card or activate an ability, \"ignoring all costs.\" These effects only ignore the costs of activating an ability; they do not ignore additional costs that may or must be paid while resolving that ability. <i>(In other words, anything \"before the colon\" is ignored, but any additional costs \"after the colon\" must be paid as normal.)</i>\n-- If a card or ability has X cost, where X is defined by a granted player choice, and that cost is ignored, X is considered to be 0 throughout the resolution of that card or ability.\n- If an effect is ignored, it is considered not to have resolved for the purposes of card abilities. However, the corresponding ability or game action was still initiated, and thus other abilities can still react to it. <i>(For example, while a \"cancelled\" chaos token is considered to have never been drawn in the first place, an \"ignored\" chaos token was still drawn, but neither its modifier nor any of its effects will resolve or be applied to the current test or ability.)</i>\n- Costs or effects that exile a card and/or remove a card from the game cannot be ignored.",
         "references": [34, 63, 158],
@@ -633,7 +633,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 80,
+        "id": 80,
         "section": "Immune",
         "ruling": "If a card is immune to a specified set of effects (for example, \"immune to treachery card effects,\" or \"immune to player card effects\"), it cannot be affected or targeted by effects belonging to that set. Only the card itself is protected; other entities associated with an immune card (such as attached assets, tokens placed on, or abilities originating from an immune card) are not themselves immune.\n- If a card gains immunity to an effect, pre-existing lasting effects that have been applied to the card are not removed. If a card loses immunity to an effect, pre-existing lasting effects of that nature are not applied to the card.\n- Immunity only protects a card from effects. It does not protect a card from costs.",
         "references": null,
@@ -641,7 +641,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 81,
+        "id": 81,
         "section": "In Play and Out of Play",
         "ruling": "The cards that a player controls in their play area are considered in play.\nThe current act, the current agenda, the scenario reference card, each location in the play space, and each encounter card in an investigator's threat area or at a location are all considered in play.\nCards in a player's hand, in any deck, in any discard pile, in the victory display, and those that have been set aside and/or removed from the game are all considered out of play.\n- A card enters play when it transitions from an out-of-play origin to an in-play destination.\n- A card leaves play when it transitions from an in-play origin to an out-of-play destination.\n- Tokens on cards that are in play are considered in-play. Resources in each investigator's resource pool are also considered in-play",
         "references": null,
@@ -649,7 +649,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 82,
+        "id": 82,
         "section": "In Player Order",
         "ruling": "If the players are instructed to perform a sequence \"in player order,\" the lead investigator performs their part of the sequence first, followed by the other players in clockwise order. The phrase \"the next player\" is used in this context to refer to the next player (clockwise) to act in player order.",
         "references": null,
@@ -657,7 +657,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 83,
+        "id": 83,
         "section": "Instead",
         "ruling": "The word \"instead\" is indicative of a replacement effect. A replacement effect is an effect that replaces the resolution of a triggering condition with an alternate means of resolution.\n-If multiple replacement effects are initiated against the same triggering condition and create a conflict in how to resolve the triggering condition, the most recent replacement effect is the one that is used for the resolution of the triggering condition.\n- The word \"would\" is used to define the triggering condition of some abilities, and establishes a higher priority for those abilities than abilities referencing the same triggering condition without the word \"would.\" <i>(For instance, \"When X would occur\" resolves before \"When X occurs.\")</i>\n-If a replacement effect that uses the word \"would\" changes the nature of a triggering condition, the original triggering condition is replaced with the new triggering condition. No further abilities referencing the original triggering condition may be used.",
         "references": null,
@@ -665,7 +665,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 84,
+        "id": 84,
         "section": "Investigate Action",
         "ruling": "\"Investigate\" is an action an investigator may take during their turn in the investigation phase.\nEach time an investigator takes this action, they make an intellect ([intellect]) test against the shroud value of that location.\nIf the test is successful, the investigator has succeeded in investigating the location, and they discover one clue at the location (during step 7 of the skill test).\nAny time an investigator discovers a clue from a location, that player takes the clue from the location and places it on their investigator card, under their control.\nIf the test is failed, the investigator has failed in investigating the location and no clues are discovered.\n- An investigator may take an investigate action even if their location has no clues on it. No clues are discovered if they succeed.",
         "references": [135],
@@ -673,7 +673,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 85,
+        "id": 85,
         "section": "Investigation Phase",
         "ruling": "The investigation phase is the second phase of each round. In it, investigators each take a turn in any order, during which they perform up to 3 actions (by default).\n- If a card effect causes an investigator to gain or lose actions outside of the investigation phase, those actions are gained or lost when that investigator's turn begins during the investigation phase.",
         "references": null,
@@ -681,7 +681,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 86,
+        "id": 86,
         "section": "Investigator Deck",
         "ruling": "A player's \"investigator deck\" is the deck that contains that player's asset, event, skill, and weakness cards. A reference to \"your deck\" refers to the investigator deck under your control.",
         "references": [36],
@@ -689,7 +689,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 87,
+        "id": 87,
         "section": "Keywords",
         "ruling": "A keyword is a type of card ability.\nKeywords are used as shorthand for some game effects. Each keyword has its own unique rules.\n- Some keywords are deckbuilding keywords, such as permanent and exceptional. These keywords affect deck customization while building and/or leveling up an investigator deck.\n- A card cannot gain the same keyword more than once. <i>(For example, an agenda and treachery effect that each give an enemy the retaliate keyword do not give that enemy the retaliate keyword twice.)</i>\n- The initiation of any keyword using the word \"may\" in its rules text is optional; the application of all other keywords is mandatory.",
         "references": null,
@@ -697,7 +697,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 88,
+        "id": 88,
         "section": "Killed/Insane/Devoured Investigators",
         "ruling": "During campaign play, investigators who are killed or driven insane must be recorded in your campaign log and cannot be used for the remainder ofthe campaign.\n- An investigator with physical trauma equal to or higher than their printed health is <b>killed</b>.\n- An investigator with mental trauma equal to or higher than their printed sanity is <b>driven insane</b>.\n- An investigator may also be <b>killed</b> or <b>driven insane</b> by a card ability, or during a scenario's resolution.\n- Some game effects may <b>devour</b> an investigator. An investigator that is <b>devoured</b> is <b>killed</b>.\n- When playing a standalone scenariom, there is no practical difference between being <b>killed</b>, <b>driven insane</b>, <b>devoured</b>, or <b>defeated</b>.",
         "references": [38, 23],
@@ -705,7 +705,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 89,
+        "id": 89,
         "section": "Lasting Effects",
         "ruling": "Some card abilities create conditions that affect the game state for a specified duration (for example, \"until the end of the phase\" or \"for the duration of this skill test\"). Such effects are known as lasting effects.\n- A lasting effect persists beyond the resolution of the ability that created it, for the duration specified by the effect. The effect continues to affect the game state for the specified duration regardless of whether the card that created the lasting effect is or remains in play.\n- If a lasting effect affects in-play cards (or cards in a specified area), it is only applied to cards that are in play (or the specified area) when the lasting effect is established. Cards that enter play (or the specified area) after its establishment are not affected by the lasting effect.\n- A lasting effect expires as soon as the timing point specified by its duration is reached. This means that an \"until the end of the phase\" lasting effect expires before an \"at the end of the phase\" ability or delayed effect may initiate.\n- A lasting effect that expires at the end of a specific time period can only be initiated during that time period.",
         "references": null,
@@ -713,7 +713,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 90,
+        "id": 90,
         "section": "Lead Investigator",
         "ruling": "The lead investigator is sometimes required to make important scenario decisions. At the beginning of a scenario, the investigators choose a lead investigator. If they cannot agree on a choice, a lead investigator is chosen at random.\n- If there are ever multiple valid options for a choice or decision that must be made (for example, a hunter enemy that could move in two different directions), the lead investigator is the final arbiter in choosing among those options.\n- If the lead investigator is eliminated, the remaining players (if any) choose a new lead investigator.",
         "references": null,
@@ -721,7 +721,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 91,
+        "id": 91,
         "section": "Leaves Play",
         "ruling": "The phrase \"leaves play\" refers to any time a card makes a transition from an in-play state to an out-of-play state.\nIf a card leaves play, the following consequences occur simultaneously with the card leaving play:\n- All tokens on the card are returned to the token pool.\n- All attachments on the card are discarded.\n- All lasting effects and/or delayed effects affecting the card while it was in play expire for that card.",
         "references": [81],
@@ -729,7 +729,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 92,
+        "id": 92,
         "section": "Limbo",
         "ruling": "While resolving an event or treachery card's effects, or while a skill card is committed to a skill test, those cards are neither in play, in the discard pile, nor in an investigator's hand. This liminal state is called limbo.\nAn event card enters limbo after costs are paid and attacks of opportunity are made. A treachery card enters limbo after it is drawn, while its revelation ability is being resolved. A skill card enters limbo when it is committed to a skill test.\nWhile in limbo, the card is typically placed on the table to show that its effects are being resolved. While in limbo, a card does not count as being in play for the purposes of other card effects.\nAfter resolving that card's effects in full, it leaves limbo and is placed in its relevant discard pile. If its effects cause it to enter play (by attaching the card to another game element or by placing it in an investigator's threat or play area), it leaves limbo and enters play.",
         "references": [135],
@@ -737,7 +737,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 93,
+        "id": 93,
         "section": "Limits and Maximums",
         "ruling": "Some cards contain limits and maximums which prevent certain abilities from being used more than once within a given time period.\n- Unless stated otherwise, limits are player specific.\n- A \"group limit\" applies to the entire group of investigators. <i>(For example, if an investigator triggers an ability that is \"group limit once per game,\" no other investigator may trigger that ability during that game.)</i>\n<b>\"Limit X per [period]\"</b> is a limit that appears on some cards and represents the number of times (X) an ability's effect can be triggered over the designated period. If a copy of the card with \"Limit X per [period]\" leaves and re-enters play within the same period, the limit X for that card is reset, as if the card had just entered the game for the first time.\n<b>\"Limit X per [card/game element]\"</b> is a limit that appears on some cards, and restricts the number of copies of that card (by title) that can be in play at the same time.\n<b>\"Max X per [period]\"</b> imposes the maximum number of times that copies of that card (by title) can be played during the designated time period.\n- If a maximum includes the word \"committed\" (for example, \"Max 1 committed per skill test\"), it imposes the maximum number of copies of that card (by title) that can be committed to skill tests during the designated period.\n- If a maximum is applied to an ability in its entirety, it imposes the maximum number of times that ability can be triggered from all copies (by title) of cards bearing that ability (including the card being resolved), during the designated period.\n<b>\"(Max X)\"</b> or <b>\"to a maximum of X\"</b> imposes the maximum number or quantity a scaling value is able to achieve.\nIf the effect of a card or an ability with a limit or maximum is ignored, that effect still counts against the limit/maximum for that for that ability, because that ability has been triggered.",
         "references": null,
@@ -745,7 +745,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 94,
+        "id": 94,
         "section": "Location Cards",
         "ruling": "Location cards represent the places the investigators may explore during a scenario.\n- Use each investigator's token or mini-card to indicate which location they are at.\n- While an investigator is at a location, that investigator, each of their assets, and each card in that investigator's threat area are at the same location.\nMost locations enter play in an \"unrevealed\" state, so that the side with no shroud value and/or clue value is faceup. Do not read the \"revealed\" side at this time.\n- When an investigator enters an unrevealed location, reveal that location. Other abilities may also instruct players to reveal a location.\n- When a location is revealed, turn it to its other side and place a number of clues on it equal to its clue value (this may occur during setup). Most clue values are conveyed as a \"per investigator\" ([per_investigator]) value.\nA location with its shroud/clue value side faceup is in a \"revealed\" state.\n Some locations enter play already in a \"revealed\" state. When this occurs, clues are placed on that location as if it were just revealed (this may occur during setup).",
         "references": null,
@@ -753,7 +753,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 95,
+        "id": 95,
         "section": "Massive",
         "ruling": "Massive is a keyword ability.\nA ready enemy with the massive keyword is considered to be engaged with each investigator at its current location.\n- An exhausted enemy with the massive keyword is not considered to be engaged with any investigators.\n- An enemy with the massive keyword cannot be placed in an investigator's threat area.\n- When an enemy with the massive keyword attacks during the enemy phase, resolve an attack against each investigator it is engaged with, one investigator at a time, in an order chosen by the lead investigator. The enemy with the massive keyword does not exhaust until each attack has been resolved.\n-- If an attacking enemy with the massive keyword is exhausted (by another ability) before it has resolved all of its attacks, the remaining attacks are not initiated.\n- When an enemy with the massive keyword makes an attack of opportunity, that attack only resolves against the investigator who provoked the attack.\n- An enemy with the massive keyword does not move with an engaged investigator who moves away from its current location.\n- If an investigator fails an attack targeting an enemy with the massive keyword, no damage is dealt to other investigators engaged with that enemy.",
         "references": null,
@@ -761,7 +761,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 96,
+        "id": 96,
         "section": "May",
         "ruling": "The word \"may\" indicates that a specified player has the option to do that which follows. If no player is specified, the option is granted to the controller of the card with the ability in question.\n- If an ability states that a player \"may\" choose (or choose between) one or more options, they are not required to choose any of those options.",
         "references": null,
@@ -769,7 +769,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 97,
+        "id": 97,
         "section": "Modifiers",
         "ruling": "Some abilities cause values or quantities of characteristics to be modified. The game state constantly checks and (if necessary) updates the count of any variable value or quantity that is being modified.\nAny time a new modifier is applied (or removed), the entire quantity is recalculated from the start, considering the unmodified base value and all active modifiers.\n- When calculating a value, treat all modifiers as being applied simultaneously. However, while performing the calculation, all additive and subtractive modifiers are calculated before doubling and/or halving modifiers.\n- Fractional values are rounded up after all modifiers have been applied.\n- A quantity on a card (such as a stat, an icon, a number of instances of a trait or keyword) cannot be reduced so that it functions with a value below zero. Negative modifiers in excess of a value's current quantity can be applied, but, after all active modifiers have been applied, any resultant value below zero is treated as zero.\n<i>(For example: Danny tests [agility] and reveals a -8 chaos token. When applied to his investigator's [agility] of 4, this would reduce his skill value to -4. However, his [agility] cannot be reduced so that it functions with a value below zero. While the -8 modifier still exists, his [agility] is treated as zero. If Danny were to commit Timely Intervention to receive a +2 bonus to the test, this bonus would not be applied to the functioning skill value of zero; rather, it is applied in conjunction with all active modifiers. Danny's agility would then be calculated as follows: base skill 4, -8 from chaos token, +2 from Timely Intervention for a total of -2, which is still treated as zero.)</i>",
         "references": null,
@@ -777,7 +777,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 98,
+        "id": 98,
         "section": "Move",
         "ruling": "Any time an entity (an investigator or enemy) moves, transfer that enemy card or investigator's mini-card/investigator token from its current location to a different location.\n- Unless otherwise specified by the move effect or ability, the moving entity must move to a connecting location. Connecting locations are identified on the location card representing the entity's current location, as shown below.\n- Any time an entity moves, it is considered to leave the previous location, and to enter the new location, simultaneously.\n- If an entity is \"moved to\" a specific location, the entity is moved directly to that location, and does not pass through other locations en route.\n- If an investigator moves to an unrevealed location, that location is revealed by turning it to its other side and placing a number of clues on it equal to its clue value. Most location clue values are conveyed as a \"per investigator\" ([per_investigator]) value.\n- If an enemy moves to an unrevealed location, that location remains unrevealed.\n- When an entity or game element moves, it cannot move to its same (current) placement. If there is no valid destination for a move, the move cannot be attempted.\n- Game elements (tokens or cards) may also be moved by card abilities from one card to another, or from one game area to another game area.",
         "references": null,
@@ -785,7 +785,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 99,
+        "id": 99,
         "section": "Move Action",
         "ruling": "\"Move\" is an action an investigator may take during their turn during the investigation phase.\nWhen an investigator takes this action, move that investigator (using their mini-card or investigator token) to any other location that is marked as a connecting location on their current location.\n- Taking a move action provokes an attack of opportunity.",
         "references": [98],
@@ -793,7 +793,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 100,
+        "id": 100,
         "section": "Mulligan",
         "ruling": "After a player draws a starting hand during setup, that player has a single opportunity to declare a mulligan on any number of the drawn cards they do not wish to keep in their starting hand. These cards are set aside, and an equivalent number of cards are drawn and added to the player's starting hand. The set-aside cards are then shuffled back into the player's deck.\n- Players take or forgo the opportunity to mulligan in player order.\n- As when drawing a a starting hand, if a weakness is drawn while taking a mulligan, set it aside, and draw another card in its place. It will be shuffled back into the player's deck along with any other cards set aside during this process.",
         "references": null,
@@ -801,7 +801,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 101,
+        "id": 101,
         "section": "Multi-Class Cards",
         "ruling": "Some player cards belong to more than one class—Guardian ([guardian]), Seeker ([seeker]), Rogue ([rogue]), Mystic ([mystic]), or Survivor ([survivor]). These cards can be identified by their gold color and by the presence of multiple class icons instead of one. A multi-class card is a card of each of those classes, and is not a neutral card. A multi-class card can be included in an investigator's deck if that investigator has access to either of that card's classes.\n If an investigator has unlimited access to one of the classes on a multi-class card and limited access to one of the other classes on that card, it does not occupy one of the investigator's limited slots, because it falls into the unlimited category",
         "references": null,
@@ -809,7 +809,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 102,
+        "id": 102,
         "section": "Myriad",
         "ruling": "Myriad is a deckbuilding keyword.\nAn investigator may include up to three copies of a player card with the myriad keyword in their deck (by title), instead of the normal limit of two copies. Additionally, when an investigator purchases a myriad card for their deck, they may purchase up to two additional copies of that card (at the same level) at no experience cost.",
         "references": null,
@@ -817,7 +817,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 103,
+        "id": 103,
         "section": "Mythos Phase",
         "ruling": "During the Mythos phase, investigators place 1 doom on the agenda. If the agenda reaches its doom threshold, investigators advance the agenda, resolving the text on its reverse (\"b\") side.\nAfterward, in player order, each investigator draws the top card of the encounter deck.",
         "references": null,
@@ -825,7 +825,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 104,
+        "id": 104,
         "section": "Nearest",
         "ruling": "Some card abilities reference the \"nearest\" entity. Nearest refers to the entity of the specified kind at a location from which the shortest distance (by movement) to the subject of the ability is the lowest out of all eligible entities. In the event of a tie, the lead investigator decides which location or entity is the \"nearest.\"\n- The path to the nearest entity is the \"shortest\" path to that entity.",
         "references": null,
@@ -833,7 +833,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 105,
+        "id": 105,
         "section": "Nested Sequences",
         "ruling": "Some game effects may prompt a chain reaction, or <b>nested sequence</b>.\nEach time a triggering condition occurs, the following sequence occurs:\n1. Execute \"when...\" effects that interrupt that triggering condition.\n2. Resolve the triggering condition itself, as well as \"at...\" or \"if...\" effects that resolve simultaneously to that triggering condition.\n3. Execute \"after...\" effects in response to that triggering condition's completed resolution.\nWithin this sequence, if the use of a [reaction] or <b>Forced</b> ability leads to a new triggering condition, the game pauses and starts a new sequence, following the same steps 1-3 as outlined above, in response to the new triggering condition. <b>This is called a nested sequence.</b>\nOnce a nested sequence is completed, the game returns to where it left off, continuing with the original triggering condition's sequence.\nIt is possible that a nested sequence generates further triggering conditions (and hence further nested sequences). There is no limit to the number of nested sequences that may occur, but each nested sequence must complete before returning to the sequence that triggered it. In effect, these sequences are resolved in a <b>last in, first out</b> manner.",
         "references": null,
@@ -841,7 +841,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 106,
+        "id": 106,
         "section": "Ownership and Control",
         "ruling": "A card's owner is the player whose deck and/or respective in- and out-of-play areas contained the card at the start of the game.\nA player controls the cards located in their in- and out-of-play areas (such as their hand, deck, and discard pile).\nThe scenario controls the scenario cards in its in- and out-of-play areas (such as the encounter deck, act and agenda decks, and the encounter discard pile). It also controls cards with a scenario cardtype in a player's threat area.\n- By default, cards enter play under their owner's control. Some abilities may cause cards to change control during a game.\n- If a card would enter an out-of-play area that does not belong to that card's owner, it is physically placed in its owner's corresponding out-of-play area instead. The card is considered to have entered the original out-of-play area (typically that of its controller), and only the physical placement of the card is adjusted.",
         "references": [21],
@@ -849,7 +849,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 107,
+        "id": 107,
         "section": "Parley",
         "ruling": "Parley is an action investigators may take during their turn.\nParley abilities represent investigators' attempts to negotiate a tense situation, trick enemies, or talk their way out of trouble. Parley abilities are exclusively resolved by playing cards or activating [action] abilities, and are indicated by the bold <b>Parley</b> action designator.",
         "references": [6],
@@ -857,7 +857,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 108,
+        "id": 108,
         "section": "Patrol",
         "ruling": "Patrol is a keyword ability.\nAt the start of the enemy phase, each ready, unengaged enemy with the patrol keyword moves to a connecting location along the shortest path toward the designated target, indicated in the parentheses after the patrol keyword.\n- If there are multiple locations that qualify as the designated target, the lead investigator chooses which target the enemy patrols toward.\n- If the designated target is not a location (and is instead another game element such as an enemy or story asset), that target's location indicates the target of the patrol keyword's resolution.\n- If an enemy with the patrol keyword would be compelled to move toward a target but is blocked by a card ability, that enemy does not move.\n- If an enemy with the patrol keyword would move as a result of the patrol keyword, but is already at its target location (or the location of its target), it does not move.",
         "references": null,
@@ -865,7 +865,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 109,
+        "id": 109,
         "section": "Peril",
         "ruling": "Peril is a keyword ability.\nWhile an investigator is resolving an encounter card with the peril keyword, they cannot confer with the other players. Other players cannot play cards, trigger abilities, or commit cards to that investigator's skill test(s) while the peril encounter card is being resolved.",
         "references": null,
@@ -873,7 +873,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 110,
+        "id": 110,
         "section": "Per Investigator [per_investigator]",
         "ruling": "When the [per_investigator] symbol appears after a value, that value is multiplied by the number of investigators who started the scenario.\n- The \"per investigator\" multiplication is done before all other modifiers, and the product of this multiplication is treated as the printed value of the card.\n- Text that uses the phrase \"per investigator\" also counts the number of investigators who started the scenario, and is applied before all other modifiers.\n- If investigators have been eliminated from the scenario, they still count toward \"per investigator\" values.",
         "references": null,
@@ -881,7 +881,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 111,
+        "id": 111,
         "section": "Permanent",
         "ruling": "Permanent is a deckbuilding keyword ability.\n- A card with the permanent keyword does not count toward an investigator's deck size.\n- A card with the permanent keyword still counts as being part of an investigator deck and adheres to all deckbuilding restrictions.\n- A card with the permanent keyword starts each game in play and cannot leave play (unless its owner is eliminated).\n- A card with the permanent keyword cannot be attached to other player cards (although other player cards may target a permanent card and attach themselves to it).\n- A card with the permanent keyword cannot be removed from play, have its permanent keyword blanked, or otherwise lose its permanent keyword.\n-A deck cannot include more than one reward card with the permanent keyword.",
         "references": null,
@@ -889,7 +889,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 112,
+        "id": 112,
         "section": "Play",
         "ruling": "To play a card, an investigator must pay the card's resource cost and meet any applicable play restrictions and conditions. Most cards can only be played by taking a play action.\nA card with the fast keyword is not played using a play action. Such a card may be played any time its specified triggering condition is met or, if it has no triggering condition, during an appropriate player window.\n- Any time an event card is played, its effects are resolved and it is then placed in its owner's discard pile.\n- Any time an investigator plays an asset, it is placed in their play area and remains in play until an ability or game effect causes it to leave play.\n- Skill cards are not \"played.\" These cards are committed to a skill test from a player's hand in order to use their abilities.",
         "references": [66, 113, 114],
@@ -897,7 +897,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 113,
+        "id": 113,
         "section": "Play Action",
         "ruling": "\"Play\" is an action an investigator may take during their turn in the investigation phase.\nWhen an investigator takes this action, that investigator selects an asset or event card in their hand, pays its costs, and plays it.\n- A play action provokes attacks of opportunity unless it is also another type of action that does not provoke an attack (i.e. <b>Fight</b>, <b>Evade</b>, etc.).\n- Cards with the \"fast\" keyword are not played by using this action, and may have other timing windows and restrictions.\n- When an ability allows a player to \"play\" a card (typically at a reduced cost or in addition to other effects), this also does not use the play action and therefore does not provoke attacks of opportunity.\n- Skill cards are not \"played.\" These cards are committed to a skill test from a player's hand in order to use their abilities.",
         "references": [66, 112, 118],
@@ -905,7 +905,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 114,
+        "id": 114,
         "section": "Play Restrictions, Permissions, and Instructions",
         "ruling": "Many cards and abilities contain specific instructions pertaining to when or how they may or may not be used, or to specific conditions that must be true in order to use them. In order to use such an ability or to play such a card, its play restrictions must be observed.\nA permission allows a player to play a card or use an ability outside the timing specifications provided by the game rules.\nA play instruction describes the timing point at which, and/or time period during which, an event card may be played.",
         "references": null,
@@ -913,7 +913,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 115,
+        "id": 115,
         "section": "Prey",
         "ruling": "Prey is a keyword ability.\nGiven the opportunity, some enemies will pursue a designated investigator. These enemies are identified with the prey keyword.\n- The prey keyword is followed by a designated target with whom the enemy should engage in parentheses. For example, \"Prey (highest [willpower])\" means that the enemy will engage the investigator with the highest willpower if given more than one option.\n- Given the choice between multiple equidistant investigators (or between investigators at its location), an enemy with the prey keyword chooses the investigator who best meets its designated target.\n- If an enemy's designated target contains the word \"only,\" that enemy only moves toward and engages that investigator (as if they were the only investigator in play), and ignores all other investigators while moving and engaging. Other investigators may still use the engage action or card abilities to engage that enemy.\n- The prey keyword has no immediate effect on where an enemy will spawn.",
         "references": null,
@@ -921,7 +921,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 116,
+        "id": 116,
         "section": "Printed",
         "ruling": "The word \"printed\" refers to the text, characteristic, icon, or value that is physically printed on a card.",
         "references": null,
@@ -929,7 +929,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 117,
+        "id": 117,
         "section": "Priority of Simultaneous Resolution",
         "ruling": "If an effect affects multiple players simultaneously, but the players must individually make choices to resolve the effect, these choices are made in player order. Once all necessary choices have been made, the effect resolves simultaneously upon all affected entities.\n- Forced abilities on encounter cards trigger before forced abilities on player cards trigger.\n- If two or more forced abilities (including delayed effects) would resolve at the same time, the lead investigator determines the order in which the abilities resolve.\n- If two or more constant abilities and/or lasting effects cannot be applied simultaneously, the lead investigator determines the order in which they are applied.",
         "references": null,
@@ -937,7 +937,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 118,
+        "id": 118,
         "section": "Put into Play",
         "ruling": "Some card abilities cause a card to be \"put into play.\" Such abilities place the card directly into play from an out-of-play state.\n- The costs of a card being put into play are not paid.\n- Unless otherwise stated by the \"put into play\" ability, cards that enter play in this manner must do so in a play area that satisfies the standard game rules associated with playing or drawing (for encounter cards) that card.\n- A card that has been put into play is not considered to have been played.",
         "references": [112],
@@ -945,7 +945,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 119,
+        "id": 119,
         "section": "Qualifiers",
         "ruling": "If card text includes a qualifier followed by multiple terms, the qualifier applies to each term in the list. <i>(For example, in the phrase \"each unique ally and item,\" the word \"unique\" is a qualifier that applies both to \"ally\" and to \"item.\")</i>",
         "references": null,
@@ -953,7 +953,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 120,
+        "id": 120,
         "section": "Ready",
         "ruling": "A card that is in an upright state so that its controller can read its text from left to right is considered ready.\n- Cards enter play in a ready state.\n- When an exhausted card readies, it is returned to the ready state and rotated 90 degrees so that it is upright.\n- A ready card cannot ready again. <i>(It must first be exhausted, typically by a game effect or card ability.)</i>",
         "references": null,
@@ -961,7 +961,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 121,
+        "id": 121,
         "section": "Replenish",
         "ruling": "When instructed to replenish 1 or more uses on a card, place that many uses on the card, up to (but without exceeding) its Uses (X) value.",
         "references": [153],
@@ -969,7 +969,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 122,
+        "id": 122,
         "section": "Researched",
         "ruling": "Researched is a keyword ability that appears on some player cards.\nTo be included in an investigator's deck, a card with the Researched keyword must first be \"identified\" or \"translated\" by performing a task on the lower level version of that card and recording the result in the Campaign Log.\n- An investigator can only include a researched card in their deck by upgrading it from its lower level version.\n- An investigator may only include a researched card in their deck if, in the Campaign Log, any investigator has recorded the completion of the task described in the lower level version of that card.\n -After an investigator has completed that task and recorded it in the Campaign Log, any investigator in that campaign may upgrade the relevant card following the normal rules for upgrading player cards.",
         "references": null,
@@ -977,7 +977,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 123,
+        "id": 123,
         "section": "Removed from Game",
         "ruling": "A card that has been removed from the game is placed away from the game area and has no further interaction with the game in any manner for the duration of its removal.\nIf there is no specified duration, a card that has been removed from the game is considered removed until the end of the game.",
         "references": null,
@@ -985,7 +985,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 124,
+        "id": 124,
         "section": "Resign",
         "ruling": "Some abilities are identified with a Resign action designator. Such abilities are initiated using the \"Activate\" action.\n- An investigator who resigns is eliminated from the scenario, but is not considered to have been defeated. <i>(Thus, resigned investigators are not required for abilities that require \"each surviving investigator.\")</i>\n- Taking a resign action does not provoke attacks of opportunity.",
         "references": [6, 50],
@@ -993,7 +993,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 125,
+        "id": 125,
         "section": "Resource Action",
         "ruling": "\"Resource\" is an action an investigator may take during their turn in the investigation phase.\nWhen an investigator takes this action, that investigator gains one resource by taking it from the token pool and adding it to their resource pool.\n- Taking a resource action provokes attacks of opportunity.",
         "references": null,
@@ -1001,7 +1001,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 126,
+        "id": 126,
         "section": "Resources",
         "ruling": "Resources represent the various (often financial) means of acquiring new supplies, tools, knowledge, favors, allies, etc. Resource tokens are used to pay the resource costs necessary to play cards and trigger different abilities.\n- In order to play a card or use an ability that costs resources, an investigator must pay that card or ability's resource cost by taking the specified number of resources from their resource pool and returning them to the token pool.\n- Resources can be gained by performing the resource action.\n- Investigators acquire one resource during each Upkeep phase, after drawing one card.",
         "references": null,
@@ -1009,7 +1009,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 127,
+        "id": 127,
         "section": "Retaliate",
         "ruling": "Retaliate is a keyword ability.\nEach time an investigator fails a skill test while attacking a ready enemy with the retaliate keyword, after applying all results for that skill test, that enemy performs an attack against the attacking investigator. An enemy does not exhaust after performing a retaliate attack.\n- This attack occurs whether or not the enemy is engaged with the attacking investigator.",
         "references": null,
@@ -1017,7 +1017,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 128,
+        "id": 128,
         "section": "Revelation",
         "ruling": "A revelation ability is a type of card ability.\nRevelation abilities are identified by a bold \"<b>Revelation</b> - \" instruction. Revelation abilities most often appear on treacheries or weaknesses, and trigger when the card on which they are printed is drawn by an investigator.\n- When an investigator draws an encounter card, that investigator must immediately resolve its revelation ability, if any. This occurs before the card enters play or - if it is a treachery - while it is in limbo.\n- When a weakness card enters an investigator's hand by any means, that investigator must immediately resolve any revelation ability on that card as if it were just drawn.",
         "references": [92],
@@ -1025,7 +1025,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 129,
+        "id": 129,
         "section": "Reward",
         "ruling": "Reward is a deckbuilding keyword ability.\nCards with the reward keyword appear in campaigns and/or scenario packs as campaign rewards.\n- Reward cards are neutral cards with a golden graphic in the upper left corner of the card.\n- A player cannot use a reward card in deckbuilding, and cannot play such a card, until that player has unlocked the reward by an outcome in the campaign. When the campaign rules inform the players that they have earned a reward card (often through resolution or interlude text), that card is added to the collection of player cards.\n- Reward cards may adjust the way players play the game by adding deckbuilding options, new abilities, or unique restrictions to an investigator deck.\n- Investigators are not required to include any unlocked campaign reward cards in their decks.\n- A deck cannot include more than one reward card with the permanent keyword.",
         "references": [111],
@@ -1033,7 +1033,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 130,
+        "id": 130,
         "section": "Sanity and Horror",
         "ruling": "Sanity represents a character's mental and emotional fortitude, or the emotional strength a card lends to an investigator. Horror tokens track the harm that has been done to the investigator's psyche by exposure to the Mythos.\n- When a card takes horror, place that many horror tokens on the card.\n- If an investigator card has horror on it equal to or in greater than its sanity value, that investigator is defeated. When an investigator is defeated, they are eliminated from the current scenario.\n- In campaign play, an investigator who is defeated by horror suffers 1 mental trauma. Taking mental trauma may cause an investigator to be <b>driven insane</b>.\n- If an asset has horror on it equal to or greater than its sanity value, it is defeated.\n- An asset card without a sanity value cannot be assigned horror.\n- A card's remaining sanity is its sanity value, plus or minus any active sanity modifiers, minus the amount of horror on it.\n- If an investigator takes \"direct horror\" that horror must be assigned to their investigator card.",
         "references": [35, 38, 50],
@@ -1041,7 +1041,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 131,
+        "id": 131,
         "section": "Seal",
         "ruling": "Seal is a keyword ability.\nSome cards may instruct a player to seal a chaos token from the chaos bag on a card in play.\nWhen instructed to seal a chaos token, a player must search the chaos bag (or other designated game area) for the specified chaos token and place it on top of the targeted card, thereby sealing it.\n- When Seal (token name) is printed on a player card with no other instructions, the seal keyword is triggered immediately after it enters play, prompting the player to search the chaos bag for the indicated token and seal it on the card.\n- If there is a choice of which token to seal, the card's controller chooses.\n- Treat the seal keyword as an additional cost to play a player card. If the specified token is not in the chaos bag, the card either cannot be played or its seal ability cannot be triggered.\n- A sealed chaos token is not considered to be in the chaos bag, and cannot be revealed from the chaos bag as part of a skill test or ability.\n- When a sealed chaos token is released, it is returned to the chaos bag and is no longer sealed.\n- If a card with one or more chaos tokens sealed on it leaves play for any reason, all chaos tokens sealed on it are immediately released.\n- If instructed to \"seal\" a token by a card ability or by a card without the seal keyword, the same process as above is used. \n-- When sealing a token in this way, search the chaos bag (or other designated game area) for the specified token, remove it from the chaos bag, and place it on the specified card. If the targeted token is not in the chaos bag, the effect fails.",
         "references": null,
@@ -1049,7 +1049,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 132,
+        "id": 132,
         "section": "Self-Referential Text",
         "ruling": "When a card's ability text refers to its own title, it is referring to itself only, and not to other copies (by title) of the card.\nSelf-referential abilities using the word \"this\" (for example, \"this card\") refer only to the card on which the ability is located, and not to copies of that card.",
         "references": null,
@@ -1057,7 +1057,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 133,
+        "id": 133,
         "section": "Skill Cards",
         "ruling": "Skill is a cardtype.\nSkill cards represent innate or learned attributes or character traits that improve an investigator's skill tests.\n- Skill cards are not played from a player's hand. In order to resolve their abilities, skill cards must be committed to a skill test.\n- If a skill card is committed to a skill test, its ability may be used during the resolution of that skill test, as specified on the card.",
         "references": null,
@@ -1065,7 +1065,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 134,
+        "id": 134,
         "section": "Skill Icons",
         "ruling": "In addition to their abilities, many player cards have one or more skill icons, indicated on the top left of a card below its cost, level, and cardtype.\nA card in a player's hand is eligible to be committed to a skill test if it bears one or more icons that match the skill currently being tested. For each matching icon committed to a test, increase the performing investigator's skill value by 1 for that test.\n- Skill, asset, and event cards can all be committed to a skill test, but the abilities on assets and events do not resolve if the card is committed, while those on skill cards do.\nA Wild ([wild]) skill icon on a player card may be used to match any other skill icon for the purposes of both card abilities and counting how many matching icons are committed to a skill test.\n- When using wild icons for the purpose of resolving a card ability, a player must state which icon the wild is matching at the time the card is used.",
         "references": [133],
@@ -1073,7 +1073,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 135,
+        "id": 135,
         "section": "Skill Tests",
         "ruling": "A number of situations in the game require an investigator to make a skill test using one of their four skills: willpower ([willpower]), intellect ([intellect]), combat ([combat]), or agility ([agility]). A skill test pits the investigator's value in a specified skill against a difficulty value that is determined by the ability or game step that initiated the test. The investigator is attempting to match or exceed this difficulty value in order to succeed at the test.\nA skill test is often referred to as a test of the specified skill. <i>(For example: \"agility test,\" \"combat test,\" \"willpower test,\" or \"intellect test.\")</i>\nWhen performing a skill test, an investigator may commit any number of eligible cards from their hand to that test. Each other investigator at the same location as an investigator performing a skill test may also commit <b>one</b> eligible card to that test.\n- At the end of a skill test, all cards that were committed to that skill test are discarded.",
         "references": [5, 134],
@@ -1081,7 +1081,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 136,
+        "id": 136,
         "section": "Slots",
         "ruling": "Each investigator has a number of specific slots that can be filled at any given moment. Each asset in an investigator's play area or threat area with a slot symbol is held in a slot of that type. Slots limit the number of asset cards the investigator is permitted to have in play simultaneously.\nThe slots normally available to an investigator are: <b>1 accessory slot</b>, <b>1 head slot</b>, <b>1 body slot</b>, <b>1 ally slot</b>, <b>2 hand slots</b>, and <b>2 arcane slots</b>.\nThe icons above indicate that an asset counts against an investigator's capacity for the indicated slot(s). If an asset has no slot symbols on it, it does not take up any slots.\n- There is no limit to the number of slotless assets an investigator can have in play unless indicated on the card itself.\nSome card effects allow an investigator to put assets of one slot type into one of their other slots, allow one of an investigator's slot types to carry assets of a different slot type, or cause assets to no longer take up slots. In such an event, the investigator must decide which slot is holding which asset at the moment it is played. It cannot be adjusted later unless the contents or quantity of the investigator's slots changes, at which point the investigator may switch which slots are holding any of their assets.\nIf an investigator plays or gains control of an asset that causes them to exceed one or more of their slot limits, that investigator must simultaneously choose and discard another asset or assets under their control to make room for the newly acquired asset.",
         "references": null,
@@ -1089,7 +1089,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 137,
+        "id": 137,
         "section": "Spawn",
         "ruling": "Some enemies, when drawn from an encounter or investigator deck, spawn in a particular location, indicated by a bold \"spawn\" instruction in the text box.\n- An enemy's spawn instruction resolves as the enemy enters play, regardless of how it entered play.\n- If an enemy has no spawn instruction, it spawns engaged with the investigator who drew it.\n- If an enemy has no legal location to spawn at (for example, if its spawn instruction directs it to a specific location that is not in play, or if no location in play satisfies its \"spawn\" instruction), it does not spawn, and is discarded instead.\n- If an enemy's spawn instruction has multiple valid locations, the investigator spawning that enemy decides among those locations.\n- If a card ability instructs the players to spawn an enemy in a particular location (for example: \"Search the encounter deck for an Acolyte and spawn it in Southside\"), treat the ability causing the card to enter play as the enemy's spawn instruction, overriding any other spawn instruction.",
         "references": null,
@@ -1097,7 +1097,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 138,
+        "id": 138,
         "section": "Standalone Mode",
         "ruling": "Players may choose to play a single scenario as a one-off adventure, removed from its campaign. This is called Standalone Mode. When playing a standalone game, the following rules apply:\n- When building a deck for a standalone game, an investigator may use higher level cards in their deck (so long as they observe the deckbuilding restrictions of the investigator) by counting the total experience of all the higher level cards used in the deck, and taking additional random basic weaknesses based on the following table:\n-- 0-9 experience: 0 additional random basic weaknesses\n-- 10-19 experience: 1 additional random basic weakness\n-- 20-29 experience: 2 additional random basic weaknesses\n-- 30-39 experience: 3 additional random basic weaknesses\n-- 40-49 experience: 4 additional random basic weaknesses\n-- A player cannot include 50 or more experience worth of cards in a standalone deck.\n-- As an optional variant, some players may also wish to record their resolution and experience earned during a particular standalone as a \"score\" for how well they played. This may be recorded separately and kept on hand as players replay a particular scenario.\n- After choosing a scenario to play, refer to the campaign guide for the campaign that scenario is a part of, starting at the setup for that scenario. Additional instructions for playing each scenario in Standalone Mode can be found at the end of the normal setup instructions, if any are required.\n- If players are instructed to \"record\" a story moment, decision, or other detail in their campaign log, they instead \"remember\" it for the duration of the scenario.\n- If a scenario weakness or story reward is earned that is in an expansion you do not own, simply continue without that card.",
         "references": null,
@@ -1105,7 +1105,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 139,
+        "id": 139,
         "section": "Starting",
         "ruling": "Starting is a keyword ability.\nAfter drawing their opening hand and taking a mulligan (but before shuffling any cards that may have been set aside during this step back into their deck), an investigator may search their deck for one copy of a card with the starting keyword and add it to their hand.\n- This means that an investigator may begin the game with one additional card in their opening hand.",
         "references": null,
@@ -1113,7 +1113,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 140,
+        "id": 140,
         "section": "Story Cards",
         "ruling": "Story card is a cardtype. These cards serve as an avenue for additional narrative and often appear as the reverse side of another scenario card.\nWhen instructed to resolve a story card, simply read its story text and resolve its game text, if any.\n- Flipping and resolving a card with story text on its reverse side does not count as \"flipping\" for the purposes of card effects. Any text on the front side of a story card is still considered active, and no tokens, attachments, or other game elements are changed until all the story text on the reverse side has been resolved",
         "references": [26],
@@ -1121,7 +1121,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 141,
+        "id": 141,
         "section": "Surge",
         "ruling": "Surge is a keyword ability.\nAfter an investigator draws and resolves an encounter card that has the surge keyword, that investigator must draw and resolve another encounter card. \n- If an investigator draws a card with the surge keyword during setup, the surge keyword still resolves.",
         "references": null,
@@ -1129,7 +1129,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 142,
+        "id": 142,
         "section": "Target",
         "ruling": "An ability or game effect may target a game entity, player, or the game state itself. Such an ability can only be initiated if it has a valid target (i.e. one that fulfills all requirements and/or specifications of the ability).\n- An ability that creates or removes a \"delayed\" or \"lasting\" effect is considered to target (and, if it resolves successfully, to affect) the game state.\nIf an ability or game effect requires a player to choose one or more targets, that ability or effect can only be initiated if there is at least one valid target for that player to choose.\n- If an ability or game effect requires a player to choose more than one target, the targets are chosen simultaneously.\n- If an ability requires a player to choose \"any number\" of targets, it cannot be initiated if zero of those targets are chosen.\nIf a target's state cannot be changed by the resolution of an ability or game effect, then that target is not a valid target or choice for that effect. <i>(For example, an exhausted enemy is not a valid target for an effect that reads \"choose and exhaust an enemy.\")</i>\n- If an ability or game effect has multiple effects on a target, that target is considered valid if at least one of those effects can change that target's state. Each effect that cannot change the target's state does not resolve.\n- If an ability or game effect targets multiple game elements of a specific type <i>(for example, \"each enemy\")</i>, that ability can be initiated as long as at least one of those game elements is a valid target. That ability does not resolve against any of the specified game elements that are not a valid target.",
         "references": [24, 79, 96],
@@ -1137,7 +1137,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 143,
+        "id": 143,
         "section": "Then",
         "ruling": "If the effect of an ability includes the word \"then,\" the text preceding the word \"then\" must be successfully resolved in full before the remainder of the effect described after the word \"then\" can be resolved.\n- If the pre-then aspect of an effect does successfully resolve in full, the post-then aspect of the effect must also resolve.\n- The post-then aspect of an effect has timing priority over all other indirect consequences of the resolution of the pre-then aspect. (For example, if an effect reads: \"Draw an encounter card. Then, take 1 horror,\" and a player controls an ability that reads \"After you draw an encounter card,\" the post-then \"take 1 horror\" aspect occurs before the \"After you draw an encounter card\" ability may initiate.)\n- If the pre-then aspect of an effect does not successfully resolve in full, the post-then aspect does not resolve.",
         "references": null,
@@ -1145,7 +1145,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 144,
+        "id": 144,
         "section": "Threat Area",
         "ruling": "An investigator's threat area is a play area in which encounter cards currently engaged with and/or affecting an investigator are placed.\n- The cards in an investigator's threat area are at the same location as the investigator.\n-- Unless otherwise stated, resolving an \"as if\" ability does not inherently alter the contents of an investigator's threat area.\n- Investigators are permitted to use triggered abilities on scenario cards in the threat areas of any investigator at their location.",
         "references": [12],
@@ -1153,7 +1153,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 145,
+        "id": 145,
         "section": "Tokens, Running out of",
         "ruling": "There is no limit to the number of tokens (of any type) which can be in the game area at a given time (aside from chaos tokens). If players run out of the provided tokens, other tokens, counters, or coins may be used to track the current game state.",
         "references": null,
@@ -1161,7 +1161,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 146,
+        "id": 146,
         "section": "Traits",
         "ruling": "Most cards have one or more traits listed at the top of the text box and printed in bold italics.\n- Traits have no inherent effect on the game. Instead, some card abilities reference cards that possess specific traits.",
         "references": null,
@@ -1169,7 +1169,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 147,
+        "id": 147,
         "section": "Trauma",
         "ruling": "Trauma represents permanent damage that has been inflicted upon an investigator's body and mind.\n- If an investigator is defeated by taking damage equal to their health, they suffer 1 physical trauma. If the investigator is defeated by taking horror equal to their sanity, they suffer 1 mental trauma.\n-- If an investigator is defeated by simultaneously taking damage equal to their health and horror equal to their sanity, they choose which type of trauma to suffer.\n- When an investigator takes trauma, mark it in the appropriate box underneath their name in the campaign log.\n- If an investigator has physical trauma equal to their printed health, they are <b>killed</b>. If they have mental trauma equal to their printed sanity, they are <b>driven insane</b>.\n- For each physical and/or mental trauma an investigator has suffered, that investigator begins each subsequent scenario in the campaign with 1 damage and/or horror, respectively.",
         "references": [23],
@@ -1177,7 +1177,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 148,
+        "id": 148,
         "section": "Treachery Cards",
         "ruling": "Treachery cards represent curses, afflictions, madnesses, obstacles, disasters, or other unexpected occurrences an investigator may encounter throughout the course of a scenario.\nWhen a treachery card is drawn by an investigator, that investigator must resolve its effects. Then, place the card in its discard pile unless otherwise instructed by the ability.\n- If that card has surge, draw the top card of the encounter deck.\n- If that card has peril, that investigator cannot consult other investigators while resolving its effects.",
         "references": null,
@@ -1185,7 +1185,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 149,
+        "id": 149,
         "section": "Triggered Abilities",
         "ruling": "A triggered ability is an ability prefaced by a [fast] icon, a [reaction] icon, or an [action] icon. If the ability has one or more prerequisites, such as costs and/or conditions, these are listed in text immediately following the icon. A player must always meet the prerequisites of such an ability in order to trigger it. All triggered abilities are governed by the following rules:\n- A triggered ability on a card a player controls may be <b>optionally triggered</b> when its timing point is met, as indicated by the ability.\n- A triggered ability can only be initiated if a valid target can be chosen, and its ability cost (if any) can be paid in full.\n- Once an ability is initiated, players must resolve as much of the effect as possible, unless the effect uses the word \"may.\"\nThere are three types of triggered abilities:\n- <b>Free triggered abilities</b> ([fast]) - These abilities may be triggered as a player ability during any player window or as specified.\n- <b>Reaction triggered abilities</b> ([reaction]) - These abilities have a specific triggering condition and may be triggered at any time that triggering condition is met. <i>(For example: \"[reaction] After you defeat an enemy:\")</i>\n-- A [reaction] ability that triggers \"when...\" its timing point occurs may be triggered as soon as the specified timing point is met, but before that timing point's impact upon the game resolves.\n-- A [reaction] ability that triggers \"at...\" its timing point, or \"if...\" its timing point or triggering condition occurs, may be triggered simultaneously with the resolution of that timing point's impact upon the game.\n-- A [reaction] ability that triggers \"after...\" its timing point occurs may be triggered immediately after the timing point's impact upon the game resolves.\n-- Each [reaction] ability may be triggered only once each time the specified condition on the ability is met. For example, an ability that is triggered \"After X occurs,\" may be used once each time \"X\" occurs.\n- <b>Action triggered abilities</b> ([action]) - These abilities may be triggered through the use of the activate action by spending one action for each  specified in that ability's cost.",
         "references": null,
@@ -1193,7 +1193,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 150,
+        "id": 150,
         "section": "Triggering Condition",
         "ruling": "A triggering condition indicates the timing point at which an ability may be triggered. Most triggering conditions use the words \"when,\" \"at,\" \"if,\" or \"after\" to establish their relation to the specified timing point.\n- The word \"when\" refers to the moment immediately after the specified timing point or triggering condition initiates, but before its impact upon the game state resolves.\n-- The resolution of a \"when...\" ability interrupts the resolution of its timing point or triggering condition.\n-- An effect that triggers \"whenever\" a condition is met should be treated as \"when\" for all intents and purposes.\n- The word \"at\" refers to a timing point simultaneous to the resolution of all other effects pertaining to the specified timing point or triggering condition.\n-- An effect that triggers \"if\" a triggering condition is met should be treated as conditionally triggering \"at\" that timing point, and therefore simultaneously to the resolution of all related effects.\n-- \"At the end of the round/turn/phase\" refers to the timing point simultaneous to the end of the round/turn/phase.\n- The word \"after\" refers to the timing point at which all effects pertaining to the specified timing point or triggering condition have been resolved, but before moving on to the next game step.\n- Reaction triggered abilities ([reaction]) may only be used once per timing point.\n- If multiple instances of the same ability are eligible to initiate, each instance may be used once. <i>(For example: 2 copies of Lucky Cigarette Case may be triggered, once each, upon succeeding at a skill test by 2 or more.)</i>",
         "references": [1, 8, 14, 156],
@@ -1201,7 +1201,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 151,
+        "id": 151,
         "section": "Unique ([unique])",
         "ruling": "A card with the [unique] symbol before its title is a unique card. There can be no more than one copy of each unique card (by title) in play at any given time.\n- A player cannot bring a unique card into play if a copy of that card (by title) is already in play.\n- If a unique encounter card that shares a title with a unique player card would enter play, discard the player card simultaneously as the encounter card enters play.",
         "references": null,
@@ -1209,7 +1209,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 152,
+        "id": 152,
         "section": "Upkeep Phase",
         "ruling": "During the upkeep phase, each card in play is readied.\nEach investigator draws 1 card and gains 1 resource, then each investigator discards cards from hand until they have no more than 8 cards in hand.",
         "references": [120],
@@ -1217,7 +1217,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 153,
+        "id": 153,
         "section": "Uses (X)",
         "ruling": "Uses (X) is a keyword ability.\nWhen a card bearing this keyword enters play, place a number of resource tokens (from the token pool) equal to its value (X) on that card. The word following the value defines the type of uses this card bears. The resource tokens placed on that card this way are considered uses of the established type, and are no longer considered resource tokens. <i>(For example, Cosmic Flame has \"Uses (3 charges).\" When it is played, 3 resources are placed on it from the token pool. Those resources are now charges, and may be used when resolving Cosmic Flame's [action] ability.)</i>\n- Most cards with the uses (X) keyword also have an ability which references the uses on that card as a part of its cost. When such an ability spends a use, a token of that type must be removed from the card.\n- Other cards may reference and interact with uses of a specified type, usually by adding uses of that type to a card, or using uses of that type for other abilities or effects.\n- Only the type of uses defined by a card can be placed on that card. <i>(For example, a card with \"Uses (4 ammo)\" cannot be affected by an ability that would place 1 or more charges on a card.)</i>\n- Some cards with the uses (X) keyword include a discard condition for when there are no uses remaining. If the card contains no such text, it remains in play even if there are no uses on it.\n- If instructed to replenish an asset's uses, place the specified number of uses on that asset, up to (but not exceeding) its initial uses (X) value.",
         "references": [121],
@@ -1225,7 +1225,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 154,
+        "id": 154,
         "section": "Victory X",
         "ruling": "Victory X is a keyword ability.\nAn encounter card worth victory points represents a formidable enemy, a particularly powerful curse, etc. Once they have been dealt with, encounter cards with victory X are added to the victory display until the end of the current scenario. The victory display is an out-of-play area shared by all players.\nSome location cards also have victory X, marking them as particularly puzzling, dangerous, or significant. When the current scenario ends, each location with victory X that is in play, revealed, and has no clues on it is added to the victory display.\nUpon completion of the current scenario, the cards in the victory display provide experience equal to their victory X value to each player, which can later be spent to upgrade that player's investigator deck.\n- When an enemy with victory X is defeated, add the card to the victory display instead of discarding it.\n- After a treachery card with victory X is resolved, add it to the victory display instead of discarding it.\n- If a non-encounter card such as an asset with victory X would be defeated, add it to the victory display instead of discarding it.",
         "references": null,
@@ -1233,7 +1233,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 155,
+        "id": 155,
         "section": "Weakness",
         "ruling": "Weakness is a unique subtype of player cards. Weaknesses represent character flaws, curses, madnesses, injuries, tasks, enemies, or story elements that are part of an investigator's backstory or that are acquired over the course of a campaign. Weakness cards are resolved differently depending upon their cardtype.\n- When an investigator draws a weakness card of an encounter cardtype, they resolve that card as if it were just drawn from the encounter deck.\n- When an investigator draws a weakness card of a player cardtype <i>(for example, an asset, event, or skill weakness)</i>, they resolve any revelation abilities on that card and add it to their hand. That card may then be used as any other player card of its cardtype.\n- If a weakness card enters an investigator's hand in a manner that did not involve drawing the card, that investigator must resolve that card (including any revelation abilities) as if they had just drawn it.\n- If a weakness card is added to a player's deck, hand, or threat area during a scenario, that investigator becomes the bearer of that weakness. That card does not count toward that investigator's deck size and remains a part of that investigator's deck for the rest of the campaign unless it is removed from the campaign by a card ability or scenario resolution.\n- A player cannot choose to discard a weakness card from hand, unless a card explicitly specifies otherwise.\n- ÆSome effects reference a \"basic weakness.\" A basic weakness can be identified by the presence of the words \"Basic Weakness\" and a symbol.",
         "references": [21],
@@ -1241,7 +1241,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 156,
+        "id": 156,
         "section": "When",
         "ruling": "The word \"when\" refers to the moment immediately after the specified timing point or triggering condition initiates, but before its impact upon the game state resolves. The resolution of a \"when\" ability interrupts the resolution of its timing point or triggering condition.\n<i>(For example, an ability that reads \"When you draw an enemy card\" initiates immediately after you draw the enemy card, but before resolving its revelation ability, spawning it, etc.)</i>",
         "references": [1, 117, 150],
@@ -1249,7 +1249,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 157,
+        "id": 157,
         "section": "Winning and Losing",
         "ruling": "Each scenario has a number of different possible endings.\nThe act deck represents the progress of the investigators through a scenario. Some instructions in the act deck (as well as on other encounter cardtypes) contain resolution points, in the format of: \"(<b>→R#</b>).\" The players' primary objective is to advance through the act deck until a (hopefully favorable) resolution point is reached. Should the act deck invoke a resolution, the players have completed the scenario (they may even have \"won!\").\nThe agenda deck represents the objectives and progress of the malicious forces pitted against the investigators in the scenario. Some instructions in the agenda deck (as well as on other encounter cardtypes) also contain resolution points, in the format of: \"(<b>→R#</b>).\" Should the agenda deck invoke a (usually darker) resolution, the players have likely lost the scenario.\n- Instructions for resolving the designated resolution of a scenario can be found in the \"do not read until end of game\" section of the campaign guide following each scenario.\n-- Should the scenario end with no resolution being reached (for example, if all investigators have been eliminated or have resigned), instructions for resolving the scenario in the absence of a designated solution can also be found in the \"do not read until end of game\" section.\n- If playing in a campaign, players will generally proceed to the next scenario in the campaign regardless of the outcome of the scenario. Even if players \"lose\" a scenario, they still continue their campaign unless otherwise stated <i>(although with some negative consequences from their failure)</i>.\n- When playing a standalone scenario, if players reach a numbered resolution, they have won (or at least, survived) unless that resolution states otherwise. If the scenario ends and players have not yet been directed to a numbered resolution, they have lost.\n-- Certain scenarios may blur the lines between victory and defeat, use their numbered resolutions in unorthodox ways, or even lack a numbered resolution to achieve. In such instances, players are encouraged to use their discretion when determining if they feel they have won or lost.",
         "references": [3, 138],
@@ -1257,7 +1257,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 158,
+        "id": 158,
         "section": "The Letter \"X\"",
         "ruling": "The value of the letter X is defined by a card ability or a granted player choice. If X is not defined, its value is equal to 0.\n- For costs involving the letter X, the value of X is defined by card ability or player choice, after which the amount paid may be modified by effects without altering the value of X.\n- If a card or ability has X cost, where X is defined by a granted player choice, and an ability allows an investigator to play that card or activate that ability without paying that cost, X is considered to be 0.",
         "references": [34, 79],
@@ -1265,7 +1265,7 @@
     },
     {
         "type": "glossary",
-        "entry_id": 159,
+        "id": 159,
         "section": "You/Your",
         "ruling": "An ability on a card in play referencing \"you\" or \"your\" refers to the investigator who controls, is engaged with, or is currently interacting with the card.\n- A <b>Revelation</b> ability that references \"you\" or \"your\" refers to the investigator who drew the card and is resolving the ability.\n- While resolving an ability initiated by the activate action, \"you\" or \"your\" refers to the investigator performing the action.",
         "references": null,

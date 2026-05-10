@@ -112,7 +112,7 @@
         "type": "campaign_errata",
         "cycles": ["tfa"],
         "scenario_codes": ["return_to_threads_of_fate"],
-        "ruling": "Add the following bullet point to the resolution of this scenario:\n- If the Harbinger of Valusia entered play during this scenario:\n-- If it is in the victory display, cross out \"the Harbinger is still alive\" inyour Campaign Log.\n-- If it is still in play or is set aside, next to \"the Harbinger is still alive\" in your Campaign Log, record in parentheses how much damage is on the Harbinger of Valusia, replacing the number that was previously in parentheses.",
+        "ruling": "Add the following bullet point to the resolution of this scenario:\n- If the Harbinger of Valusia entered play during this scenario::\n  - If it is in the victory display, cross out \"the Harbinger is still alive\" inyour Campaign Log.:\n  - If it is still in play or is set aside, next to \"the Harbinger is still alive\" in your Campaign Log, record in parentheses how much damage is on the Harbinger of Valusia, replacing the number that was previously in parentheses.",
         "citation": "faq-1.8"
     },
     {
@@ -140,7 +140,7 @@
         "type": "campaign_errata",
         "cycles": ["tsk"],
         "scenario_codes": ["dogs_of_war"],
-        "ruling": "Replace the second bullet point of <b>Resolution 6</b> with the following <i>(including its sub-bullets)</i>:\n- In your campaign log, record the following:\n-- <i>You haven't seen the last of the Claret Knight</i>\n-- <i>You haven't seen the last of the Beast in a Cowl of Crimson</i>",
+        "ruling": "Replace the second bullet point of <b>Resolution 6</b> with the following <i>(including its sub-bullets)</i>:\n- In your campaign log, record the following::\n  - <i>You haven't seen the last of the Claret Knight</i>:\n  - <i>You haven't seen the last of the Beast in a Cowl of Crimson</i>",
         "citation": "faq-2.1"
     },
     {
@@ -168,7 +168,7 @@
         "type": "campaign_errata",
         "cycles": ["tsk"],
         "scenario_codes": ["congress_of_the_keys"],
-        "ruling": "Add the following sub-bullet after the fourth bullet point of <b>Setup (v.II)</b>:\n-- Remove all other [[Coterie]] enemies from the game.",
+        "ruling": "Add the following sub-bullet after the fourth bullet point of <b>Setup (v.II)</b>::\n  - Remove all other [[Coterie]] enemies from the game.",
         "citation": "faq-2.2"
     },
     {

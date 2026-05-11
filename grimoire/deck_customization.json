@@ -44,7 +44,7 @@
         "id": "9.006",
         "title": "Deckbuilding Environments",
         "text": "While building or customizing a deck, players may determine their cardpool (the list of available cards they may include in their deck) using one of three different environments: Current, Limited, or Legacy. These environments allow players to create new decks and explore the game in different ways by varying their cardpool.",
-        "references": ["12.xxx"],
+        "references": null,
         "citation": "grimoire-1.0"
     },
     {

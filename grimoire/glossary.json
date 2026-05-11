@@ -92,7 +92,7 @@
         "id": "1.012",
         "title": "\"As If\"",
         "text": "Some card abilities allow an investigator to resolve that ability or another ability, or to perform an action, as if a certain aspect of the game state were altered. Such abilities are indicated by the use of the phrase \"as if...\" in their ability text. The indicated ability or action is resolved with the altered game state in mind, but the actual game state remains unchanged.\n- Unless otherwise stated, the game state is considered to be altered only <b>during</b> the resolution of the ability or action. All costs must be paid and attacks of opportunity must resolve before resolving the effects.:\n  - <i>For example, enemies in an investigator's threat area (and massive enemies at their location) make attacks of opportunity against the investigator initiating the ability when costs are paid, before resolving an ability \"as if\" that investigator is at another location or engaged with other enemies.</i>\n- Play restrictions, costs, and triggering conditions for an \"as if\" ability are considered with the altered game state in mind.:\n  - <i>For example, an investigator resolves an ability that lets them play an event \"as if\" they are at a connecting location. The event they wish to play can only be played \"if there is a clue at your location\"; this play restriction is considered fulfilled as long as the location at which they are playing it via the \"as if\" ability has a clue on it, even if their original location, where the ability is initiated, has none.</i>\n- Valid targets for an \"as if\" ability are determined and chosen with the altered game state in mind.\n- While resolving \"as if\" abilities, the altered game state is only considered as it pertains to the resolution of the specified ability or action. Other card abilities or game effects resolve under consideration of the actual game state.:\n  - <i>For example, [Trish Scarborough](/card/12007) uses a card ability to investigate \"as if\" she is at a connecting location. While resolving the skill test, she may trigger the [fast] action ability on [Olivier Bishop](/card/12046) to move to a connecting location. Even though she is resolving a different ability \"as if\" she is at another location, the [fast] ability on Olivier Bishop may only move her mini-card or investigator token to a location connected to the location where Trish is considered to be under the actual, un-altered game state (in other words, the location at which her mini-card or investigator token is physically present).</i>\n- Unless otherwise stated, resolving an \"as if \" ability does not inherently alter the contents of an investigator's threat area.",
-        "references": ["1.144", "1.150"],
+        "references": ["1.144", "1.150", "5.001"],
         "citation": "grimoire-1.0"
     },
     {
@@ -140,7 +140,7 @@
         "id": "1.018",
         "title": "Automatic Failure/Success",
         "text": "Some card or token abilities may cause a skill test to automatically fail or to automatically succeed. If a skill test automatically fails or automatically succeeds, it does so during step \"ST.6\" of the \"Skill Test Timing\" process.\n- If a skill test automatically fails, the investigator's total skill value for that test is considered 0, and they fail ties during this skill test.\n- If a skill test automatically succeeds, the total difficulty of that test is considered 0.\n- If it is known that an investigator automatically succeeds or fails at a skill test before Step 3 (\"Reveal chaos token\") occurs, that step is skipped, along with Step 4. No chaos token(s) are revealed from the chaos bag, and the investigator immediately moves to Step 5. All other steps of the skill test resolve as normal.\n- If an ability \"automatically evades\" one or more enemies, this is not the same as automatically succeeding at an evasion attempt.",
-        "references": ["1.059"],
+        "references": ["1.059", "4.006"],
         "citation": "grimoire-1.0"
     },
     {
@@ -180,7 +180,7 @@
         "id": "1.023",
         "title": "Campaign Play",
         "text": "See the \"Campaign Play\" section of the Grimoire.",
-        "references": ["1.037", "1.050", "1.064"],
+        "references": ["1.037", "1.050", "1.064", "8.001"],
         "citation": "grimoire-1.0"
     },
     {
@@ -292,7 +292,7 @@
         "id": "1.037",
         "title": "Deckbuilding",
         "text": "See the \"Deck Customization\" section of the Grimoire.",
-        "references": null,
+        "references": ["9.001"],
         "citation": "grimoire-1.0"
     },
     {
@@ -300,7 +300,7 @@
         "id": "1.038",
         "title": "Defeat",
         "text": "Taking damage and/or horror may cause an investigator, enemy, or asset to be defeated.\n- If an investigator has damage on their investigator card equal to or greater than the card's health value, that investigator is defeated. If an investigator has horror on their investigator card equal to or greater than the card's sanity value, that investigator is defeated. A card ability may also defeat an investigator. When an investigator is defeated, they are eliminated from the current scenario.\n- In campaign play, an investigator who is defeated by taking damage equal to or greater than their health suffers 1 physical trauma. An investigator who is defeated by taking horror equal to their sanity suffers 1 mental trauma. Taking trauma may cause an investigator to be killed or driven insane.\n- If an enemy has damage on it equal to or greater than its health value, that enemy is defeated and placed in the encounter discard pile (or in its owner's discard pile if it is a weakness). Defeated enemies with <b>victory X</b> are placed in the victory display.\n- If an asset has damage on it equal to or greater than its health value, it is defeated. If an asset has horror on it equal to or greater than its sanity value, it is defeated. A defeated asset is placed in its owner's discard pile.",
-        "references": ["1.050", "1.147"],
+        "references": ["1.050", "1.147", "8.009"],
         "citation": "grimoire-1.0"
     },
     {
@@ -332,7 +332,7 @@
         "id": "1.042",
         "title": "Difficulty (Skill Tests)",
         "text": "The difficulty of a skill test is the target number an investigator is trying to equal or exceed with their modified skill value to pass that test.\n- When attacking an enemy, the base difficulty of the skill test is the enemy's fight value.\n- When investigating a location, the base difficulty of the skill test is the location's shroud value.\n- When attempting to evade an enemy, the base difficulty for the skill test is the enemy's evade value.\n- When resolving a skill test created by a card ability, the base difficulty is indicated as a parenthetical value following the indication of which skill is being tested. <i>(For example, an Intellect test with a difficulty of 3 would be indicated by the following: [intellect] (3))</i>.",
-        "references": null,
+        "references": ["4.001"],
         "citation": "grimoire-1.0"
     },
     {
@@ -356,7 +356,7 @@
         "id": "1.045",
         "title": "Doom",
         "text": "Doom tokens represent the progress the forces of the Mythos make toward completing foul rituals, summoning cosmic entities, and/or advancing the story in an unfavorable direction.\n- During each Mythos phase, 1 doom is placed on the current agenda.\n- If the current agenda has a doom value and no \"<b>Objective</b> -\" requirements for advancing the current agenda, and the requisite amount of doom is in play (among the agenda and all cards in play), the agenda advances during step 2 of the mythos phase. Unless a card or keyword ability specifies that it can advance the agenda, this is the only time at which the agenda can advance.\nDoom on cards other than the agenda (such as enemies, allies, locations, etc.) counts toward the amount of doom in play.",
-        "references": ["1.103"],
+        "references": ["1.103", "3.100"],
         "citation": "grimoire-1.0"
     },
     {
@@ -380,7 +380,7 @@
         "id": "1.048",
         "title": "Drawing Cards",
         "text": "When a player is instructed to draw one or more cards, those cards are drawn from the top of their investigator deck and added to their hand.\nWhen a player is instructed to draw one or more encounter cards, those cards are drawn from the top of the encounter deck, and resolved following the rules for drawing encounter cards under framework step 1.4, \"Each investigator draws 1 encounter card.\"\n- When a player draws two or more cards as the result of a single ability or game step, those cards are drawn simultaneously. If multiple weaknesses or encounter cards are drawn this way, their effects are resolved in the order that they entered that player's hand. If a deck empties mid-draw, reset the deck and complete the draw.\n- There is no limit to the number of cards a player may draw each round.\n- If an investigator with an empty deck needs to draw 1 or more cards, that investigator immediately shuffles their discard pile back into their deck, then draws the card and takes one horror.:\n  - Drawing the card and taking the horror occur simultaneously.:\n  - If an investigator would draw from an empty deck and has no cards in their discard pile, that investigator is immediately defeated and suffers 1 mental trauma.",
-        "references": null,
+        "references": ["3.140"],
         "citation": "grimoire-1.0"
     },
     {
@@ -436,7 +436,7 @@
         "id": "1.055",
         "title": "Enemy Cards",
         "text": "Enemy is a cardtype.\nEnemies represent villains, cultists, ne'er-do-wells, terrible monsters, and unfathomable entities from alternate dimensions or the cosmos beyond.\nWhen an enemy card is drawn by an investigator, that investigator must spawn it following any spawn instructions on the card. If the encountered enemy has no spawn instructions, the enemy spawns engaged with the investigator encountering the card and is placed in that investigator's threat area.\n- Any time a ready, unengaged enemy is at the same location as an investigator, it engages that investigator.:\n  - Enemies with the aloof and massive keywords are an exception to the above rules. When an investigator encounters an aloof or massive enemy, the enemy is placed at that investigator's location (rather than in their threat area).:\n  - Enemies with the aloof keyword do not automatically engage investigators at their location.:\n  - Enemies with the massive keyword are considered to be engaged with each investigator at their current location while ready, and engaged with no investigators while exhausted.\n- If an investigator is engaged with a ready enemy and takes an action other than to fight, to evade, or to activate a parley or resign ability, that enemy makes an attack of opportunity.\nEnemies with the hunter and patrol keywords move during Step 3.2 of the Enemy Phase.\n- Engaged enemies attack during Step 3.3 of the Enemy Phase.",
-        "references": ["1.011", "1.017", "1.078", "1.095", "1.108", "1.056"],
+        "references": ["1.011", "1.017", "1.078", "1.095", "1.108", "1.056", "3.300"],
         "citation": "grimoire-1.0"
     },
     {
@@ -444,7 +444,7 @@
         "id": "1.056",
         "title": "Enemy Phase",
         "text": "During the enemy phase, each ready enemy with the hunter keyword moves once toward the nearest investigator, and each ready enemy with the patrol keyword moves once toward its designated target.\nEach enemy engaged with an investigator attacks that investigator, then exhausts.",
-        "references": null,
+        "references": ["3.300"],
         "citation": "grimoire-1.0"
     },
     {
@@ -468,7 +468,7 @@
         "id": "1.059",
         "title": "Evade, Evade Action",
         "text": "\"Evade\" is an action an investigator may take during their turn in the investigation phase.\nTo evade an enemy engaged with an investigator, that investigator makes an agility ([agility]) test against the enemy's evade value. If the test is successful, that investigator evades the enemy (during Step 7 of the skill test).\n- If the test fails, the investigator does not evade the enemy, and it remains engaged with them.\nAny time an enemy is evaded, the enemy is exhausted (if it was ready) and the investigator disengages from the enemy. Move the enemy from the investigator's threat area to the investigator's location to mark that it is no longer engaged with that investigator.\n- Unlike the fight, engage or parley actions, by default an investigator can only perform an evade action against an enemy engaged with them.\n- Taking an evade action does not provoke attacks of opportunity.\n- If an ability \"automatically\" evades one or more enemies, no skill test is made for the evasion attempt. Consequently, it is not considered a \"successful\" evasion. The investigator simply follows the steps for evading an enemy (exhausting it and breaking its engagement) for each enemy evaded in this way.",
-        "references": ["1.018", "1.135"],
+        "references": ["1.018", "1.135", "4.001"],
         "citation": "grimoire-1.0"
     },
     {
@@ -580,7 +580,7 @@
         "id": "1.073",
         "title": "Hand Size",
         "text": "Each investigator's maximum hand size is 8 by default. This value is checked only during the upkeep phase, after drawing 1 card and gaining 1 resource.",
-        "references": ["1.152"],
+        "references": ["1.152", "3.400"],
         "citation": "grimoire-1.0"
     },
     {
@@ -668,7 +668,7 @@
         "id": "1.084",
         "title": "Investigate Action",
         "text": "\"Investigate\" is an action an investigator may take during their turn in the investigation phase.\nEach time an investigator takes this action, they make an intellect ([intellect]) test against the shroud value of that location.\nIf the test is successful, the investigator has succeeded in investigating the location, and they discover one clue at the location (during step 7 of the skill test).\nAny time an investigator discovers a clue from a location, that player takes the clue from the location and places it on their investigator card, under their control.\nIf the test is failed, the investigator has failed in investigating the location and no clues are discovered.\n- An investigator may take an investigate action even if their location has no clues on it. No clues are discovered if they succeed.",
-        "references": ["1.135"],
+        "references": ["1.135", "4.007"],
         "citation": "grimoire-1.0"
     },
     {
@@ -676,7 +676,7 @@
         "id": "1.085",
         "title": "Investigation Phase",
         "text": "The investigation phase is the second phase of each round. In it, investigators each take a turn in any order, during which they perform up to 3 actions (by default).\n- If a card effect causes an investigator to gain or lose actions outside of the investigation phase, those actions are gained or lost when that investigator's turn begins during the investigation phase.",
-        "references": null,
+        "references": ["3.200"],
         "citation": "grimoire-1.0"
     },
     {
@@ -700,7 +700,7 @@
         "id": "1.088",
         "title": "Killed/Insane/Devoured Investigators",
         "text": "During campaign play, investigators who are killed or driven insane must be recorded in your campaign log and cannot be used for the remainder ofthe campaign.\n- An investigator with physical trauma equal to or higher than their printed health is <b>killed</b>.\n- An investigator with mental trauma equal to or higher than their printed sanity is <b>driven insane</b>.\n- An investigator may also be <b>killed</b> or <b>driven insane</b> by a card ability, or during a scenario's resolution.\n- Some game effects may <b>devour</b> an investigator. An investigator that is <b>devoured</b> is <b>killed</b>.\n- When playing a standalone scenariom, there is no practical difference between being <b>killed</b>, <b>driven insane</b>, <b>devoured</b>, or <b>defeated</b>.",
-        "references": ["1.038", "1.023"],
+        "references": ["1.038", "1.023", "8.009"],
         "citation": "grimoire-1.0"
     },
     {
@@ -820,7 +820,7 @@
         "id": "1.103",
         "title": "Mythos Phase",
         "text": "During the Mythos phase, investigators place 1 doom on the agenda. If the agenda reaches its doom threshold, investigators advance the agenda, resolving the text on its reverse (\"b\") side.\nAfterward, in player order, each investigator draws the top card of the encounter deck.",
-        "references": null,
+        "references": ["3.100"],
         "citation": "grimoire-1.0"
     },
     {
@@ -900,7 +900,7 @@
         "id": "1.113",
         "title": "Play Action",
         "text": "\"Play\" is an action an investigator may take during their turn in the investigation phase.\nWhen an investigator takes this action, that investigator selects an asset or event card in their hand, pays its costs, and plays it.\n- A play action provokes attacks of opportunity unless it is also another type of action that does not provoke an attack (i.e. <b>Fight</b>, <b>Evade</b>, etc.).\n- Cards with the \"fast\" keyword are not played by using this action, and may have other timing windows and restrictions.\n- When an ability allows a player to \"play\" a card (typically at a reduced cost or in addition to other effects), this also does not use the play action and therefore does not provoke attacks of opportunity.\n- Skill cards are not \"played.\" These cards are committed to a skill test from a player's hand in order to use their abilities.",
-        "references": ["1.066", "1.112", "1.118"],
+        "references": ["1.066", "1.112", "1.118", "5.001"],
         "citation": "grimoire-1.0"
     },
     {
@@ -908,7 +908,7 @@
         "id": "1.114",
         "title": "Play Restrictions, Permissions, and Instructions",
         "text": "Many cards and abilities contain specific instructions pertaining to when or how they may or may not be used, or to specific conditions that must be true in order to use them. In order to use such an ability or to play such a card, its play restrictions must be observed.\nA permission allows a player to play a card or use an ability outside the timing specifications provided by the game rules.\nA play instruction describes the timing point at which, and/or time period during which, an event card may be played.",
-        "references": null,
+        "references": ["5.001"],
         "citation": "grimoire-1.0"
     },
     {
@@ -1060,7 +1060,7 @@
         "id": "1.133",
         "title": "Skill Cards",
         "text": "Skill is a cardtype.\nSkill cards represent innate or learned attributes or character traits that improve an investigator's skill tests.\n- Skill cards are not played from a player's hand. In order to resolve their abilities, skill cards must be committed to a skill test.\n- If a skill card is committed to a skill test, its ability may be used during the resolution of that skill test, as specified on the card.",
-        "references": null,
+        "references": ["4.001"],
         "citation": "grimoire-1.0"
     },
     {
@@ -1068,7 +1068,7 @@
         "id": "1.134",
         "title": "Skill Icons",
         "text": "In addition to their abilities, many player cards have one or more skill icons, indicated on the top left of a card below its cost, level, and cardtype.\nA card in a player's hand is eligible to be committed to a skill test if it bears one or more icons that match the skill currently being tested. For each matching icon committed to a test, increase the performing investigator's skill value by 1 for that test.\n- Skill, asset, and event cards can all be committed to a skill test, but the abilities on assets and events do not resolve if the card is committed, while those on skill cards do.\nA Wild ([wild]) skill icon on a player card may be used to match any other skill icon for the purposes of both card abilities and counting how many matching icons are committed to a skill test.\n- When using wild icons for the purpose of resolving a card ability, a player must state which icon the wild is matching at the time the card is used.",
-        "references": ["1.133"],
+        "references": ["1.133", "4.001"],
         "citation": "grimoire-1.0"
     },
     {
@@ -1076,7 +1076,7 @@
         "id": "1.135",
         "title": "Skill Tests",
         "text": "A number of situations in the game require an investigator to make a skill test using one of their four skills: willpower ([willpower]), intellect ([intellect]), combat ([combat]), or agility ([agility]). A skill test pits the investigator's value in a specified skill against a difficulty value that is determined by the ability or game step that initiated the test. The investigator is attempting to match or exceed this difficulty value in order to succeed at the test.\nA skill test is often referred to as a test of the specified skill. <i>(For example: \"agility test,\" \"combat test,\" \"willpower test,\" or \"intellect test.\")</i>\nWhen performing a skill test, an investigator may commit any number of eligible cards from their hand to that test. Each other investigator at the same location as an investigator performing a skill test may also commit <b>one</b> eligible card to that test.\n- At the end of a skill test, all cards that were committed to that skill test are discarded.",
-        "references": ["1.005", "1.134"],
+        "references": ["1.005", "1.134", "4.001"],
         "citation": "grimoire-1.0"
     },
     {
@@ -1100,7 +1100,7 @@
         "id": "1.138",
         "title": "Standalone Mode",
         "text": "Players may choose to play a single scenario as a one-off adventure, removed from its campaign. This is called Standalone Mode. When playing a standalone game, the following rules apply:\n- When building a deck for a standalone game, an investigator may use higher level cards in their deck (so long as they observe the deckbuilding restrictions of the investigator) by counting the total experience of all the higher level cards used in the deck, and taking additional random basic weaknesses based on the following table::\n  - 0-9 experience: 0 additional random basic weaknesses:\n  - 10-19 experience: 1 additional random basic weakness:\n  - 20-29 experience: 2 additional random basic weaknesses:\n  - 30-39 experience: 3 additional random basic weaknesses:\n  - 40-49 experience: 4 additional random basic weaknesses:\n  - A player cannot include 50 or more experience worth of cards in a standalone deck.:\n  - As an optional variant, some players may also wish to record their resolution and experience earned during a particular standalone as a \"score\" for how well they played. This may be recorded separately and kept on hand as players replay a particular scenario.\n- After choosing a scenario to play, refer to the campaign guide for the campaign that scenario is a part of, starting at the setup for that scenario. Additional instructions for playing each scenario in Standalone Mode can be found at the end of the normal setup instructions, if any are required.\n- If players are instructed to \"record\" a story moment, decision, or other detail in their campaign log, they instead \"remember\" it for the duration of the scenario.\n- If a scenario weakness or story reward is earned that is in an expansion you do not own, simply continue without that card.",
-        "references": null,
+        "references": ["8.003"],
         "citation": "grimoire-1.0"
     },
     {
@@ -1172,7 +1172,7 @@
         "id": "1.147",
         "title": "Trauma",
         "text": "Trauma represents permanent damage that has been inflicted upon an investigator's body and mind.\n- If an investigator is defeated by taking damage equal to their health, they suffer 1 physical trauma. If the investigator is defeated by taking horror equal to their sanity, they suffer 1 mental trauma.:\n  - If an investigator is defeated by simultaneously taking damage equal to their health and horror equal to their sanity, they choose which type of trauma to suffer.\n- When an investigator takes trauma, mark it in the appropriate box underneath their name in the campaign log.\n- If an investigator has physical trauma equal to their printed health, they are <b>killed</b>. If they have mental trauma equal to their printed sanity, they are <b>driven insane</b>.\n- For each physical and/or mental trauma an investigator has suffered, that investigator begins each subsequent scenario in the campaign with 1 damage and/or horror, respectively.",
-        "references": ["1.023"],
+        "references": ["1.023", "8.009"],
         "citation": "grimoire-1.0"
     },
     {
@@ -1180,7 +1180,7 @@
         "id": "1.148",
         "title": "Treachery Cards",
         "text": "Treachery cards represent curses, afflictions, madnesses, obstacles, disasters, or other unexpected occurrences an investigator may encounter throughout the course of a scenario.\nWhen a treachery card is drawn by an investigator, that investigator must resolve its effects. Then, place the card in its discard pile unless otherwise instructed by the ability.\n- If that card has surge, draw the top card of the encounter deck.\n- If that card has peril, that investigator cannot consult other investigators while resolving its effects.",
-        "references": null,
+        "references": ["3.140"],
         "citation": "grimoire-1.0"
     },
     {
@@ -1212,7 +1212,7 @@
         "id": "1.152",
         "title": "Upkeep Phase",
         "text": "During the upkeep phase, each card in play is readied.\nEach investigator draws 1 card and gains 1 resource, then each investigator discards cards from hand until they have no more than 8 cards in hand.",
-        "references": ["1.120"],
+        "references": ["1.120", "3.400"],
         "citation": "grimoire-1.0"
     },
     {

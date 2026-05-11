@@ -1,0 +1,24 @@
+[
+    {
+        "id": "glossary",
+        "title": "Glossary",
+        "position": 1
+    },
+    {
+        "id": "fundamentals",
+        "title": "Additional Rules and Fundamentals",
+        "text": "The following section includes some important rules for playing the game as intended.",
+        "position": 2
+    },
+    {
+        "id": "initiation_sequence",
+        "title": "Initiation Sequence",
+        "position": 5
+    },
+    {
+        "id": "scenario_setup",
+        "title": "Scenario Setup",
+        "text": "The following section is a condensed universal version of the setup rules that can be used for any scenario of <i>Arkham Horror: The Card Game</i>.",
+        "position": 6
+    }
+]

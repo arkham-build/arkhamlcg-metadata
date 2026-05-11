@@ -38,5 +38,11 @@
         "title": "Campaign Play",
         "text": "A campaign is a long-form story set in the foreboding universe of the Cthulhu Mythos, which unfolds over a series of interrelated scenarios. As a campaign progresses, each investigator gains experience and trauma which are reflected by changes in their deck. Decisions, victories, and losses are recorded in the campaign log and may have far-reaching repercussions. To start a campaign, follow the instructions for that campaign's setup in the campaign guide. ",
         "position": 8
+    },
+    {
+        "id": "deck_customization",
+        "title": "Deck Customization",
+        "text": "The <i>Arkham Horror: The Card Game</i> core set is designed to be a complete game experience with significant replayability. After learning the basics of the game, players may wish to explore customizing their own decks.",
+        "position": 9
     }
 ]

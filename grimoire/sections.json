@@ -44,5 +44,21 @@
         "title": "Deck Customization",
         "text": "The <i>Arkham Horror: The Card Game</i> core set is designed to be a complete game experience with significant replayability. After learning the basics of the game, players may wish to explore customizing their own decks.",
         "position": 9
+    },
+    {
+        "id": "optional_rules",
+        "title": "Optional Rules",
+        "text": "This section includes several models for alternate play.",
+        "position": 12
+    },
+    {
+        "id": "modified_reprints",
+        "title": "Modified Reprints",
+        "position": 13
+    },
+    {
+        "id": "encounter_set_variation",
+        "title": "Encounter Set Variation: Using the New Core Set to Play Legacy Scenarios",
+        "position": 16
     }
 ]

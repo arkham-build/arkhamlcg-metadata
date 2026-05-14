@@ -1,9 +1,37 @@
 [
     {
-        "section": "modified_reprints",
-        "id": "13.001",
-        "title": "Modified Reprints",
-        "text": "Some cards from previous releases may reappear in future products. Most of these cards are reprinted as written (or with appropriate formatting updates), but a few have been altered from their previous versions such that they are mechanically distinct.\nThese are known as <b>modified reprints</b>. They adjust classic cards to fit a new environment, while keeping the identity and spirit of those cards intact.\n- If a player has two versions of the same card from different products, and they are mechanically distinct, only one version of that card (either the original, or the modified reprint) may be used in a deck.\n  - This is independent of how many copies of that card a player is permitted to include in their deck.\nThe following is a list of modified reprints:\n- [Machete](/card/12020)\n- [Laboratory Assistant](/card/12032)\n- [Premonition](/card/12064)\n- [Ward of Protection](/card/12065)\n- [Meat Cleaver](/card/12077)\n- [Guts](/card/12090)\n- [Manual Dexterity](/card/12091)\n- [Overpower](/card/12092)\n- [Perception](/card/12093)",
+        "section": "icon_reference",
+        "id": "14.001",
+        "title": "Campaign Product Icons",
+        "text": "This section lists each campaign along with their associated icon so players can tell, at a glance, what campaign a particular card is from.\n- AHC100 Core Set (Brethren of Ash)",
+        "citation": "grimoire-1.0"
+    },
+    {
+        "section": "icon_reference",
+        "id": "14.002",
+        "title": "Investigator Deck Product Icons",
+        "text": "This section lists each investigator deck along with their associated icon so players can tell, at a glance, what product a particular card is from.\n- AHC101 Tommy Muldoon\n- AHC102 Carolyn Fern\n- AHC103 André Patel\n- AHC104 Marie Lambeau\n- AHC105 Miguel de la Cruz",
+        "citation": "grimoire-1.0"
+    },
+    {
+        "section": "icon_reference",
+        "id": "14.003",
+        "title": "Deckbuilding Expansion Product Icons",
+        "text": "This section lists each deckbuilding expansion along with its associated icon so players can tell, at a glance, which product a particular card is from.",
+        "citation": "grimoire-1.0"
+    },
+    {
+        "section": "icon_reference",
+        "id": "14.004",
+        "title": "Investigator Expansion Product Icons",
+        "text": "This section lists each investigator expansion along with its associated icon so players can tell, at a glance, which product a particular card is from.",
+        "citation": "grimoire-1.0"
+    },
+    {
+        "section": "icon_reference",
+        "id": "14.005",
+        "title": "Scenario Pack Icons",
+        "text": "This section lists each scenario pack along with its associated icon so players can tell, at a glance, which product a particular card is from.",
         "citation": "grimoire-1.0"
     }
 ]

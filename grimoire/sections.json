@@ -51,6 +51,11 @@
         "position": 9
     },
     {
+        "id": "notes_and_errata",
+        "title": "Notes and Errata",
+        "position": 10
+    },
+    {
         "id": "optional_rules",
         "title": "Optional Rules",
         "text": "This section includes several models for alternate play.",

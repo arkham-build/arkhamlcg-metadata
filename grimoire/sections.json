@@ -56,6 +56,12 @@
         "position": 10
     },
     {
+        "id": "frequently_asked_questions",
+        "title": "Frequently Asked Questions",
+        "text": "This section provides answers to a number of common questions that are asked about the game. The entries are presented in a question and answer format, with the newest questions at the end of the list.",
+        "position": 11
+    },
+    {
         "id": "optional_rules",
         "title": "Optional Rules",
         "text": "This section includes several models for alternate play.",

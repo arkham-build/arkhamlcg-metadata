@@ -78,6 +78,12 @@
         "position": 14
     },
     {
+        "id": "encounter_set_icon_reference",
+        "title": "Encounter Set Icon Reference",
+        "text": "The following is a list of encounter set icons used in <i>Arkham Horror: The Card Game</i> products, separated by expansion in order of release.",
+        "position": 15
+    },
+    {
         "id": "encounter_set_variation",
         "title": "Encounter Set Variation: Using the New Core Set to Play Legacy Scenarios",
         "position": 16

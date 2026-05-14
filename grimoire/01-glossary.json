@@ -409,7 +409,15 @@
         "id": "1.055",
         "title": "Enemy Cards",
         "text": "Enemy is a cardtype.\nEnemies represent villains, cultists, ne'er-do-wells, terrible monsters, and unfathomable entities from alternate dimensions or the cosmos beyond.\nWhen an enemy card is drawn by an investigator, that investigator must spawn it following any spawn instructions on the card. If the encountered enemy has no spawn instructions, the enemy spawns engaged with the investigator encountering the card and is placed in that investigator's threat area.\n- Any time a ready, unengaged enemy is at the same location as an investigator, it engages that investigator.:\n  - Enemies with the aloof and massive keywords are an exception to the above rules. When an investigator encounters an aloof or massive enemy, the enemy is placed at that investigator's location (rather than in their threat area).:\n  - Enemies with the aloof keyword do not automatically engage investigators at their location.:\n  - Enemies with the massive keyword are considered to be engaged with each investigator at their current location while ready, and engaged with no investigators while exhausted.\n- If an investigator is engaged with a ready enemy and takes an action other than to fight, to evade, or to activate a parley or resign ability, that enemy makes an attack of opportunity.\nEnemies with the hunter and patrol keywords move during Step 3.2 of the Enemy Phase.\n- Engaged enemies attack during Step 3.3 of the Enemy Phase.",
-        "references": ["1.011", "1.017", "1.078", "1.095", "1.108", "1.056", "3.300"],
+        "references": [
+            "1.011",
+            "1.017",
+            "1.078",
+            "1.095",
+            "1.108",
+            "1.056",
+            "3.300"
+        ],
         "citation": "grimoire-1.0"
     },
     {

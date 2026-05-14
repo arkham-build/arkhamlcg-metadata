@@ -87,5 +87,10 @@
         "id": "encounter_set_variation",
         "title": "Encounter Set Variation: Using the New Core Set to Play Legacy Scenarios",
         "position": 16
+    },
+    {
+        "id": "quick_reference",
+        "title": "Quick Reference",
+        "position": 17
     }
 ]

@@ -34,6 +34,11 @@
         "position": 6
     },
     {
+        "id": "card_anatomy",
+        "title": "Card Anatomy",
+        "position": 7
+    },
+    {
         "id": "campaign_play",
         "title": "Campaign Play",
         "text": "A campaign is a long-form story set in the foreboding universe of the Cthulhu Mythos, which unfolds over a series of interrelated scenarios. As a campaign progresses, each investigator gains experience and trauma which are reflected by changes in their deck. Decisions, victories, and losses are recorded in the campaign log and may have far-reaching repercussions. To start a campaign, follow the instructions for that campaign's setup in the campaign guide. ",

@@ -13,8 +13,8 @@
     },
     {
         "id": "timing_and_gameplay",
-        "title": "timing and Gameplay",
-        "text": "This section provides a detailed explanation of how to handle each framework event step presented on the game's flow chart, in the order that the framework events occur throughout the round.\nEach phase is outlined in detail followed by a timing chart.\n- Numbered items presented in the teal boxes are known as framework events. Framework events are mandatory occurrences dictated by the structure of the game.\n- The red boxes are player windows. Players may use [fast] triggered abilities in these windows.\nEach time an investigator makes a skill test, use the skill test timing detailed in the \"Skill Test Timing chart\".",
+        "title": "Timing and Gameplay",
+        "text": "This section provides a detailed explanation of how to handle each framework event step presented on the game's flow chart, in the order that the framework events occur throughout the round.\n\nEach phase is outlined in detail followed by a timing chart.\n- Numbered items presented in the teal boxes are known as framework events. Framework events are mandatory occurrences dictated by the structure of the game.\n- The red boxes are player windows. Players may use [fast] triggered abilities in these windows.\n\nEach time an investigator makes a skill test, use the skill test timing detailed in the \"Skill Test Timing chart\".",
         "position": 3
     },
     {

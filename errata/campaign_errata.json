@@ -112,7 +112,7 @@
         "type": "campaign_errata",
         "cycles": ["tfa"],
         "scenario_codes": ["return_to_threads_of_fate"],
-        "ruling": "Add the following bullet point to the resolution of this scenario:\n- If the Harbinger of Valusia entered play during this scenario::\n  - If it is in the victory display, cross out \"the Harbinger is still alive\" inyour Campaign Log.:\n  - If it is still in play or is set aside, next to \"the Harbinger is still alive\" in your Campaign Log, record in parentheses how much damage is on the Harbinger of Valusia, replacing the number that was previously in parentheses.",
+        "ruling": "Add the following bullet point to the resolution of this scenario:\n- If the Harbinger of Valusia entered play during this scenario::\n  - If it is in the victory display, cross out \"the Harbinger is still alive\" in your Campaign Log:\n  - If it is still in play or is set aside, next to \"the Harbinger is still alive\" in your Campaign Log, record in parentheses how much damage is on the Harbinger of Valusia, replacing the number that was previously in parentheses.",
         "citation": "faq-1.8"
     },
     {

@@ -24,7 +24,7 @@
         "section": "skill_test_timing",
         "id": "4.004",
         "title": "ST.4 Apply chaos symbol effect(s).",
-        "text": "Apply any effects initiated by the symbol on the revealed chaos token. Each of the following symbols indicates that an ability on the scenario reference card must initiate: [skill], [cultist], [tablet], [elder_thing].\n\nThe [elder_sign] symbol indicates that the [elder_sign] ability on the investigator card belonging to the player performing the test must initiate.\n\nIf a campaign-specific symbol token was revealed, refer to the campaign guide for instructions on how to initiate that token's effect.\n\nIf none of the above symbols are revealed, or if the icon has no corresponding ability, this step completes with no effect.",
+        "text": "Apply any effects initiated by the symbol on the revealed chaos token. Each of the following symbols indicates that an ability on the scenario reference card must initiate: [skull], [cultist], [tablet], [elder_thing].\n\nThe [elder_sign] symbol indicates that the [elder_sign] ability on the investigator card belonging to the player performing the test must initiate.\n\nIf a campaign-specific symbol token was revealed, refer to the campaign guide for instructions on how to initiate that token's effect.\n\nIf none of the above symbols are revealed, or if the icon has no corresponding ability, this step completes with no effect.",
         "citation": "grimoire-1.0"
     },
     {

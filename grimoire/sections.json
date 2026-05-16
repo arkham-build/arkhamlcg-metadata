@@ -20,6 +20,7 @@
     {
         "id": "skill_test_timing",
         "title": "Skill Test Timing",
+        "text": "![Skill test timing](skill_test_timing.png)",
         "position": 4
     },
     {
@@ -53,6 +54,7 @@
     {
         "id": "notes_and_errata",
         "title": "Notes and Errata",
+        "text": "This section contains notes and errata pertaining to specific cards or sections of the rulebook. The document version number in which an entry first appeared is listed with that entry in order to establish a history of when each change was made.\n\nrrata overrides the originally printed information on the card it applies to. Unless errata for a card appears below, the original English product printing of that card and all of its information is considered accurate, and overrides all other printings. This includes translated cards, promotional or organized play cards, and printings which may appear in alternate products.\n\nNotes and errata for all <i>Arkham Horror: The Card Game</i> products released before 2026 can be found in the retired FAQ document, here: [Link](https://images-cdn.fantasyflightgames.com/filer_public/c1/d0/c1d0fab6-7fa6-4ce2-af6a-16416381a19b/ahc_faq_v25_february_2026-web.pdf)",
         "position": 10
     },
     {

@@ -1,0 +1,23 @@
+[
+    {
+        "section": "notes_and_errata",
+        "id": "10.001",
+        "title": "Rulebook Errata",
+        "text": "Errata will be added as needed in future Grimoire updates.",
+        "citation": "grimoire-1.0"
+    },
+    {
+        "section": "notes_and_errata",
+        "id": "10.002",
+        "title": "Campaign Guide Errata",
+        "text": "Errata will be added as needed in future Grimoire updates.",
+        "citation": "grimoire-1.0"
+    },
+    {
+        "section": "notes_and_errata",
+        "id": "10.003",
+        "title": "Card Errata",
+        "text": "Errata will be added as needed in future Grimoire updates.",
+        "citation": "grimoire-1.0"
+    }
+]

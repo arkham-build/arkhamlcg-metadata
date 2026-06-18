@@ -326,7 +326,7 @@
     {
         "type": "card_errata",
         "card_codes": ["05033"],
-        "ruling": "This card's play requirement should read: \"Play when you would resolve an effect on a  card that triggers \"when,\" \"if,\" or \"after\" a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol is revealed.\"",
+        "ruling": "This card's play requirement should read: \"Play when you would resolve an effect on a [mystic] card that triggers \"when,\" \"if,\" or \"after\" a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol is revealed.\"",
         "citation": "faq-1.5"
     },
     {

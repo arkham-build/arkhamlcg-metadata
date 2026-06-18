@@ -626,7 +626,7 @@
     {
         "type": "card_errata",
         "card_codes": ["11069"],
-        "ruling": "This card's [reaction] ability should read: \" When you would reveal a chaos token...\"",
+        "ruling": "This card's [reaction] ability should read: \"[reaction] When you would reveal a chaos token...\"",
         "citation": "faq-2.5"
     },
     {

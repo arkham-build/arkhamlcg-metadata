@@ -24,7 +24,7 @@
         "section": "quick_reference",
         "id": "17.004",
         "title": "Action Types",
-        "text": "<b>Fight</b> ([combat]). Fight an engaged enemy at your location, using [combat].\n\n<b>Evade</b> ([agility]). Evade an engaged enemy at your location, using [agility].\n\n<b>Investigate</b> ([intellect]). Investigate your location using [intellect].\n\n<b>Engage</b>. Engage an enemy at your current location.\n\n<b>Draw</b>. Draw 1 card.\n\n<b>Move</b>. Move to a connecting location.\n\n<b>Resource</b>. Gain 1 resource.\n\n<b>Activate</b>. Activate an [action] ability.\n\n<b>Play</b>. Play a card from your hand, paying its cost.\n\n<b>Parley</b>. Parley an enemy at your location using a card ability.\n\n<b>Resign</b>. Remove your investigator from the game using a card ability.",
-        "citation": "grimoire-1.0"
+        "text": "<b>Fight</b> ([combat]). Fight an enemy at your location, using [combat].\n\n<b>Evade</b> ([agility]). Attempt to evade an enemy engaged with you, using [agility].\n\n<b>Investigate</b> ([intellect]). Investigate your location using [intellect].\n\n<b>Engage</b>. Engage an enemy at your location.\n\n<b>Draw</b>. Draw 1 card.\n\n<b>Move</b>. Move to a connecting location.\n\n<b>Resource</b>. Gain 1 resource.\n\n<b>Activate</b>. Activate an [action] ability.\n\n<b>Play</b>. Play a card from your hand, paying its cost.\n\n<b>Parley</b>. Parley using a card ability.\n\n<b>Resign</b>. Remove your investigator from the game using a card ability.",
+        "citation": "grimoire-1.1"
     }
 ]

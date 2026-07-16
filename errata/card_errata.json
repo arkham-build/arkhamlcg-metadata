@@ -1,6 +1,5 @@
 [
     {
-        "type": "card_errata",
         "card_codes": [
             "01006",
             "01008",
@@ -13,101 +12,101 @@
             "01512",
             "01514"
         ],
+        "citation": "faq-1.0",
         "ruling": "This card has no level (instead of being level 0).",
-        "citation": "faq-1.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["01014", "01514"],
+        "citation": "faq-1.9",
         "ruling": "This card's <b>Forced</b> ability should read: \"<b>Forced</b> - After you play an event or discard an event from play...\"",
-        "citation": "faq-1.9"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["50004"],
+        "citation": "faq-1.4",
         "ruling": "This card's constant ability should read: \"Each time a non-[[Elite]] enemy would spawn at attached location, spawn it at a connecting location instead, if able.\"",
-        "citation": "faq-1.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02001"],
+        "citation": "faq-1.5",
         "ruling": "This card's <b>Deckbuilding Options</b> should read: \"... up to five other level 0 cards from any other classes ([seeker], [rogue], [mystic], and/or [survivor]).\"",
-        "citation": "faq-1.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02002"],
+        "citation": "faq-1.5",
         "ruling": "This card's <b>Deckbuilding Options</b> should read: \"... up to five other level 0 cards from any other classes ([guardian], [rogue], [mystic], and/or [survivor]).\"",
-        "citation": "faq-1.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02003", "98001"],
+        "citation": "faq-1.5",
         "ruling": "This card's <b>Deckbuilding Options</b> should read: \"... up to five other level 0 cards from any other classes ([guardian], [seeker], [mystic], and/or [survivor]).\"",
-        "citation": "faq-1.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02004"],
+        "citation": "faq-1.5",
         "ruling": "This card's <b>Deckbuilding Options</b> should read: \"... up to five other level 0 cards from any other classes ([guardian], [seeker], [rogue], and/or [survivor]).\"",
-        "citation": "faq-1.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02005"],
+        "citation": "faq-1.5",
         "ruling": "This card's <b>Deckbuilding Options</b> should read: \"... up to five other level 0 cards from any other classes ([guardian], [seeker], [rogue], and/or [mystic]).\"",
-        "citation": "faq-1.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02007"],
+        "citation": "faq-1.0",
         "ruling": "This card's <b>Forced</b> ability should read: \"When the game ends, if attached enemy is in play: Zoey Samaras suffers 1 mental trauma.\"",
-        "citation": "faq-1.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02011"],
+        "citation": "faq-1.0",
         "ruling": "This card's <b>Forced</b> ability should read: \"When the game ends, if Searching for Izzie is in play: Jenny Barnes suffers 1 mental trauma.\"",
-        "citation": "faq-1.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02020"],
+        "citation": "faq-1.6",
         "ruling": "This card's first ability should read: \"Your maximum hand size is increased by 2.\"",
-        "citation": "faq-1.6"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02040"],
+        "citation": "faq-1.3",
         "ruling": "This card's [reaction] ability should read: \"After you draw a non-weakness card, discard that card...\"",
-        "citation": "faq-1.3"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02078"],
+        "citation": "faq-1.2",
         "ruling": "This enemy's traits should be \"[[Humanoid]]. [[Criminal]]. [[Elite]].\"",
-        "citation": "faq-1.2"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02079", "02097", "02098"],
+        "citation": "faq-1.2",
         "ruling": "The [[Human]] trait on each of this card should read [[Humanoid]] instead.",
-        "citation": "faq-1.2"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02205"],
+        "citation": "faq-1.1",
         "ruling": "This card's first ability, on the revealed side, should read: \"<b>Forced</b> - After you fail a skill test while investigating the Burned Ruins: Flip 1 clue token on the Burned Ruins to its doom side.\"",
-        "citation": "faq-1.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02230"],
+        "citation": "faq-1.1",
         "ruling": "This card's [reaction] ability should read: \"When you reveal a non-[auto_fail] chaos token, spend 2 resources: Ignore that chaos token and reveal another one to resolve. If that token has a [auto_fail] symbol, remove Lucky Dice from the game (cannot be ignored/canceled).\"",
-        "citation": "faq-1.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": [
             "02262",
             "02263",
@@ -127,41 +126,41 @@
             "60229",
             "60230"
         ],
+        "citation": "faq-2.0",
         "ruling": "The purchase restriction on this card should be replaced with the keyword: \"Researched.\"",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02277"],
+        "citation": "faq-1.6",
         "ruling": "The two instructions on <b>Act 1b</b> should be reversed, as follows: \"Remove all clues from each location in play. The arcane presence masking the path further up the hill has faded. Reveal Ascending Path.\"",
-        "citation": "faq-1.6"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02302"],
+        "citation": "faq-1.2",
         "ruling": "This card's [reaction] ability should read: \"When you draw an encounter card from the encounter deck...",
-        "citation": "faq-1.2"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["02305"],
+        "citation": "faq-1.2",
         "ruling": "Each of this card's [fast] symbols should be [reaction] symbols, instead.",
-        "citation": "faq-1.2"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["82023", "82024", "82025", "82026"],
+        "citation": "faq-2.3",
         "ruling": "The first line of this card should read: \"Limit 1 [[Mask]] per investigator.\"",
-        "citation": "faq-2.3"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03041"],
+        "citation": "faq-1.6",
         "ruling": "This card's second ability should read: \"Your maximum hand size is reduced by 5.\"",
-        "citation": "faq-1.6"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": [
             "03061",
             "03097",
@@ -171,11 +170,11 @@
             "03170",
             "03186"
         ],
+        "citation": "faq-2.0",
         "ruling": "The \"[[Lunatic]]\" trait in this card's effects should read \"[[Possessed]]\" wherever it appears, instead.",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": [
             "03065",
             "03066",
@@ -188,535 +187,536 @@
             "03184",
             "03258"
         ],
+        "citation": "faq-2.0",
         "ruling": "The \"[[Lunatic]]\" trait on this card should read \"[[Possessed]]\", instead.",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03095"],
+        "citation": "faq-2.0",
         "ruling": "The title for this card should be Seer of the Sign.",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03096"],
+        "citation": "faq-2.0",
         "ruling": "The title for this card should be Puppet of Hastur.",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03184"],
+        "citation": "faq-2.0",
         "ruling": "The title for this card should be Haunted Patient.",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03102"],
+        "citation": "faq-1.2",
         "ruling": "This card's Revelation ability should read: \"Discard [[Item]] assets from your play area and/or from your hand...\"",
-        "citation": "faq-1.2"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03121", "03122", "03123"],
+        "citation": "faq-1.2",
         "ruling": "The first ability on this agenda should read: \"Skip the 'Place 1 doom on the current agenda' step of the Mythos phase.\"",
-        "citation": "faq-1.2"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03130", "03132"],
+        "citation": "faq-1.2",
         "ruling": "This location's ability should read: \"While investigating this location, your [intellect] cannot be increased.",
-        "citation": "faq-1.2"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03153", "05273", "52008"],
+        "citation": "faq-2.0",
         "ruling": "This card's <b>Fight</b> ability should read: \"at the attacked enemy's location\" instead of \"at your location\".",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03178", "03179", "03180", "03181"],
+        "citation": "faq-1.2",
         "ruling": "This location should not have the \"[[Arkham Asylum]]\" trait.",
-        "citation": "faq-1.2"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03232"],
+        "citation": "faq-1.4",
         "ruling": "This card's [fast] ability should read: \"...Any investigator at this location may trigger this ability.\"",
-        "citation": "faq-1.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03252"],
+        "citation": "faq-1.3",
         "ruling": "This location's ability should read: \"...If you succeed, look at the revealed side of any Catacombs location in play.\"",
-        "citation": "faq-1.3"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03258"],
+        "citation": "faq-1.3",
         "ruling": "This enemy's ability should read: \"...If you succeed, look at the revealed side of any Catacombs location in play.\"",
-        "citation": "faq-1.3"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03264"],
+        "citation": "faq-2.0",
         "ruling": "This card's [reaction] ability should read: \"...attach them facedown to Stick to the Plan.\"",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03311"],
+        "citation": "faq-1.4",
         "ruling": "The second part of this card's ability should read: \"Undo that action (return the game state to exactly the way it was before that action was performed, except for the playing of Time Warp and its costs).\"",
-        "citation": "faq-1.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03319"],
+        "citation": "faq-1.3",
         "ruling": "This act's second ability should read: \"Hastur cannot be defeated unless an investigator ‘knows the secret.'\"",
-        "citation": "faq-1.3"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["03338"],
+        "citation": "faq-1.4",
         "ruling": "This card's <b>Revelation</b> ability should read: \"Discard cards from your play area and/or from your hand...\"",
-        "citation": "faq-1.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["04004"],
+        "citation": "faq-1.4",
         "ruling": "This card's [reaction] ability should read: \"When an investigator reveals an [auto_fail] chaos token...\"",
-        "citation": "faq-1.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["04035"],
+        "citation": "faq-1.4",
         "ruling": "This card's [reaction] ability should read: \"Discard the top card of your deck. (Limit once per phase.)\"",
-        "citation": "faq-1.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["04127"],
+        "citation": "faq-2.4",
         "ruling": "The first line of mechanical text on this card should read: \"Search all in- and out-of-play areas for a Hunting Nightgaunt...\"",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["04127"],
+        "citation": "faq-1.41",
         "ruling": "This card's [action] ability should read: \"If The Skeleton Key is in your play area, attach it to your location...\"",
-        "citation": "faq-1.41"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["08004", "98007"],
+        "citation": "faq-1.9",
         "ruling": "This card's <b>Deckbuilding Options</b> should read: \"...up to other 5 Mystic cards ([mystic]) level 0.\"",
-        "citation": "faq-1.9"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05001", "98010"],
+        "citation": "faq-1.5",
         "ruling": "This card's <b>Deckbuilding Options</b> should read: \"Guardian cards ([guardian]) level 0-3, Neutral cards level 0-5, cards that 'heal horror' level 0-5, up to 15 other Seeker and/or Mystic cards level 0-1 ([seeker] and/or [mystic]).\"",
-        "citation": "faq-1.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["98018"],
+        "citation": "faq-1.9",
         "ruling": "This card's constant ability should read: \"You cannot play assets or put assets into play.\"",
-        "citation": "faq-1.9"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05033"],
+        "citation": "faq-1.5",
         "ruling": "This card's play requirement should read: \"Play when you would resolve an effect on a [mystic] card that triggers \"when,\" \"if,\" or \"after\" a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol is revealed.\"",
-        "citation": "faq-1.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05163"],
+        "citation": "faq-1.6",
         "ruling": "This card's ability should read: \"Locations cannot be flipped to their non-[[Spectral]] side.\"",
-        "citation": "faq-1.6"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05164"],
+        "citation": "faq-1.6",
         "ruling": "This card's ability should read: \"Locations cannot be flipped to their [[Spectral]] side.\"",
-        "citation": "faq-1.6"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05178b", "05178d", "05178f", "05178h"],
+        "citation": "faq-1.6",
         "ruling": "This card's first ability should read: \"Keep this card in your threat area (this side faceup). If you are eliminated, flip it over.\"",
-        "citation": "faq-1.6"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05178h"],
+        "citation": "faq-1.6",
         "ruling": "This card's [action] ability should read: \"If you are at Heretics' Graves...\"",
-        "citation": "faq-1.6"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05236"],
+        "citation": "faq-1.6",
         "ruling": "This card's <b>Forced</b> ability should read: \"When Guiding Spirit is defeated by horror: Exile it.\"",
-        "citation": "faq-1.6"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05282"],
+        "citation": "faq-1.9",
         "ruling": "This card's trait should be [[Trick]] instead of [[Tactic]].",
-        "citation": "faq-1.9"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05313", "05316", "06030"],
+        "citation": "faq-2.0",
         "ruling": "The last line of this card's <b>Forced</b> effect should read: \"...set them aside, out of play\" instead of \"remove them from the game.\"",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05329"],
+        "citation": "faq-1.7",
         "ruling": "This card's second line of game text should read: \"Shuffle each empty space into its owner's deck and each location in play other than Hideous Palace into the Cosmos.\"",
-        "citation": "faq-1.7"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05330"],
+        "citation": "faq-2.4",
         "ruling": "This card's clue threshold should be 2 [per_investigator].",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["05330"],
+        "citation": "faq-2.4",
         "ruling": "This card's second line of game text should read: \"Shuffle each empty space into its owner's deck and each location in play other than Court of the Great Old Ones into the Cosmos.\"",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["54027", "54028"],
+        "citation": "faq-2.1",
         "ruling": "This card's ability should read: \"Victorian Halls is connected to Wine Cellar, and vice versa.\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["54040"],
+        "citation": "faq-2.0",
         "ruling": "This card's second bullet point should end with: \"Otherwise, place it in the spectral encounter discard pile.\"",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["54060"],
+        "citation": "faq-2.0",
         "ruling": "The last sentence of this card's <b>Cosmos</b> ability should instead read: \"You may choose not to move to Winding Gulf and instead place 1 doom on Azathoth.\"",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["54068"],
+        "citation": "faq-2.0",
         "ruling": "The triggering condition on this card's first <b>Forced</b> ability read: \"After you leave attached location\" instead of \"when you leave attached location.\"",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["06018", "06024"],
+        "citation": "faq-1.9",
         "ruling": "The additional cost on this card should read: \"As an additional cost to play this card...\"",
-        "citation": "faq-1.9"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["06144", "06224"],
+        "citation": "faq-2.0",
         "ruling": "The triggering condition on this card's <b>Forced</b> ability should read: \"If Virgil Gray leaves play\" instead of \"if Virgil Gray is defeated.\"",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["06195"],
+        "citation": "faq-1.7",
         "ruling": "This card's ability should read: \"[action] Spend 1 ammo: Fight...\"",
-        "citation": "faq-1.7"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["06214"],
+        "citation": "faq-2.5",
         "ruling": "This card's first effect should read: \"Discard each enemy here. Move each investigator here to the Moon-Forest. Remove this card from the game.\"",
-        "citation": "faq-2.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["06253"],
+        "citation": "faq-1.9",
         "ruling": "This card's <b>Forced</b> ability should read: \"After an enemy with 1 or more clues on it is defeated: Take control of each of those clues.\"",
-        "citation": "faq-1.9"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["84029"],
+        "citation": "faq-1.7",
         "ruling": "This card's first ability should read: \"<b>Forced</b> - When Otherworldly Meddler would take damage from an attack: Remove 1 doom from Otherworldly Meddler. Then, reduce the damage dealt by 1.\"",
-        "citation": "faq-1.7"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["60102"],
+        "citation": "faq-1.8",
         "ruling": "This card's [fast] symbol should be a [reaction] symbol, instead.",
-        "citation": "faq-1.8"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["60227"],
+        "citation": "faq-1.9",
         "ruling": "This card's ability should read: \"...If you succeed, instead of discovering a clue at your location, discover 2 total clues from among your location and connecting locations.\"",
-        "citation": "faq-1.9"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["07002"],
+        "citation": "faq-1.8",
         "ruling": "This card's [reaction] symbol should be \"<b>Forced</b> -\" instead.",
-        "citation": "faq-1.8"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["07223"],
+        "citation": "faq-1.9",
         "ruling": "This card's [fast] ability should read \"...(Limit once per test.)\"",
-        "citation": "faq-1.9"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["07310"],
+        "citation": "faq-2.0",
         "ruling": "The [fast] ability granted by this card should read: \"...Any investigator at this location may trigger this ability.\"",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["07315"],
+        "citation": "faq-1.9",
         "ruling": "This card's <b>Objective</b> ability should read: \"...you may choose to advance\" instead of \"...advance.\"",
-        "citation": "faq-1.9"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["07330a", "07331a"],
+        "citation": "faq-2.0",
         "ruling": "The triggering condition on this card's <b>Forced</b> ability should read: \"At the end of the investigation phase\" instead of \"at the end of the round.\"",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["08019"],
+        "citation": "faq-2.0",
         "ruling": "This card's effect should read: \"One at a time, play...\"",
-        "citation": "faq-2.0"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["08100"],
+        "citation": "faq-2.1",
         "ruling": "This card's [fast] ability should now read: \"...choose and take 2 different actions of the following, in any order (move, evade, or investigate).\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["08596"],
+        "citation": "faq-2.1",
         "ruling": "On the 'Easy/Standard' side of this card, this card's [cultist] effect should read \"If you fail, after this test ends...\". On the 'Hard/Expert' side of this card, this card's [cultist] effect should read \"After this test ends...\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["08635"],
+        "citation": "faq-2.1",
         "ruling": "This card's ability should read: \"Choose 3 locations other than Hidden Tunnel and reveal them...\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["08669"],
+        "citation": "faq-2.1",
         "ruling": "This card's <b>Forced</b> ability should read: \"...activated seal: Protoplasmic Mass readies and resolves the enemy phase again <i>(it resolves its hunter keyword and attacks a second time).</b> (Limit once per phase.)\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09020"],
+        "citation": "faq-2.2",
         "ruling": "This card's <b>Revelation</b> ability should read: \"...Otherwise, for each [[Ally]] asset you control, you must either exhaust it or deal it 1 direct damage and 1 direct horror.\"",
-        "citation": "faq-2.2"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09107"],
+        "citation": "faq-2.4",
         "ruling": "This card's first bullet point should read: \"Each unengaged non-[[Elite]] enemy moves once toward the nearest investigator.\"",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09521"],
+        "citation": "faq-2.2",
         "ruling": "This card's first sentence should end with: \"...for a [[Risen]] or [[Ghoul]] enemy and spawn it at a random location.\"",
-        "citation": "faq-2.2"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09546"],
+        "citation": "faq-2.1",
         "ruling": "This card's second paragraph should read: \"Find the location with a target on it nearest to La Chica Roja (or her mini-card)...\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09562"],
+        "citation": "faq-2.1",
         "ruling": "This card loses all story text and gains: \"<b>Forced</b> - When this agenda would advance by reaching its doom threshold: Each investigator is defeated and suffers 1 mental trauma.\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09567"],
+        "citation": "faq-2.1",
         "ruling": "This card's first paragraph, starting on line 3, should read: \"...or search the encounter deck and discard pile for a [[Cultist]] enemy and draw it; it gains concealed 1...\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09569"],
+        "citation": "faq-2.1",
         "ruling": "The last line of this act's third paragraph should read: \"Set each concealed mini-card aside, out of play,\" instead of \"Remove each concealed mini-card from the game.\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09570"],
+        "citation": "faq-2.1",
         "ruling": "This card's second objective now reads: \"If an enemy with The Twisted Antiprism is at Galata Docks, or if the investigator with The Twisted Antiprism is defeated, proceed...\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09598"],
+        "citation": "faq-2.1",
         "ruling": "The last line of this act's first paragraph should read: \"Set each concealed mini-card aside, out of play,\" instead of \"Remove each concealed mini-card from the game.\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09688"],
+        "citation": "faq-2.1",
         "ruling": "This card's ability should read: \"...end of your turn. If each surviving investigator has resigned, immediately advance to act 3b.\"",
-        "citation": "faq-2.1"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["09720"],
+        "citation": "faq-2.3",
         "ruling": "This card's constant ability should read: \"...concealed mini-cards at its location cannot be exposed via player card effects.\"",
-        "citation": "faq-2.3"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["90071"],
+        "citation": "faq-2.4",
         "ruling": "This card's [action] ability should read: \"...draw 1 non-location card revealed in this way and check your supplies. If you have chalk, you may choose 1 additional non-location card revealed and draw it...\"",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["10110"],
+        "citation": "faq-2.4",
         "ruling": "This card's [action] ability should read: \"...your location. Attached location gains...\"",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["10522"],
+        "citation": "faq-2.3",
         "ruling": "This card's ability should read: \"When a scenario card or weakness card effect would discard...\"",
-        "citation": "faq-2.3"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["10578"],
+        "citation": "faq-2.3",
         "ruling": "This card should have the [[Cave]] trait.",
-        "citation": "faq-2.3"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["10634"],
+        "citation": "faq-2.4",
         "ruling": "This card's [reaction] ability should be a \"<b>Forced</b> -\" ability.",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["11009"],
+        "citation": "faq-2.5",
         "ruling": "This card's [reaction] ability should read: \"[reaction] After you succeed at a skill test, if no tokens are sealed here and you did not release a token from Ocula Obscura during this skill test...\"",
-        "citation": "faq-2.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["11069"],
+        "citation": "faq-2.5",
         "ruling": "This card's [reaction] ability should read: \"[reaction] When you would reveal a chaos token...\"",
-        "citation": "faq-2.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["11103"],
+        "citation": "faq-2.4",
         "ruling": "This card's [reaction] ability should instead be a [free] ability and gains \"...(Limit once per test.)\"",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["11519", "11520"],
+        "citation": "faq-2.4",
         "ruling": "This act's <b>Objective</b> should read: \"...you may advance.\"",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["11595"],
+        "citation": "faq-2.4",
         "ruling": "The first sentence of this card's unrevealed side should instead read: \"Core of the Vault cannot be flooded and investigators cannot move into it.\"",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["11605"],
+        "citation": "faq-2.5",
         "ruling": "This card's <b>Forced</b> ability should read: \"...Slitherer in Darkness moves directly to the flooded location...\"",
-        "citation": "faq-2.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["11674"],
+        "citation": "faq-2.5",
         "ruling": "This card's <b>Forced</b> ability should read: \"...Immediately advance (do not remove doom from cards in play).\"",
-        "citation": "faq-2.5"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["11691a"],
+        "citation": "faq-2.4",
         "ruling": "The first sentence on the back of this agenda should read: \"If this agenda advanced by reaching its doom threshold, each investigator is defeated. Otherwise...\"",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["11753a"],
+        "citation": "faq-2.4",
         "ruling": "The first <b>Forced</b> ability on this card should read: \"When you reveal a location or put a location into play: Remove...\"",
-        "citation": "faq-2.4"
+        "type": "card_errata"
     },
     {
-        "type": "card_errata",
         "card_codes": ["90093"],
+        "citation": "faq-2.5",
         "ruling": "This card's first line should read: \"Replacement. Peril.\"",
-        "citation": "faq-2.5"
+        "type": "card_errata"
     },
     {
         "card_codes": ["12020"],
-        "ruling": "This card's ability should read \"If you succeed and the attacked enemy is the only enemy engaged with you...\"",
         "citation": "grimoire-1.1",
+        "ruling": "This card's ability should read \"If you succeed and the attacked enemy is the only enemy engaged with you...\"",
         "type": "card_errata"
     },
     {
         "card_codes": ["12082"],
-        "ruling": "This card's ability should read \"You succeed at that skill test by 0 instead.\"",
         "citation": "grimoire-1.1",
+        "ruling": "This card's ability should read \"You succeed at that skill test by 0 instead.\"",
         "type": "card_errata"
     },
     {
         "card_codes": ["60178"],
-        "ruling": "This card should have a wild skill icon.",
         "citation": "grimoire-1.1",
+        "ruling": "This card should have a wild skill icon.",
         "type": "card_errata"
     },
     {
         "card_codes": ["60562"],
-        "ruling": "This card's ability should read \"Evade that enemy. You get +1 skill value for this evasion.\"",
         "citation": "grimoire-1.1",
+        "ruling": "This card's ability should read \"Evade that enemy. You get +1 skill value for this evasion.\"",
         "type": "card_errata"
     },
     {
         "card_codes": ["60563"],
-        "ruling": "This card's ability should read \"Investigate attached location. You get +1 skill value for this investigation.\"",
         "citation": "grimoire-1.1",
+        "ruling": "This card's ability should read \"Investigate attached location. You get +1 skill value for this investigation.\"",
         "type": "card_errata"
     },
     {
         "card_codes": ["60566"],
-        "ruling": "This card's ability should read “If you succeed, you may discard Lie in Wait for this attack to deal +1 damage.\"",
         "citation": "grimoire-1.1",
+        "ruling": "This card's ability should read “If you succeed, you may discard Lie in Wait for this attack to deal +1 damage.\"",
         "type": "card_errata"
     },
     {
         "card_codes": ["60574"],
-        "ruling": "This card's keyword line should read \"If there are no supplies on Hunter's Instinct, discard it.\"",
         "citation": "grimoire-1.1",
+        "ruling": "This card's keyword line should read \"If there are no supplies on Hunter's Instinct, discard it.\"",
         "type": "card_errata"
     }
 ]

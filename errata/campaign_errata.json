@@ -1,246 +1,246 @@
 [
     {
-        "type": "campaign_errata",
+        "citation": "faq-1.1",
         "cycles": ["dwl"],
+        "ruling": "In the \"If no resolution was reached\" resolution, between the third and fourth bullet points, add the following bullet point: \"If Dr. Henry Armitage is not listed under 'Sacrified to Yog-Sothoth' in your Campaign Log, record that <i>Dr. Henry Armitage survived The Dunwich Legacy</i>.\"",
         "scenario_codes": [
             "blood_on_the_altar",
             "return_to_blood_on_the_altar"
         ],
-        "ruling": "In the \"If no resolution was reached\" resolution, between the third and fourth bullet points, add the following bullet point: \"If Dr. Henry Armitage is not listed under 'Sacrified to Yog-Sothoth' in your Campaign Log, record that <i>Dr. Henry Armitage survived The Dunwich Legacy</i>.\"",
-        "citation": "faq-1.1"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-1.2",
         "cycles": ["ptc"],
+        "ruling": "The final bullet point in <b>Resolution 2</b> should read: \"Then, add 2 [elder_thing] tokens to the chaos bag.\"",
         "scenario_codes": [
             "echoes_of_the_past",
             "return_to_echoes_of_the_past"
         ],
-        "ruling": "The final bullet point in <b>Resolution 2</b> should read: \"Then, add 2 [elder_thing] tokens to the chaos bag.\"",
-        "citation": "faq-1.2"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.0",
         "cycles": ["ptc"],
+        "ruling": "The [[Lunatic]] trait should read [[Possessed]] wherever it appears, instead.",
         "scenario_codes": [
             "the_last_king",
             "return_to_the_last_king",
             "the_unspeakable_oath",
             "return_to_the_unspeakable_oath"
         ],
-        "ruling": "The [[Lunatic]] trait should read [[Possessed]] wherever it appears, instead.",
-        "citation": "faq-2.0"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.0",
         "cycles": ["ptc"],
-        "scenario_codes": ["the_last_king", "return_to_the_last_king"],
         "ruling": "The name of <b>Interlude I</b> should read \"Skeptic's Reward,\" instead.",
-        "citation": "faq-2.0"
+        "scenario_codes": ["the_last_king", "return_to_the_last_king"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-1.2",
         "cycles": ["ptc"],
+        "ruling": "The first part of <b>Interlude II: Lost Soul</b> should read: \"If an investigator resigned with the asset version of Daniel Chesterfield under their control, proceed to <b>Daniel Survived</b>.\nIf the enemy version of Daniel Chesterfield was in play when the scenario ended, proceed to <b>Daniel Was Possessed</b>\nIf neither of the above are true, proceed to <b>Daniel Did Not Survive</b>.\"",
         "scenario_codes": [
             "the_unspeakable_oath",
             "return_to_the_unspeakable_oath"
         ],
-        "ruling": "The first part of <b>Interlude II: Lost Soul</b> should read: \"If an investigator resigned with the asset version of Daniel Chesterfield under their control, proceed to <b>Daniel Survived</b>.\nIf the enemy version of Daniel Chesterfield was in play when the scenario ended, proceed to <b>Daniel Was Possessed</b>\nIf neither of the above are true, proceed to <b>Daniel Did Not Survive</b>.\"",
-        "citation": "faq-1.2"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-1.41",
         "cycles": ["tfa"],
+        "ruling": "After the game text in <b>Intro 8</b>, add the following text: \"In your Campaign Log, cross off <i>the investigators found the missing relic</i> and record <i>the relic is missing</i>.\"",
         "scenario_codes": [
             "the_depths_of_yoth",
             "return_to_the_depths_of_yoth"
         ],
-        "ruling": "After the game text in <b>Intro 8</b>, add the following text: \"In your Campaign Log, cross off <i>the investigators found the missing relic</i> and record <i>the relic is missing</i>.\"",
-        "citation": "faq-1.41"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-1.5",
         "cycles": ["tfa"],
+        "ruling": "The effect of the <b>Silent Journey</b> sidebar should read: \"Each investigator begins this scenario with 2 fewer cards in their opening hand.\"",
         "scenario_codes": [
             "the_boundary_beyond",
             "return_to_the_boundary_beyond"
         ],
-        "ruling": "The effect of the <b>Silent Journey</b> sidebar should read: \"Each investigator begins this scenario with 2 fewer cards in their opening hand.\"",
-        "citation": "faq-1.5"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-1.5",
         "cycles": ["tfa"],
         "ruling": "The effect of the <b>Growing Concern</b> sidebar in <b>Interlude V: The Darkness</b> should read: \"Depending on your difficulty mode, add the following chaos token to the chaos bag for the remainder of the campaign: Easy: -3, Standard: -4, Hard: -5, Expert: -7\"",
-        "citation": "faq-1.5"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-1.5",
         "cycles": ["tcu"],
-        "scenario_codes": ["the_witching_hour", "return_to_the_witching_hour"],
         "ruling": "The third bullet point in <b>Setup</b> should read:\n\"Put 5 Witch-Haunted Woods locations into play as follows:\nIn player order, each investigator puts 1 random Witch-Haunted Woods location into play <i>in front of him or her</i>, until there are exactly 5 Witch-Haunted Woods locations in play (see \"Lost and Separated,\" below). <i>For example: In a 1-player game, there should be 5 Witch-Haunted Woods in front of that investigator. In a 2-player game, there should be 3 Witch-Haunted Woods in front of the lead investigator and 2 Witch-Haunted Woods in front of the other investigator. In a 3-player game, there should be 2 Witch-Haunted Woods in front of the lead investigator, 2 Witch-Haunted Woods in front of the next investigator, and 1 Witch-Haunted Woods in front of the final investigator. In a 4-player game, there should be 2 Witch-Haunted Woods in front of the lead investigator, and 1 Witch-Haunted Woods in front of each other investigator.</i>\"",
-        "citation": "faq-1.5"
+        "scenario_codes": ["the_witching_hour", "return_to_the_witching_hour"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-1.5",
         "cycles": ["tcu"],
-        "scenario_codes": ["the_wages_of_sin", "return_to_the_wages_of_sin"],
         "ruling": "The first line of the resolutions section should read: \"<b>If no resolution was reached and at least one investigator resigned:</b> Proceed to <b>Resolution 1</b>\"",
-        "citation": "faq-1.5"
+        "scenario_codes": ["the_wages_of_sin", "return_to_the_wages_of_sin"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.0",
         "cycles": ["tcu"],
         "ruling": "The effect of both the second and third bullets in <b>Interlude IV: Twist of Fate</b> should read: \"Depending on your difficulty mode, add the following chaos token to the chaos bag for the remainder of the campaign: Easy: -3, Standard: -4, Hard: -5, Expert: -7\"",
-        "citation": "faq-2.0"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-1.6",
         "cycles": ["side_stories"],
-        "scenario_codes": ["blob"],
         "ruling": "Resolution 3 should read \"<b>Resolution 2</b>\"",
-        "citation": "faq-1.6"
-    },
-    {
-        "type": "campaign_errata",
-        "cycles": ["side_stories"],
         "scenario_codes": ["blob"],
+        "type": "campaign_errata"
+    },
+    {
+        "citation": "faq-2.2",
+        "cycles": ["side_stories"],
         "ruling": "In <b>Resolution 2</b>, add \"Alien Instruments\", \"Corrosive Cloud\", and \"G-Men\" to the list of assets in play that can be added to an investigator's deck. <i>(Note: These assets are found in The Blob That Ate Everything ELSE.)</i>",
-        "citation": "faq-2.2"
+        "scenario_codes": ["blob"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-1.8",
         "cycles": ["tfa"],
-        "scenario_codes": ["return_to_threads_of_fate"],
         "ruling": "Add the following bullet point to the resolution of this scenario:\n- If the Harbinger of Valusia entered play during this scenario::\n  - If it is in the victory display, cross out \"the Harbinger is still alive\" in your Campaign Log:\n  - If it is still in play or is set aside, next to \"the Harbinger is still alive\" in your Campaign Log, record in parentheses how much damage is on the Harbinger of Valusia, replacing the number that was previously in parentheses.",
-        "citation": "faq-1.8"
+        "scenario_codes": ["return_to_threads_of_fate"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.0",
         "cycles": ["tcu"],
-        "scenario_codes": ["return_to_before_the_black_throne"],
         "ruling": "Resolution 5 should read \"<b>Resolution 6</b>\"",
-        "citation": "faq-2.0"
+        "scenario_codes": ["return_to_before_the_black_throne"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.0",
         "cycles": ["parallel"],
-        "scenario_codes": ["red_tide_rising"],
         "ruling": "The first line of the resolutions section should read: \"<b>If no resolution was reached and at least one investigator resigned...",
-        "citation": "faq-2.0"
+        "scenario_codes": ["red_tide_rising"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.1",
         "cycles": ["tsk"],
-        "scenario_codes": ["sanguine_shadows"],
         "ruling": "Replace the seventh bullet point of <b>Setup</b> with the following:\n- Find the double-sided La Chica Roja card, flip her to her enemy side, and resolve her concealed keyword, distributing each of those concealed mini-cards as evenly as possible among each location with a target.",
-        "citation": "faq-2.1"
+        "scenario_codes": ["sanguine_shadows"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.1",
         "cycles": ["tsk"],
-        "scenario_codes": ["dogs_of_war"],
         "ruling": "Replace the second bullet point of <b>Resolution 6</b> with the following <i>(including its sub-bullets)</i>:\n- In your campaign log, record the following::\n  - <i>You haven't seen the last of the Claret Knight</i>:\n  - <i>You haven't seen the last of the Beast in a Cowl of Crimson</i>",
-        "citation": "faq-2.1"
+        "scenario_codes": ["dogs_of_war"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.2",
         "cycles": ["tsk"],
-        "scenario_codes": ["on_thin_ice"],
         "ruling": "Add the following text to the third bullet of <b>Resolution 2</b>:\n- If no investigator controlled the Sable Glass at the end of the scenario, choose an investigator to be its bearer. Update the Campaign Log accordingly.",
-        "citation": "faq-2.2"
+        "scenario_codes": ["on_thin_ice"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.2",
         "cycles": ["tsk"],
-        "scenario_codes": ["shades_of_suffering"],
         "ruling": "And the following after the fourth bullet point of <b>Setup</b>:\n- Gather each decoy mini-card and the Tzu San Niang mini-card and set them aside, out of play.",
-        "citation": "faq-2.2"
+        "scenario_codes": ["shades_of_suffering"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.1",
         "cycles": ["tsk"],
-        "scenario_codes": ["congress_of_the_keys"],
         "ruling": "The bullet points of <b>Setup (v.I)</b> and <b>Setup (v.III)</b> that instruct players to \"Gather each decoy mini-card and each of the following mini-cards\" should come before the bullet point that instructs you to \"Find each [[Coterie]] enemy...\"",
-        "citation": "faq-2.1"
-    },
-    {
-        "type": "campaign_errata",
-        "cycles": ["tsk"],
         "scenario_codes": ["congress_of_the_keys"],
-        "ruling": "Add the following sub-bullet after the fourth bullet point of <b>Setup (v.II)</b>::\n  - Remove all other [[Coterie]] enemies from the game.",
-        "citation": "faq-2.2"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.2",
+        "cycles": ["tsk"],
+        "ruling": "Add the following sub-bullet after the fourth bullet point of <b>Setup (v.II)</b>::\n  - Remove all other [[Coterie]] enemies from the game.",
+        "scenario_codes": ["congress_of_the_keys"],
+        "type": "campaign_errata"
+    },
+    {
+        "citation": "faq-2.3",
         "cycles": ["fhv"],
         "ruling": "The Expert chaos bag setup should include a -7 token instead of one of the -6 tokens.",
-        "citation": "faq-2.3"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.3",
         "cycles": ["fhv"],
-        "scenario_codes": ["written_in_rock"],
         "ruling": "The third sub-bullet of the third bullet of <b>The Cave In 4</b> should read: \"Place the set-aside Prismatic Shard story asset at the bottommost location in column 5.\"",
-        "citation": "faq-2.3"
+        "scenario_codes": ["written_in_rock"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.3",
         "cycles": ["fhv"],
-        "scenario_codes": ["hemlock_house"],
         "ruling": "The seventh bullet point of <b>Setup</b> should read \"Set all five Fire! treacheries and each copy of Out of the Walls and Pulled In aside, out of play. If it is not in play, remove the Little Sylvie story asset from the game.\"",
-        "citation": "faq-2.3"
+        "scenario_codes": ["hemlock_house"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.2",
         "cycles": ["fhv"],
-        "scenario_codes": ["the_twisted_hollow"],
         "ruling": "Add the following rules text before <b>Intro 1</b>:\nYou <b>cannot</b> play this scenario unless it is <b>Night 1</b>.",
-        "citation": "faq-2.2"
+        "scenario_codes": ["the_twisted_hollow"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.2",
         "cycles": ["fhv"],
-        "scenario_codes": ["the_longest_night"],
         "ruling": "Add the following rules text before <b>Intro 1</b>:\nYou <b>cannot</b> play this scenario unless it is <b>Night 2</b>.",
-        "citation": "faq-2.2"
+        "scenario_codes": ["the_longest_night"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.3",
         "cycles": ["fhv"],
         "ruling": "The first bullet point under <b>Judith 2</b> in ([codex] 7) during <b>Prelude: Dawn of the Final Day</b> should read: \"Take control of Judith Park. When this prelude ends, set Judith Park aside, out of play.\"",
-        "citation": "faq-2.3"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.2",
         "cycles": ["fhv"],
         "ruling": "The first line of ([codex] 6) during <b>Prelude: The Final Evening</b> should read: \"If Gideon told the tale of...\"",
-        "citation": "faq-2.2"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.3",
         "cycles": ["fhv"],
         "ruling": "The last line of the first box of ([codex] 13) during <b>Prelude: The Final Evening</b> should end with: \"...under your control. You cannot trigger their codex during this prelude.\"",
-        "citation": "faq-2.3"
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.4",
         "cycles": ["tdc"],
-        "scenario_codes": ["the_apiary"],
         "ruling": "The fifth bullet point of <b>Setup (v.II)</b> should end with \"and <i>The Inescapable</i> encounter set.\"",
-        "citation": "faq-2.4"
+        "scenario_codes": ["the_apiary"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.4",
         "cycles": ["tdc"],
-        "scenario_codes": ["the_doom_of_arkham_part_1"],
         "ruling": "Replace the fifth bullet point of <b>Setup</b> with:\n- Gather the Randall Tillinghast enemy, all earned artifacts, and the Horror in Clay story asset and set them aside, out of play.",
-        "citation": "faq-2.4"
+        "scenario_codes": ["the_doom_of_arkham_part_1"],
+        "type": "campaign_errata"
     },
     {
-        "type": "campaign_errata",
+        "citation": "faq-2.5",
         "cycles": ["tdc"],
         "ruling": "The \"In the Deep End\" achievement should read: \"...after every eligible location has been fully flooded.\"",
-        "citation": "faq-2.5"
+        "type": "campaign_errata"
     }
 ]

@@ -1,98 +1,98 @@
 [
     {
         "id": "glossary",
-        "title": "Glossary of Terms and Keywords",
+        "position": 1,
         "text": "The following is an alphabetical list of entries for game rules, terms, and situations that may occur during play.",
-        "position": 1
+        "title": "Glossary of Terms and Keywords"
     },
     {
         "id": "fundamentals",
-        "title": "Additional Rules and Fundamentals",
+        "position": 2,
         "text": "The following section includes some important rules for playing the game as intended.",
-        "position": 2
+        "title": "Additional Rules and Fundamentals"
     },
     {
         "id": "timing_and_gameplay",
-        "title": "Timing and Gameplay",
+        "position": 3,
         "text": "This section provides a detailed explanation of how to handle each framework event step presented on the game's flow chart, in the order that the framework events occur throughout the round.\n\nEach phase is outlined in detail followed by a timing chart.\n- Numbered items presented in the teal boxes are known as framework events. Framework events are mandatory occurrences dictated by the structure of the game.\n- The red boxes are player windows. Players may use [fast] triggered abilities in these windows.\n\nEach time an investigator makes a skill test, use the skill test timing detailed in the \"Skill Test Timing chart\".",
-        "position": 3
+        "title": "Timing and Gameplay"
     },
     {
         "id": "skill_test_timing",
-        "title": "Skill Test Timing",
+        "position": 4,
         "text": "![Skill test timing](skill_test_timing.png)",
-        "position": 4
+        "title": "Skill Test Timing"
     },
     {
         "id": "initiation_sequence",
-        "title": "Initiation Sequence",
-        "position": 5
+        "position": 5,
+        "title": "Initiation Sequence"
     },
     {
         "id": "scenario_setup",
-        "title": "Scenario Setup",
+        "position": 6,
         "text": "The following section is a condensed universal version of the setup rules that can be used for any scenario of <i>Arkham Horror: The Card Game</i>.",
-        "position": 6
+        "title": "Scenario Setup"
     },
     {
         "id": "card_anatomy",
-        "title": "Card Anatomy",
-        "position": 7
+        "position": 7,
+        "title": "Card Anatomy"
     },
     {
         "id": "campaign_play",
-        "title": "Campaign Play",
+        "position": 8,
         "text": "A campaign is a long-form story set in the foreboding universe of the Cthulhu Mythos, which unfolds over a series of interrelated scenarios. As a campaign progresses, each investigator gains experience and trauma which are reflected by changes in their deck. Decisions, victories, and losses are recorded in the campaign log and may have far-reaching repercussions. To start a campaign, follow the instructions for that campaign's setup in the campaign guide. ",
-        "position": 8
+        "title": "Campaign Play"
     },
     {
         "id": "deck_customization",
-        "title": "Deck Customization",
+        "position": 9,
         "text": "The <i>Arkham Horror: The Card Game</i> core set is designed to be a complete game experience with significant replayability. After learning the basics of the game, players may wish to explore customizing their own decks.",
-        "position": 9
+        "title": "Deck Customization"
     },
     {
         "id": "notes_and_errata",
-        "title": "Notes and Errata",
+        "position": 10,
         "text": "This section contains notes and errata pertaining to specific cards or sections of the rulebook. The document version number in which an entry first appeared is listed with that entry in order to establish a history of when each change was made.\n\nrrata overrides the originally printed information on the card it applies to. Unless errata for a card appears below, the original English product printing of that card and all of its information is considered accurate, and overrides all other printings. This includes translated cards, promotional or organized play cards, and printings which may appear in alternate products.\n\nNotes and errata for all <i>Arkham Horror: The Card Game</i> products released before 2026 can be found in the retired FAQ document, here: [Link](https://images-cdn.fantasyflightgames.com/filer_public/c1/d0/c1d0fab6-7fa6-4ce2-af6a-16416381a19b/ahc_faq_v25_february_2026-web.pdf)",
-        "position": 10
+        "title": "Notes and Errata"
     },
     {
         "id": "frequently_asked_questions",
-        "title": "Frequently Asked Questions",
+        "position": 11,
         "text": "This section provides answers to a number of common questions that are asked about the game. The entries are presented in a question and answer format, with the newest questions at the end of the list.",
-        "position": 11
+        "title": "Frequently Asked Questions"
     },
     {
         "id": "optional_rules",
-        "title": "Optional Rules",
+        "position": 12,
         "text": "This section includes several models for alternate play.",
-        "position": 12
+        "title": "Optional Rules"
     },
     {
         "id": "modified_reprints",
-        "title": "Modified Reprints",
-        "position": 13
+        "position": 13,
+        "title": "Modified Reprints"
     },
     {
         "id": "icon_reference",
-        "title": "Icon Reference",
-        "position": 14
+        "position": 14,
+        "title": "Icon Reference"
     },
     {
         "id": "encounter_set_icon_reference",
-        "title": "Encounter Set Icon Reference",
+        "position": 15,
         "text": "The following is a list of encounter set icons used in <i>Arkham Horror: The Card Game</i> products, separated by expansion in order of release.",
-        "position": 15
+        "title": "Encounter Set Icon Reference"
     },
     {
         "id": "encounter_set_variation",
-        "title": "Encounter Set Variation: Using the New Core Set to Play Legacy Scenarios",
-        "position": 16
+        "position": 16,
+        "title": "Encounter Set Variation: Using the New Core Set to Play Legacy Scenarios"
     },
     {
         "id": "quick_reference",
-        "title": "Quick Reference",
-        "position": 17
+        "position": 17,
+        "title": "Quick Reference"
     }
 ]

@@ -1,8 +1,7 @@
 [
     {
-        "name": "The Gathering",
-        "code": "the_gathering",
         "campaign_code": "core",
+        "code": "the_gathering",
         "encounter_sets": [
             {
                 "code": "torch"
@@ -22,12 +21,12 @@
             {
                 "code": "chilling_cold"
             }
-        ]
+        ],
+        "name": "The Gathering"
     },
     {
-        "name": "The Midnight Masks",
-        "code": "the_midnight_masks",
         "campaign_code": "core",
+        "code": "the_midnight_masks",
         "encounter_sets": [
             {
                 "code": "arkham"
@@ -48,15 +47,15 @@
                 "code": "cultists"
             },
             {
-                "code": "torch",
-                "cards": ["01116"]
+                "cards": ["01116"],
+                "code": "torch"
             }
-        ]
+        ],
+        "name": "The Midnight Masks"
     },
     {
-        "name": "The Devourer Below",
-        "code": "the_devourer_below",
         "campaign_code": "core",
+        "code": "the_devourer_below",
         "encounter_sets": [
             {
                 "code": "tentacles"
@@ -89,15 +88,15 @@
                 "code": "agents_of_hastur"
             },
             {
-                "code": "torch",
-                "cards": ["01116"]
+                "cards": ["01116"],
+                "code": "torch"
             }
-        ]
+        ],
+        "name": "The Devourer Below"
     },
     {
-        "name": "Extracurricular Activity",
-        "code": "extracurricular_activity",
         "campaign_code": "dwl",
+        "code": "extracurricular_activity",
         "encounter_sets": [
             {
                 "code": "extracurricular_activity"
@@ -123,12 +122,12 @@
             {
                 "code": "agents_of_yog"
             }
-        ]
+        ],
+        "name": "Extracurricular Activity"
     },
     {
-        "name": "The House Always Wins",
-        "code": "the_house_always_wins",
         "campaign_code": "dwl",
+        "code": "the_house_always_wins",
         "encounter_sets": [
             {
                 "code": "the_house_always_wins"
@@ -148,12 +147,12 @@
             {
                 "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "The House Always Wins"
     },
     {
-        "name": "The Miskatonic Museum",
-        "code": "the_miskatonic_museum",
         "campaign_code": "dwl",
+        "code": "the_miskatonic_museum",
         "encounter_sets": [
             {
                 "code": "the_miskatonic_museum"
@@ -173,12 +172,12 @@
             {
                 "code": "locked_doors"
             }
-        ]
+        ],
+        "name": "The Miskatonic Museum"
     },
     {
-        "name": "The Essex County Express",
-        "code": "the_essex_county_express",
         "campaign_code": "dwl",
+        "code": "the_essex_county_express",
         "encounter_sets": [
             {
                 "code": "essex_county_express"
@@ -195,12 +194,12 @@
             {
                 "code": "pentagram"
             }
-        ]
+        ],
+        "name": "The Essex County Express"
     },
     {
-        "name": "Blood on the Altar",
-        "code": "blood_on_the_altar",
         "campaign_code": "dwl",
+        "code": "blood_on_the_altar",
         "encounter_sets": [
             {
                 "code": "blood_on_the_altar"
@@ -220,12 +219,12 @@
             {
                 "code": "naomis_crew"
             }
-        ]
+        ],
+        "name": "Blood on the Altar"
     },
     {
-        "name": "Undimensioned and Unseen",
-        "code": "undimensioned_and_unseen",
         "campaign_code": "dwl",
+        "code": "undimensioned_and_unseen",
         "encounter_sets": [
             {
                 "code": "undimensioned_and_unseen"
@@ -242,12 +241,12 @@
             {
                 "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "Undimensioned and Unseen"
     },
     {
-        "name": "Where Doom Awaits",
-        "code": "where_doom_awaits",
         "campaign_code": "dwl",
+        "code": "where_doom_awaits",
         "encounter_sets": [
             {
                 "code": "where_doom_awaits"
@@ -273,12 +272,12 @@
             {
                 "code": "hideous_abominations"
             }
-        ]
+        ],
+        "name": "Where Doom Awaits"
     },
     {
-        "name": "Lost in Time and Space",
-        "code": "lost_in_time_and_space",
         "campaign_code": "dwl",
+        "code": "lost_in_time_and_space",
         "encounter_sets": [
             {
                 "code": "lost_in_time_and_space"
@@ -295,12 +294,12 @@
             {
                 "code": "agents_of_yog"
             }
-        ]
+        ],
+        "name": "Lost in Time and Space"
     },
     {
-        "name": "Curtain Call",
-        "code": "curtain_call",
         "campaign_code": "ptc",
+        "code": "curtain_call",
         "encounter_sets": [
             {
                 "code": "curtain_call"
@@ -323,12 +322,12 @@
             {
                 "code": "rats"
             }
-        ]
+        ],
+        "name": "Curtain Call"
     },
     {
-        "name": "The Last King",
-        "code": "the_last_king",
         "campaign_code": "ptc",
+        "code": "the_last_king",
         "encounter_sets": [
             {
                 "code": "the_last_king"
@@ -345,12 +344,12 @@
             {
                 "code": "ancient_evils"
             }
-        ]
+        ],
+        "name": "The Last King"
     },
     {
-        "name": "Echoes of the Past",
-        "code": "echoes_of_the_past",
         "campaign_code": "ptc",
+        "code": "echoes_of_the_past",
         "encounter_sets": [
             {
                 "code": "echoes_of_the_past"
@@ -368,19 +367,19 @@
                 "code": "pentagram"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             },
             {
-                "code": "the_last_king",
-                "cards": ["03068b"]
+                "cards": ["03068b"],
+                "code": "the_last_king"
             }
-        ]
+        ],
+        "name": "Echoes of the Past"
     },
     {
-        "name": "The Unspeakable Oath",
-        "code": "the_unspeakable_oath",
         "campaign_code": "ptc",
+        "code": "the_unspeakable_oath",
         "encounter_sets": [
             {
                 "code": "the_unspeakable_oath"
@@ -401,15 +400,15 @@
                 "code": "agents_of_hastur"
             },
             {
-                "code": "the_last_king",
-                "cards": ["03065b"]
+                "cards": ["03065b"],
+                "code": "the_last_king"
             }
-        ]
+        ],
+        "name": "The Unspeakable Oath"
     },
     {
-        "name": "A Phantom of Truth",
-        "code": "a_phantom_of_truth",
         "campaign_code": "ptc",
+        "code": "a_phantom_of_truth",
         "encounter_sets": [
             {
                 "code": "a_phantom_of_truth"
@@ -427,19 +426,19 @@
                 "code": "agents_of_hastur"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             },
             {
-                "code": "the_last_king",
-                "cards": ["03066b"]
+                "cards": ["03066b"],
+                "code": "the_last_king"
             }
-        ]
+        ],
+        "name": "A Phantom of Truth"
     },
     {
-        "name": "The Pallid Mask",
-        "code": "the_pallid_mask",
         "campaign_code": "ptc",
+        "code": "the_pallid_mask",
         "encounter_sets": [
             {
                 "code": "the_pallid_mask"
@@ -454,19 +453,19 @@
                 "code": "chilling_cold"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             },
             {
-                "code": "the_last_king",
-                "cards": ["03067b"]
+                "cards": ["03067b"],
+                "code": "the_last_king"
             }
-        ]
+        ],
+        "name": "The Pallid Mask"
     },
     {
-        "name": "Black Stars Rise",
-        "code": "black_stars_rise",
         "campaign_code": "ptc",
+        "code": "black_stars_rise",
         "encounter_sets": [
             {
                 "code": "black_stars_rise"
@@ -496,15 +495,15 @@
                 "code": "vortex"
             },
             {
-                "code": "the_last_king",
-                "cards": ["03069b"]
+                "cards": ["03069b"],
+                "code": "the_last_king"
             }
-        ]
+        ],
+        "name": "Black Stars Rise"
     },
     {
-        "name": "Dim Carcosa",
-        "code": "dim_carcosa",
         "campaign_code": "ptc",
+        "code": "dim_carcosa",
         "encounter_sets": [
             {
                 "code": "dim_carcosa"
@@ -524,12 +523,12 @@
             {
                 "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "Dim Carcosa"
     },
     {
-        "name": "The Untamed Wilds",
-        "code": "the_untamed_wilds",
         "campaign_code": "tfa",
+        "code": "the_untamed_wilds",
         "encounter_sets": [
             {
                 "code": "wilds"
@@ -555,12 +554,12 @@
             {
                 "code": "ancient_evils"
             }
-        ]
+        ],
+        "name": "The Untamed Wilds"
     },
     {
-        "name": "The Doom of Eztli",
-        "code": "the_doom_of_eztli",
         "campaign_code": "tfa",
+        "code": "the_doom_of_eztli",
         "encounter_sets": [
             {
                 "code": "eztli"
@@ -586,12 +585,12 @@
             {
                 "code": "chilling_cold"
             }
-        ]
+        ],
+        "name": "The Doom of Eztli"
     },
     {
-        "name": "Threads of Fate",
-        "code": "threads_of_fate",
         "campaign_code": "tfa",
+        "code": "threads_of_fate",
         "encounter_sets": [
             {
                 "code": "threads_of_fate"
@@ -609,7 +608,6 @@
                 "code": "pentagram"
             },
             {
-                "code": "arkham",
                 "cards": [
                     "01125",
                     "01129",
@@ -618,14 +616,15 @@
                     "01134",
                     "01135",
                     "01136"
-                ]
+                ],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "Threads of Fate"
     },
     {
-        "name": "The Boundary Beyond",
-        "code": "the_boundary_beyond",
         "campaign_code": "tfa",
+        "code": "the_boundary_beyond",
         "encounter_sets": [
             {
                 "code": "the_boundary_beyond"
@@ -649,15 +648,15 @@
                 "code": "guardians_of_time"
             },
             {
-                "code": "eztli",
-                "cards": ["04062"]
+                "cards": ["04062"],
+                "code": "eztli"
             }
-        ]
+        ],
+        "name": "The Boundary Beyond"
     },
     {
-        "name": "Heart of the Elders, Part I",
-        "code": "pillars_of_judgment",
         "campaign_code": "tfa",
+        "code": "pillars_of_judgment",
         "encounter_sets": [
             {
                 "code": "pillars_of_judgment"
@@ -677,12 +676,12 @@
             {
                 "code": "poison"
             }
-        ]
+        ],
+        "name": "Heart of the Elders, Part I"
     },
     {
-        "name": "Heart of the Elders, Part II",
-        "code": "knyan",
         "campaign_code": "tfa",
+        "code": "knyan",
         "encounter_sets": [
             {
                 "code": "knyan"
@@ -706,15 +705,15 @@
                 "code": "poison"
             },
             {
-                "code": "eztli",
-                "cards": ["04062"]
+                "cards": ["04062"],
+                "code": "eztli"
             }
-        ]
+        ],
+        "name": "Heart of the Elders, Part II"
     },
     {
-        "name": "The City of Archives",
-        "code": "the_city_of_archives",
         "campaign_code": "tfa",
+        "code": "the_city_of_archives",
         "encounter_sets": [
             {
                 "code": "the_city_of_archives"
@@ -731,12 +730,12 @@
             {
                 "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "The City of Archives"
     },
     {
-        "name": "The Depths of Yoth",
-        "code": "the_depths_of_yoth",
         "campaign_code": "tfa",
+        "code": "the_depths_of_yoth",
         "encounter_sets": [
             {
                 "code": "the_depths_of_yoth"
@@ -757,15 +756,15 @@
                 "code": "poison"
             },
             {
-                "code": "eztli",
-                "cards": ["04062"]
+                "cards": ["04062"],
+                "code": "eztli"
             }
-        ]
+        ],
+        "name": "The Depths of Yoth"
     },
     {
-        "name": "Shattered Aeons",
-        "code": "shattered_aeons",
         "campaign_code": "tfa",
+        "code": "shattered_aeons",
         "encounter_sets": [
             {
                 "code": "shattered_aeons"
@@ -785,12 +784,12 @@
             {
                 "code": "agents_of_yig"
             }
-        ]
+        ],
+        "name": "Shattered Aeons"
     },
     {
-        "name": "Turn Back Time",
-        "code": "turn_back_time",
         "campaign_code": "tfa",
+        "code": "turn_back_time",
         "encounter_sets": [
             {
                 "code": "turn_back_time"
@@ -819,12 +818,12 @@
             {
                 "code": "chilling_cold"
             }
-        ]
+        ],
+        "name": "Turn Back Time"
     },
     {
-        "name": "Disappearance at the Twilight Estate",
-        "code": "disappearance_at_the_twilight_estate",
         "campaign_code": "tcu",
+        "code": "disappearance_at_the_twilight_estate",
         "encounter_sets": [
             {
                 "code": "disappearance_at_the_twilight_estate"
@@ -850,12 +849,12 @@
             {
                 "code": "chilling_cold"
             }
-        ]
+        ],
+        "name": "Disappearance at the Twilight Estate"
     },
     {
-        "name": "The Witching Hour",
-        "code": "the_witching_hour",
         "campaign_code": "tcu",
+        "code": "the_witching_hour",
         "encounter_sets": [
             {
                 "code": "the_witching_hour"
@@ -882,15 +881,15 @@
                 "code": "agents_of_shub"
             },
             {
-                "code": "tentacles",
-                "cards": ["01150", "01151", "01152", "01153", "01154", "01155"]
+                "cards": ["01150", "01151", "01152", "01153", "01154", "01155"],
+                "code": "tentacles"
             }
-        ]
+        ],
+        "name": "The Witching Hour"
     },
     {
-        "name": "At Death's Doorstep",
-        "code": "at_deaths_doorstep",
         "campaign_code": "tcu",
+        "code": "at_deaths_doorstep",
         "encounter_sets": [
             {
                 "code": "at_deaths_doorstep"
@@ -916,12 +915,12 @@
             {
                 "code": "the_watcher"
             }
-        ]
+        ],
+        "name": "At Death's Doorstep"
     },
     {
-        "name": "The Secret Name",
-        "code": "the_secret_name",
         "campaign_code": "tcu",
+        "code": "the_secret_name",
         "encounter_sets": [
             {
                 "code": "the_secret_name"
@@ -941,12 +940,12 @@
             {
                 "code": "rats"
             }
-        ]
+        ],
+        "name": "The Secret Name"
     },
     {
-        "name": "The Wages of Sin",
-        "code": "the_wages_of_sin",
         "campaign_code": "tcu",
+        "code": "the_wages_of_sin",
         "encounter_sets": [
             {
                 "code": "the_wages_of_sin"
@@ -972,12 +971,12 @@
             {
                 "code": "the_watcher"
             }
-        ]
+        ],
+        "name": "The Wages of Sin"
     },
     {
-        "name": "For the Greater Good",
-        "code": "for_the_greater_good",
         "campaign_code": "tcu",
+        "code": "for_the_greater_good",
         "encounter_sets": [
             {
                 "code": "for_the_greater_good"
@@ -997,12 +996,12 @@
             {
                 "code": "locked_doors"
             }
-        ]
+        ],
+        "name": "For the Greater Good"
     },
     {
-        "name": "Union and Disillusion",
-        "code": "union_and_disillusion",
         "campaign_code": "tcu",
+        "code": "union_and_disillusion",
         "encounter_sets": [
             {
                 "code": "union_and_disillusion"
@@ -1032,19 +1031,19 @@
                 "code": "the_watcher"
             },
             {
-                "code": "the_witching_hour",
-                "cards": ["05057"]
+                "cards": ["05057"],
+                "code": "the_witching_hour"
             },
             {
-                "code": "at_deaths_doorstep",
-                "cards": ["05085"]
+                "cards": ["05085"],
+                "code": "at_deaths_doorstep"
             }
-        ]
+        ],
+        "name": "Union and Disillusion"
     },
     {
-        "name": "In the Clutches of Chaos",
-        "code": "in_the_clutches_of_chaos",
         "campaign_code": "tcu",
+        "code": "in_the_clutches_of_chaos",
         "encounter_sets": [
             {
                 "code": "in_the_clutches_of_chaos"
@@ -1077,15 +1076,15 @@
                 "code": "striking_fear"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "In the Clutches of Chaos"
     },
     {
-        "name": "Before the Black Throne",
-        "code": "before_the_black_throne",
         "campaign_code": "tcu",
+        "code": "before_the_black_throne",
         "encounter_sets": [
             {
                 "code": "before_the_black_throne"
@@ -1102,12 +1101,12 @@
             {
                 "code": "pentagram"
             }
-        ]
+        ],
+        "name": "Before the Black Throne"
     },
     {
-        "name": "Beyond the Gates of Sleep",
-        "code": "beyond_the_gates_of_sleep",
         "campaign_code": "tde",
+        "code": "beyond_the_gates_of_sleep",
         "encounter_sets": [
             {
                 "code": "beyond_the_gates_of_sleep"
@@ -1127,12 +1126,12 @@
             {
                 "code": "chilling_cold"
             }
-        ]
+        ],
+        "name": "Beyond the Gates of Sleep"
     },
     {
-        "name": "Waking Nightmare",
-        "code": "waking_nightmare",
         "campaign_code": "tde",
+        "code": "waking_nightmare",
         "encounter_sets": [
             {
                 "code": "waking_nightmare"
@@ -1155,12 +1154,12 @@
             {
                 "code": "spiders"
             }
-        ]
+        ],
+        "name": "Waking Nightmare"
     },
     {
-        "name": "The Search for Kadath",
-        "code": "the_search_for_kadath",
         "campaign_code": "tde",
+        "code": "the_search_for_kadath",
         "encounter_sets": [
             {
                 "code": "the_search_for_kadath"
@@ -1180,12 +1179,12 @@
             {
                 "code": "zoogs"
             }
-        ]
+        ],
+        "name": "The Search for Kadath"
     },
     {
-        "name": "A Thousand Shapes of Horror",
-        "code": "a_thousand_shapes_of_horror",
         "campaign_code": "tde",
+        "code": "a_thousand_shapes_of_horror",
         "encounter_sets": [
             {
                 "code": "a_thousand_shapes_of_horror"
@@ -1208,12 +1207,12 @@
             {
                 "code": "rats"
             }
-        ]
+        ],
+        "name": "A Thousand Shapes of Horror"
     },
     {
-        "name": "Dark Side of the Moon",
-        "code": "dark_side_of_the_moon",
         "campaign_code": "tde",
+        "code": "dark_side_of_the_moon",
         "encounter_sets": [
             {
                 "code": "dark_side_of_the_moon"
@@ -1227,12 +1226,12 @@
             {
                 "code": "ancient_evils"
             }
-        ]
+        ],
+        "name": "Dark Side of the Moon"
     },
     {
-        "name": "Point of No Return",
-        "code": "point_of_no_return",
         "campaign_code": "tde",
+        "code": "point_of_no_return",
         "encounter_sets": [
             {
                 "code": "point_of_no_return"
@@ -1265,15 +1264,15 @@
                 "code": "nightgaunts"
             },
             {
-                "code": "beyond_the_gates_of_sleep",
-                "cards": ["06053"]
+                "cards": ["06053"],
+                "code": "beyond_the_gates_of_sleep"
             }
-        ]
+        ],
+        "name": "Point of No Return"
     },
     {
-        "name": "Where the Gods Dwell",
-        "code": "where_the_gods_dwell",
         "campaign_code": "tde",
+        "code": "where_the_gods_dwell",
         "encounter_sets": [
             {
                 "code": "where_the_gods_dwell"
@@ -1290,12 +1289,12 @@
             {
                 "code": "pentagram"
             }
-        ]
+        ],
+        "name": "Where the Gods Dwell"
     },
     {
-        "name": "Weaver of the Cosmos",
-        "code": "weaver_of_the_cosmos",
         "campaign_code": "tde",
+        "code": "weaver_of_the_cosmos",
         "encounter_sets": [
             {
                 "code": "weaver_of_the_cosmos"
@@ -1312,12 +1311,12 @@
             {
                 "code": "chilling_cold"
             }
-        ]
+        ],
+        "name": "Weaver of the Cosmos"
     },
     {
-        "name": "The Pit of Despair",
-        "code": "the_pit_of_despair",
         "campaign_code": "tic",
+        "code": "the_pit_of_despair",
         "encounter_sets": [
             {
                 "code": "the_pit_of_despair"
@@ -1340,12 +1339,12 @@
             {
                 "code": "rats"
             }
-        ]
+        ],
+        "name": "The Pit of Despair"
     },
     {
-        "name": "The Vanishing of Elina Harper",
-        "code": "the_vanishing_of_elina_harper",
         "campaign_code": "tic",
+        "code": "the_vanishing_of_elina_harper",
         "encounter_sets": [
             {
                 "code": "the_vanishing_of_elina_harper"
@@ -1369,15 +1368,15 @@
                 "code": "nightgaunts"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "The Vanishing of Elina Harper"
     },
     {
-        "name": "In Too Deep",
-        "code": "in_too_deep",
         "campaign_code": "tic",
+        "code": "in_too_deep",
         "encounter_sets": [
             {
                 "code": "in_too_deep"
@@ -1398,7 +1397,6 @@
                 "code": "agents_of_cthulhu"
             },
             {
-                "code": "the_vanishing_of_elina_harper",
                 "cards": [
                     "07062b",
                     "07076",
@@ -1407,14 +1405,15 @@
                     "07079",
                     "07080",
                     "07081"
-                ]
+                ],
+                "code": "the_vanishing_of_elina_harper"
             }
-        ]
+        ],
+        "name": "In Too Deep"
     },
     {
-        "name": "Devil Reef",
-        "code": "devil_reef",
         "campaign_code": "tic",
+        "code": "devil_reef",
         "encounter_sets": [
             {
                 "code": "devil_reef"
@@ -1434,12 +1433,12 @@
             {
                 "code": "rising_tide"
             }
-        ]
+        ],
+        "name": "Devil Reef"
     },
     {
-        "name": "Horror in High Gear",
-        "code": "horror_in_high_gear",
         "campaign_code": "tic",
+        "code": "horror_in_high_gear",
         "encounter_sets": [
             {
                 "code": "horror_in_high_gear"
@@ -1456,12 +1455,12 @@
             {
                 "code": "ancient_evils"
             }
-        ]
+        ],
+        "name": "Horror in High Gear"
     },
     {
-        "name": "A Light in the Fog",
-        "code": "a_light_in_the_fog",
         "campaign_code": "tic",
+        "code": "a_light_in_the_fog",
         "encounter_sets": [
             {
                 "code": "a_light_in_the_fog"
@@ -1481,12 +1480,12 @@
             {
                 "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "A Light in the Fog"
     },
     {
-        "name": "The Lair of Dagon",
-        "code": "the_lair_of_dagon",
         "campaign_code": "tic",
+        "code": "the_lair_of_dagon",
         "encounter_sets": [
             {
                 "code": "the_lair_of_dagon"
@@ -1507,15 +1506,15 @@
                 "code": "locked_doors"
             },
             {
-                "code": "the_vanishing_of_elina_harper",
-                "cards": ["07076", "07077", "07078", "07079", "07080", "07081"]
+                "cards": ["07076", "07077", "07078", "07079", "07080", "07081"],
+                "code": "the_vanishing_of_elina_harper"
             }
-        ]
+        ],
+        "name": "The Lair of Dagon"
     },
     {
-        "name": "Into the Maelstrom",
-        "code": "into_the_maelstrom",
         "campaign_code": "tic",
+        "code": "into_the_maelstrom",
         "encounter_sets": [
             {
                 "code": "into_the_maelstrom"
@@ -1538,12 +1537,12 @@
             {
                 "code": "ancient_evils"
             }
-        ]
+        ],
+        "name": "Into the Maelstrom"
     },
     {
-        "name": "Ice and Death, Part I",
-        "code": "the_crash",
         "campaign_code": "eoe",
+        "code": "the_crash",
         "encounter_sets": [
             {
                 "code": "the_crash"
@@ -1569,12 +1568,12 @@
             {
                 "code": "ancient_evils"
             }
-        ]
+        ],
+        "name": "Ice and Death, Part I"
     },
     {
-        "name": "Ice and Death, Part II",
-        "code": "lost_in_the_night",
         "campaign_code": "eoe",
+        "code": "lost_in_the_night",
         "encounter_sets": [
             {
                 "code": "lost_in_the_night"
@@ -1600,12 +1599,12 @@
             {
                 "code": "ancient_evils"
             }
-        ]
+        ],
+        "name": "Ice and Death, Part II"
     },
     {
-        "name": "Ice and Death, Part III",
-        "code": "seeping_nightmares",
         "campaign_code": "eoe",
+        "code": "seeping_nightmares",
         "encounter_sets": [
             {
                 "code": "seeping_nightmares"
@@ -1631,12 +1630,12 @@
             {
                 "code": "ancient_evils"
             }
-        ]
+        ],
+        "name": "Ice and Death, Part III"
     },
     {
-        "name": "Fatal Mirage",
-        "code": "fatal_mirage",
         "campaign_code": "eoe",
+        "code": "fatal_mirage",
         "encounter_sets": [
             {
                 "code": "fatal_mirage"
@@ -1662,12 +1661,12 @@
             {
                 "code": "chilling_cold"
             }
-        ]
+        ],
+        "name": "Fatal Mirage"
     },
     {
-        "name": "To the Forbidden Peaks",
-        "code": "to_the_forbidden_peaks",
         "campaign_code": "eoe",
+        "code": "to_the_forbidden_peaks",
         "encounter_sets": [
             {
                 "code": "to_the_forbidden_peaks"
@@ -1687,12 +1686,12 @@
             {
                 "code": "tekelili"
             }
-        ]
+        ],
+        "name": "To the Forbidden Peaks"
     },
     {
-        "name": "City of the Elder Things",
-        "code": "city_of_the_elder_things",
         "campaign_code": "eoe",
+        "code": "city_of_the_elder_things",
         "encounter_sets": [
             {
                 "code": "city_of_the_elder_things"
@@ -1727,12 +1726,12 @@
             {
                 "code": "chilling_cold"
             }
-        ]
+        ],
+        "name": "City of the Elder Things"
     },
     {
-        "name": "The Heart of Madness, Part I",
-        "code": "the_great_seal",
         "campaign_code": "eoe",
+        "code": "the_great_seal",
         "encounter_sets": [
             {
                 "code": "the_great_seal"
@@ -1761,12 +1760,12 @@
             {
                 "code": "locked_doors"
             }
-        ]
+        ],
+        "name": "The Heart of Madness, Part I"
     },
     {
-        "name": "The Heart of Madness, Part  II",
-        "code": "stirring_in_the_deep",
         "campaign_code": "eoe",
+        "code": "stirring_in_the_deep",
         "encounter_sets": [
             {
                 "code": "stirring_in_the_deep"
@@ -1796,15 +1795,15 @@
                 "code": "chilling_cold"
             },
             {
-                "code": "striking_fear",
-                "cards": ["01164", "01165"]
+                "cards": ["01164", "01165"],
+                "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "The Heart of Madness, Part  II"
     },
     {
-        "name": "Riddles and Rain",
-        "code": "riddles_and_rain",
         "campaign_code": "tsk",
+        "code": "riddles_and_rain",
         "encounter_sets": [
             {
                 "code": "riddles_and_rain"
@@ -1831,15 +1830,15 @@
                 "code": "locked_doors"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "Riddles and Rain"
     },
     {
-        "name": "Dead Heat",
-        "code": "dead_heat",
         "campaign_code": "tsk",
+        "code": "dead_heat",
         "encounter_sets": [
             {
                 "code": "dead_heat"
@@ -1856,12 +1855,12 @@
             {
                 "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "Dead Heat"
     },
     {
-        "name": "Sanguine Shadows",
-        "code": "sanguine_shadows",
         "campaign_code": "tsk",
+        "code": "sanguine_shadows",
         "encounter_sets": [
             {
                 "code": "sanguine_shadows"
@@ -1884,12 +1883,12 @@
             {
                 "code": "nightgaunts"
             }
-        ]
+        ],
+        "name": "Sanguine Shadows"
     },
     {
-        "name": "Dealings in the Dark",
-        "code": "dealings_in_the_dark",
         "campaign_code": "tsk",
+        "code": "dealings_in_the_dark",
         "encounter_sets": [
             {
                 "code": "dealings_in_the_dark"
@@ -1910,15 +1909,15 @@
                 "code": "locked_doors"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "Dealings in the Dark"
     },
     {
-        "name": "Dancing Mad",
-        "code": "dancing_mad",
         "campaign_code": "tsk",
+        "code": "dancing_mad",
         "encounter_sets": [
             {
                 "code": "dancing_mad"
@@ -1938,12 +1937,12 @@
             {
                 "code": "shadow_of_a_doubt"
             }
-        ]
+        ],
+        "name": "Dancing Mad"
     },
     {
-        "name": "On Thin Ice",
-        "code": "on_thin_ice",
         "campaign_code": "tsk",
+        "code": "on_thin_ice",
         "encounter_sets": [
             {
                 "code": "on_thin_ice"
@@ -1969,12 +1968,12 @@
             {
                 "code": "chilling_cold"
             }
-        ]
+        ],
+        "name": "On Thin Ice"
     },
     {
-        "name": "Dogs of War",
-        "code": "dogs_of_war",
         "campaign_code": "tsk",
+        "code": "dogs_of_war",
         "encounter_sets": [
             {
                 "code": "dogs_of_war"
@@ -1994,12 +1993,12 @@
             {
                 "code": "cleanup_crew"
             }
-        ]
+        ],
+        "name": "Dogs of War"
     },
     {
-        "name": "Shades of Suffering",
-        "code": "shades_of_suffering",
         "campaign_code": "tsk",
+        "code": "shades_of_suffering",
         "encounter_sets": [
             {
                 "code": "shades_of_suffering"
@@ -2019,12 +2018,12 @@
             {
                 "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "Shades of Suffering"
     },
     {
-        "name": "Without a Trace",
-        "code": "without_a_trace",
         "campaign_code": "tsk",
+        "code": "without_a_trace",
         "encounter_sets": [
             {
                 "code": "without_a_trace"
@@ -2044,12 +2043,12 @@
             {
                 "code": "spreading_corruption"
             }
-        ]
+        ],
+        "name": "Without a Trace"
     },
     {
-        "name": "Congress of the Keys",
-        "code": "congress_of_the_keys",
         "campaign_code": "tsk",
+        "code": "congress_of_the_keys",
         "encounter_sets": [
             {
                 "code": "congress_of_the_keys"
@@ -2085,15 +2084,15 @@
                 "code": "ancient_evils"
             },
             {
-                "code": "striking_fear",
-                "cards": ["01164", "01165"]
+                "cards": ["01164", "01165"],
+                "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "Congress of the Keys"
     },
     {
-        "name": "Prelude: Welcome to Hemlock Vale!",
-        "code": "prelude_1",
         "campaign_code": "fhv",
+        "code": "prelude_1",
         "encounter_sets": [
             {
                 "code": "the_first_day"
@@ -2107,12 +2106,12 @@
             {
                 "code": "the_vale"
             }
-        ]
+        ],
+        "name": "Prelude: Welcome to Hemlock Vale!"
     },
     {
-        "name": "Written in Rock",
-        "code": "written_in_rock",
         "campaign_code": "fhv",
+        "code": "written_in_rock",
         "encounter_sets": [
             {
                 "code": "written_in_rock"
@@ -2141,12 +2140,12 @@
             {
                 "code": "residents"
             }
-        ]
+        ],
+        "name": "Written in Rock"
     },
     {
-        "name": "Hemlock House",
-        "code": "hemlock_house",
         "campaign_code": "fhv",
+        "code": "hemlock_house",
         "encounter_sets": [
             {
                 "code": "hemlock_house"
@@ -2181,12 +2180,12 @@
             {
                 "code": "residents"
             }
-        ]
+        ],
+        "name": "Hemlock House"
     },
     {
-        "name": "The Silent Heath",
-        "code": "the_silent_heath",
         "campaign_code": "fhv",
+        "code": "the_silent_heath",
         "encounter_sets": [
             {
                 "code": "the_silent_heath"
@@ -2221,12 +2220,12 @@
             {
                 "code": "residents"
             }
-        ]
+        ],
+        "name": "The Silent Heath"
     },
     {
-        "name": "The Lost Sister",
-        "code": "the_lost_sister",
         "campaign_code": "fhv",
+        "code": "the_lost_sister",
         "encounter_sets": [
             {
                 "code": "the_lost_sister"
@@ -2255,12 +2254,12 @@
             {
                 "code": "residents"
             }
-        ]
+        ],
+        "name": "The Lost Sister"
     },
     {
-        "name": "The Thing in the Depths",
-        "code": "the_thing_in_the_depths",
         "campaign_code": "fhv",
+        "code": "the_thing_in_the_depths",
         "encounter_sets": [
             {
                 "code": "the_thing_in_the_depths"
@@ -2286,12 +2285,12 @@
             {
                 "code": "residents"
             }
-        ]
+        ],
+        "name": "The Thing in the Depths"
     },
     {
-        "name": "The Twisted Hollow",
-        "code": "the_twisted_hollow",
         "campaign_code": "fhv",
+        "code": "the_twisted_hollow",
         "encounter_sets": [
             {
                 "code": "the_twisted_hollow"
@@ -2308,12 +2307,12 @@
             {
                 "code": "residents"
             }
-        ]
+        ],
+        "name": "The Twisted Hollow"
     },
     {
-        "name": "Prelude: Dawn of the Second Day",
-        "code": "prelude_2",
         "campaign_code": "fhv",
+        "code": "prelude_2",
         "encounter_sets": [
             {
                 "code": "the_second_day"
@@ -2327,12 +2326,12 @@
             {
                 "code": "the_vale"
             }
-        ]
+        ],
+        "name": "Prelude: Dawn of the Second Day"
     },
     {
-        "name": "The Longest Night",
-        "code": "the_longest_night",
         "campaign_code": "fhv",
+        "code": "the_longest_night",
         "encounter_sets": [
             {
                 "code": "the_second_day"
@@ -2359,15 +2358,15 @@
                 "code": "residents"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "The Longest Night"
     },
     {
-        "name": "Prelude: Dawn of the Final Day",
-        "code": "prelude_3",
         "campaign_code": "fhv",
+        "code": "prelude_3",
         "encounter_sets": [
             {
                 "code": "the_final_day"
@@ -2384,12 +2383,12 @@
             {
                 "code": "the_vale"
             }
-        ]
+        ],
+        "name": "Prelude: Dawn of the Final Day"
     },
     {
-        "name": "Prelude: The Final Evening",
-        "code": "prelude_4",
         "campaign_code": "fhv",
+        "code": "prelude_4",
         "encounter_sets": [
             {
                 "code": "the_final_day"
@@ -2403,12 +2402,12 @@
             {
                 "code": "the_vale"
             }
-        ]
+        ],
+        "name": "Prelude: The Final Evening"
     },
     {
-        "name": "Fate of the Vale",
-        "code": "fate_of_the_vale",
         "campaign_code": "fhv",
+        "code": "fate_of_the_vale",
         "encounter_sets": [
             {
                 "code": "the_final_day"
@@ -2440,12 +2439,12 @@
             {
                 "code": "the_vale"
             }
-        ]
+        ],
+        "name": "Fate of the Vale"
     },
     {
-        "name": "One Last Job",
-        "code": "one_last_job",
         "campaign_code": "tdc",
+        "code": "one_last_job",
         "encounter_sets": [
             {
                 "code": "one_last_job"
@@ -2466,15 +2465,15 @@
                 "code": "striking_fear"
             },
             {
-                "code": "arkham",
-                "cards": ["01125", "01129", "01130", "01131", "01132", "01134"]
+                "cards": ["01125", "01129", "01130", "01131", "01132", "01134"],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "One Last Job"
     },
     {
-        "name": "The Western Wall",
-        "code": "the_western_wall",
         "campaign_code": "tdc",
+        "code": "the_western_wall",
         "encounter_sets": [
             {
                 "code": "the_western_wall"
@@ -2504,15 +2503,15 @@
                 "code": "tdc_expedition"
             },
             {
-                "code": "star_spawn",
-                "cards": ["11727"]
+                "cards": ["11727"],
+                "code": "star_spawn"
             }
-        ]
+        ],
+        "name": "The Western Wall"
     },
     {
-        "name": "The Drowned Quarter",
-        "code": "the_drowned_quarter",
         "campaign_code": "tdc",
+        "code": "the_drowned_quarter",
         "encounter_sets": [
             {
                 "code": "the_drowned_quarter"
@@ -2541,12 +2540,12 @@
             {
                 "code": "tdc_expedition"
             }
-        ]
+        ],
+        "name": "The Drowned Quarter"
     },
     {
-        "name": "The Apiary",
-        "code": "the_apiary",
         "campaign_code": "tdc",
+        "code": "the_apiary",
         "encounter_sets": [
             {
                 "code": "the_apiary"
@@ -2576,15 +2575,15 @@
                 "code": "tdc_expedition"
             },
             {
-                "code": "star_spawn",
-                "cards": ["11726"]
+                "cards": ["11726"],
+                "code": "star_spawn"
             }
-        ]
+        ],
+        "name": "The Apiary"
     },
     {
-        "name": "The Grand Vault",
-        "code": "the_grand_vault",
         "campaign_code": "tdc",
+        "code": "the_grand_vault",
         "encounter_sets": [
             {
                 "code": "the_grand_vault"
@@ -2607,12 +2606,12 @@
             {
                 "code": "tdc_expedition"
             }
-        ]
+        ],
+        "name": "The Grand Vault"
     },
     {
-        "name": "Court of the Ancients",
-        "code": "court_of_the_ancients",
         "campaign_code": "tdc",
+        "code": "court_of_the_ancients",
         "encounter_sets": [
             {
                 "code": "court_of_the_ancients"
@@ -2644,12 +2643,12 @@
             {
                 "code": "tdc_expedition"
             }
-        ]
+        ],
+        "name": "Court of the Ancients"
     },
     {
-        "name": "Obsidian Canyons",
-        "code": "obsidian_canyons",
         "campaign_code": "tdc",
+        "code": "obsidian_canyons",
         "encounter_sets": [
             {
                 "code": "obsidian_canyons"
@@ -2684,12 +2683,12 @@
             {
                 "code": "tdc_expedition"
             }
-        ]
+        ],
+        "name": "Obsidian Canyons"
     },
     {
-        "name": "Sepulchre of the Sleeper",
-        "code": "sepulchre_of_the_sleeper",
         "campaign_code": "tdc",
+        "code": "sepulchre_of_the_sleeper",
         "encounter_sets": [
             {
                 "code": "sepulchre_of_the_sleeper"
@@ -2715,12 +2714,12 @@
             {
                 "code": "tdc_expedition"
             }
-        ]
+        ],
+        "name": "Sepulchre of the Sleeper"
     },
     {
-        "name": "The Doom of Arkham Part I",
-        "code": "the_doom_of_arkham_part_1",
         "campaign_code": "tdc",
+        "code": "the_doom_of_arkham_part_1",
         "encounter_sets": [
             {
                 "code": "the_doom_of_arkham_part_1"
@@ -2741,7 +2740,6 @@
                 "code": "agents_of_cthulhu"
             },
             {
-                "code": "arkham",
                 "cards": [
                     "01125",
                     "01126",
@@ -2754,14 +2752,15 @@
                     "01134",
                     "01135",
                     "01136"
-                ]
+                ],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "The Doom of Arkham Part I"
     },
     {
-        "name": "The Doom of Arkham Part II",
-        "code": "the_doom_of_arkham_part_2",
         "campaign_code": "tdc",
+        "code": "the_doom_of_arkham_part_2",
         "encounter_sets": [
             {
                 "code": "the_doom_of_arkham_part_2"
@@ -2782,7 +2781,6 @@
                 "code": "agents_of_cthulhu"
             },
             {
-                "code": "arkham",
                 "cards": [
                     "01126",
                     "01127",
@@ -2792,14 +2790,15 @@
                     "01131",
                     "01132",
                     "01134"
-                ]
+                ],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "The Doom of Arkham Part II"
     },
     {
-        "name": "Spreading Flames",
-        "code": "spreading_flames",
         "campaign_code": "core_ch2",
+        "code": "spreading_flames",
         "encounter_sets": [
             {
                 "code": "spreading_flames"
@@ -2828,12 +2827,12 @@
             {
                 "code": "miskatonic_university"
             }
-        ]
+        ],
+        "name": "Spreading Flames"
     },
     {
-        "name": "Smoke and Mirrors",
-        "code": "smoke_and_mirrors",
         "campaign_code": "core_ch2",
+        "code": "smoke_and_mirrors",
         "encounter_sets": [
             {
                 "code": "smoke_and_mirrors"
@@ -2862,12 +2861,12 @@
             {
                 "code": "whippoorwills_ch2"
             }
-        ]
+        ],
+        "name": "Smoke and Mirrors"
     },
     {
-        "name": "Queen of Ash",
-        "code": "queen_of_ash",
         "campaign_code": "core_ch2",
+        "code": "queen_of_ash",
         "encounter_sets": [
             {
                 "code": "queen_of_ash"
@@ -2896,12 +2895,12 @@
             {
                 "code": "torment"
             }
-        ]
+        ],
+        "name": "Queen of Ash"
     },
     {
-        "name": "Return to The Gathering",
-        "code": "return_to_the_gathering",
         "campaign_code": "rtnotz",
+        "code": "return_to_the_gathering",
         "encounter_sets": [
             {
                 "code": "return_to_the_gathering"
@@ -2924,12 +2923,12 @@
             {
                 "code": "chilling_cold"
             }
-        ]
+        ],
+        "name": "Return to The Gathering"
     },
     {
-        "name": "Return to The Midnight Masks",
-        "code": "return_to_the_midnight_masks",
         "campaign_code": "rtnotz",
+        "code": "return_to_the_midnight_masks",
         "encounter_sets": [
             {
                 "code": "arkham"
@@ -2956,15 +2955,15 @@
                 "code": "cultists"
             },
             {
-                "code": "torch",
-                "cards": ["01116"]
+                "cards": ["01116"],
+                "code": "torch"
             }
-        ]
+        ],
+        "name": "Return to The Midnight Masks"
     },
     {
-        "name": "Return to The Devourer Below",
-        "code": "return_to_the_devourer_below",
         "campaign_code": "rtnotz",
+        "code": "return_to_the_devourer_below",
         "encounter_sets": [
             {
                 "code": "tentacles"
@@ -3006,15 +3005,15 @@
                 "code": "agents_of_hastur"
             },
             {
-                "code": "torch",
-                "cards": ["01116"]
+                "cards": ["01116"],
+                "code": "torch"
             }
-        ]
+        ],
+        "name": "Return to The Devourer Below"
     },
     {
-        "name": "Return to Extracurricular Activity",
-        "code": "return_to_extracurricular_activity",
         "campaign_code": "rtdwl",
+        "code": "return_to_extracurricular_activity",
         "encounter_sets": [
             {
                 "code": "extracurricular_activity"
@@ -3043,12 +3042,12 @@
             {
                 "code": "yog_sothoths_emissaries"
             }
-        ]
+        ],
+        "name": "Return to Extracurricular Activity"
     },
     {
-        "name": "Return to The House Always Wins",
-        "code": "return_to_the_house_always_wins",
         "campaign_code": "rtdwl",
+        "code": "return_to_the_house_always_wins",
         "encounter_sets": [
             {
                 "code": "the_house_always_wins"
@@ -3071,12 +3070,12 @@
             {
                 "code": "erratic_fear"
             }
-        ]
+        ],
+        "name": "Return to The House Always Wins"
     },
     {
-        "name": "Return to The Miskatonic Museum",
-        "code": "return_to_the_miskatonic_museum",
         "campaign_code": "rtdwl",
+        "code": "return_to_the_miskatonic_museum",
         "encounter_sets": [
             {
                 "code": "the_miskatonic_museum"
@@ -3099,12 +3098,12 @@
             {
                 "code": "secret_doors"
             }
-        ]
+        ],
+        "name": "Return to The Miskatonic Museum"
     },
     {
-        "name": "Return to The Essex County Express",
-        "code": "return_to_the_essex_county_express",
         "campaign_code": "rtdwl",
+        "code": "return_to_the_essex_county_express",
         "encounter_sets": [
             {
                 "code": "essex_county_express"
@@ -3124,12 +3123,12 @@
             {
                 "code": "pentagram"
             }
-        ]
+        ],
+        "name": "Return to The Essex County Express"
     },
     {
-        "name": "Return to Blood on the Altar",
-        "code": "return_to_blood_on_the_altar",
         "campaign_code": "rtdwl",
+        "code": "return_to_blood_on_the_altar",
         "encounter_sets": [
             {
                 "code": "blood_on_the_altar"
@@ -3152,12 +3151,12 @@
             {
                 "code": "naomis_crew"
             }
-        ]
+        ],
+        "name": "Return to Blood on the Altar"
     },
     {
-        "name": "Return to Undimensioned and Unseen",
-        "code": "return_to_undimensioned_and_unseen",
         "campaign_code": "rtdwl",
+        "code": "return_to_undimensioned_and_unseen",
         "encounter_sets": [
             {
                 "code": "undimensioned_and_unseen"
@@ -3177,12 +3176,12 @@
             {
                 "code": "erratic_fear"
             }
-        ]
+        ],
+        "name": "Return to Undimensioned and Unseen"
     },
     {
-        "name": "Return to Where Doom Awaits",
-        "code": "return_to_where_doom_awaits",
         "campaign_code": "rtdwl",
+        "code": "return_to_where_doom_awaits",
         "encounter_sets": [
             {
                 "code": "where_doom_awaits"
@@ -3211,12 +3210,12 @@
             {
                 "code": "hideous_abominations"
             }
-        ]
+        ],
+        "name": "Return to Where Doom Awaits"
     },
     {
-        "name": "Return to Lost in Time and Space",
-        "code": "return_to_lost_in_time_and_space",
         "campaign_code": "rtdwl",
+        "code": "return_to_lost_in_time_and_space",
         "encounter_sets": [
             {
                 "code": "lost_in_time_and_space"
@@ -3236,12 +3235,12 @@
             {
                 "code": "yog_sothoths_emissaries"
             }
-        ]
+        ],
+        "name": "Return to Lost in Time and Space"
     },
     {
-        "name": "Return to Curtain Call",
-        "code": "return_to_curtain_call",
         "campaign_code": "rtptc",
+        "code": "return_to_curtain_call",
         "encounter_sets": [
             {
                 "code": "curtain_call"
@@ -3267,12 +3266,12 @@
             {
                 "code": "rats"
             }
-        ]
+        ],
+        "name": "Return to Curtain Call"
     },
     {
-        "name": "Return to The Last King",
-        "code": "return_to_the_last_king",
         "campaign_code": "rtptc",
+        "code": "return_to_the_last_king",
         "encounter_sets": [
             {
                 "code": "the_last_king"
@@ -3292,12 +3291,12 @@
             {
                 "code": "delusory_evils"
             }
-        ]
+        ],
+        "name": "Return to The Last King"
     },
     {
-        "name": "Return to Echoes of the Past",
-        "code": "return_to_echoes_of_the_past",
         "campaign_code": "rtptc",
+        "code": "return_to_echoes_of_the_past",
         "encounter_sets": [
             {
                 "code": "echoes_of_the_past"
@@ -3318,19 +3317,19 @@
                 "code": "pentagram"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             },
             {
-                "code": "the_last_king",
-                "cards": ["03068b"]
+                "cards": ["03068b"],
+                "code": "the_last_king"
             }
-        ]
+        ],
+        "name": "Return to Echoes of the Past"
     },
     {
-        "name": "Return to The Unspeakable Oath",
-        "code": "return_to_the_unspeakable_oath",
         "campaign_code": "rtptc",
+        "code": "return_to_the_unspeakable_oath",
         "encounter_sets": [
             {
                 "code": "the_unspeakable_oath"
@@ -3354,15 +3353,15 @@
                 "code": "hasturs_envoys"
             },
             {
-                "code": "the_last_king",
-                "cards": ["03065b"]
+                "cards": ["03065b"],
+                "code": "the_last_king"
             }
-        ]
+        ],
+        "name": "Return to The Unspeakable Oath"
     },
     {
-        "name": "Return to A Phantom of Truth",
-        "code": "return_to_a_phantom_of_truth",
         "campaign_code": "rtptc",
+        "code": "return_to_a_phantom_of_truth",
         "encounter_sets": [
             {
                 "code": "a_phantom_of_truth"
@@ -3383,19 +3382,19 @@
                 "code": "hasturs_envoys"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             },
             {
-                "code": "the_last_king",
-                "cards": ["03066b"]
+                "cards": ["03066b"],
+                "code": "the_last_king"
             }
-        ]
+        ],
+        "name": "Return to A Phantom of Truth"
     },
     {
-        "name": "Return to The Pallid Mask",
-        "code": "return_to_the_pallid_mask",
         "campaign_code": "rtptc",
+        "code": "return_to_the_pallid_mask",
         "encounter_sets": [
             {
                 "code": "the_pallid_mask"
@@ -3413,15 +3412,15 @@
                 "code": "chilling_cold"
             },
             {
-                "code": "the_last_king",
-                "cards": ["03067b"]
+                "cards": ["03067b"],
+                "code": "the_last_king"
             }
-        ]
+        ],
+        "name": "Return to The Pallid Mask"
     },
     {
-        "name": "Return to Black Stars Rise",
-        "code": "return_to_black_stars_rise",
         "campaign_code": "rtptc",
+        "code": "return_to_black_stars_rise",
         "encounter_sets": [
             {
                 "code": "black_stars_rise"
@@ -3454,15 +3453,15 @@
                 "code": "vortex"
             },
             {
-                "code": "the_last_king",
-                "cards": ["03069b"]
+                "cards": ["03069b"],
+                "code": "the_last_king"
             }
-        ]
+        ],
+        "name": "Return to Black Stars Rise"
     },
     {
-        "name": "Return to Dim Carcosa",
-        "code": "return_to_dim_carcosa",
         "campaign_code": "rtptc",
+        "code": "return_to_dim_carcosa",
         "encounter_sets": [
             {
                 "code": "dim_carcosa"
@@ -3485,12 +3484,12 @@
             {
                 "code": "neurotic_fear"
             }
-        ]
+        ],
+        "name": "Return to Dim Carcosa"
     },
     {
-        "name": "Return to The Untamed Wilds",
-        "code": "return_to_the_untamed_wilds",
         "campaign_code": "rttfa",
+        "code": "return_to_the_untamed_wilds",
         "encounter_sets": [
             {
                 "code": "wilds"
@@ -3522,12 +3521,12 @@
             {
                 "code": "ancient_evils"
             }
-        ]
+        ],
+        "name": "Return to The Untamed Wilds"
     },
     {
-        "name": "Return to The Doom of Eztli",
-        "code": "return_to_the_doom_of_eztli",
         "campaign_code": "rttfa",
+        "code": "return_to_the_doom_of_eztli",
         "encounter_sets": [
             {
                 "code": "eztli"
@@ -3557,15 +3556,15 @@
                 "code": "chilling_cold"
             },
             {
-                "code": "serpents",
-                "cards": ["04078"]
+                "cards": ["04078"],
+                "code": "serpents"
             }
-        ]
+        ],
+        "name": "Return to The Doom of Eztli"
     },
     {
-        "name": "Return to Threads of Fate",
-        "code": "return_to_threads_of_fate",
         "campaign_code": "rttfa",
+        "code": "return_to_threads_of_fate",
         "encounter_sets": [
             {
                 "code": "threads_of_fate"
@@ -3586,7 +3585,6 @@
                 "code": "nightgaunts"
             },
             {
-                "code": "arkham",
                 "cards": [
                     "01125",
                     "01129",
@@ -3595,14 +3593,15 @@
                     "01134",
                     "01135",
                     "01136"
-                ]
+                ],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "Return to Threads of Fate"
     },
     {
-        "name": "Return to The Boundary Beyond",
-        "code": "return_to_the_boundary_beyond",
         "campaign_code": "rttfa",
+        "code": "return_to_the_boundary_beyond",
         "encounter_sets": [
             {
                 "code": "the_boundary_beyond"
@@ -3629,15 +3628,15 @@
                 "code": "guardians_of_time"
             },
             {
-                "code": "return_to_the_doom_of_eztli",
-                "cards": ["53018"]
+                "cards": ["53018"],
+                "code": "return_to_the_doom_of_eztli"
             }
-        ]
+        ],
+        "name": "Return to The Boundary Beyond"
     },
     {
-        "name": "Return to Heart of the Elders, Part I",
-        "code": "return_to_pillars_of_judgment",
         "campaign_code": "rttfa",
+        "code": "return_to_pillars_of_judgment",
         "encounter_sets": [
             {
                 "code": "pillars_of_judgment"
@@ -3663,12 +3662,12 @@
             {
                 "code": "poison"
             }
-        ]
+        ],
+        "name": "Return to Heart of the Elders, Part I"
     },
     {
-        "name": "Return to Heart of the Elders, Part II",
-        "code": "return_to_knyan",
         "campaign_code": "rttfa",
+        "code": "return_to_knyan",
         "encounter_sets": [
             {
                 "code": "knyan"
@@ -3695,15 +3694,15 @@
                 "code": "poison"
             },
             {
-                "code": "return_to_the_doom_of_eztli",
-                "cards": ["53018"]
+                "cards": ["53018"],
+                "code": "return_to_the_doom_of_eztli"
             }
-        ]
+        ],
+        "name": "Return to Heart of the Elders, Part II"
     },
     {
-        "name": "Return to The City of Archives",
-        "code": "return_to_the_city_of_archives",
         "campaign_code": "rttfa",
+        "code": "return_to_the_city_of_archives",
         "encounter_sets": [
             {
                 "code": "the_city_of_archives"
@@ -3723,12 +3722,12 @@
             {
                 "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "Return to The City of Archives"
     },
     {
-        "name": "Return to The Depths of Yoth",
-        "code": "return_to_the_depths_of_yoth",
         "campaign_code": "rttfa",
+        "code": "return_to_the_depths_of_yoth",
         "encounter_sets": [
             {
                 "code": "the_depths_of_yoth"
@@ -3752,15 +3751,15 @@
                 "code": "poison"
             },
             {
-                "code": "return_to_the_doom_of_eztli",
-                "cards": ["53018"]
+                "cards": ["53018"],
+                "code": "return_to_the_doom_of_eztli"
             }
-        ]
+        ],
+        "name": "Return to The Depths of Yoth"
     },
     {
-        "name": "Return to Shattered Aeons",
-        "code": "return_to_shattered_aeons",
         "campaign_code": "rttfa",
+        "code": "return_to_shattered_aeons",
         "encounter_sets": [
             {
                 "code": "shattered_aeons"
@@ -3783,12 +3782,12 @@
             {
                 "code": "agents_of_yig"
             }
-        ]
+        ],
+        "name": "Return to Shattered Aeons"
     },
     {
-        "name": "Return to Turn Back Time",
-        "code": "return_to_turn_back_time",
         "campaign_code": "rttfa",
+        "code": "return_to_turn_back_time",
         "encounter_sets": [
             {
                 "code": "turn_back_time"
@@ -3824,15 +3823,15 @@
                 "code": "chilling_cold"
             },
             {
-                "code": "serpents",
-                "cards": ["04078"]
+                "cards": ["04078"],
+                "code": "serpents"
             }
-        ]
+        ],
+        "name": "Return to Turn Back Time"
     },
     {
-        "name": "Return to Disappearance at the Twilight Estate",
-        "code": "return_to_disappearance_at_the_twilight_estate",
         "campaign_code": "rttcu",
+        "code": "return_to_disappearance_at_the_twilight_estate",
         "encounter_sets": [
             {
                 "code": "disappearance_at_the_twilight_estate"
@@ -3862,15 +3861,15 @@
                 "code": "chilling_mists"
             },
             {
-                "code": "return_to_at_deaths_doorstep",
-                "cards": ["54028"]
+                "cards": ["54028"],
+                "code": "return_to_at_deaths_doorstep"
             }
-        ]
+        ],
+        "name": "Return to Disappearance at the Twilight Estate"
     },
     {
-        "name": "Return to The Witching Hour",
-        "code": "return_to_the_witching_hour",
         "campaign_code": "rttcu",
+        "code": "return_to_the_witching_hour",
         "encounter_sets": [
             {
                 "code": "the_witching_hour"
@@ -3900,19 +3899,19 @@
                 "code": "agents_of_shub"
             },
             {
-                "code": "tentacles",
-                "cards": ["01150", "01151", "01152", "01153", "01154", "01155"]
+                "cards": ["01150", "01151", "01152", "01153", "01154", "01155"],
+                "code": "tentacles"
             },
             {
-                "code": "return_to_the_devourer_below",
-                "cards": ["50033", "50034", "50035", "50036"]
+                "cards": ["50033", "50034", "50035", "50036"],
+                "code": "return_to_the_devourer_below"
             }
-        ]
+        ],
+        "name": "Return to The Witching Hour"
     },
     {
-        "name": "Return to At Death's Doorstep",
-        "code": "return_to_at_deaths_doorstep",
         "campaign_code": "rttcu",
+        "code": "return_to_at_deaths_doorstep",
         "encounter_sets": [
             {
                 "code": "at_deaths_doorstep"
@@ -3941,12 +3940,12 @@
             {
                 "code": "the_watcher"
             }
-        ]
+        ],
+        "name": "Return to At Death's Doorstep"
     },
     {
-        "name": "Return to The Secret Name",
-        "code": "return_to_the_secret_name",
         "campaign_code": "rttcu",
+        "code": "return_to_the_secret_name",
         "encounter_sets": [
             {
                 "code": "the_secret_name"
@@ -3969,12 +3968,12 @@
             {
                 "code": "rats"
             }
-        ]
+        ],
+        "name": "Return to The Secret Name"
     },
     {
-        "name": "Return to The Wages of Sin",
-        "code": "return_to_the_wages_of_sin",
         "campaign_code": "rttcu",
+        "code": "return_to_the_wages_of_sin",
         "encounter_sets": [
             {
                 "code": "the_wages_of_sin"
@@ -4003,12 +4002,12 @@
             {
                 "code": "the_watcher"
             }
-        ]
+        ],
+        "name": "Return to The Wages of Sin"
     },
     {
-        "name": "Return to For the Greater Good",
-        "code": "return_to_for_the_greater_good",
         "campaign_code": "rttcu",
+        "code": "return_to_for_the_greater_good",
         "encounter_sets": [
             {
                 "code": "for_the_greater_good"
@@ -4031,12 +4030,12 @@
             {
                 "code": "locked_doors"
             }
-        ]
+        ],
+        "name": "Return to For the Greater Good"
     },
     {
-        "name": "Return to Union and Disillusion",
-        "code": "return_to_union_and_disillusion",
         "campaign_code": "rttcu",
+        "code": "return_to_union_and_disillusion",
         "encounter_sets": [
             {
                 "code": "union_and_disillusion"
@@ -4069,19 +4068,19 @@
                 "code": "the_watcher"
             },
             {
-                "code": "the_witching_hour",
-                "cards": ["05057"]
+                "cards": ["05057"],
+                "code": "the_witching_hour"
             },
             {
-                "code": "at_deaths_doorstep",
-                "cards": ["05085"]
+                "cards": ["05085"],
+                "code": "at_deaths_doorstep"
             }
-        ]
+        ],
+        "name": "Return to Union and Disillusion"
     },
     {
-        "name": "Return to In the Clutches of Chaos",
-        "code": "return_to_in_the_clutches_of_chaos",
         "campaign_code": "rttcu",
+        "code": "return_to_in_the_clutches_of_chaos",
         "encounter_sets": [
             {
                 "code": "in_the_clutches_of_chaos"
@@ -4117,15 +4116,15 @@
                 "code": "striking_fear"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "Return to In the Clutches of Chaos"
     },
     {
-        "name": "Return to Before the Black Throne",
-        "code": "return_to_before_the_black_throne",
         "campaign_code": "rttcu",
+        "code": "return_to_before_the_black_throne",
         "encounter_sets": [
             {
                 "code": "before_the_black_throne"
@@ -4145,10 +4144,10 @@
             {
                 "code": "pentagram"
             }
-        ]
+        ],
+        "name": "Return to Before the Black Throne"
     },
     {
-        "name": "Curse of the Rougarou",
         "code": "curse_of_the_rougarou",
         "encounter_sets": [
             {
@@ -4157,19 +4156,19 @@
             {
                 "code": "rougarou"
             }
-        ]
+        ],
+        "name": "Curse of the Rougarou"
     },
     {
-        "name": "Carnevale of Horrors",
         "code": "carnevale_of_horrors",
         "encounter_sets": [
             {
                 "code": "venice"
             }
-        ]
+        ],
+        "name": "Carnevale of Horrors"
     },
     {
-        "name": "The Labyrinths of Lunacy",
         "code": "the_labyrinths_of_lunacy",
         "encounter_sets": [
             {
@@ -4181,10 +4180,10 @@
             {
                 "code": "single_group"
             }
-        ]
+        ],
+        "name": "The Labyrinths of Lunacy"
     },
     {
-        "name": "The Eternal Slumber",
         "code": "the_eternal_slumber",
         "encounter_sets": [
             {
@@ -4199,10 +4198,10 @@
             {
                 "code": "sands_of_egypt"
             }
-        ]
+        ],
+        "name": "The Eternal Slumber"
     },
     {
-        "name": "The Night's Usurper",
         "code": "the_nights_usurper",
         "encounter_sets": [
             {
@@ -4217,10 +4216,10 @@
             {
                 "code": "sands_of_egypt"
             }
-        ]
+        ],
+        "name": "The Night's Usurper"
     },
     {
-        "name": "Murder at the Excelsior Hotel",
         "code": "murder_at_the_excelsior_hotel",
         "encounter_sets": [
             {
@@ -4241,10 +4240,10 @@
             {
                 "code": "vile_experiments"
             }
-        ]
+        ],
+        "name": "Murder at the Excelsior Hotel"
     },
     {
-        "name": "The Blob That Ate Everything",
         "code": "the_blob_that_ate_everything",
         "encounter_sets": [
             {
@@ -4259,10 +4258,10 @@
             {
                 "code": "migo_incursion"
             }
-        ]
+        ],
+        "name": "The Blob That Ate Everything"
     },
     {
-        "name": "War of the Outer Gods",
         "code": "war_of_the_outer_gods",
         "encounter_sets": [
             {
@@ -4277,10 +4276,10 @@
             {
                 "code": "swarm_of_assimilation"
             }
-        ]
+        ],
+        "name": "War of the Outer Gods"
     },
     {
-        "name": "Machinations Through Time",
         "code": "machinations_through_time",
         "encounter_sets": [
             {
@@ -4292,10 +4291,10 @@
             {
                 "code": "machinations_through_time_single_group"
             }
-        ]
+        ],
+        "name": "Machinations Through Time"
     },
     {
-        "name": "Fortune and Folly",
         "code": "fortune_and_folly",
         "encounter_sets": [
             {
@@ -4307,19 +4306,19 @@
             {
                 "code": "plan_in_shambles"
             }
-        ]
+        ],
+        "name": "Fortune and Folly"
     },
     {
-        "name": "The Midwinter Gala",
         "code": "the_midwinter_gala",
         "encounter_sets": [
             {
                 "code": "the_midwinter_gala"
             }
-        ]
+        ],
+        "name": "The Midwinter Gala"
     },
     {
-        "name": "The Blob That Ate Everything ELSE",
         "code": "the_blob_that_ate_everything_else",
         "encounter_sets": [
             {
@@ -4340,10 +4339,10 @@
             {
                 "code": "migo_incursion_2"
             }
-        ]
+        ],
+        "name": "The Blob That Ate Everything ELSE"
     },
     {
-        "name": "Film Fatale",
         "code": "film_fatale",
         "encounter_sets": [
             {
@@ -4358,10 +4357,10 @@
             {
                 "code": "forgotten_island"
             }
-        ]
+        ],
+        "name": "Film Fatale"
     },
     {
-        "name": "Read or Die",
         "code": "read_or_die",
         "encounter_sets": [
             {
@@ -4394,10 +4393,10 @@
             {
                 "code": "armitages_fate"
             }
-        ]
+        ],
+        "name": "Read or Die"
     },
     {
-        "name": "All or Nothing",
         "code": "all_or_nothing",
         "encounter_sets": [
             {
@@ -4419,13 +4418,13 @@
                 "code": "rats"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "All or Nothing"
     },
     {
-        "name": "Bad Blood",
         "code": "bad_blood",
         "encounter_sets": [
             {
@@ -4447,7 +4446,6 @@
                 "code": "pentagram"
             },
             {
-                "code": "arkham",
                 "cards": [
                     "01125",
                     "01129",
@@ -4456,12 +4454,13 @@
                     "01134",
                     "01135",
                     "01136"
-                ]
+                ],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "Bad Blood"
     },
     {
-        "name": "By the Book",
         "code": "by_the_book",
         "encounter_sets": [
             {
@@ -4488,10 +4487,10 @@
             {
                 "code": "striking_fear"
             }
-        ]
+        ],
+        "name": "By the Book"
     },
     {
-        "name": "Red Tide Rising",
         "code": "red_tide_rising",
         "encounter_sets": [
             {
@@ -4519,13 +4518,13 @@
                 "code": "nightgaunts"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "Red Tide Rising"
     },
     {
-        "name": "Laid to Rest",
         "code": "laid_to_rest",
         "encounter_sets": [
             {
@@ -4552,10 +4551,10 @@
             {
                 "code": "witchcraft"
             }
-        ]
+        ],
+        "name": "Laid to Rest"
     },
     {
-        "name": "Relics of the Past",
         "code": "relics_of_the_past",
         "encounter_sets": [
             {
@@ -4589,13 +4588,13 @@
                 "code": "locked_doors"
             },
             {
-                "code": "arkham",
-                "cards": ["01135", "01136"]
+                "cards": ["01135", "01136"],
+                "code": "arkham"
             }
-        ]
+        ],
+        "name": "Relics of the Past"
     },
     {
-        "name": "Enthralling Encore",
         "code": "enthralling_encore",
         "encounter_sets": [
             {
@@ -4622,6 +4621,7 @@
             {
                 "code": "rats"
             }
-        ]
+        ],
+        "name": "Enthralling Encore"
     }
 ]

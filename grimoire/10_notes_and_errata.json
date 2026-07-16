@@ -1,25 +1,25 @@
 [
     {
-        "section": "notes_and_errata",
+        "citation": "grimoire-1.0",
         "id": "10.001",
         "position": 1,
-        "title": "Rulebook Errata",
+        "section": "notes_and_errata",
         "text": "Errata will be added as needed in future Grimoire updates.",
-        "citation": "grimoire-1.0"
+        "title": "Rulebook Errata"
     },
     {
-        "section": "notes_and_errata",
+        "citation": "grimoire-1.0",
         "id": "10.002",
         "position": 2,
-        "title": "Campaign Guide Errata",
+        "section": "notes_and_errata",
         "text": "Errata will be added as needed in future Grimoire updates.",
-        "citation": "grimoire-1.0"
+        "title": "Campaign Guide Errata"
     },
     {
-        "section": "notes_and_errata",
+        "citation": "grimoire-1.1",
         "id": "10.003",
         "position": 3,
-        "title": "Card Errata",
-        "citation": "grimoire-1.1"
+        "section": "notes_and_errata",
+        "title": "Card Errata"
     }
 ]

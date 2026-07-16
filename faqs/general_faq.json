@@ -1,146 +1,145 @@
 [
     {
-        "type": "faq",
         "card_codes": ["01045", "01073", "01545", "01573", "06200", "06332"],
+        "citation": "faq-1.0",
         "question": "Can I investigate a location with no clues on it? If I do, what happens?",
         "ruling": "Yes. You can investigate a location even if there are no clues on it. However, you won't be able to discover any clues there, because there are no clues on the location to discover. Investigating a location with no clues might still be useful to trigger card abilities such as [Burglary](/card/01045) or [Scavenging](/card/01073).",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["01007", "90031"],
+        "citation": "faq-1.0",
         "question": "Are clues on [Cover Up](/card/01007) considered to be \"at my location\" for the purposes of Roland's [elder_sign] ability?",
         "ruling": "No. Generally speaking, cards (such as investigators, assets under your control, enemies in your threat area, etc) are \"at\" a location. Clues are only \"at\" a location if they are physically on that location.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.0",
         "question": "Is there any difference between \"at a location\" and \"in a location?\"",
         "ruling": "No. Both terms have the same meaning and are used interchangeably.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["01016", "01051", "01516", "01551", "03190", "60329"],
+        "citation": "faq-1.0",
         "question": "If I play an event with a <b>Fight</b> ability, like [Backstab](/card/01051), does it provoke attacks of opportunity?",
         "ruling": "No. Abilities with a bold action designator (like <b>Fight</b>, <b>Evade</b> or <b>Investigate</b>) count as an action of that type. In this case, since Backstab counts as a <b>Fight</b> action, no attacks of opportunity are made, because <b>Fight</b> actions do not provoke attacks of opportunity. The same goes for <b>Fight</b> abilities on assets, like [.45 Automatic](/card/01016).",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.0",
         "question": "If I use an [action] ability or play an event with a bold action type (like <b>Fight</b>, <b>Evade</b>, or <b>Investigate</b>), do I need to spend one action to use the ability and another action to initiate the action listed? Or just one action?",
         "ruling": "Paying the cost of the ability is enough to initiate the action designated. There is no need to spend an additional action.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["01016", "01516"],
+        "citation": "faq-1.0",
         "question": "Can I trigger the [action] abilities on two copies of [.45 Automatic](/card/01016) for +2 [combat] and +2 damage?",
         "ruling": "No. Each [action] ability is a separate action that must be resolved in full before you have the opportunity to take another action.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["01017", "50001", "60131"],
+        "citation": "faq-1.0",
         "question": "Can I trigger the ability [fast] on cards like [Physical Training](/card/01017) more than once per skill test?",
         "ruling": "Yes. Unless the ability has a printed limitation on it, you may use it as often as you like, provided you are able to pay the ability's cost each time.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.0",
         "question": "If there are clues or cards at an unrevealed location, and then that location is revealed, what happens to those clues/cards?",
         "ruling": "Any clues or cards at an unrevealed location remain where they are when the location is revealed. This includes clues physically placed on the location, enemies or assets at that location, and cards attached to that location. Clues that are placed on the newly revealed location from its clue value are simply added to the clues that were already on that location when it was revealed.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.0",
         "question": "If a card effect says to heal damage or horror but does not indicate from where, can I use it to heal assets or investigators other than myself?",
         "ruling": "No. \"Heal X damage/horror\" is shorthand for \"Heal X damage/horror from your investigator.\" If a card simply reads \"Heal X horror\" or \"Heal X damage,\" you can only use it to heal horror or damage from your investigator. Cards that allow you to heal other investigators or assets will specify that.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["01091", "01591", "01039", "01539", "02150", "60126"],
+        "citation": "faq-1.0",
         "question": "Who gets the effects/benefits of a skill card committed to another investigator's skill test? If I commit [Overpower](/card/01091) to another investigator's skill test, do I get to draw 1 card, or does the investigator performing the skill test get to draw 1 card?",
         "ruling": "Generally speaking, the player who committed the skill card gets the effects of any ability on that skill card. In your example, you would draw the 1 card, not the investigator performing the skill test. However, if a skill card changes or adds to the results of the skill test itself, the investigator performing the test receives the benefit of that ability. For example, if you committed [Deduction](/card/01039) to another investigator's skill test, that investigator would be discovering the additional clue(s), not you, because you are altering the effects of their skill test.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["01076", "01576", "01078", "01578"],
+        "citation": "faq-1.0",
         "question": "When I use the ability on [Stray Cat](/card/01076), can I choose any enemy at my location, even if they are engaged with other investigators?",
         "ruling": "Yes. When you perform a standard evade action, you may only attempt to evade enemies engaged with you. However, card effects (such as Stray Cat or [Cunning Distraction](/card/01078)) may alter or supplant this limitation.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["01004", "01504", "01060", "01560", "02154", "02306"],
+        "citation": "faq-1.0",
         "question": "When I attack using [Shrivelling](/card/01060) and reveal a [skull], [cultist], [tablet], [elder_thing], or auto_fail] symbol, when do I take horror?",
         "ruling": "You would take horror immediately as you reveal the symbol, during \"ST.3 Reveal chaos token\" (\"Skill Test Timing, Rules Reference). If you had any reactions to taking that horror (such as [Agnes Baker](/card/01004)'s ability), you would trigger it then, before resolving the rest of the attack.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.0",
         "question": "If I automatically fail a test (from revealing a [auto_fail] symbol, for example), I treat my skill value as if it were 0. If the difficulty of the test is 0, does that mean I succeed?",
         "ruling": "No. No matter what, if you automatically fail a test, you have failed the test, regardless of how your skill value and the difficulty compare.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.0",
         "question": "How does \"searching the collection\" for a random basic weakness work? Do I use the same pool of weaknesses I used during deck construction? Or do I search through all of my weaknesses?",
         "ruling": "Anytime players are instructed to search for a random basic weakness - be it during deck construction, during a scenario's setup or resolution, or during a scenario itself - players should use the same pool of weaknesses, which is constructed using all of the basic weaknesses from only 1 copy of each product they own. If each investigator has their own collection of cards, they should each use their own pool of weaknesses constructed in the same manner, so as to avoid players' cards getting mixed together accidentally.\nFor example: Damon and Kelsy have each constructed decks using Damon's collection, which consists of 2 copies of the Core Set. During deck construction, they each included 1 random basic weakness from a pool of weaknesses consisting of only the 10 weaknesses in a single copy of the Core Set. This leaves a pool of 8 weaknesses remaining. If they are later instructed to each search the collection for a random basic weakness, these weaknesses would be taken from that remaining pool of 8 weaknesses.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["01090", "01590", "01033", "01533", "02026", "60228"],
+        "citation": "faq-1.0",
         "question": "I have committed [Double or Nothing](/card/02026) and [Perception](/card/01090) to a skill test during an investigation, and I also have [Dr. Milan Christopher](/card/01033) in play. If I succeed, which effects are resolved twice?",
         "ruling": "The effects of a successful skill test are applied during step 7, and Double or Nothing causes each of these affects to be resolved twice. Dr. Milan Christopher's ability is a reaction to succeeding at a skill test, and therefore is triggered and resolved during step 6, after success is determined. During step 7, the game result of the investigation (discovering 1 clue), and the \"if this test is successful\" result of Perception are both resolved twice due to Double or Nothing's effect.",
-        "citation": "faq-1.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["02101"],
+        "citation": "faq-1.1",
         "question": "Can [Terror from Beyond](/card/02101) cause weaknesses to be discarded from an investigator's hand?",
         "ruling": "Terror from Beyond can cause weaknesses to be discarded, even if you are the one making the choice. Terror from Beyond instructs an investigator to choose a card type, and then all investigators are obligated to discard all cards of the chosen card type. In this case, you aren't optionally choosing to discard 1 or more cards; you are selecting a category of cards to be discarded, and the discard is mandatory.",
-        "citation": "faq-1.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["02307"],
+        "citation": "faq-1.2",
         "question": "Can I play [Ward of Protection](/card/02307) to cancel and discard an enemy on the reverse side of an act or agenda? And if so, where does it go?",
         "ruling": "You cannot. When you flip to the b-side of an act or agenda and it is an encounter cardtype (typically a treachery, enemy or location), you should follow the rules for drawing that encounter card solely for the purposes of figuring out how that card enters play and for resolving any appropriate revelation effects. You should not be able to trigger effects based on having \"drawn\" that card, as it was not actually drawn, and it is not clear who is doing the drawing in such an event.",
-        "citation": "faq-1.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["02014"],
+        "citation": "faq-1.2",
         "question": "If I use [Duke](/card/02014) to move into a location that causes my turn to \"immediately end\" in the middle of resolving Duke's ability, does the ability continue resolving?",
         "ruling": "Yes. If during the resolution of an ability, your turn ends (\"immediately\" or otherwise), you will still resolve the remainder of that ability. The rest of that ability is not canceled. Note, however, that any \"until the end of your turn\" effects would still expire at this time, since your turn has ended, but you'll still continue to play out the remainder of Duke's ability.",
-        "citation": "faq-1.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["03035", "03113", "08069"],
+        "citation": "faq-1.2",
         "question": "What constitutes a \"skill test on a [[Spell]] card\" for the purposes of cards like [Spirit Athame](/card/03035) and [Grounded](/card/03113)?",
         "ruling": "A \"skill test on a card\" is any ability that directly prompts a skill test, either through the template \"test skill (X),\" or by initiating an action that is, in itself, a skill test (for example, any card with <b>Fight</b>, <b>Evade</b>, or <b>Investigate</b> action designators).",
-        "citation": "faq-1.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.2",
         "question": "Can a location with no valid path to my location be the \"nearest\" or \"farthest\" location from my location?",
         "ruling": "Yes, but only if there are no other eligible locations with a vaild path to your location. If there are other locations with a valid path to your location, the nearest or farthest of those must qualify as the \"nearest\" or \"farthest\" to your location.",
-        "citation": "faq-1.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["01171", "03097"],
+        "citation": "faq-1.2",
         "question": "If an enemy is in a location with no valid path to your location, can it still be the \"nearest\" enemy purposes of cards like [Mysterious Chanting](/card/01171) or [Dance of the Yellow King](/card/03097)?",
         "ruling": "Even if it has no valid path to an investigator, an enemy can still qualify as the \"nearest\" enemy if there are no other enemies in play that are nearer. That said, an effect that require an enemy to track a path to an investigator (such as Dance of the Yellow King) would not cause an enemy to move if there is no valid path.",
-        "citation": "faq-1.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": [
             "01061",
             "01561",
@@ -150,695 +149,696 @@
             "03026",
             "03307"
         ],
+        "citation": "faq-1.3",
         "question": "How does [Time Warp](/card/03311) interact with cards being returned to decks?",
         "ruling": "To the extent that cards can be returned to the same state they were in before, they should be. For example, if you used [Scrying](/card/01061) to reorder the top 3 cards of the encounter deck, and then an investigator played Time Warp, you should go back and reorder those 3 cards to their original order. Likewise, if you drew 1 card and then played Time Warp, the card you drew should be returned to the top of your deck. If you are unable to return the game state to exactly the way it was before the action was performed, the effect fails.\nHowever, if a deck was searched and/or shuffled, there's no way of knowing the exact order of the cards as they were beforehand, so keeping the deck shuffled is fine. You still don't know the order of the cards in the deck, so the game state is effectively the same. For example, let's say you used [No Stone Unturned](/card/03026) to search your deck for a card, draw it, and shuffle your deck. In this case, if an investigator played Time Warp, it is fine to simply shuffle the card you searched for back into your deck. As far as the game state is concerned, your deck is in the same state it was before No Stone Unturned was played.",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.3",
         "question": "What happens if a skill test both automatically succeeds and automatically fails simultaneously?",
         "ruling": "If a skill test both automatically succeeds and automatically fails, the automatic failure takes precedence, and the test automatically fails.",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["03311"],
+        "citation": "faq-1.3",
         "question": "Does [Time Warp](/card/03311) return to my hand after I use it?",
         "ruling": "No. While you are resolving the effect on Time Warp, it is neither in play, nor is it in your hand or in your discard pile. While you are resolving Time Warp, its state is not altered. Once you have finished resolving its effects, Time Warp should be placed in the discard pile, as normal.",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["03308"],
+        "citation": "faq-1.3",
         "question": "If I purchase a permanent card for my deck, like [Charon's Obol](/card/03308), can I later remove it from my deck?",
         "ruling": "Not unless an effect explicitly allows you to do so. Generally cards are only removed from your deck if you purchase a new card and must swap out an existing card in order to reach your investigator's deck size. However, since Permanent cards do not count towards your deck size, they cannot be swapped out in this way. There is no rule which allows you to remove cards from your deck at will.",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["03193"],
+        "citation": "faq-1.3",
         "question": "If I use the ability on [Archaic Glyphs](/card/03193) to \"automatically evade an engaged enemy,\" does that mean an enemy engaged with me, or an enemy engaged with any investigator?",
         "ruling": "By default, an \"engaged enemy\" is an enemy currently engaged with you. If a card allows you to interact with any enemy engaged with an investigator, it will specify that.",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["05001", "02024", "60320", "98010"],
+        "citation": "faq-1.3",
         "question": "If I am playing as [Carolyn Fern](/card/05001) and succeed on the skill test for [Liquid Courage](/card/02024), can I trigger Carolyn's [reaction] ability twice, or only once?",
         "ruling": "Only once. The word \"additional\" in the second healing effect denotes that the two points of healing should be lumped together into one healing effect, not treated as two separate instances of 1 healing each.",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["04197", "10097", "01071", "01571", "60421"],
+        "citation": "faq-1.3",
         "question": "Can I use two cards that replace 1 revealed chaos token with multiple tokens, like [Olive McBride](/card/04197) and [Grotesque Statue](/card/01071), on the same skill test?",
         "ruling": "Yes, you can. When you use multiple effects that replace \"revealing a chaos token\" with something, else, you must first declare your intention so you are reacting to what you draw from the bag, because each of these effects are meant to be triggered before you draw tokens from the bag.\nIf you declare you're going to trigger Olive's ability first, you should then declare which of the 3 tokens you're about to reveal from Olive's ability will be turned into 2 tokens from the statue (For example, \"I'm going to reveal 3 tokens using Olive, and for the first token, I'm going to reveal 2 instead of 1 using my statue.\"). Then you'll ignore one of the 2 statue tokens, and be left with 3 total tokens, which you'll then ignore 1 of. (All of these tokens are considered to be revealed simultaneously, so you are not allowed to reveal the first 2 tokens with Olive, and then decide whether or not to use the statue).\nIf you instead trigger the statue's ability first, you would do the same thing, declaring your intent. (For example, \"I'm going to reveal 2 tokens using my statue, but for the second token, I'm going to use Olive's ability to reveal 3 instead of 1.\") Then you would choose between resolving the first token or the 3 Olive tokens. (Here this may seem a little strange, because Grotesque Statue says \"Choose 1 of those tokens to resolve, and ignore the other,\" which implies that you only get to resolve 1 token and ignore 1 token, but for the purposes of resolving these types of effects, the 3 tokens revealed from Olive's ability should be treated as 1 revealed token.) If you decide to resolve the 3 Olive tokens you would then choose 2 to resolve and resolve the other, as usual.",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["04038", "04039", "04040"],
+        "citation": "faq-1.3",
         "question": "When I swap [Dark Pact](/card/04038) out of my deck for [The Price of Failure](/card/04039), does Dark Pact return to the pool of available basic weaknesses?",
         "ruling": "Dark Pact is returned to your collection, but should not be returned to the pool of available weaknesses when it is swapped out — this ensures that you can always swap between Dark Pact and The Price of Failure without it being unavailable later. Same goes for [Doomed](/card/04040) if it is swapped out.",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["04002"],
+        "citation": "faq-1.3",
         "question": "Does the ability on [Ursula Downs](/card/04002) allow me to take an <b>investigate</b> action on an asset or event card?",
         "ruling": "Yes. Ursula's reaction allows you to take any investigate action, including those performed via the activate action or via the play action.",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["04002", "04017", "53002"],
+        "citation": "faq-1.3",
         "question": "Does the investigate action taken via the ability on [Ursula Downs](/card/04002) provoke attacks of opportunity?",
         "ruling": "Yes. If an ability allows you to \"take an action,\" it is as though you are gaining an action and immediately spending it to perform that action. This is different from reaction or free triggered abilities that simply perform the effects of an action directly, such as the reaction on [Survival Knife](/card/04017).",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["03022", "04028"],
+        "citation": "faq-1.3",
         "question": "Can I use [\"Let me handle this!\"](/card/03022) or [\"You handle this one!\"](/card/04028) on a weakness?",
         "ruling": "No. Both of these cards are played after you or another investigator draw a non-peril encounter card, but before resolving that card's effects. Weaknesses with an encounter cardtype (such as enemies or treacheries) are considered to be encounter cards while they are being resolved and once they have entered play, but are not considered to be encounter cards yet at the time that these cards are played. Therefore, at the time these cards would be played, they are still player cards and are not legal targets.",
-        "citation": "faq-1.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.4",
         "question": "Do enemies exhaust after making attacks of opportunity, retaliate attacks, or other attacks (via card effects)?",
         "ruling": "No. Enemies only exhaust after attacking if they perform an attack during step 3.3 of the enemy phase. Unless otherwise noted, all other enemy attacks do not cause that enemy to exhaust.",
-        "citation": "faq-1.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["05001", "98010"],
+        "citation": "faq-1.5",
         "question": "If an ability refers to \"your cards,\" is it referring to cards you control, or cards you own? For example, does the ability on [Carolyn Fern](/card/05001) only work if a card I control heals horror, or does it work if a card I own but do not control heals horror?",
         "ruling": "In general, \"your cards\" are the cards you currently control. If you own a card but do not control it, it is not \"yours\" for the purposes of abilities.",
-        "citation": "faq-1.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["05036"],
+        "citation": "faq-1.5",
         "question": "Can I use the [reaction] ability on [Track Shoes](/card/05036) after moving to a location with no enemies?",
         "ruling": "Yes. The \"before enemies engage you\" part of the ability is just referring to the timing point at which enemies would engage you; it is not specifying that there must be an enemy there in order to trigger the ability.",
-        "citation": "faq-1.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06005", "01096", "01596"],
+        "citation": "faq-1.6",
         "question": "Does [Patrice Hathaway](/card/06005)'s card draw during the upkeep phase occur all at once, or one at a time? What happens if I draw a weakness, like [Amnesia](/card/01096)?",
         "ruling": "Anytime you draw one or more cards, the card draw occurs simultaneously unless the effect uses the phrase \"one at a time.\" Then, once all of the cards have been drawn, you must resolve all <b>Revelation</b> abilities on those cards (in an order of your choosing).",
-        "citation": "faq-1.6"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06005"],
+        "citation": "faq-1.6",
         "question": "Can [Patrice Hathaway](/card/06005)'s ability cause her to discard hidden encounter cards from her hand?",
         "ruling": "No. Hidden cards cannot be discarded from hand by any means except for those described on the card.",
-        "citation": "faq-1.6"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.6",
         "question": "If a card has 0 cost or no cost, is its cost even or odd?",
         "ruling": "Zero is an even number, so cards with 0 cost have an even cost.\nSkill cards and cards with a \"-\" cost do not have a cost at all, so their cost is neither even nor odd.",
-        "citation": "faq-1.6"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06003"],
+        "citation": "faq-1.6",
         "question": "Can tokens (like [Tony Morgan](/card/06003)'s bounties) be placed on swarm cards?",
         "ruling": "Yes. Each swarm card counts as a separate copy of its host card and can have its own tokens on it.",
-        "citation": "faq-1.6"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06002"],
+        "citation": "faq-1.6",
         "question": "For [Mandy Thompson](/card/06002)'s [reaction], what does it mean to \"resolve 1 additional target of the search?\"",
         "ruling": "Search effects typically instruct you to resolve an effect using the card(s) targeted by the search. For example, if you used an effect to \"search the top 3 cards of your deck for a card and draw it,\" drawing the searched-for card would be resolving the target of the search. If you used Mandy's reaction here, you could either search the top 6 cards of your deck for a card and draw it, or search the top 3 cards of your deck for 2 cards and draw them both. (You must decide which before initiating the search.)",
-        "citation": "faq-1.6"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06022", "03306"],
+        "citation": "faq-1.8",
         "question": "Can I play a card with a cost of \"-\"?",
         "ruling": "No. Cards with a cost of \"-\" have no cost that can be paid, and therefore cannot be played. For example, if [Pendant of the Queen](/card/06022) is discarded from play and then shuffled back into your deck and drawn, you would be unable to play it from hand. (Cards that put it directly into play bypassing its cost would be able to put it into play, however.)\nCards with a cost of \"-\" that are played as a copy of a different card, such as [Eidetic Memory](/card/03306), use the resource cost of the copied card, and therefore bypass this restriction.",
-        "citation": "faq-1.8"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.8",
         "question": "Do [bless] and [curse] tokens have a modifier or value if they are revealed outside of a skill test?",
         "ruling": "No. [bless] and [curse] tokens revealed outside of a skill test have no modifier or value.",
-        "citation": "faq-1.8"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.8",
         "question": "If adding a certain number of [bless] or [curse] tokens to the chaos bag is part of an ability's effect, and there are not enough [bless] or [curse] tokens remaining to fulfill that effect, what happens?",
         "ruling": "You perform as much of the ability as you can, adding [bless] or [curse] tokens until there are none left to add.",
-        "citation": "faq-1.8"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.8",
         "question": "If adding a certain number of [bless] or [curse] tokens to the chaos bag is part of a card/ability's cost, and there are not enough [bless] or [curse] tokens remaining to fulfill that cost, what happens?",
         "ruling": "If the cost cannot be paid, the card/ability therefore cannot be played/triggered.",
-        "citation": "faq-1.8"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["07002"],
+        "citation": "faq-1.8",
         "question": "What happens if the card beneath [Amanda Sharpe](/card/07002) would enter a different play area while it is committed to a skill test?",
         "ruling": "It still enters that play area - it only remains beneath Amanda if it would otherwise be discarded (such as at the end of the skill test).",
-        "citation": "faq-1.8"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["60323", "06024"],
+        "citation": "faq-1.8",
         "question": "If a card such as [Cheap Shot](/card/60323) is returned to my hand, what areas am I allowed to retrieve it from? If it is shuffled into my deck, can I still return it to my hand?",
         "ruling": "In general, unless otherwise specified, players can \"return\" such a card from any play area, so long as it is in an area that allows the card to be found and identified. For example, if Cheap Shot is in the discard pile or attached to another card (such as a [Crystallizer of Dreams](/card/06024) and you are able to find it, you may return it to your hand from that area. However, if it is in a place where its position is impossible to determine (such as shuffled into your deck) or facedown in a place where you are not allowed to look at its other side (for example, as a swarm card), you would be unable to return it to your hand, and therefore that aspect of the effect would fail.\nAdditionally, if Cheap Shot is removed from the game, unless specifically stated otherwise, no game effects can interact with it in any way until the end of the game.",
-        "citation": "faq-1.8"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-1.8",
         "question": "During a campaign, do [bless] and [curse] tokens remain in the chaos bag from scenario to scenario?",
         "ruling": "No, [bless] and [curse] tokens do not carry over from scenario to scenario.",
-        "citation": "faq-1.8"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["05119", "05194", "05195", "07002"],
+        "citation": "faq-1.8",
         "question": "If I use [Grisly Totem](/card/05119) after committing the card beneath [Amanda Sharpe](/card/07002), how long does its bonus icon stay for?",
         "ruling": "The bonus icon granted by Grisly Totem does not specify a duration, so this effect should remain until the committed card leaves play. The real question is: when does the committed card enter or leave play?\nGenerally speaking, cards placed beneath other cards (such as the card beneath Amanda Sharpe) are out of play. Cards committed to tests never really \"enter play,\" but while they are committed to a test, their icons are added to the investigator's relevant skill and their text is active. So, while the card beneath Amanda is committed to a test, its icons and text should be alterable by game effects (as if you had committed it from your hand), just like any other in-play card. But as soon as that test ends, it returns to its outof-play state, and any lasting effects would drop.\nTL;DR: The bonus icon granted by Grisly Totem would only apply for the test during which Grisly Totem is used, after which the card returns to its out-of-play state, and the bonus icon would drop.",
-        "citation": "faq-1.8"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["02001"],
+        "citation": "faq-1.9",
         "question": "If a swarming enemy engages [Zoey Samaras](/card/02001), can she trigger her [reaction] ability once for each enemy in total, or only once for the entire swarm?",
         "ruling": "Although swarming enemies move and engage together as a single entity, each swarm card is its own separate enemy. If a swarming enemy engages Zoey, each of its swarm cards are also enemies that have engaged Zoey. Therefore, she may trigger her [reaction] ability once for each of them.",
-        "citation": "faq-1.9"
+        "type": "faq"
     },
     {
-        "type": "faq",
-        "cycles": ["parallel"],
-        "scenario_codes": ["read_or_die"],
         "card_codes": ["07303", "04037", "53011", "05004"],
+        "citation": "faq-1.9",
+        "cycles": ["parallel"],
         "question": "Can I look at facedown cards beneath or attached to other cards I control? If I use the [fast] ability on [Ancestral Knowledge](/card/07303) to draw one of the cards attached to it, am I allowed to know what each card is, or is it random?",
         "ruling": "Unless an effect states otherwise, investigators are allowed to look at the other sides of facedown cards beneath or attached to cards they control, such as Ancestral Knowledge, [Backpack](/card/04037), and [Diana Stanley](/card/05004). If you are given the ability to draw, play, or interact with one of those cards, you may look at them to know which one you wish to draw or play.\nThis is not true for facedown cards that are attached to encounter cards or placed facedown via a scenario effect, such as swarm cards, empty space, or tomes beneath locations in the challenge scenario Read or Die. In these instances, players cannot look at the other side of those cards unless instructed otherwise.",
-        "citation": "faq-1.9"
+        "scenario_codes": ["read_or_die"],
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["03006", "03019", "90087"],
+        "citation": "faq-2.0",
         "question": "As [Lola Hayes](/card/03006), what role do I switch to if I resolve [Crisis of Identity](/card/03019) and the discarded card is a multi-class card? What happens if my deck is empty and no card is discarded?",
         "ruling": "If the discarded card is a multi-class card, you may choose which of those classes to switch your role to. If no card is discarded, your role stays the same and is not switched.",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["08031"],
+        "citation": "faq-2.0",
         "question": "If I have [Forced Learning](/card/08031) and I draw a weakness during my upkeep phase, can I choose to discard it? What happens if both cards I draw are weaknesses?",
         "ruling": "Weaknesses cannot be chosen to be discarded from your hand. If you draw 1 weakness and 1 non-weakness card, you must choose to discard the non-weakness card, then resolve the weakness as normal. If you draw 2 weaknesses, you cannot discard either one, and must resolve both of them.",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06110", "03263", "08028"],
+        "citation": "faq-2.0",
         "question": "If I use [First Watch](/card/06110) to deal encounter cards to investigators, are those dealt cards considered to be in the encounter deck for the purposes of other card effects, such as [On the Hunt](/card/03263)?",
         "ruling": "Cards dealt to investigators by First Watch are no longer in the encounter deck, nor are they yet in play or in the encounter discard pile. That said, all cards dealt via First Watch must be drawn and/or dealt with before moving on to the next phase, so using On the Hunt in this manner would not avoid it.",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["01170"],
+        "citation": "faq-2.0",
         "question": "While playing a \"Return to\" scenario, what do I do if a campaign guide instruction or card ability refers to a card from an encounter set that has been replaced with a new encounter set?",
         "ruling": "If it is a setup instruction or an instruction to search for that card and put it into play, the investigators should find the matching card from the new encounter set that replaced it and follow the instructions using that card, instead. (If it is unclear which is the matching card, use the encounter numbers to help guide you. For example, [Wizard of the Order](/card/01170) is card 4/6 of the Dark Cult set; if that set was replaced, the matching card would be card 4/6 of the new set.)\nIf it is a gameplay effect other than the above, ignore it.",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["04089", "06164", "10100"],
+        "citation": "faq-2.0",
         "question": "What happens if I am [Entombed](/card/04089) and use [Ethereal Form](/card/06164) and am already engaged with an enemy? One says I cannot disengage from enemies, the other says enemies cannot be engaged with me.",
         "ruling": "When two cards directly contradict one another in a way that is impossible to reconcile, the text of the encounter card takes precedence. In this case, Entombed would take precedence over Ethereal Form, and the enemy would remain engaged with you <i>(see The Silver Rule)</i>.",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["60530", "07024"],
+        "citation": "faq-2.4",
         "question": "Does [Quick Learner](/card/60530) increase the difficulty of skill tests during the mythos phase?",
         "ruling": "Quick Learner's ability only affects skill tests during your turn. A skill test that initiates when your turn begins, or at any point before the resolution of the first action of your turn, gets +1 difficulty. (Likewise, [Plan of Action](/card/07024) gains a [willpower] and [agility] icon at this same timing point, but not during the mythos phase).",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-2.0",
         "question": "When exactly are bless and curse tokens removed from the chaos bag? Are they still present in the chaos bag during the resolution of a scenario?",
         "ruling": "Bless and curse tokens should be removed from the chaos bag when the game is cleaned up after the resolution of a scenario. This occurs before moving onto any subsequent story interludes, unless otherwise noted.",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["07310"],
+        "citation": "faq-2.0",
         "question": "Can I return signature cards to my hand with [Shrine of the Moirai](/card/07310)? If so, how many levels do they count as?",
         "ruling": "Signature cards do not have a level, so they cannot be returned to your hand with Shrine of the Moirai.",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["08024", "08037", "08065", "08078", "07002"],
+        "citation": "faq-2.0",
         "question": "Can [Defensive Stance](/card/08024), [Survey the Area](/card/08037), [Occult Theory](/card/08065), or [Dauntless Spirit](/card/08078) be committed to tests from beneath [Amanda Sharpe](/card/07002)?",
         "ruling": "No. A card can only be committed to a skill test if it possesses 1 or more skill icons matching the skill being tested. As these cards only possess skill icons while they are in your hand or already committed to a test, they cannot be committed to a test from anywhere else (such as beneath Amanda Sharpe, or directly from your deck using another card effect).",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["03006"],
+        "citation": "faq-2.0",
         "question": "As [Lola Hayes](/card/03006), can I use Lola's [fast] ability to switch roles in the middle of resolving another ability?",
         "ruling": "As long as it is during a [fast] player window, yes.",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["90017", "01012", "01512", "90018", "06024"],
+        "citation": "faq-2.0",
         "question": "Which triggers first: [Parallel Agnes](/card/90017)'s ability or [Heirloom of Hyberborea](/card/01012)? What about [Crystallizer of Dreams](/card/06024)?",
         "ruling": "An event card is placed on top of its owner's discard pile during step 4 of the play/initiation sequence, so any effect that modifies where the event goes (such as Parallel Agnes Baker or Crystallizer of Dreams) must occur during that step. An effect that triggers \"after you play\" an event but does not modify where the event goes (such as Heirloom of Hyberborea's ability) would naturally trigger just after step 4.",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06111", "07005"],
+        "citation": "faq-2.0",
         "question": "If I commit [Daring](/card/06111) to a skill test as [Silas Marsh](/card/07005) and use his ability to return it to my hand, do its effects still resolve?",
         "ruling": "The lasting effect that grants the enemy retaliate and alert would continue for the duration of the skill test, since it is a lasting effect, and lasting effects persist for the specified duration regardless of whether the card that created the lasting effect is or remains in play. The second aspect of the ability, however, functions like any other ability on a skill card; it may only be used during the resolution of the skill test to which Daring is committed. (It is not a delayed effect.)",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["08014a", "08094", "08096"],
+        "citation": "faq-2.0",
         "question": "How exactly does the ability on [Discipline](/card/08014a) work? Can I use it to trigger a fight ability that requires multiple actions, such as the triple-action ability on [Sledgehammer](/card/08094)? If so, does it ignore the additional action cost of that ability?",
         "ruling": "This ability allows you to \"take up to 3 different fight or evade actions.\" This effectively grants you (up to) 3 additional actions, which each must be spent to trigger a different fight or evade ability. One of the 3 fight or evade actions taken by Discipline can be a multi-action ability, but if so, you must still pay the additional action cost of that ability, and those additional actions would have to come from your standard pool of actions or from a source other than Discipline. You cannot use Discipline to use Sledgehammer's triple-action on its own, nor can you use it to dodge the additional action cost of that ability.",
-        "citation": "faq-2.0"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["05322", "06072", "04064"],
+        "citation": "faq-2.1",
         "question": "When I investigate using [Sixth Sense](/card/05322) and reveal one of the listed symbol tokens, how do I resolve investigating 2 locations? How do I resolve any additional effects that would trigger as a result of investigating the second location?",
         "ruling": "To investigate 2 locations with the upgraded Sixth Sense, you perform one investigation test, choosing the shroud value of either your current location or the chosen location, and then you apply the results of the test to both locations. Each effect on either location that would trigger during that investigation still triggers, so long as you haven't passed its initiation point. For example, if you choose [Experimental Therapies Ward](/card/06072), you may resolve its triggered ability of taking 1 horror to give it -2 shroud for the investigation. By that same logic, the <b>Forced</b> effect on [Grand Chamber](/card/04064) will trigger if you do not succeed the skill test by at least 2.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06117", "10101", "01174"],
+        "citation": "faq-2.1",
         "question": "Does [Read the Signs](/card/06117) allow me to ignore [Locked Door](/card/01174) or other effects that would prevent an investigation?",
         "ruling": "No. Read the Signs only allows you to ignore triggered abilities such as the haunted keyword or forced effects on your location. It cannot ignore constant effects, such as the one on Locked Door.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["60502"],
+        "citation": "faq-2.1",
         "question": "What kind of \"effects of the failed skill test\" does [Neither Rain nor Snow](/card/60502) allow you to cancel?",
         "ruling": "Neither Rain nor Snow may cancel effects that trigger during Steps 6 & 7 of a failed skill test. This may include keywords such as alert, retaliate, and haunted, as well as negative effects on the scenario reference card that might trigger as a result of the failed skill test.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["05032", "05280", "05015", "05004"],
+        "citation": "faq-2.1",
         "question": "How does the \"for each\" or \"for every\" ruling work with a card that allows me to ignore an effect, such as [Deny Existence](/card/05032)?",
         "ruling": "Deny Existence only allows you to ignore a single effect, such as one instance of horror, or one instance of discarding cards. Whether an effect is a \"single cumulative effect\" or \"separate effects\" depends on whether the effect forces the investigator to make a choice.\nFor example, [Terrible Secret](/card/05015) must be resolved as \"separate effects\", because the investigator is choosing whether to discard or take 1 horror for each card beneath [Diana Stanley](/card/05004). Deny Existence can only ignore discarding one card or taking one horror; it cannot ignore all horror or all cards that would be discarded, as these are separate effects.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["09009", "08094", "08096", "08014a"],
+        "citation": "faq-2.1",
         "question": "When a card such as [Grappling Hook](/card/09009) or [Sledgehammer](/card/08094) instructs me to perform a different number of actions than the cost of the ability, how do I determine how many actions I have performed for the purposes of card effects?",
         "ruling": "When resolving an ability, the investigator is considered to have performed as many actions as specified by the effect. For example, Grappling Hook or [Discipline](/card/08014a) instruct you to perform 3 different actions. Regardless of the cost paid to initiate the ability, you have performed 3 actions (assuming you took each available action). Conversely, an investigator activating the second ability on Sledgehammer has only performed one action, although they spent two actions to do so.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["08100", "60317"],
+        "citation": "faq-2.1",
         "question": "If an effect allows you to take or perform multiple consecutive actions, such as with [Eon Chart](/card/08100) or [Nimble](/card/60317), are there player windows between these actions where I'd be able to play a fast card or resolve a free triggered ability?",
         "ruling": "No, there are no player windows between multiple consecutive actions.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["08070", "08090", "08092", "06244", "54008"],
+        "citation": "faq-2.1",
         "question": "What does it mean to treat [True Magick](/card/08070) as a revealed [[Spell]] asset?",
         "ruling": "When you reveal a [[Spell]] asset using True Magick's ability, True Magick essentially becomes a copy of the revealed asset, including its cost, name, text box, and [[Trait]]s. Charges on True Magick may be spent while resolving that asset's abilities. For example, when resolving the ability on [Brand of Cthugha](/card/08090), you may spend charges from True Magick to deal that much damage for your attack.\nAs True Magick copies the revealed asset's traits, it may interact with abilities such as the reaction ability on [Twila Katherine Price](/card/06244) and [Sign Magick](/card/54008).",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06015a", "06004"],
+        "citation": "faq-2.1",
         "question": "Can an enemy spawn or move into Dream Gate while [Luke Robinson](/card/06004) is at [Dream-Gate](/card/06015a)?",
         "ruling": "Enemies cannot spawn at Dream-Gate. If an enemy would spawn at Luke Robinson's location while he is at Dream-Gate, it is discarded instead. If Luke Robinson moves into Dream-Gate while engaged with an enemy, that enemy disengages (but does not exhaust) and does not move with him. While at Dream-Gate, Luke Robinson cannot be chosen as an investigator for the purposes of enemy movement.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06015a", "06004", "04089"],
+        "citation": "faq-2.1",
         "question": "If [Luke Robinson](/card/06004) has [Entombed](/card/04089) in his threat area when the <b>Forced</b> effect on [Dream-Gate](/card/06015a) triggers, what happens?",
         "ruling": "While Entombed would prevent Luke Robinson from moving, an investigator cannot be at \"no location\" unless explicitly stated. When Dream-Gate's forced effect would move Luke Robinson at the investigation phase, you may ignore the effect on Entombed long enough to place Luke in a revealed location.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["09123", "04149", "10032"],
+        "citation": "faq-2.1",
         "question": "How does the ability of [Soul Sanctification](/card/09123) interact with [Second Wind](/card/04149) when I have either 1 or no damage on my investigator?",
         "ruling": "Soul Sanctification grants you the ability to heal damage or horror in excess of a target's maximum health or sanity. Normally, you would not be able to play Second Wind when you have no damage on your investigator, but with Soul Sanctification, you can play Second Wind when you have no damage on your investigator to place 2 offerings on Soul Sanctification. (Note: You will still draw 1 card from Second Wind's effect if you used it to place charges on Soul Sanctification).",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["05320", "03012"],
+        "citation": "faq-2.1",
         "question": "Does the ability on [Double, Double](/card/05320) allow me to replay an event that removes itself from the game such as [The Painted World](/card/03012)?",
         "ruling": "No. While Double, Double's [reaction] ability allows you to replay an event \"as if it were in your hand\", it does not allow you to replay an event that has removed itself from the game as part of its effect.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["08059"],
+        "citation": "faq-2.1",
         "question": "Can [Down the Rabbit Hole](/card/08059) reduce the experience cost to upgrade a customizable card?",
         "ruling": "Yes. Spending experience on a customizable card's upgrade sheet counts as upgrading that card. You may only use Down the Rabbit Hole's effect once per customizable card when upgrading between scenarios.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["08059"],
+        "citation": "faq-2.1",
         "question": "When purchasing level 0 cards to reach legal deck size, does [Down the Rabbit Hole](/card/08059) increase the cost to purchase those cards?",
         "ruling": "No, when purchasing level 0 cards to reach a legal deck size, those cards cost 0 XP until reaching a legal deck size again, even if the investigator has included Down the Rabbit Hole in their deck.",
-        "citation": "faq-2.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["04236", "53010"],
+        "citation": "faq-2.2",
         "question": "[On Your Own](/card/04236) and [On Your Own](/card/53010) are the same level, although the latter has the exceptional keyword. Can I upgrade the former into the latter version?",
         "ruling": "Yes, you can upgrade the version of On Your Own without exceptional into the version with exceptional by spending 3 experience.",
-        "citation": "faq-2.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["09042"],
+        "citation": "faq-2.4",
         "question": "Can I use the [reaction] ability on [The Raven Quill](/card/09042) to mark additional checkboxes on its upgrade sheet beyond my deckbuilding access?",
         "ruling": "No. A customizable card's level is equal to half the total number of checked boxes, rounded up. For example, if your investigator has deckbuilding access to Seeker ([seeker]) cards level 0-2, you cannot choose to mark more than 4 checkboxes on The Raven Quill's upgrade sheet.",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["09101"],
+        "citation": "faq-2.2",
         "question": "Can I commit [Grizzled](/card/09101) when investigating a location that has one of its chosen traits?",
         "ruling": "Yes. Location cards are onsidered a type of encounter card, so if a location has one of the chosen traits for Grizzled, you can commit Grizzled to the investigation skill test.",
-        "citation": "faq-2.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["90046", "09100"],
+        "citation": "faq-2.2",
         "question": "I'm playing [Parallel \"Ashcan\" Pete](/card/90046) and my [Makeshift Trap](/card/09100) in play has the Explosive Device upgrade with no \"time\" left. Can I use Pete's ability to return it to my hand and still deal damage?",
         "ruling": "No. Using Parallel Pete's [reaction] ability on Makeshift Trap replaces the discarding of Makeshift Trap, meaning its Explosive Device upgrade ability cannot resolve.",
-        "citation": "faq-2.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["10010"],
+        "citation": "faq-2.2",
         "question": "If I activate the [action] ability on [Beguile](/card/10010), will I provoke attacks of opportunity if I choose to investigate?",
         "ruling": "No. The [action] ability on Beguile is one action that is multiple types simultaneously; it always has the \"parley\" action type in addition to its other types (activate/investigate/evade), so it never triggers attacks of opportunity.",
-        "citation": "faq-2.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["10010"],
+        "citation": "faq-2.4",
         "question": "If I have a copy of [Beguile](/card/10010) attached to an enemy at a different location than me, what happens if I choose to activate Beguile's [action] ability to perform an evade action there?",
         "ruling": "If you choose to activate Beguile's [action] ability and evade, you can choose any enemy at the attached enemy's location (including the attached enemy itself) and perform an evasion test against that enemy's evade value. If you succeed, exhaust that enemy and disengage it from all investigators (and if you fail, discard that copy of Beguile per its ability). If the targeted enemy has the alert keyword and you fail, that enemy attacks you, even though you are not at its location.",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["89001"],
+        "citation": "faq-2.2",
         "question": "When playing [Subject 5U-21/\"Suzi\"](/card/89001), can I devour permanents,investigator cards, investigator mini-cards, or weaknesses?",
         "ruling": "Suzi cannot devour permanents, investigator cards, or investigator minicards. However, Suzi can devour certain weakness cards, specifically ones that enter play under their bearer's control and that don't have any abilities preventing them from leaving play.",
-        "citation": "faq-2.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["89001", "09121", "09119"],
+        "citation": "faq-2.2",
         "question": "When playing [Subject 5U-21/\"Suzi\"](/card/89001), can I play [Refine](/card/09121) to upgrade customizable cards during a scenario?",
         "ruling": "Generally no. By default, Suzi can only upgrade cards from a class via the ability on the back of her investigator card, meaning she can't use Refine on most cards. The one exception is [Hyperphysical Shotcaster](/card/09119); Suzi can use Refine on the Shotcaster because it's a neutral customizable card.",
-        "citation": "faq-2.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["89001"],
+        "citation": "faq-2.4",
         "question": "Given her unique deckbuilding, how can I play [Subject 5U-21/\"Suzi\"](/card/89001) in standalone mode?",
         "ruling": "When playing Suzi in standalone mode, you may choose to embrace the chaos! After building a level 0 deck (following all deckbuilding restrictions), randomly choose cards with level 1-5 from your collection to upgrade her deck. Continue this process until your deck contains your desired amount of experience. <i>(This process may be accomplished by shuffling 1 copy of each leveled card in your collection together.)</i>",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["09071", "09116", "05186", "05011"],
+        "citation": "faq-2.2",
         "question": "What types of abilities can cause me to trigger the [reaction] ability on [Stylish Coat](/card/09071)?",
         "ruling": "The [reaction] ability on Stylish Coat can be used when a card effect specifically instructs you to \"gain\" resources, such as with [Salvage](/card/09116). Any other card abilities that \"place\" resources, such as with [.45 Thompson](/card/05186), or \"move\" resources from one card to another or from one card to your resource pool, such as the ability on [Family Inheritance](/card/05011), do not trigger Stylish Coat's ability.",
-        "citation": "faq-2.2"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["60117", "60132"],
+        "citation": "faq-2.3",
         "question": "If I use [One-Two Punch](/card/60117) on an enemy with the elusive keyword, and that enemy leaves my location after the first attack, does the rest of the attack resolve?",
         "ruling": "Yes. If an investigator uses an ability that allows them to perform sequential attacks against a ready enemy with the elusive keyword, they resolve each of those attacks against that enemy in succession, even if that enemy changes location while the ability resolves.",
-        "citation": "faq-2.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["08064"],
+        "citation": "faq-2.3",
         "question": "Can I play [Foresight](/card/08064) while resolving an effect that instructs me to draw multiple cards simultaneously? What about while resolving an effect that lets me search my deck for a card and draw it?",
         "ruling": "Yes to both. You can play Foresight before drawing multiple simultaneous cards, and if the card that you name is among the drawn cards, you may resolve the choice on Foresight for that one card. You can also play Foresight while resolving an effect that has you search your deck for a card, however, you must name the card you're drawing before searching your deck.",
-        "citation": "faq-2.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["10043", "60213", "60223"],
+        "citation": "faq-2.5",
         "question": "When an act or agenda instructs the players to reveal or put a new location into play, who is considered to have revealed it or put it into play for the purposes of card effects such as [Mouse Mask](/card/10043) or [Whitton Greene](/card/60213) that trigger \"after you put a location into play?\"",
         "ruling": "Because acts and agendas are advanced by the players, as a group, each investigator is considered to have put the location(s) into play.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["10030"],
+        "citation": "faq-2.3",
         "question": "When a card ability allows me to resolve an ability \"without paying its [action] cost\" such as on [Hand-Eye Coordination](/card/10030) does it allow me to avoid paying all [action] costs?",
         "ruling": "If instructed to resolve an ability \"without paying its [action] cost,\" the investigator ignores only the first \"[action]\" in the ability cost, if any. For each additional \"[action]\" beyond the first, the investigator must spend an action to activate that ability. The investigator must also pay any other costs required for the ability.",
-        "citation": "faq-2.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["10028", "10010"],
+        "citation": "faq-2.3",
         "question": "If I use [Eldritch Tongue](/card/10028) to play an event that attaches to another card, such as [Beguile](/card/10010), when does that event get removed from the game?",
         "ruling": "An event that attaches to another card is considered \"resolved\" when all abilities and effects triggered by it entering play resolve, including its attachment effect. If you play Beguile using Eldritch Tongue, Beguile will attach to the enemy, then immediately get removed from the game.",
-        "citation": "faq-2.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["10085", "10098", "05158", "05322", "10107"],
+        "citation": "faq-2.3",
         "question": "If I use the ability on [Rod of Carnamagos](/card/10085) within a free player window of a skill test, does that count as chaos tokens revealed \"during\" that test?",
         "ruling": "Yes, the tokens revealed with Rod of Carnamagos this way are revealed \"during\" the skill test, and can trigger abilities like the ones on [Sixth Sense](/card/05158) or [Servant of Brass](/card/10107). However, the tokens revealed with Rod of Carnamagos have no effect outside of these abilities, and are ignored at all other points of the skill test; they have no modifiers, no auto-success or auto-fail effect, etc.",
-        "citation": "faq-2.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["10115"],
+        "citation": "faq-2.3",
         "question": "If a card ability allows me to move damage/horror to another card, can I move that damage/horror to a card without a health or sanity value?",
         "ruling": "No. An effect that can \"move\" damage/horror from one card to another - such as [Wrong Place, Right Time](/card/10115) - must move that damage/horror to a card that has a health or sanity value, respectively.",
-        "citation": "faq-2.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-2.4",
         "question": "Does an effect that moves damage/horror from one card to another count as \"healing\" the damage or horror?",
         "ruling": "No. Moving tokens does not count as healing for the purpose of card effects.",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06239"],
+        "citation": "faq-2.3",
         "question": "Do parley actions count as actions for the purpose of card abilities such as [Haste](/card/06239)?",
         "ruling": "Yes. Parley is its own unique action type. You could trigger Haste's [reaction] ability after taking two parley actions.",
-        "citation": "faq-2.3"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["90081", "10024", "90038", "07225", "10013"],
+        "citation": "faq-2.4",
         "question": "When can I use [parallel Father Mateo](/card/90081)'s [reaction] ability?",
         "ruling": "When an investigator with a [bless] token sealed on them would reveal a chaos token for any reason (either via a skill test or when resolving a card such as [Absolution](/card/10024), you may trigger Father Mateo's [reaction] ability for that investigator to use the [bless] token sealed on them for that skill test or card ability (this counts either as \"revealing\" or \"resolving\" the token for the purposes of that ability).\nThis interpretation may also be applied to cards such as [Tidal Memento](/card/90038), [Eye of the Djinn](/card/07225), and [Book of Living Myths](/card/10013).",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11007", "11008", "01043", "01543"],
+        "citation": "faq-2.4",
         "question": "When my turn ends, can I use [Agatha Crane](/card/11007)'s [reaction] ability to play an event that normally can only be played during my turn?",
         "ruling": "You resolve Agatha Crane's ability at the end of your turn, which is still during your turn. So you could play an event such as [Cryptic Research](/card/01043) with the text \"Fast. Play only during your turn.\"",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11014", "98019", "11073"],
+        "citation": "faq-2.4",
         "question": "When [Gloria Goldberg](/card/11014) chooses the order in which investigators draw from the encounter deck during the mythos phase, are these cards drawn all at once and distributed in the chosen order, or are they drawn and resolved one at a time?",
         "ruling": "The encounter cards are drawn and resolved one at a time. By extension, [Eye of Ghatanothoa](/card/11073) allows you to see each encounter card in turn before distributing these encounter cards.",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11017", "11019"],
+        "citation": "faq-2.4",
         "question": "If I'm playing [George Barnaby](/card/11017) and I draw [Cast Adrift](/card/11019) during the upkeep phase, when and how is my hand size calculated?",
         "ruling": "George Barnaby's first ability is a constant ability. If the number of cards beneath George Barnaby changes, your maximum hand size immediately changes to the new number.\nIf you draw Cast Adrift during step 4.4 of the upkeep phase, you immediately discard each card beneath George Barnaby, which sets your maximum hand size to 0. You can then trigger George's [reaction] ability to place 1 discarded card beneath him and draw 1 card, setting your maximum hand size to 1. Then at step 4.5 of the upkeep phase, your hand size is equal to your current maximum.",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11062"],
+        "citation": "faq-2.4",
         "question": "Since the upgraded [Robert Castiagne](/card/11062)'s [fast] ability states I \"may\" discard the revealed asset or play it, can I choose neither option?",
         "ruling": "Correct. The \"may\" in his [fast] ability means that you can choose to do one of the two options, or neither of them.",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11076", "04002", "08004", "08005"],
+        "citation": "faq-2.4",
         "question": "Can I still use my investigator's signature cards after using [Transfiguration](/card/11076) to treat the front of my investigator card as if it were a different investigator card?",
         "ruling": "Yes. You are considered to be both investigators; the front of your investigator card is treated as the new investigator, but the back is still the old investigator. If you transfigure from [Norman Withers](/card/08004) into [Ursula Downs](/card/04002), you can still play your signature [Livre d'Eibon](/card/08005).",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11076"],
+        "citation": "faq-2.4",
         "question": "If I use [Transfiguration](/card/11076) and have cards placed beneath my investigator, what happens to those cards?",
         "ruling": "Any cards placed beneath your investigator would remain there after using Transfiguration. If the new investigator card interacts with cards in the same state (faceup/facedown beneath the investigator card), the new investigator can interact with those cards.",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11125"],
+        "citation": "faq-2.4",
         "question": "If I use [Memories of Another Life](/card/11125) to play a card that summons 1 or more bonded cards, can I summon those cards even though they were not set aside at the beginning of the game?",
         "ruling": "Yes. Although bonded cards should normally be set aside when the game begins, you would set any corresponding bonded cards aside, out of play, when you play a card with Memories of Another Life.",
-        "citation": "faq-2.4"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-2.5",
         "question": "What happens when an enemy with the patrol keyword is already at its target location at the start of the enemy phase?",
         "ruling": "If a patrol enemy is at the target location indicated by its patrol ability at the start of step 3.2 of the enemy phase, that enemy does not move.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["10047"],
+        "citation": "faq-2.5",
         "question": "When playing [Testing Sprint](/card/10047), do I stop investigating when I fail one time, or when I finish succeeding or failing to investigate each eligible location?",
         "ruling": "The former. If you fail one investigate test before you've investigated each eligible location, you do not continue investigating other locations.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11017", "60205", "10109"],
+        "citation": "faq-2.5",
         "question": "Can [George Barnaby](/card/11017)'s hand size be modified further beyond what his ability states?",
         "ruling": "Yes. While George Barnaby's ability sets his base maximum hand size to be equal to the number of facedown cards beneath him (rather than the default value of 8), this value can then be modified by other abilities. (e.g. [Arcane Enlightenment](/card/60205), [Pelt Shipment](/card/10109), etc.)",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11068b"],
+        "citation": "faq-2.5",
         "question": "What happens if the [Lost Homunculus](/card/11068b) attempts to exile a card from their deck?",
         "ruling": "Exiling a card or removing a card from the game as a cost cannot be canceled or ignored. Therefore, the Lost Homunculus will successfully exile the card in question. Note that if they do so, they are not able to purchase any cards when the scenario ends, and they have no defined \"legal deck size\" to maintain.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["06156"],
+        "citation": "faq-2.5",
         "question": "If I only resolve the surge keyword on a treachery, can I still play [\"Fool me once...\"](/card/06156) and attach the treachery to it?",
         "ruling": "Yes, resolving the surge keyword on a treachery counts as resolving an effect of the card.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-2.5",
         "question": "If I exile the last copy of an upgraded customizable card from my deck, would it retain those upgrades if I repurchase the card?",
         "ruling": "No. If all copies of a customizable card are removed from your deck, any upgrades on the upgrade sheet are also removed. If those cards are later repurchased, treat them as newly purchased cards with blank upgrade sheets.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-2.5",
         "question": "If I have 2 copies of an upgraded customizable card in my deck, and exile 1 of them, what would be the experience cost to repurchase that card?",
         "ruling": "You have two options to repurchase an exiled customizable card: either paying the cost of the card as indicated by its upgrade sheet, or if you're able spending experience on the card's upgrade sheet to add a copy of that card for free to your deck.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["10067"],
+        "citation": "faq-2.5",
         "question": "Does [Fox Mask](/card/10067) replenish an offering when an enemy moves with me (for example, if I am engaged with an enemy and take a move action)?",
         "ruling": "No. For Fox Mask to replenish an offering, there must be an enemy remaining in the location you moved out of.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-2.5",
         "question": "Does an enemy exhaust when an effect causes it to attack \"as if it were the enemy phase?\" What about an effect that causes an enemy to attack without that text?",
         "ruling": "Yes, if an enemy attacks \"as if it were the enemy phase,\" it will exhaust after attacking. However, if an effect causes an enemy to attack without that phrasing, the enemy does not exhaust after attacking.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["60117", "60132"],
+        "citation": "faq-2.5",
         "question": "If I initiate a skill test at a given location, then trigger an effect that causes me to move before that test finishes resolving, what happens to that skill test?",
         "ruling": "Once you initiate a skill test or ability, you'll resolve that test or ability as completely as possible, regardless of your location (unless another effect cancels or interrupts it). For example, if you attacked an elusive enemy with [One-Two Punch](/card/60117), you could attack that same enemy with the card's second fight, even though it has moved to a connecting location.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-2.5",
         "question": "If I play or take control of another investigator's customizable card, does that card retain its upgrades?",
         "ruling": "Yes. Any upgrades purchased for a customizable card by its owner are considered to be printed on that card, regardless of who plays or controls it.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
+        "citation": "faq-2.5",
         "question": "If an effect allows me to play a card \"at no cost,\" does that mean all resource costs, additional costs, etc. are ignored?",
         "ruling": "No. Playing a card \"at no cost\" only ignores its resource cost. Any additional costs applied to the card must still be paid.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11067", "11069"],
+        "citation": "faq-2.5",
         "question": "If I use [Katarina Sojka](/card/11069)'s ability while revealing tokens with [Eyes of the Dreamer](/card/11067), does Katarinas ability to \"ignore\" unresolved tokens combo with Eyes checking \"ignored\" tokens for a match?",
         "ruling": "Yes. A token ignored via Katarina Sojka's ability counts as \"an ignored token\" for Eyes of the Dreamer's ability.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["11010"],
+        "citation": "faq-2.5",
         "question": "How does [Glimpse the Void](/card/11010) interact with other abilities that reveal tokens?",
         "ruling": "Glimpse the Void causes you to reveal and resolve 1 additional token on top of any you would normally reveal and resolve by/for the test or effect. This token is targeted, chosen, or ignored separately from the other token(s) revealed by/for the test or effect.",
-        "citation": "faq-2.5"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["12001", "12028"],
+        "citation": "grimoire-1.1",
         "question": "Can [Daniela Reyes](/card/12001) use her [reaction] ability to trigger the [action][action] ability on [Sledgehammer](/card/12028)",
         "ruling": "When resolving Daniela's [reaction] ability, she is considered to immediately gain and then spend a single action on either a basic fight action or an eligible <b>Fight</b> ability on a card, even if it is not currently her turn. In order to pay the additional action cost of Sledgehammer's [action][action] ability, she must therefore have an additional action currently available to spend. This means that Daniela's [reaction] ability can be used to trigger [action][action] abilities, but only during her turn and only if she spends the second action required from her pool for the turn; at all other times, she is limited to abilities with a single action cost.",
-        "citation": "grimoire-1.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["12001", "12008"],
+        "citation": "grimoire-1.1",
         "question": "Can the [reaction] abilities on [Daniela Reyes](/card/12001) or [Service Revolver](/card/12008) target an enemy that attacked from a different location, or which has moved to a different location after attacking as a result of the elusive keyword?",
         "ruling": "Yes. Both of the above [reaction] abilities specifically target the enemy which performed the triggering attack, overriding the normal targeting rules of a fight action and allowing them to attack even an enemy that is presently at a different location.",
-        "citation": "grimoire-1.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["60551", "60553", "60559", "60581", "12025", "60176"],
+        "citation": "grimoire-1.1",
         "question": "What cards can [Miguel de la Cruz](/card/60551) use to help fight or evade his signature weakness, the [Feline Hybrid](/card/60553)?",
         "ruling": "The Feline Hybrid's immunity to player card effects means that it cannot be directly affected or targeted by an ability on a player card. For example, Miguel could not attack the Feline Hybrid with the [action] ability on [Pocketknife](/card/60559), as the resulting Fight action would attempt to target the Hybrid. Similarly, while he can trigger [Makeshift Bomb](/card/60581) in response to the Hybrid entering its location, it would deal no damage to the Hybrid as the player card effect itself is the one attempting to place that damage. However, if Miguel were to attempt a basic fight action against the Hybrid, a card like Vicious Blow could still be committed to his test and resolve its full effects, as Vicious Blow's +1 damage targets and modifies the basic fight action Miguel is performing, not the Hybrid.",
-        "citation": "grimoire-1.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["60451", "60453"],
+        "citation": "grimoire-1.1",
         "question": "Can [Marie Lambeau](/card/60451) heal or be healed by another investigator while [Called to Guinée](/card/60453)?",
         "ruling": "While Called to Guinée is in Marie's threat area, no ability or effect she controls can heal damage from any card. However, this does not prevent another investigator, or a scenario effect, from healing her or a card she controls.",
-        "citation": "grimoire-1.1"
+        "type": "faq"
     },
     {
-        "type": "faq",
         "card_codes": ["60564", "60576"],
+        "citation": "grimoire-1.1",
         "question": "Can Guerrilla Tactics be used to fight or evade an unengaged enemy with the aloof keyword?",
         "ruling": "Yes, but only if that enemy is at a connecting location. Guerrilla Tactics's ability has the option to resolve \"as if\" you are engaged with an enemy at a connecting location. If that enemy is aloof, this effect causes the play restriction applied by aloof to be fulfilled. However, if you do not choose to target an enemy at a connecting location, you also do not apply the \"as if\" effect and therefore cannot target an aloof enemy at your location with either test.",
-        "citation": "grimoire-1.1"
+        "type": "faq"
     }
 ]

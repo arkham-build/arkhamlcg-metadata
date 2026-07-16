@@ -1,10 +1,10 @@
 [
     {
-        "section": "modified_reprints",
+        "citation": "grimoire-1.0",
         "id": "13.001",
         "position": 1,
-        "title": "Modified Reprints",
+        "section": "modified_reprints",
         "text": "Some cards from previous releases may reappear in future products. Most of these cards are reprinted as written (or with appropriate formatting updates), but a few have been altered from their previous versions such that they are mechanically distinct.\n\nThese are known as <b>modified reprints</b>. They adjust classic cards to fit a new environment, while keeping the identity and spirit of those cards intact.\n- If a player has two versions of the same card from different products, and they are mechanically distinct, only one version of that card (either the original, or the modified reprint) may be used in a deck.\n  - This is independent of how many copies of that card a player is permitted to include in their deck.\n\nThe following is a list of modified reprints:\n- [Machete](/card/12020)\n- [Laboratory Assistant](/card/12032)\n- [Premonition](/card/12064)\n- [Ward of Protection](/card/12065)\n- [Meat Cleaver](/card/12077)\n- [Guts](/card/12090)\n- [Manual Dexterity](/card/12091)\n- [Overpower](/card/12092)\n- [Perception](/card/12093)",
-        "citation": "grimoire-1.0"
+        "title": "Modified Reprints"
     }
 ]

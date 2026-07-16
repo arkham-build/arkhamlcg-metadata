@@ -1,30 +1,30 @@
 import { z } from "zod";
 
 const commonGrimoireShape = {
-    section: z
+    citation: z
         .string()
-        .describe("Code of the Grimoire section containing the entry."),
+        .describe(
+            "Citation code identifying the source document version. (e.g. faq-1.9 or grimoire-1.0)",
+        ),
     id: z.string().describe("Unique identifier for the Grimoire entry."),
     position: z
         .number()
         .int()
         .min(1)
         .describe("Display position within the section."),
-    title: z.string().describe("Display title of the Grimoire entry."),
-    citation: z
+    section: z
         .string()
-        .describe(
-            "Citation code identifying the source document version. (e.g. faq-1.9 or grimoire-1.0)",
-        ),
+        .describe("Code of the Grimoire section containing the entry."),
+    title: z.string().describe("Display title of the Grimoire entry."),
 };
 
 const grimoireTextEntrySchema = z.strictObject({
     ...commonGrimoireShape,
-    text: z.string().optional().describe("Body text of the Grimoire entry."),
     references: z
         .array(z.string())
         .optional()
         .describe("Identifiers of related Grimoire entries."),
+    text: z.string().optional().describe("Body text of the Grimoire entry."),
 });
 
 const grimoireFaqEntrySchema = z.strictObject({

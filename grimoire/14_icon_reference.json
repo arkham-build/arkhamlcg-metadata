@@ -1,42 +1,42 @@
 [
     {
-        "section": "icon_reference",
+        "citation": "grimoire-1.0",
         "id": "14.001",
         "position": 1,
-        "title": "Campaign Product Icons",
+        "section": "icon_reference",
         "text": "This section lists each campaign along with their associated icon so players can tell, at a glance, what campaign a particular card is from.\n- AHC100 Core Set (Brethren of Ash)",
-        "citation": "grimoire-1.0"
+        "title": "Campaign Product Icons"
     },
     {
-        "section": "icon_reference",
+        "citation": "grimoire-1.0",
         "id": "14.002",
         "position": 2,
-        "title": "Investigator Deck Product Icons",
+        "section": "icon_reference",
         "text": "This section lists each investigator deck along with their associated icon so players can tell, at a glance, what product a particular card is from.\n- AHC101 Tommy Muldoon\n- AHC102 Carolyn Fern\n- AHC103 André Patel\n- AHC104 Marie Lambeau\n- AHC105 Miguel de la Cruz",
-        "citation": "grimoire-1.0"
+        "title": "Investigator Deck Product Icons"
     },
     {
-        "section": "icon_reference",
+        "citation": "grimoire-1.0",
         "id": "14.003",
         "position": 3,
-        "title": "Deckbuilding Expansion Product Icons",
+        "section": "icon_reference",
         "text": "This section lists each deckbuilding expansion along with its associated icon so players can tell, at a glance, which product a particular card is from.",
-        "citation": "grimoire-1.0"
+        "title": "Deckbuilding Expansion Product Icons"
     },
     {
-        "section": "icon_reference",
+        "citation": "grimoire-1.0",
         "id": "14.004",
         "position": 4,
-        "title": "Investigator Expansion Product Icons",
+        "section": "icon_reference",
         "text": "This section lists each investigator expansion along with its associated icon so players can tell, at a glance, which product a particular card is from.",
-        "citation": "grimoire-1.0"
+        "title": "Investigator Expansion Product Icons"
     },
     {
-        "section": "icon_reference",
+        "citation": "grimoire-1.0",
         "id": "14.005",
         "position": 5,
-        "title": "Scenario Pack Icons",
+        "section": "icon_reference",
         "text": "This section lists each scenario pack along with its associated icon so players can tell, at a glance, which product a particular card is from.",
-        "citation": "grimoire-1.0"
+        "title": "Scenario Pack Icons"
     }
 ]

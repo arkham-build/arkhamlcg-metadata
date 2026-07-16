@@ -27,18 +27,18 @@ function jsonFiles(directory: string, excludedFiles: string[] = []): string[] {
 
 const datasets: Array<{ schema: ZodType; files: string[] }> = [
     {
-        schema: campaignSchema,
         files: [join(projectRoot, "campaigns/campaigns.json")],
+        schema: campaignSchema,
     },
-    { schema: errataSchema, files: jsonFiles("errata") },
-    { schema: faqSchema, files: jsonFiles("faqs") },
+    { files: jsonFiles("errata"), schema: errataSchema },
+    { files: jsonFiles("faqs"), schema: faqSchema },
     {
-        schema: grimoireSchema,
         files: jsonFiles("grimoire", ["sections.json"]),
+        schema: grimoireSchema,
     },
     {
-        schema: scenarioSchema,
         files: [join(projectRoot, "scenarios/scenarios.json")],
+        schema: scenarioSchema,
     },
 ];
 

@@ -45,7 +45,7 @@
         "id": "2.006",
         "position": 6,
         "title": "Scenario Resolution",
-        "text": "When any encounter card triggers a resolution - indicated by the text \"<b>(→R#)</b>\" - players have completed the scenario and they must refer to the resolution text matching that number in the campaign guide to discover the outcome of the current scenario.\n\nShould all investigators be eliminated during a scenario, use the \"if no resolution was reached\" outcome for that scenario in the campaign guide.\n- If for whatever reason an investigator is not defeated during an agenda flip and there are no remaining agendas, that investigator is defeated and suffers 1 mental or 1 physical trauma.",
-        "citation": "grimoire-1.0"
+        "text": "When any scenario card directs players to a resolution - indicated by the text \"<b>(→R#)</b>\" - they have completed the scenario. They must then refer to the resolution text matching that number in the campaign guide to discover the outcome of the current scenario.\n\nShould all investigators be eliminated during a scenario, use the \"if no resolution was reached\" outcome for that scenario in the campaign guide.\n- If for whatever reason an investigator is not defeated during an agenda flip and there are no remaining agendas, that investigator is defeated and suffers 1 mental or 1 physical trauma.",
+        "citation": "grimoire-1.1"
     }
 ]

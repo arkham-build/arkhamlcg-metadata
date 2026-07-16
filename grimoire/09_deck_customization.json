@@ -29,9 +29,9 @@
         "id": "9.004",
         "position": 4,
         "title": "Card Levels",
-        "text": "A card's level is indicated by the presence of white pips beneath its cost. The card level is equal to the number of such pips on the card.\n\nIn campaign play, investigators may be rewarded with experience points upon the completion of a scenario. Investigators may spend these points to purchase higher level cards to use in their decks during that campaign.\n- As most investigators begin each campaign with 0 experience, most investigator decks are first built using only level 0 cards.\n- Some investigator cards, notably investigator signature cards, do not have a level.\n\n![Example card level](deck_customization_card_levels.png)",
+        "text": "A card's level is indicated by the presence of white pips beneath its cost. The card level is equal to the number of such pips on the card.\n\nIn campaign play, investigators may be rewarded with experience points upon the completion of a scenario. Investigators may spend these points to purchase higher level cards to use in their decks during that campaign.\n- As most investigators begin each campaign with 0 experience, most investigator decks are first built using only level 0 cards.\n- Some player cards, such as investigator signature cards, do not have a level.\n\n![Example card level](deck_customization_card_levels.png)",
         "references": ["8.007"],
-        "citation": "grimoire-1.0"
+        "citation": "grimoire-1.1"
     },
     {
         "section": "deck_customization",

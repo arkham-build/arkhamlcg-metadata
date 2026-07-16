@@ -809,14 +809,14 @@
     {
         "card_codes": ["12001", "12028"],
         "citation": "grimoire-1.1",
-        "question": "Can [Daniela Reyes](/card/12001) use her [reaction] ability to trigger the [action][action] ability on [Sledgehammer](/card/12028)",
+        "question": "Can [Daniela Reyes](/card/12001) use her [reaction] ability to trigger the [action][action] ability on [Sledgehammer](/card/12028)?",
         "ruling": "When resolving Daniela's [reaction] ability, she is considered to immediately gain and then spend a single action on either a basic fight action or an eligible <b>Fight</b> ability on a card, even if it is not currently her turn. In order to pay the additional action cost of Sledgehammer's [action][action] ability, she must therefore have an additional action currently available to spend. This means that Daniela's [reaction] ability can be used to trigger [action][action] abilities, but only during her turn and only if she spends the second action required from her pool for the turn; at all other times, she is limited to abilities with a single action cost.",
         "type": "faq"
     },
     {
-        "card_codes": ["12001", "12008"],
+        "card_codes": ["12001", "60158"],
         "citation": "grimoire-1.1",
-        "question": "Can the [reaction] abilities on [Daniela Reyes](/card/12001) or [Service Revolver](/card/12008) target an enemy that attacked from a different location, or which has moved to a different location after attacking as a result of the elusive keyword?",
+        "question": "Can the [reaction] abilities on [Daniela Reyes](/card/12001) or [Service Revolver](/card/60158) target an enemy that attacked from a different location, or which has moved to a different location after attacking as a result of the elusive keyword?",
         "ruling": "Yes. Both of the above [reaction] abilities specifically target the enemy which performed the triggering attack, overriding the normal targeting rules of a fight action and allowing them to attack even an enemy that is presently at a different location.",
         "type": "faq"
     },

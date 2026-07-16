@@ -4150,7 +4150,6 @@
     {
         "name": "Curse of the Rougarou",
         "code": "curse_of_the_rougarou",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "bayou"
@@ -4163,7 +4162,6 @@
     {
         "name": "Carnevale of Horrors",
         "code": "carnevale_of_horrors",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "venice"
@@ -4173,7 +4171,6 @@
     {
         "name": "The Labyrinths of Lunacy",
         "code": "the_labyrinths_of_lunacy",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "in_the_labyrinths_of_lunacy"
@@ -4189,7 +4186,6 @@
     {
         "name": "The Eternal Slumber",
         "code": "the_eternal_slumber",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "the_eternal_slumber"
@@ -4208,7 +4204,6 @@
     {
         "name": "The Night's Usurper",
         "code": "the_nights_usurper",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "the_nights_usurper"
@@ -4227,7 +4222,6 @@
     {
         "name": "Murder at the Excelsior Hotel",
         "code": "murder_at_the_excelsior_hotel",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "murder_at_the_excelsior_hotel"
@@ -4252,7 +4246,6 @@
     {
         "name": "The Blob That Ate Everything",
         "code": "the_blob_that_ate_everything",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "blob"
@@ -4271,7 +4264,6 @@
     {
         "name": "War of the Outer Gods",
         "code": "war_of_the_outer_gods",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "war_of_the_outer_gods"
@@ -4290,7 +4282,6 @@
     {
         "name": "Machinations Through Time",
         "code": "machinations_through_time",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "machinations_through_time"
@@ -4306,7 +4297,6 @@
     {
         "name": "Fortune and Folly",
         "code": "fortune_and_folly",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "fortune_and_folly"
@@ -4322,7 +4312,6 @@
     {
         "name": "The Midwinter Gala",
         "code": "the_midwinter_gala",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "the_midwinter_gala"
@@ -4332,7 +4321,6 @@
     {
         "name": "The Blob That Ate Everything ELSE",
         "code": "the_blob_that_ate_everything_else",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "blob"
@@ -4357,7 +4345,6 @@
     {
         "name": "Film Fatale",
         "code": "film_fatale",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "film_fatale"
@@ -4376,7 +4363,6 @@
     {
         "name": "Read or Die",
         "code": "read_or_die",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "read_or_die"
@@ -4413,7 +4399,6 @@
     {
         "name": "All or Nothing",
         "code": "all_or_nothing",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "all_or_nothing"
@@ -4442,7 +4427,6 @@
     {
         "name": "Bad Blood",
         "code": "bad_blood",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "bad_blood"
@@ -4479,7 +4463,6 @@
     {
         "name": "By the Book",
         "code": "by_the_book",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "by_the_book"
@@ -4510,7 +4493,6 @@
     {
         "name": "Red Tide Rising",
         "code": "red_tide_rising",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "red_tide_rising"
@@ -4545,7 +4527,6 @@
     {
         "name": "Laid to Rest",
         "code": "laid_to_rest",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "laid_to_rest"
@@ -4576,7 +4557,6 @@
     {
         "name": "Relics of the Past",
         "code": "relics_of_the_past",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "relics_of_the_past"
@@ -4617,7 +4597,6 @@
     {
         "name": "Enthralling Encore",
         "code": "enthralling_encore",
-        "campaign_code": null,
         "encounter_sets": [
             {
                 "code": "enthralling_encore"

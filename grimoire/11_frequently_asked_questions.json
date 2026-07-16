@@ -2,6 +2,7 @@
     {
         "section": "frequently_asked_questions",
         "id": "11.000",
+        "position": 1,
         "title": "Frequently Asked Questions",
         "question": null,
         "ruling": "This section provides answers to a number of common questions that are asked about the game. The entries are presented in a question and answer format, with the newest questions at the end of the list.",

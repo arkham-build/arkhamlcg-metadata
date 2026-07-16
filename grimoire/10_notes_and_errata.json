@@ -2,6 +2,7 @@
     {
         "section": "notes_and_errata",
         "id": "10.001",
+        "position": 1,
         "title": "Rulebook Errata",
         "text": "Errata will be added as needed in future Grimoire updates.",
         "citation": "grimoire-1.0"
@@ -9,6 +10,7 @@
     {
         "section": "notes_and_errata",
         "id": "10.101",
+        "position": 2,
         "title": "Campaign Guide Errata",
         "text": "Errata will be added as needed in future Grimoire updates.",
         "citation": "grimoire-1.0"
@@ -17,6 +19,7 @@
         "section": "notes_and_errata",
         "id": "10.201",
         "card_codes": ["12020"],
+        "position": 3,
         "ruling": "This card's ability should read \"If you succeed and the attacked enemy is the only enemy engaged with you...\"",
         "citation": "grimoire-1.1"
     },
@@ -24,6 +27,7 @@
         "section": "notes_and_errata",
         "id": "10.202",
         "card_codes": ["12082"],
+        "position": 4,
         "ruling": "This card's ability should read \"You succeed at that skill test by 0 instead.\"",
         "citation": "grimoire-1.1"
     },
@@ -31,6 +35,7 @@
         "section": "notes_and_errata",
         "id": "10.203",
         "card_codes": ["60178"],
+        "position": 5,
         "ruling": "This card should have a wild skill icon.",
         "citation": "grimoire-1.1"
     },
@@ -38,6 +43,7 @@
         "section": "notes_and_errata",
         "id": "10.204",
         "card_codes": ["60562"],
+        "position": 6,
         "ruling": "This card's ability should read \"Evade that enemy. You get +1 skill value for this evasion.\"",
         "citation": "grimoire-1.1"
     },
@@ -45,6 +51,7 @@
         "section": "notes_and_errata",
         "id": "10.205",
         "card_codes": ["60563"],
+        "position": 7,
         "ruling": "This card's ability should read \"Investigate attached location. You get +1 skill value for this investigation.\"",
         "citation": "grimoire-1.1"
     },
@@ -52,6 +59,7 @@
         "section": "notes_and_errata",
         "id": "10.206",
         "card_codes": ["60566"],
+        "position": 8,
         "ruling": "This card's ability should read “If you succeed, you may discard Lie in Wait for this attack to deal +1 damage.\"",
         "citation": "grimoire-1.1"
     },
@@ -59,6 +67,7 @@
         "section": "notes_and_errata",
         "id": "10.207",
         "card_codes": ["60574"],
+        "position": 9,
         "ruling": "This card's keyword line should read \"If there are no supplies on Hunter's Instinct, discard it.\"",
         "citation": "grimoire-1.1"
     }

@@ -4,7 +4,7 @@
         "id": "14.001",
         "position": 1,
         "section": "icon_reference",
-        "text": "This section lists each campaign along with their associated icon so players can tell, at a glance, what campaign a particular card is from.\n- AHC100 Core Set (Brethren of Ash)",
+        "text": "This section lists each campaign along with their associated icon so players can tell, at a glance, what campaign a particular card is from.\n- <i data-icon='core_2026'></i> AHC100 Core Set (Brethren of Ash)",
         "title": "Campaign Product Icons"
     },
     {
@@ -12,7 +12,7 @@
         "id": "14.002",
         "position": 2,
         "section": "icon_reference",
-        "text": "This section lists each investigator deck along with their associated icon so players can tell, at a glance, what product a particular card is from.\n- AHC101 Tommy Muldoon\n- AHC102 Carolyn Fern\n- AHC103 André Patel\n- AHC104 Marie Lambeau\n- AHC105 Miguel de la Cruz",
+        "text": "This section lists each investigator deck along with their associated icon so players can tell, at a glance, what product a particular card is from.\n- <i data-icon='tom'></i> AHC101 Tommy Muldoon\n- <i data-icon='car'></i> AHC102 Carolyn Fern\n- <i data-icon='and'></i> AHC103 André Patel\n- <i data-icon='mar'></i> AHC104 Marie Lambeau\n- <i data-icon='mig'></i> AHC105 Miguel de la Cruz",
         "title": "Investigator Deck Product Icons"
     },
     {

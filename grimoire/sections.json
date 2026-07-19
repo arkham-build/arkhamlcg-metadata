@@ -20,7 +20,7 @@
     {
         "id": "skill_test_timing",
         "position": 4,
-        "text": "![Skill test timing](skill_test_timing.png)",
+        "text": "<img src='skill_test_timing.png' alt='Skill test timing' height='3517' width='1503'>",
         "title": "Skill Test Timing"
     },
     {

@@ -4,7 +4,7 @@
         "id": "3.100",
         "position": 1,
         "section": "timing_and_gameplay",
-        "text": "<b>During the first round of the game, skip the mythos phase.</b>\n\n![Mythos phase](timing_mythos_phase.png)",
+        "text": "<b>During the first round of the game, skip the mythos phase.</b>\n\n<img src='timing_mythos_phase.png' alt='Mythos phase' height='2737' width='2025'>",
         "title": "1. Mythos Phase"
     },
     {
@@ -52,7 +52,7 @@
         "id": "3.200",
         "position": 7,
         "section": "timing_and_gameplay",
-        "text": "![Investigation phase](timing_investigation_phase.png)",
+        "text": "<img src='timing_investigation_phase.png' alt='Investigation phase' height='3125' width='1723'>",
         "title": "2. Investigation Phase"
     },
     {
@@ -100,7 +100,7 @@
         "id": "3.300",
         "position": 13,
         "section": "timing_and_gameplay",
-        "text": "![Enemy phase](timing_enemy_phase.png)",
+        "text": "<img src='timing_enemy_phase.png' alt='Enemy phase' height='2855' width='1633'>",
         "title": "3. Enemy Phase"
     },
     {
@@ -141,7 +141,7 @@
         "id": "3.400",
         "position": 18,
         "section": "timing_and_gameplay",
-        "text": "![Upkeep phase](timing_upkeep_phase.png)",
+        "text": "<img src='timing_upkeep_phase.png' alt='Upkeep phase' height='2854' width='1467'>",
         "title": "4. Upkeep Phase"
     },
     {

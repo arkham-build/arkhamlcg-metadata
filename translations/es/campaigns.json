@@ -1,65 +1,96 @@
 [
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/01-LaNocheDeLaFanaticaRevisada.pdf",
         "code": "core",
         "name": "La noche de la fanática"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/02-ElLegadoDeDunwichRevisada.pdf",
         "code": "dwl",
         "name": "El legado de Dunwich"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/03-CaminoACarcosaRevisada.pdf",
         "code": "ptc",
         "name": "El camino a Carcosa"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/04-LaEraOlvidadaRevisada.pdf",
         "code": "tfa",
         "name": "La era olvidada"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/05-ElCirculoRotoRevisada.pdf",
         "code": "tcu",
         "name": "El círculo roto"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/06-LosDevoradoresDeSuenosARevisada.pdf",
+        "code": "tde_a",
+        "name": "La Búsqueda Onírica"
+    },
+    {
+        "campaign_guide_url": "https://guides.arkham.build/es/06-LosDevoradoresDeSuenosBRevisada.pdf",
+        "code": "tde_b",
+        "name": "La Red de los Sueños"
+    },
+    {
+        "campaign_guide_url": "https://guides.arkham.build/es/07-LaConspiracionDeInnsmouthRevisada.pdf",
         "code": "tic",
         "name": "La conspiración de Innsmouth"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/08-LosConfinesDeLaTierra.pdf",
         "code": "eoe",
         "name": "Los confines de la Tierra"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/09-LasLlavesEscarlata.pdf",
         "code": "tsk",
         "name": "Las llaves escarlata"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/10-LaFiestaDelValle.pdf",
         "code": "fhv",
         "name": "La fiesta del Valle de la Cicuta"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/11-LaCiudadSumergida.pdf",
         "code": "tdc",
         "name": "La ciudad sumergida"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/12-HermanosDeLasCenizas.pdf",
+        "code": "core_ch2",
+        "name": "Hermanos de las Cenizas"
+    },
+    {
+        "campaign_guide_url": "https://guides.arkham.build/es/13-VastagosSangre.pdf",
         "code": "cob",
         "name": "Vástagos de la sangre"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/50-RegresoALaNocheDeLaFanatica.pdf",
         "code": "rtnotz",
         "name": "Regreso a La noche de la fanática"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/51-RegresoElLegadoDeDunwich.pdf",
         "code": "rtdwl",
         "name": "Regreso a El legado de Dunwich"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/52-RegresoElCaminoACarcosa.pdf",
         "code": "rtptc",
         "name": "Regreso a El camino a Carcosa"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/53-RegresoLaEraOlvidada.pdf",
         "code": "rttfa",
         "name": "Regreso a La era olvidada"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/es/54-RegresoElCirculoRoto.pdf",
         "code": "rttcu",
         "name": "Regreso a El círculo roto"
     }

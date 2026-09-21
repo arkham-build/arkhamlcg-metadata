@@ -1,61 +1,91 @@
 [
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/AHC01_Campaign_Guide_RU.pdf",
         "code": "core",
         "name": "Ночь фанатички"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/KUA_Dunwich_Campaign_Pravila.pdf",
         "code": "dwl",
         "name": "Наследие Данвича"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/Carcosa_CampaignBook_Act.pdf",
         "code": "ptc",
         "name": "Путь в Каркозу"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/zabitaja-jepoha-kampanija.pdf",
         "code": "tfa",
         "name": "Забытая эпоха"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/Narushenny_Krug_Campaign_Rules.pdf",
         "code": "tcu",
         "name": "Нарушенный круг"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/kniga-scenariev-a.pdf",
+        "code": "tde_a",
+        "name": "Cновидческий поиск"
+    },
+    {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/kniga-scenariev-b.pdf",
+        "code": "tde_b",
+        "name": "Паутина грёз"
+    },
+    {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/zagovor-v-insmute-campaign-rules.pdf",
         "code": "tic",
         "name": "Заговор в Инсмуте"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/Uzhas_Arkkhehma_Kartochnaya_igra_Na_krayu_zemli_Kampaniya_Kniga_Scenariev.pdf",
         "code": "eoe",
         "name": "На краю земли"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/KUA_Alye_Klyuchi_Kniga_Scenariev.pdf",
         "code": "tsk",
         "name": "Алые ключи"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/pir-v-hjemlok-vejl-kampanija.pdf",
         "code": "fhv",
         "name": "Пир в Хемлок-Вейл"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/uzhas-arkhema-zatonuvshij-gorod-kampanija-rules-02.pdf",
         "code": "tdc",
         "name": "Затонувший город"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/uzhas-arkhema-2-kniga-scenarijev.pdf",
+        "code": "core_ch2",
+        "name": "Братство пепла"
+    },
+    {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/Noch_fanatichki_vozvrasshenie_Rules.pdf",
         "code": "rtnotz",
         "name": "Ночь фанатички. Возвращение"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/Nasledie_Danvicha_vozvrasshenie_Rules.pdf",
         "code": "rtdwl",
         "name": "Наследие Данвича. Возвращение"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/Put_v_Karkosu_Vozvrasheniye_Pravila.pdf",
         "code": "rtptc",
         "name": "Путь в Каркозу. Возвращение"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/zabitaja-jepoha-vozvrashhenie-rules.pdf",
         "code": "rttfa",
         "name": "Забытая эпоха. Возвращение"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/ru/campaigns/AHC_NK_Vozvrashhenie%20Rules.pdf",
         "code": "rttcu",
         "name": "Нарушенный круг. Возвращение"
     }

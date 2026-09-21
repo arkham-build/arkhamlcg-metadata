@@ -1,790 +1,831 @@
 [
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 2,
         "code": "the_gathering",
         "name": "Встреча"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 4,
         "code": "the_midnight_masks",
         "name": "Полуночные маски"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 6,
         "code": "the_devourer_below",
         "name": "Пожиратель из глубин"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 4,
         "code": "extracurricular_activity",
         "name": "Факультативные занятия"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 6,
         "code": "the_house_always_wins",
         "name": "Казино всегда в выигрыше"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 9,
         "code": "the_miskatonic_museum",
         "name": "Мискатоникский музей"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 11,
         "code": "the_essex_county_express",
         "name": "Экспресс округа Эссекс"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 13,
         "code": "blood_on_the_altar",
         "name": "Кровь на алтаре"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 17,
         "code": "undimensioned_and_unseen",
         "name": "Неизмеримые и невидимые"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 19,
         "code": "where_doom_awaits",
         "name": "Там, где ждёт погибель"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 21,
         "code": "lost_in_time_and_space",
         "name": "Потерянные во времени и пространстве"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 4,
         "code": "curtain_call",
         "name": "Дайте занавес"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 7,
         "code": "the_last_king",
         "name": "Последний король"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 10,
         "code": "echoes_of_the_past",
         "name": "Отголоски прошлого"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 13,
         "code": "the_unspeakable_oath",
         "name": "Невыразимая клятва"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 17,
         "code": "a_phantom_of_truth",
         "name": "Призрак Истины"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 22,
         "code": "the_pallid_mask",
         "name": "Бледная маска"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 25,
         "code": "black_stars_rise",
         "name": "Восход чёрных звёзд"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 28,
         "code": "dim_carcosa",
         "name": "Туманная Каркоза"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 5,
         "code": "the_untamed_wilds",
         "name": "Дремучие джунгли"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 8,
         "code": "the_doom_of_eztli",
         "name": "Погибель Эцтли"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 12,
         "code": "threads_of_fate",
         "name": "Нити Судьбы"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 17,
         "code": "the_boundary_beyond",
         "name": "Потусторонний предел"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 22,
         "code": "pillars_of_judgment",
         "name": "Сердце древних. Часть I"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 23,
         "code": "knyan",
         "name": "Сердце древних. Часть II"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 25,
         "code": "the_city_of_archives",
         "name": "Город архивов"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 29,
         "code": "the_depths_of_yoth",
         "name": "Глубины Йота"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 34,
         "code": "shattered_aeons",
         "name": "Расколотая вечность"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 37,
         "code": "turn_back_time",
         "name": "Обратить время вспять"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 4,
         "code": "disappearance_at_the_twilight_estate",
         "name": "Исчезновение в поместье Сумерек"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 8,
         "code": "the_witching_hour",
         "name": "Час ведьмовства"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 10,
         "code": "at_deaths_doorstep",
         "name": "На пороге смерти"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 16,
         "code": "the_secret_name",
         "name": "Тайное имя"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 19,
         "code": "the_wages_of_sin",
         "name": "Расплата за грехи"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 21,
         "code": "for_the_greater_good",
         "name": "Ради высшего блага"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 26,
         "code": "union_and_disillusion",
         "name": "Единство и разочарование"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 30,
         "code": "in_the_clutches_of_chaos",
         "name": "В когтях Хаоса"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 36,
         "code": "before_the_black_throne",
         "name": "Перед Чёрным престолом"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 5,
         "code": "beyond_the_gates_of_sleep",
         "name": "За вратами сна"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 5,
         "code": "waking_nightmare",
         "name": "Кошмар наяву"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 10,
         "code": "the_search_for_kadath",
         "name": "В поисках Кадата"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 10,
         "code": "a_thousand_shapes_of_horror",
         "name": "Тысяча кошмарных форм"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 16,
         "code": "dark_side_of_the_moon",
         "name": "Тёмная сторона Луны"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 14,
         "code": "point_of_no_return",
         "name": "Точка невозврата"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 20,
         "code": "where_the_gods_dwell",
         "name": "Где обитают боги"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 17,
         "code": "weaver_of_the_cosmos",
         "name": "Плетущая космос"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 4,
         "code": "the_pit_of_despair",
         "name": "Яма отчаяния"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 9,
         "code": "the_vanishing_of_elina_harper",
         "name": "Исчезновение Элины Харпер"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 15,
         "code": "in_too_deep",
         "name": "В пучину"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 19,
         "code": "devil_reef",
         "name": "Риф Дьявола"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 24,
         "code": "horror_in_high_gear",
         "name": "Кошмар на полном ходу"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 27,
         "code": "a_light_in_the_fog",
         "name": "Свет в тумане"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 31,
         "code": "the_lair_of_dagon",
         "name": "Обитель Дагона"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 36,
         "code": "into_the_maelstrom",
         "name": "Сквозь водоворот"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 7,
         "code": "the_crash",
         "name": "Лёд и смерть. Часть I"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 13,
         "code": "lost_in_the_night",
         "name": "Лёд и смерть. Часть II"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 16,
         "code": "seeping_nightmares",
         "name": "Лёд и смерть. Часть III"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 23,
         "code": "fatal_mirage",
         "name": "Роковой мираж"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 27,
         "code": "to_the_forbidden_peaks",
         "name": "К запретным вершинам"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 36,
         "code": "city_of_the_elder_things",
         "name": "Город Старцев"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 50,
         "code": "the_great_seal",
         "name": "Сердце безумия. Часть I"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 56,
         "code": "stirring_in_the_deep",
         "name": "Сердце безумия. Часть II"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 5,
         "code": "riddles_and_rain",
         "name": "Загадки и дождь"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 11,
         "code": "dead_heat",
         "name": "Смертельная жара"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 16,
         "code": "sanguine_shadows",
         "name": "Кровавые тени"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 21,
         "code": "dealings_in_the_dark",
         "name": "Сделки во мраке"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 28,
         "code": "dancing_mad",
         "name": "Безумные танцы"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 33,
         "code": "on_thin_ice",
         "name": "По тонкому льду"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 38,
         "code": "dogs_of_war",
         "name": "Псы войны"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 46,
         "code": "shades_of_suffering",
         "name": "Оттенки страдания"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 56,
         "code": "without_a_trace",
         "name": "Без следа"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 59,
         "code": "congress_of_the_keys",
         "name": "Конгресс ключей"
     },
     {
-        "campaign_guide_location": 1,
-        "code": "prelude_1"
+        "campaign_guide_location": 4,
+        "code": "prelude_1",
+        "name": "Прелюдия: Добро пожаловать в Хемлок-Вейл!"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 10,
         "code": "written_in_rock",
         "name": "Высечено в камне"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 14,
         "code": "hemlock_house",
         "name": "Дом Хемлоков"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 19,
         "code": "the_silent_heath",
         "name": "Тихая пустошь"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 23,
         "code": "the_lost_sister",
         "name": "Пропавшая сестра"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 27,
         "code": "the_thing_in_the_depths",
         "name": "Тварь в глубине"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 34,
         "code": "the_twisted_hollow",
         "name": "Чудовищная лощина"
     },
     {
-        "campaign_guide_location": 1,
-        "code": "prelude_2"
+        "campaign_guide_location": 39,
+        "code": "prelude_2",
+        "name": "Прелюдия: Рассвет второго дня"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 46,
         "code": "the_longest_night",
         "name": "Самая долгая ночь"
     },
     {
-        "campaign_guide_location": 1,
-        "code": "prelude_3"
+        "campaign_guide_location": 51,
+        "code": "prelude_3",
+        "name": "Прелюдия: Рассвет последнего дня"
     },
     {
-        "campaign_guide_location": 1,
-        "code": "prelude_4"
+        "campaign_guide_location": 55,
+        "code": "prelude_4",
+        "name": "Прелюдия: Последний вечер"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 61,
         "code": "fate_of_the_vale",
         "name": "Участь Хемлок-Вейл"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 4,
         "code": "one_last_job",
         "name": "Последнее дело"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 12,
         "code": "the_western_wall",
         "name": "Западная стена"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 16,
         "code": "the_drowned_quarter",
         "name": "Затонувший квартал"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 19,
         "code": "the_apiary",
         "name": "Пасека"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 24,
         "code": "the_grand_vault",
         "name": "Великое хранилище"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 28,
         "code": "court_of_the_ancients",
         "name": "Зал Древних"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 32,
         "code": "obsidian_canyons",
         "name": "Обсидиановые каньоны"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 38,
         "code": "sepulchre_of_the_sleeper",
         "name": "Гробница Спящего"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 44,
         "code": "the_doom_of_arkham_part_1",
         "name": "Рок, покаравший Аркхэм. Часть I"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 47,
         "code": "the_doom_of_arkham_part_2",
         "name": "Рок, покаравший Аркхэм. Часть II"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 3,
         "code": "spreading_flames",
         "name": "Пламя разгорается"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 6,
         "code": "smoke_and_mirrors",
         "name": "Дым и зеркала"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": 11,
         "code": "queen_of_ash",
         "name": "Царица пепла"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "river_of_blood"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "new_horizons"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "blood_money"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_gathering",
         "name": "Встреча. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_midnight_masks",
         "name": "Полуночные маски. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_devourer_below",
         "name": "Пожиратель из глубин. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_extracurricular_activity",
         "name": "Факультативные занятия. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_house_always_wins",
         "name": "Казино всегда в выигрыше. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_miskatonic_museum",
         "name": "Мискатоникский музей. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_essex_county_express",
         "name": "Экспресс округа Эссекс. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_blood_on_the_altar",
         "name": "Кровь на алтаре. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_undimensioned_and_unseen",
         "name": "Неизмеримые и невидимые. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_where_doom_awaits",
         "name": "Там, где ждёт погибель. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_lost_in_time_and_space",
         "name": "Потерянные во времени и пространстве. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_curtain_call",
         "name": "Дайте занавес. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_last_king",
         "name": "Последний король. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_echoes_of_the_past",
         "name": "Отголоски прошлого. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_unspeakable_oath",
         "name": "Невыразимая клятва. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_a_phantom_of_truth",
         "name": "Призрак истины. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_pallid_mask",
         "name": "Бледная маска. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_black_stars_rise",
         "name": "Восход чёрных звёзд. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_dim_carcosa",
         "name": "Туманная Каркоза. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_untamed_wilds",
         "name": "Дремучие джунгли. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_doom_of_eztli",
         "name": "Погибель Эцтли. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_threads_of_fate",
         "name": "Нити судьбы. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_boundary_beyond",
         "name": "Потусторонний предел. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_pillars_of_judgment",
         "name": "Сердце древних. Возвращение. Часть I"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_knyan",
         "name": "Сердце древних. Возвращение. Часть II"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_city_of_archives",
         "name": "Город архивов. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_depths_of_yoth",
         "name": "Глубины Йота. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_shattered_aeons",
         "name": "Расколотая вечность. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_turn_back_time",
         "name": "Обратить время вспять. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_disappearance_at_the_twilight_estate",
         "name": "Исчезновение в поместье Сумерек. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_witching_hour",
         "name": "Час ведьмовства. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_at_deaths_doorstep",
         "name": "На пороге смерти. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_secret_name",
         "name": "Тайное имя. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_the_wages_of_sin",
         "name": "Расплата за грехи. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_for_the_greater_good",
         "name": "Ради высшего блага. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_union_and_disillusion",
         "name": "Единство и разочарование. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_in_the_clutches_of_chaos",
         "name": "В когтях Хаоса. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "return_to_before_the_black_throne",
         "name": "Перед Чёрным престолом. Возвращение"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "curse_of_the_rougarou",
         "name": "Проклятие Ругару"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "carnevale_of_horrors",
         "name": "Карнавал ужасов"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "the_labyrinths_of_lunacy",
-        "name": "Лабиринты безумия"
+        "name": "Лабиринты безумия",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/The_Labyrinths_Of_Lunacy_Rules_Web.pdf"
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "the_eternal_slumber",
-        "name": "Беспробудный сон"
+        "name": "Беспробудный сон",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/AHC27_Rules.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "the_nights_usurper",
-        "name": "Узурпатор ночи"
+        "name": "Узурпатор ночи",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/AHC27_Rules.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "murder_at_the_excelsior_hotel",
-        "name": "Убийство в отеле «Эксельсиор»"
+        "name": "Убийство в отеле «Эксельсиор»",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/murder_at_the_excelsior_hotel_rules.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "the_blob_that_ate_everything",
-        "name": "Капля, поглотившая всё"
+        "name": "Капля, поглотившая всё",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/KUA_Kaplya_poglotivshaja_Pravila.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "war_of_the_outer_gods",
-        "name": "Война Внешних богов"
+        "name": "Война Внешних богов",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/war_of_the_outer_gods_rules.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "machinations_through_time",
-        "name": "Махинации сквозь время"
+        "name": "Махинации сквозь время",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/Mahinacii_Rules.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "fortune_and_folly",
-        "name": "Фортуна и безрассудство"
+        "name": "Фортуна и безрассудство",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/kua_fortuna_pravila.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "the_midwinter_gala",
-        "name": "Йольский бал"
+        "name": "Йольский бал",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/jolskij-rules.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "the_blob_that_ate_everything_else",
-        "name": "The Blob That Ate Everything Else"
+        "name": "Капля, поглотившая всё остальное",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/blob_else.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "film_fatale",
-        "name": "Роковые съёмки"
+        "name": "Роковые съёмки",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/uzhas-arkhjema-kartochnaja-igra-rokovie-sjomki-rules.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "read_or_die",
-        "name": "Прочти или умри"
+        "name": "Прочти или умри",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/Read_or_Die_Rules_Insert_RU_2020.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "all_or_nothing",
-        "name": "Всё или ничего"
+        "name": "Всё или ничего",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/Vsyo_ili_nichego_pravila.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "bad_blood",
-        "name": "Кровная вражда"
+        "name": "Кровная вражда",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/Krovnaya_vrazdha_pravila.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "by_the_book",
-        "name": "По букве закона"
+        "name": "По букве закона",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/Po_bukve_zakona_pravila.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "red_tide_rising",
-        "name": "Алый прилив"
+        "name": "Алый прилив",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/red_tide_rising.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "laid_to_rest",
-        "name": "Упокоение"
+        "name": "Упокоение",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/laid_to_rest.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "relics_of_the_past",
-        "name": "Реликвии прошлого"
+        "name": "Реликвии прошлого",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/relics_of_the_past.pdf"
+    
     },
     {
-        "campaign_guide_location": 1,
+        "campaign_guide_location": null,
         "code": "enthralling_encore",
-        "name": "Увлекательный бис"
+        "name": "Увлекательный бис",
+        "rules_insert_url": "https://guides.arkham.build/ru/scenarios/enthralling_encore.pdf"
+    
     }
 ]

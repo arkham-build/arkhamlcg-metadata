@@ -4960,6 +4960,7 @@
                 "code": "dimensional_madness"
             }
         ],
-        "name": "Traces to Nowhere"
+        "name": "Traces to Nowhere",
+        "rules_insert_url": "https://guides.arkham.build/en/traces_to_nowhere_rules_insert.pdf"
     }
 ]

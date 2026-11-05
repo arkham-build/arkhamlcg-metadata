@@ -245,5 +245,12 @@
         "question": "I have a question about the expanded definition of healing introduced in Chapter 2 in the Grimoire: \"Any remaining damage/horror that was not healed is considered to have been healed \"in excess\" of the card's maximum health/sanity\". Does this mean I can use, for example, a horror-healing effect on an investigator who has full sanity in order to trigger abilities that activate after healing horror? For example, gaining a clue with ability of [Carolyn Fern](/card/60251)? Similarly, with [Occult Records](/card/60256), if I heal only 1 horror from an investigator (or 0, if I can), will I perform a [willpower] test, because the excess counts as healing or not, because the \"pre-then aspect of an effect does successfully resolve in full\"?",
         "ruling": "No, you are not able to use an effect that heals horror on an investigator that is already at their maximum sanity, nor would you be able to trigger new Carolyn Fern's reaction ability if you attempted to heal someone at maximum sanity. As for Occult Records, so long as you healed at least 1 point of horror with the effect, you have satisfied the “pre-then” effect and would have to test your [willpower] afterward. We acknowledge that the second bullet under “Heal” in the Grimoire is misleading and we plan to update it in the future.",
         "type": "rules-form"
+    },
+    {
+        "card_codes": ["60379", "08057", "01048", "01548", "01054", "01554"],
+        "date": "2026-11-04",
+        "question": "If I have 15 resources and [The Black Fan](/card/60379), I spend my extra action, and then I drop below 15 resources, I don't lose an action, right? I spent it when I had it, that isn't retroactively changed. But if I go back over 15 resources, do I gain another action, the way I would if [Leo de Luca](/card/01048) left and re-entered play?",
+        "ruling": "If you have 15 resources with The Black Fan in play, you have an additional action added to your actions for the turn, and the next action you take would use up that additional action. If later during that turn you have less than 15 resources, you've already used your additional action, and the 3 actions you normally gain during your turn would be unaffected. If you then return to having 15+ resources, The Black Fan does not give you a second additional action for that turn.",
+        "type": "rules-form"
     }
 ]

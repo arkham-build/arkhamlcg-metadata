@@ -252,5 +252,12 @@
         "question": "If I have 15 resources and [The Black Fan](/card/60379), I spend my extra action, and then I drop below 15 resources, I don't lose an action, right? I spent it when I had it, that isn't retroactively changed. But if I go back over 15 resources, do I gain another action, the way I would if [Leo de Luca](/card/01048) left and re-entered play?",
         "ruling": "If you have 15 resources with The Black Fan in play, you have an additional action added to your actions for the turn, and the next action you take would use up that additional action. If later during that turn you have less than 15 resources, you've already used your additional action, and the 3 actions you normally gain during your turn would be unaffected. If you then return to having 15+ resources, The Black Fan does not give you a second additional action for that turn.",
         "type": "rules-form"
+    },
+    {
+        "card_codes": ["60251", "60264"],
+        "date": "2026-11-18",
+        "question": "If [Carolyn](/card/60251) plays [Psychoanalysis](/card/60264), and another investigator heals horror, does her ability trigger? The cards read like it's the other investigator who's doing the healing, but it seems odd for a horror-healing card printed alongside Carolyn to not trigger her ability.",
+        "ruling": "No, for Psychoanalysis level 0, the chosen investigator is the one that heals from its effect, which would not trigger Carolyn's ability (unless she chooses herself, of course).",
+        "type": "rules-form"
     }
 ]
